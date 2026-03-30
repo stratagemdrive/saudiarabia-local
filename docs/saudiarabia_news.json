@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-03-30T00:04:48.202255+00:00",
-  "story_count": 68,
+  "last_updated": "2026-03-30T14:55:18.996156+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi FM meets Palestinian vice president in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660120/saudi-arabia/saudi-fm-meets-palestinian-vice-president-in-riyadh",
+      "published_date": "2026-03-30T13:51:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince receives calls from Spain, Mauritania, Uzbekistan leaders expressing support",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660100/saudi-arabia/saudi-crown-prince-receives-support-calls-from-spain-mauritania-uzbekistan-leaders",
+      "published_date": "2026-03-30T02:42:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia condemns attacks targeting residences of Iraqi Kurdish leaders",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia welcomes UNHRC resolution condemning Iranian attacks",
+      "title": "Saudi Arabia slams heinous Iranian attacks on Kuwaiti military camp and power plant",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660021/saudi-arabia/saudi-arabia-welcomes-unhrc-resolution-condemning-iranian-attacks",
-      "published_date": "2026-03-26T13:31:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660114/saudi-arabia/saudi-arabia-slams-heinous-iranian-attacks-on-kuwaiti-military-camp-and-power-plant",
+      "published_date": "2026-03-30T13:10:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al-Kheraiji meets Chinese ambassador to discuss regional developments",
+      "title": "8,760 tons of Zamzam water distributed at Prophet’s Mosque during Ramadan",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660013/saudi-arabia/al-kheraiji-meets-chinese-ambassador-to-discuss-regional-developments",
-      "published_date": "2026-03-25T20:30:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660111/saudi-arabia/8760-tons-of-zamzam-water-distributed-at-prophets-mosque-during-ramadan",
+      "published_date": "2026-03-30T11:55:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Grand muftis, Islamic scholars condemn Iranian aggression on a number of Islamic countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660006/saudi-arabia/grand-muftis-islamic-scholars-condemn-iranian-aggression-on-a-number-of-islamic-countries",
-      "published_date": "2026-03-25T14:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missile debris hits homes in Eastern Province, no injuries reported",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660001/saudi-arabia/civil-defense-responds-to-missile-debris-in-eastern-province",
-      "published_date": "2026-03-25T13:09:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
@@ -310,6 +310,13 @@
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-26T14:03:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi ports adds 3 Maersk shipping services to Jeddah, King Abdullah ports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660113/saudi-arabia/mawani-adds-3-maersk-shipping-services-to-jeddah-and-king-abdullah-ports",
+      "published_date": "2026-03-30T13:04:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs ports record 642 contraband seizures last week",
@@ -373,6 +380,48 @@
       "url": "https://saudigazette.com.sa/article/660003/saudi-arabia/saudi-arabia-stresses-seafarer-protection-amid-hormuz-tensions",
       "published_date": "2026-03-25T13:41:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Health Ministry detains gym trainers over illegal drug sales",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660118/saudi-arabia/saudi-health-ministry-detains-gym-trainers-over-illegal-drug-sales",
+      "published_date": "2026-03-30T13:44:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Asdaa excavations uncover ancient mosque and artifacts in Al-Baha",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660117/saudi-arabia/al-asdaa-excavations-reveal-ancient-mosque-key-artifacts",
+      "published_date": "2026-03-30T13:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi, British defense ministers discuss enhancing strategic partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660115/saudi-arabia/saudi-british-defense-ministers-discuss-enhancing-strategic-partnership",
+      "published_date": "2026-03-30T13:34:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T13:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM forecasts widespread rainfall across Kingdom until next Thursday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660110/saudi-arabia/ncm-forecasts-widespread-rainfall-across-kingdom-until-next-thursday",
+      "published_date": "2026-03-30T11:55:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi air defenses intercept 5 missiles, 10 drones over Eastern Province",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660099/saudi-arabia/saudi-air-defenses-intercept-missiles-and-drones-over-eastern-province",
+      "published_date": "2026-03-30T02:38:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Household Demographic Survey kicks off in Riyadh",
@@ -470,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660005/saudi-arabia/saudi-arabia-bahrain-linked-via-gulf-shuttle-shipping-service",
       "published_date": "2026-03-25T14:18:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia allows holders of expired visas to extend up to April 18 or leave directly",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660002/saudi-arabia/saudi-arabia-allows-holders-of-expired-visas-to-extend-up-to-april-18-or-leave-directly",
-      "published_date": "2026-03-25T13:17:12+00:00",
       "category": "Local Events"
     }
   ]
