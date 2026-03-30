@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-03-29T20:39:19.808413+00:00",
-  "story_count": 66,
+  "last_updated": "2026-03-30T00:04:48.202255+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Arabia condemns attacks targeting residences of Iraqi Kurdish leaders",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660096/saudi-arabia/saudi-arabia-condemns-attacks-targeting-residences-of-iraqi-kurdish-leaders",
+      "published_date": "2026-03-29T20:06:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan PM reaffirms support for Saudi Arabia in talks with foreign minister",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660013/saudi-arabia/al-kheraiji-meets-chinese-ambassador-to-discuss-regional-developments",
       "published_date": "2026-03-25T20:30:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UNHRC seeks compensation from Iran for attacking Gulf countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660009/saudi-arabia/unhrc-seeks-compensation-from-iran-for-attacking-gulf-countries",
-      "published_date": "2026-03-25T17:23:51+00:00",
       "category": "Diplomacy"
     },
     {
@@ -373,6 +373,20 @@
       "url": "https://saudigazette.com.sa/article/660003/saudi-arabia/saudi-arabia-stresses-seafarer-protection-amid-hormuz-tensions",
       "published_date": "2026-03-25T13:41:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Household Demographic Survey kicks off in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660098/saudi-arabia/household-demographic-survey-kicks-off-in-riyadh",
+      "published_date": "2026-03-29T21:37:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madinah Buses announces schedule of new 15-route services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660097/saudi-arabia/madinah-buses-announces-schedule-of-new-15-route-services",
+      "published_date": "2026-03-29T21:26:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deputy minister: Preparations underway to open branches of top international universities",
