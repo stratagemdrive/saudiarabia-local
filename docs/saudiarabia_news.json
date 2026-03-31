@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-03-31T00:05:02.887614+00:00",
-  "story_count": 79,
+  "last_updated": "2026-03-31T14:50:09.324914+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Unemployment rate among Saudis drops to 7.2% in 4Q 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660149/saudi-arabia/unemployment-rate-among-saudis-drops-to-72-in-4q-2025",
+      "published_date": "2026-03-31T13:10:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FDI net inflows surge 90% to SR48.4 billion in Q4 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660144/saudi-arabia/saudi-fdi-net-inflows-surge-90-to-sar484-billion-in-q4-2025",
+      "published_date": "2026-03-31T11:23:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi air defenses intercept 7 ballistic missiles over Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660136/saudi-arabia/saudi-air-defenses-intercept-7-ballistic-missiles-over-riyadh",
+      "published_date": "2026-03-30T23:20:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Heritage Commission completes coding of 4,000 architectural heritage sites",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "TGA temporarily allows licensed establishments to contract third-party goods transport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660058/saudi-arabia/tga-temporarily-allows-licensed-establishments-to-contract-third-party-goods-transport",
-      "published_date": "2026-03-28T14:35:36+00:00",
-      "category": "Diplomacy"
+      "title": "Iran using children in security roles in war, reports and witnesses say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T12:56:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Islamabad to host Sunday quadrilateral meeting to explore avenues for de-escalation",
+      "title": "Saudi air defenses intercept missile, 10 drones; debris damages homes in Al-Kharj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660057/saudi-arabia/islamabad-to-host-sunday-quadrilateral-meeting-to-explore-avenues-for-de-escalation",
-      "published_date": "2026-03-28T14:06:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia urges citizens to leave Lebanon immediately",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660043/saudi-arabia/saudi-arabia-urges-citizens-to-leave-lebanon-immediately-amid-ongoing-developments",
-      "published_date": "2026-03-27T14:50:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660139/saudi-arabia/saudi-intercepts-missile-10-drones-as-debris-damages-homes-in-al-kharj",
+      "published_date": "2026-03-31T09:12:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Gazan mother reunited with evacuated daughter after two years",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "How the Hormuz closure could affect food, medicines and smartphones",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T01:25:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says it has killed Iran's navy chief overseeing Strait of Hormuz blockade",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T15:26:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
@@ -317,6 +317,13 @@
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-26T14:03:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi dates expand global footprint, gain strong presence in German retail markets",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660143/saudi-arabia/saudi-dates-expand-global-footprint-gain-strong-presence-in-german-retail-markets",
+      "published_date": "2026-03-31T09:40:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Riyadh University of Arts to open admission in May and classes in September",
@@ -415,6 +422,27 @@
       "url": "https://saudigazette.com.sa/article/660003/saudi-arabia/saudi-arabia-stresses-seafarer-protection-amid-hormuz-tensions",
       "published_date": "2026-03-25T13:41:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Hajj minister: Nusuk app reaches over 51 million users globally",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660158/saudi-arabia/hajj-minister-nusuk-app-reaches-over-51-million-users-globally",
+      "published_date": "2026-03-31T14:17:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madinah Emir: Serving pilgrims is Saudi Arabia’s deep-rooted commitment",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660155/saudi-arabia/madinah-emir-serving-pilgrims-is-saudi-arabias-deep-rooted-commitment",
+      "published_date": "2026-03-31T14:02:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s causing the surge in storms and rainfall across Saudi Arabia?",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660152/saudi-arabia/whats-causing-the-surge-in-storms-and-rainfall-across-saudi-arabia",
+      "published_date": "2026-03-31T13:53:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Arab, Islamic ministers condemn Israeli restrictions on worship in Jerusalem",
@@ -533,27 +561,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-27T13:25:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi transport minister unveils GCC logistics initiatives to boost supply chains",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660039/saudi-arabia/saudi-arabia-unveils-gcc-logistics-initiatives-to-boost-supply-chains",
-      "published_date": "2026-03-27T01:23:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah airport ranks 3rd globally among mega airports serving 50-60 million passengers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660034/saudi-arabia/jeddah-airport-ranks-3rd-globally-among-mega-airports-serving-50-60-million-passengers",
-      "published_date": "2026-03-26T19:11:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM warns of rain, dusty winds across most regions of the Kingdom",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660022/saudi-arabia/ncm-warns-of-rain-dusty-winds-across-most-regions-of-the-kingdom",
-      "published_date": "2026-03-26T13:43:52+00:00",
       "category": "Local Events"
     }
   ]
