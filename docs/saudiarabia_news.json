@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-03-30T14:55:18.996156+00:00",
-  "story_count": 74,
+  "last_updated": "2026-03-31T00:05:02.887614+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Heritage Commission completes coding of 4,000 architectural heritage sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660133/saudi-arabia/heritage-commission-completes-coding-of-4000-architectural-heritage-sites",
+      "published_date": "2026-03-30T21:07:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign ministers of GCC, Russia and Jordan discuss repercussions of Iranian attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660131/saudi-arabia/foreign-ministers-of-gcc-russia-and-jordan-discuss-repercussions-of-iranian-attacks",
+      "published_date": "2026-03-30T17:26:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi envoy to UN calls for unified global stance against Iran attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660129/saudi-arabia/saudi-envoy-to-un-calls-for-unified-global-stance-against-iran-attacks",
+      "published_date": "2026-03-30T16:22:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Jordan King, Qatar Emir warn Iran attacks threaten regional stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660128/saudi-arabia/saudi-crown-prince-holds-trilateral-talks-with-jordan-king-and-qatar-emir-in-jeddah",
+      "published_date": "2026-03-30T16:05:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jordan king, Qatar emir arrive in Jeddah, received by Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660123/saudi-arabia/jordan-king-and-qatar-emir-arrive-in-jeddah-received-by-crown-prince",
+      "published_date": "2026-03-30T14:36:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM meets Palestinian vice president in Riyadh",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+      "title": "Gazan mother reunited with evacuated daughter after two years",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T13:17:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T21:12:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi crown prince meets Ukraine president in Jeddah",
+      "title": "Jeddah Mayoralty restores public parking spaces after rectifying violations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660038/saudi-arabia/saudi-crown-prince-meets-ukraine-president-zelensky-in-jeddah",
-      "published_date": "2026-03-27T01:21:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660127/saudi-arabia/jeddah-mayoralty-restores-public-parking-spaces-after-rectifying-violations",
+      "published_date": "2026-03-30T15:52:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "TGA allows entry of empty refrigerated transport trucks from GCC states",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660035/saudi-arabia/tga-allows-entry-of-empty-refrigerated-transport-trucks-from-gcc-states",
-      "published_date": "2026-03-26T20:33:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional developments with British, French and Canadian counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660032/saudi-arabia/saudi-fm-discusses-regional-developments-with-british-french-and-canadian-counterparts",
-      "published_date": "2026-03-26T18:27:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran ‘crossed all limits,’ 85% of missiles targeted GCC — Al-Budaiwi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660025/saudi-arabia/gcc-weighs-response-to-iran-attacks-favors-diplomacy",
-      "published_date": "2026-03-26T14:10:19+00:00",
-      "category": "Diplomacy"
+      "title": "How the US could try to seize Iran's Kharg Island",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:54:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia slams heinous Iranian attacks on Kuwaiti military camp and power plant",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Over 9 million iftar meals distributed at Prophet’s Mosque during Ramadan",
+      "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660027/saudi-arabia/over-9-million-iftar-meals-distributed-at-prophets-mosque-during-ramadan",
-      "published_date": "2026-03-26T15:13:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's Iran strategy is to pursue two off-ramps at once",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T02:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf, Arab states condemn Iran-backed attacks from Iraq, affirm right to self-defense",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660010/saudi-arabia/gulf-states-condemn-iran-backed-attacks-from-iraq",
-      "published_date": "2026-03-25T18:45:42+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
+      "published_date": "2026-03-30T14:40:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
@@ -310,6 +317,34 @@
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-26T14:03:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Riyadh University of Arts to open admission in May and classes in September",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660134/saudi-arabia/riyadh-university-of-arts-to-open-admission-in-may-and-classes-in-september",
+      "published_date": "2026-03-30T21:33:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia, Canada agree to deepen partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660132/saudi-arabia/saudi-arabia-canada-agree-to-deepen-partnership",
+      "published_date": "2026-03-30T21:01:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia affirms full support for WTO reform efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660130/saudi-arabia/saudi-arabia-affirms-full-support-for-wto-reform-efforts",
+      "published_date": "2026-03-30T16:48:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s exports of services jump 17% to SR 66 billion in 4Q 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660124/saudi-arabia/saudi-arabias-exports-of-services-jump-17-to-sr-66-billion-in-4q-2025",
+      "published_date": "2026-03-30T14:37:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi ports adds 3 Maersk shipping services to Jeddah, King Abdullah ports",
@@ -380,6 +415,27 @@
       "url": "https://saudigazette.com.sa/article/660003/saudi-arabia/saudi-arabia-stresses-seafarer-protection-amid-hormuz-tensions",
       "published_date": "2026-03-25T13:41:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Arab, Islamic ministers condemn Israeli restrictions on worship in Jerusalem",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660135/saudi-arabia/arab-and-islamic-ministers-condemn-israeli-restrictions-on-worship-in-jerusalem",
+      "published_date": "2026-03-30T23:07:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T21:11:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TGA launches a new route for self-driving vehicles in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660126/saudi-arabia/tga-launches-a-new-route-for-self-driving-vehicles-in-riyadh",
+      "published_date": "2026-03-30T15:21:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Health Ministry detains gym trainers over illegal drug sales",
@@ -498,27 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660022/saudi-arabia/ncm-warns-of-rain-dusty-winds-across-most-regions-of-the-kingdom",
       "published_date": "2026-03-26T13:43:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, Hungarian defense ministers discuss regional situation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660012/saudi-arabia/saudi-hungarian-defense-ministers-discuss-regional-situation-in-phone-call",
-      "published_date": "2026-03-25T20:23:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain to peak Thursday across Saudi Arabia, NCM denies hurricane reports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660011/saudi-arabia/heavy-rain-to-peak-thursday-across-saudi-arabia",
-      "published_date": "2026-03-25T19:06:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia, Bahrain connected via GULF SHUTTLE shipping service",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660005/saudi-arabia/saudi-arabia-bahrain-linked-via-gulf-shuttle-shipping-service",
-      "published_date": "2026-03-25T14:18:40+00:00",
       "category": "Local Events"
     }
   ]
