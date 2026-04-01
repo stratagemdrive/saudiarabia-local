@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-03-31T14:50:09.324914+00:00",
-  "story_count": 80,
+  "last_updated": "2026-04-01T00:04:38.397864+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "SR30,000 fine and two-year travel ban for traveling to countries not permitted",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660160/saudi-arabia/sr30000-fine-and-two-year-travel-ban-for-traveling-to-countries-not-permitted",
+      "published_date": "2026-03-31T15:23:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Unemployment rate among Saudis drops to 7.2% in 4Q 2025",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "India’s PM condemns Iranian attacks on Saudi Arabia in call with Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660072/saudi-arabia/indias-modi-condemns-iranian-attacks-on-saudi-arabia-in-call-with-crown-prince",
-      "published_date": "2026-03-28T16:42:06+00:00",
-      "category": "Diplomacy"
+      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T23:25:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T23:16:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T18:57:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran using children in security roles in war, reports and witnesses say",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi air defenses intercept missiles and drones over Riyadh and Eastern Province",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660042/saudi-arabia/saudi-air-defenses-intercept-missiles-and-drones-over-riyadh-and-eastern-province",
-      "published_date": "2026-03-27T14:48:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T12:30:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T10:15:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
@@ -317,6 +317,13 @@
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-26T14:03:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Ministry of Justice, Public Prosecution sign deal to enhance training and exchange expertise",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660163/saudi-arabia/ministry-of-justice-public-prosecution-sign-deal-to-enhance-training-and-exchange-expertise",
+      "published_date": "2026-03-31T20:58:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi dates expand global footprint, gain strong presence in German retail markets",
@@ -422,6 +429,20 @@
       "url": "https://saudigazette.com.sa/article/660003/saudi-arabia/saudi-arabia-stresses-seafarer-protection-amid-hormuz-tensions",
       "published_date": "2026-03-25T13:41:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia announces new bus routes for passengers to and from Kuwait",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660162/saudi-arabia/saudi-arabia-announces-new-bus-routes-for-passengers-to-and-from-kuwait",
+      "published_date": "2026-03-31T20:52:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj ministry launches special operations room to serve foreign pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660161/saudi-arabia/hajj-ministry-launches-special-operations-room-to-serve-foreign-pilgrims",
+      "published_date": "2026-03-31T16:51:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hajj minister: Nusuk app reaches over 51 million users globally",
@@ -547,20 +568,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660076/saudi-arabia/jeddah-port-sees-surge-in-gulf-bound-cargo-as-over-100000-rerouted-shipments-arrive",
       "published_date": "2026-03-29T12:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passports Directorate designates number 992 for inquiries regarding expired visas",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660070/saudi-arabia/passports-directorate-designates-number-992-for-inquiries-regarding-expired-visas",
-      "published_date": "2026-03-28T15:32:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T13:25:57+00:00",
       "category": "Local Events"
     }
   ]
