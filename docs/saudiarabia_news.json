@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-01T00:04:38.397864+00:00",
-  "story_count": 81,
+  "last_updated": "2026-04-01T14:56:36.958452+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Nazaha arrests 71 suspects over corruption charges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660181/saudi-arabia/nazaha-arrests-71-suspects-over-corruption-charges",
+      "published_date": "2026-04-01T13:52:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Commerce recalls 193 Hyundai Palisade LX3 vehicles over safety defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660179/saudi-arabia/ministry-of-commerce-recalls-193-hyundai-palisade-lx3-vehicles-over-safety-defect",
+      "published_date": "2026-04-01T13:11:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Abdulaziz Public Library unveils rare 1,000-year-old Qur’an manuscript",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660170/saudi-arabia/king-abdulaziz-public-library-unveils-rare-1000-year-old-quran-manuscript",
+      "published_date": "2026-04-01T10:58:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SR30,000 fine and two-year travel ban for traveling to countries not permitted",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia releases falcons in Kazakhstan under conservation program",
+      "title": "Saudi Arabia wins CMS award for outstanding leadership in migratory species conservation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660077/saudi-arabia/saudi-falcons-club-releases-falcons-in-kazakhstan-under-hadad-program",
-      "published_date": "2026-03-29T12:30:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia rehabilitates one million hectares under National Greening Program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660075/saudi-arabia/saudi-arabia-rehabilitates-1-million-hectares-under-national-greening-program",
-      "published_date": "2026-03-29T12:23:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 5,111 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660074/saudi-arabia/saudi-arabia-deports-5111-illegal-residents-in-a-week",
-      "published_date": "2026-03-28T17:39:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660180/saudi-arabia/saudi-arabia-wins-cms-award-for-outstanding-leadership-in-migratory-species-conservation",
+      "published_date": "2026-04-01T13:25:03+00:00",
+      "category": "Military"
     },
     {
       "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
@@ -274,13 +281,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660055/saudi-arabia/saudi-arabia-ukraine-sign-defense-procurement-arrangement-in-jeddah",
       "published_date": "2026-03-27T17:23:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T15:11:31+00:00",
       "category": "Military"
     },
     {
@@ -424,11 +424,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia stresses seafarer protection amid Hormuz tensions",
+      "title": "Saudi interior minister condemns Iranian attacks as “unjustifiable under any circumstances”",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660003/saudi-arabia/saudi-arabia-stresses-seafarer-protection-amid-hormuz-tensions",
-      "published_date": "2026-03-25T13:41:46+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660178/saudi-arabia/saudi-interior-minister-condemns-iranian-attacks-as-unjustifiable-under-any-circumstances",
+      "published_date": "2026-04-01T12:54:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah airport and metro plans underway: Official",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660176/saudi-arabia/makkah-airport-and-metro-plans-move-forward-amid-major-transport-upgrades",
+      "published_date": "2026-04-01T12:36:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia announces new bus routes for passengers to and from Kuwait",
@@ -554,20 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660091/saudi-arabia/over-65-million-students-return-to-schools-as-second-semester-commences",
       "published_date": "2026-03-29T16:56:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia extends exemption period for container fee at Dammam and Jubail ports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660089/saudi-arabia/saudi-arabia-extends-exemption-period-for-container-fee-at-dammam-and-jubail-ports",
-      "published_date": "2026-03-29T16:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah port handles 100,000 trucks, 90,000 containers in Gulf cargo surge",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660076/saudi-arabia/jeddah-port-sees-surge-in-gulf-bound-cargo-as-over-100000-rerouted-shipments-arrive",
-      "published_date": "2026-03-29T12:25:46+00:00",
       "category": "Local Events"
     }
   ]
