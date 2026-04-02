@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-01T14:56:36.958452+00:00",
+  "last_updated": "2026-04-02T00:02:01.905870+00:00",
   "story_count": 80,
   "stories": [
+    {
+      "title": "Hajj Minister holds series of meetings aimed to enhance quality of integrated services for pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660193/saudi-arabia/hajj-minister-holds-series-of-meetings-aimed-to-enhance-quality-of-integrated-services-for-pilgrims",
+      "published_date": "2026-04-01T21:20:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM, UN chief discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660191/saudi-arabia/saudi-fm-un-chief-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-04-01T20:32:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Saudi humanitarian aid convoy arrives in Gaza",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660189/saudi-arabia/new-saudi-humanitarian-aid-convoy-arrives-in-gaza",
+      "published_date": "2026-04-01T17:19:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti foreign ministers discuss current regional situation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660186/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-current-regional-situation",
+      "published_date": "2026-04-01T15:37:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Insurance Authority warns against unlicensed extended warranty sales",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660182/saudi-arabia/insurance-authority-warns-against-unlicensed-extended-warranty-sales",
+      "published_date": "2026-04-01T14:19:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nazaha arrests 71 suspects over corruption charges",
       "source": "Saudi Gazette",
@@ -109,45 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan PM reaffirms support for Saudi Arabia in talks with foreign minister",
+      "title": "Saudi, Greek defense ministers discuss repercussions of Iranian attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660090/saudi-arabia/pakistan-pm-reaffirms-support-for-saudi-arabia-in-talks-with-prince-faisal",
-      "published_date": "2026-03-29T16:38:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quadrilateral ministerial meeting to push regional de-escalation begins in Islamabad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660086/saudi-arabia/quadrilateral-ministerial-meeting-to-push-regional-de-escalation-begins-in-islamabad",
-      "published_date": "2026-03-29T15:45:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN hails Saudi Arabia’s restoration of 1 million hectares of degraded land",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660084/saudi-arabia/un-hails-saudi-arabias-restoration-of-1-million-hectares-of-degraded-land",
-      "published_date": "2026-03-29T14:41:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi rose production surges 15%, with 500 million roses from Taif",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660083/saudi-arabia/saudi-rose-production-surges-15-with-500-million-roses-from-taif",
-      "published_date": "2026-03-29T14:16:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Pakistani foreign ministers discuss regional developments in Islamabad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660081/saudi-arabia/saudi-pakistani-foreign-ministers-discuss-regional-developments-in-islamabad",
-      "published_date": "2026-03-29T12:54:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660190/saudi-arabia/saudi-greek-defense-ministers-discuss-repercussions-of-iranian-attacks",
+      "published_date": "2026-04-01T20:29:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia wins CMS award for outstanding leadership in migratory species conservation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660180/saudi-arabia/saudi-arabia-wins-cms-award-for-outstanding-leadership-in-migratory-species-conservation",
       "published_date": "2026-04-01T13:25:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T11:49:28+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-28T02:55:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia warns against sharing missile interception footage",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660056/saudi-arabia/saudi-arabia-warns-against-sharing-missile-interception-details",
-      "published_date": "2026-03-28T00:47:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia, Ukraine sign defense procurement arrangement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660055/saudi-arabia/saudi-arabia-ukraine-sign-defense-procurement-arrangement-in-jeddah",
-      "published_date": "2026-03-27T17:23:34+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,48 @@
       "category": "Economy"
     },
     {
+      "title": "Madinah meeting discusses delivering optimal services to Prophet’s Mosque visitors during Hajj season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660192/saudi-arabia/madinah-meeting-discusses-delivering-optimal-services-to-prophets-mosque-visitors-during-hajj-season",
+      "published_date": "2026-04-01T20:52:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health minister inspects Jeddah hospitals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660188/saudi-arabia/health-minister-inspects-jeddah-hospitals",
+      "published_date": "2026-04-01T17:04:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Permanent Committee reviews preparations for the upcoming pilgrimage",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660187/saudi-arabia/hajj-permanent-committee-reviews-preparations-for-the-upcoming-pilgrimage",
+      "published_date": "2026-04-01T16:45:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Saudi Arabia maintained growth and stability amid rising regional tensions in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660185/saudi-arabia/how-saudi-arabia-maintained-growth-and-stability-amid-rising-regional-tensions-in-march",
+      "published_date": "2026-04-01T14:56:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clouds and fog blanket Al-Baha’s peaks, drawing visitors to its mist-covered landscapes",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660184/saudi-arabia/clouds-and-fog-blanket-al-bahas-peaks-drawing-visitors-to-its-mist-covered-landscapes",
+      "published_date": "2026-04-01T14:53:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unified Emergency Number 911 receives over 2.6 million calls in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660183/saudi-arabia/unified-emergency-number-911-receives-over-26-million-calls-in-march",
+      "published_date": "2026-04-01T14:44:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi interior minister condemns Iranian attacks as “unjustifiable under any circumstances”",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660178/saudi-arabia/saudi-interior-minister-condemns-iranian-attacks-as-unjustifiable-under-any-circumstances",
@@ -519,48 +561,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-30T13:30:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts widespread rainfall across Kingdom until next Thursday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660110/saudi-arabia/ncm-forecasts-widespread-rainfall-across-kingdom-until-next-thursday",
-      "published_date": "2026-03-30T11:55:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi air defenses intercept 5 missiles, 10 drones over Eastern Province",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660099/saudi-arabia/saudi-air-defenses-intercept-missiles-and-drones-over-eastern-province",
-      "published_date": "2026-03-30T02:38:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Household Demographic Survey kicks off in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660098/saudi-arabia/household-demographic-survey-kicks-off-in-riyadh",
-      "published_date": "2026-03-29T21:37:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madinah Buses announces schedule of new 15-route services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660097/saudi-arabia/madinah-buses-announces-schedule-of-new-15-route-services",
-      "published_date": "2026-03-29T21:26:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy minister: Preparations underway to open branches of top international universities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660092/saudi-arabia/deputy-minister-preparations-in-full-swing-to-open-branches-of-top-international-universities",
-      "published_date": "2026-03-29T17:27:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 6.5 million students return to schools as second semester commences",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660091/saudi-arabia/over-65-million-students-return-to-schools-as-second-semester-commences",
-      "published_date": "2026-03-29T16:56:10+00:00",
       "category": "Local Events"
     }
   ]
