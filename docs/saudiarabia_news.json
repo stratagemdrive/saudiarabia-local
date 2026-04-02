@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-02T00:02:01.905870+00:00",
-  "story_count": 80,
+  "last_updated": "2026-04-02T14:41:33.349279+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi FM discusses regional developments with Chinese, Japanese counterparts in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660210/saudi-arabia/saudi-fm-discusses-regional-developments-with-chinese-japanese-counterparts-in-phone-call",
+      "published_date": "2026-04-02T13:47:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hajj Minister holds series of meetings aimed to enhance quality of integrated services for pilgrims",
       "source": "Saudi Gazette",
@@ -137,17 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns attacks targeting residences of Iraqi Kurdish leaders",
+      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T12:44:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi air defenses intercept ballistic missile, down 5 drones",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660096/saudi-arabia/saudi-arabia-condemns-attacks-targeting-residences-of-iraqi-kurdish-leaders",
-      "published_date": "2026-03-29T20:06:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660200/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-down-5-drones",
+      "published_date": "2026-04-02T12:36:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T11:33:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump: US 'on the cusp' of ending Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cx2vn4n24e5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T05:32:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T03:22:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Greek defense ministers discuss repercussions of Iranian attacks",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660190/saudi-arabia/saudi-greek-defense-ministers-discuss-repercussions-of-iranian-attacks",
       "published_date": "2026-04-01T20:29:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's perpetual war with Iran may be hard to win with military might alone",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T19:23:52+00:00",
       "category": "Military"
     },
     {
@@ -162,6 +204,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-01T11:49:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China is trying to play peacemaker in the Iran war - will it work?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T07:16:15+00:00",
       "category": "Military"
     },
     {
@@ -200,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T02:33:18+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Gazan mother reunited with evacuated daughter after two years",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "8,760 tons of Zamzam water distributed at Prophet’s Mosque during Ramadan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660111/saudi-arabia/8760-tons-of-zamzam-water-distributed-at-prophets-mosque-during-ramadan",
-      "published_date": "2026-03-30T11:55:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T15:20:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T07:51:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-backed Houthis join war with attack against Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T20:51:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T19:08:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T19:02:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T06:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows US missile likely used in deadly strike on Iranian town, experts say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T02:55:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
@@ -309,13 +309,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-27T14:10:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T14:03:39+00:00",
       "category": "Energy"
     },
     {
@@ -417,11 +410,39 @@
       "category": "Economy"
     },
     {
-      "title": "SAR launches international freight route linking Gulf ports to Jordan border",
+      "title": "Saudi courts receive over one million cases in 2025",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660024/saudi-arabia/saudi-railways-launches-freight-route-to-jordan-border",
-      "published_date": "2026-03-26T13:47:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660209/saudi-arabia/saudi-courts-receive-over-one-million-cases-in-2025",
+      "published_date": "2026-04-02T12:58:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab, Islamic states condemn Israeli death penalty law for Palestinians in West Bank",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660206/saudi-arabia/arab-and-islamic-countries-condemn-israeli-death-penalty-law-in-west-bank",
+      "published_date": "2026-04-02T12:45:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turaif sees 15.2mm of rain as NCM monitors Kingdom-wide activity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660205/saudi-arabia/turaif-sees-152mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
+      "published_date": "2026-04-02T12:42:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TGA extends deadline to correct land transport status to August",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660203/saudi-arabia/tga-extends-road-transport-compliance-deadlines-to-august",
+      "published_date": "2026-04-02T12:42:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi skies glow with Shawwal’s ‘butterfly moon’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660201/saudi-arabia/saudi-skies-glow-with-shawwals-butterfly-moon",
+      "published_date": "2026-04-02T12:36:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Madinah meeting discusses delivering optimal services to Prophet’s Mosque visitors during Hajj season",
@@ -526,41 +547,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-30T21:11:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA launches a new route for self-driving vehicles in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660126/saudi-arabia/tga-launches-a-new-route-for-self-driving-vehicles-in-riyadh",
-      "published_date": "2026-03-30T15:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Health Ministry detains gym trainers over illegal drug sales",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660118/saudi-arabia/saudi-health-ministry-detains-gym-trainers-over-illegal-drug-sales",
-      "published_date": "2026-03-30T13:44:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Asdaa excavations uncover ancient mosque and artifacts in Al-Baha",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660117/saudi-arabia/al-asdaa-excavations-reveal-ancient-mosque-key-artifacts",
-      "published_date": "2026-03-30T13:41:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, British defense ministers discuss enhancing strategic partnership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660115/saudi-arabia/saudi-british-defense-ministers-discuss-enhancing-strategic-partnership",
-      "published_date": "2026-03-30T13:34:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T13:30:32+00:00",
       "category": "Local Events"
     }
   ]
