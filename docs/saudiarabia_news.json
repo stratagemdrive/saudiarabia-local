@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-02T14:41:33.349279+00:00",
-  "story_count": 78,
+  "last_updated": "2026-04-03T00:04:40.194276+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "CMA approves regulatory framework to offer Special Purpose Acquisition Companies in Nomu parallel market",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660218/saudi-arabia/cma-approves-regulatory-framework-to-offer-special-purpose-acquisition-companies-in-nomu-parallel-market",
+      "published_date": "2026-04-02T21:14:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Companies Law regulation amended regarding removal of board members and profit distributions in listed companies",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660217/saudi-arabia/companies-law-regulation-amended-regarding-removal-of-board-members-and-profit-distributions-in-listed-companies",
+      "published_date": "2026-04-02T21:08:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T17:15:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin reaffirms Russia’s support for Saudi Arabia in call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660215/saudi-arabia/putin-reaffirms-russias-support-for-saudi-arabia-in-call-with-crown-prince",
+      "published_date": "2026-04-02T17:15:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia attends ministerial meeting to coordinate reopening of Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660214/saudi-arabia/saudi-arabia-attends-ministerial-meeting-to-coordinate-reopening-of-strait-of-hormuz",
+      "published_date": "2026-04-02T16:42:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Russian foreign ministers discuss over phone regional situation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660213/saudi-arabia/saudi-russian-foreign-ministers-discuss-over-phone-regional-situation",
+      "published_date": "2026-04-02T15:32:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional developments with Chinese, Japanese counterparts in phone call",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Foreign ministers of GCC, Russia and Jordan discuss repercussions of Iranian attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660131/saudi-arabia/foreign-ministers-of-gcc-russia-and-jordan-discuss-repercussions-of-iranian-attacks",
-      "published_date": "2026-03-30T17:26:45+00:00",
-      "category": "Diplomacy"
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T16:09:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi envoy to UN calls for unified global stance against Iran attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660129/saudi-arabia/saudi-envoy-to-un-calls-for-unified-global-stance-against-iran-attacks",
-      "published_date": "2026-03-30T16:22:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Jordan King, Qatar Emir warn Iran attacks threaten regional stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660128/saudi-arabia/saudi-crown-prince-holds-trilateral-talks-with-jordan-king-and-qatar-emir-in-jeddah",
-      "published_date": "2026-03-30T16:05:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jordan king, Qatar emir arrive in Jeddah, received by Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660123/saudi-arabia/jordan-king-and-qatar-emir-arrive-in-jeddah-received-by-crown-prince",
-      "published_date": "2026-03-30T14:36:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM meets Palestinian vice president in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660120/saudi-arabia/saudi-fm-meets-palestinian-vice-president-in-riyadh",
-      "published_date": "2026-03-30T13:51:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince receives calls from Spain, Mauritania, Uzbekistan leaders expressing support",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660100/saudi-arabia/saudi-crown-prince-receives-support-calls-from-spain-mauritania-uzbekistan-leaders",
-      "published_date": "2026-03-30T02:42:48+00:00",
-      "category": "Diplomacy"
+      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T13:41:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
@@ -270,24 +284,17 @@
       "category": "Military"
     },
     {
-      "title": "How the US could try to seize Iran's Kharg Island",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T14:54:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia slams heinous Iranian attacks on Kuwaiti military camp and power plant",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660114/saudi-arabia/saudi-arabia-slams-heinous-iranian-attacks-on-kuwaiti-military-camp-and-power-plant",
-      "published_date": "2026-03-30T13:10:01+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
       "published_date": "2026-03-30T14:40:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why does the US have Iran's Kharg Island in its sights?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T12:11:07+00:00",
       "category": "Energy"
     },
     {
@@ -310,6 +317,20 @@
       "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-27T14:10:30+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Visitors to Saudi entertainment sector surpass 89 million in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660216/saudi-arabia/visitors-to-saudi-entertainment-sector-surpass-89-million-in-2025",
+      "published_date": "2026-04-02T20:16:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T17:01:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ministry of Justice, Public Prosecution sign deal to enhance training and exchange expertise",
@@ -375,39 +396,18 @@
       "category": "Economy"
     },
     {
-      "title": "CMA allows public offering of financing investment funds and their listing on stock markets",
+      "title": "71 commercial cover up cases detected during 2,611 inspection visits in March",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660033/saudi-arabia/cma-allows-public-offering-of-financing-investment-funds-and-their-listing-on-stock-markets",
-      "published_date": "2026-03-26T19:08:22+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660212/saudi-arabia/71-commercial-cover-up-cases-detected-during-2611-inspection-visits-in-march",
+      "published_date": "2026-04-02T14:54:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SAMA’s reserve assets surge 5.3% to SR1.73 trillion by end of 2025",
+      "title": "New summer school timing will take effect in Makkah region from Sunday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660031/saudi-arabia/samas-reserve-assets-surge-53-to-sr173-trillion-by-end-of-2025",
-      "published_date": "2026-03-26T16:52:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi non-oil exports rise 22.1% in January, driven by re-export surge",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660030/saudi-arabia/saudi-non-oil-exports-rise-221-in-january",
-      "published_date": "2026-03-26T16:20:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi finance minister warns current supply shocks exceed post-COVID impact",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660029/saudi-arabia/saudi-finance-minister-warns-supply-shocks-exceed-post-covid-impact",
-      "published_date": "2026-03-26T16:11:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PIF to unveil new strategy within weeks as Saudi economy remains resilient, Al-Rumayyan says",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660028/saudi-arabia/saudi-economy-resilient-as-pif-prepares-new-strategy-al-rumayyan-says",
-      "published_date": "2026-03-26T16:03:54+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660211/saudi-arabia/new-summer-school-timing-will-take-effect-in-makkah-region-from-sunday",
+      "published_date": "2026-04-02T14:23:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi courts receive over one million cases in 2025",
@@ -533,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660152/saudi-arabia/whats-causing-the-surge-in-storms-and-rainfall-across-saudi-arabia",
       "published_date": "2026-03-31T13:53:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab, Islamic ministers condemn Israeli restrictions on worship in Jerusalem",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660135/saudi-arabia/arab-and-islamic-ministers-condemn-israeli-restrictions-on-worship-in-jerusalem",
-      "published_date": "2026-03-30T23:07:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T21:11:37+00:00",
       "category": "Local Events"
     }
   ]
