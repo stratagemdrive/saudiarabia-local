@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-03T00:04:40.194276+00:00",
-  "story_count": 76,
+  "last_updated": "2026-04-03T12:06:01.491457+00:00",
+  "story_count": 75,
   "stories": [
     {
       "title": "CMA approves regulatory framework to offer Special Purpose Acquisition Companies in Nomu parallel market",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "International law experts allege violations in Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T11:53:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T10:35:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ros Atkins on…the cost of the Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T18:29:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: Trump's shifting deadlines for ending Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T17:13:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi air defenses intercept missile, 10 drones; debris damages homes in Al-Kharj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660139/saudi-arabia/saudi-intercepts-missile-10-drones-as-debris-damages-homes-in-al-kharj",
-      "published_date": "2026-03-31T09:12:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T02:33:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gazan mother reunited with evacuated daughter after two years",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T21:12:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jeddah Mayoralty restores public parking spaces after rectifying violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660127/saudi-arabia/jeddah-mayoralty-restores-public-parking-spaces-after-rectifying-violations",
-      "published_date": "2026-03-30T15:52:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
@@ -386,13 +386,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660073/saudi-arabia/saudi-customs-ports-record-642-contraband-seizures-last-week",
       "published_date": "2026-03-28T17:27:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi minister of state stresses optimism, says we will emerge stronger amid tensions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660037/saudi-arabia/saudi-minister-of-state-stresses-optimism-says-we-will-emerge-stronger-amid-tensions",
-      "published_date": "2026-03-27T01:19:25+00:00",
       "category": "Economy"
     },
     {
@@ -508,6 +501,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T17:30:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hajj ministry launches special operations room to serve foreign pilgrims",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660161/saudi-arabia/hajj-ministry-launches-special-operations-room-to-serve-foreign-pilgrims",
@@ -526,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660155/saudi-arabia/madinah-emir-serving-pilgrims-is-saudi-arabias-deep-rooted-commitment",
       "published_date": "2026-03-31T14:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s causing the surge in storms and rainfall across Saudi Arabia?",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660152/saudi-arabia/whats-causing-the-surge-in-storms-and-rainfall-across-saudi-arabia",
-      "published_date": "2026-03-31T13:53:21+00:00",
       "category": "Local Events"
     }
   ]
