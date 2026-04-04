@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-04T00:01:30.675901+00:00",
+  "last_updated": "2026-04-04T11:55:46.647123+00:00",
   "story_count": 74,
   "stories": [
+    {
+      "title": "Crown Prince meets Italy PM in Jeddah, discusses regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660236/saudi-arabia/crown-prince-mohammed-bin-salman-meets-italy-pm-giorgia-meloni-in-jeddah",
+      "published_date": "2026-04-04T03:05:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince meets FIFA President in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660235/saudi-arabia/crown-prince-mohammed-bin-salman-meets-fifa-president-gianni-infantino-in-jeddah",
+      "published_date": "2026-04-04T02:51:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "NCM launches rainfall distribution maps to enhance early warning",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660149/saudi-arabia/unemployment-rate-among-saudis-drops-to-72-in-4q-2025",
       "published_date": "2026-03-31T13:10:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FDI net inflows surge 90% to SR48.4 billion in Q4 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660144/saudi-arabia/saudi-fdi-net-inflows-surge-90-to-sar484-billion-in-q4-2025",
-      "published_date": "2026-03-31T11:23:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi air defenses intercept 7 ballistic missiles over Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660136/saudi-arabia/saudi-air-defenses-intercept-7-ballistic-missiles-over-riyadh",
-      "published_date": "2026-03-30T23:20:30+00:00",
       "category": "Diplomacy"
     },
     {
@@ -382,6 +382,13 @@
       "category": "Economy"
     },
     {
+      "title": "Moderate rain forecast in Riyadh from Saturday to Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660234/saudi-arabia/moderate-rain-forecast-across-riyadh-region-from-saturday-to-sunday",
+      "published_date": "2026-04-04T02:47:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US pilot rescued after fighter jet downed over Iran, US media report",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
@@ -512,13 +519,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-31T17:30:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj ministry launches special operations room to serve foreign pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660161/saudi-arabia/hajj-ministry-launches-special-operations-room-to-serve-foreign-pilgrims",
-      "published_date": "2026-03-31T16:51:53+00:00",
       "category": "Local Events"
     }
   ]
