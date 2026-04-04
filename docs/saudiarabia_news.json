@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-03T12:06:01.491457+00:00",
-  "story_count": 75,
+  "last_updated": "2026-04-04T00:01:30.675901+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "NCM launches rainfall distribution maps to enhance early warning",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660231/saudi-arabia/saudi-ncm-launches-rainfall-maps-to-strengthen-early-warning-system",
+      "published_date": "2026-04-03T13:54:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "CMA approves regulatory framework to offer Special Purpose Acquisition Companies in Nomu parallel market",
       "source": "Saudi Gazette",
@@ -137,17 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Heritage Commission completes coding of 4,000 architectural heritage sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660133/saudi-arabia/heritage-commission-completes-coding-of-4000-architectural-heritage-sites",
-      "published_date": "2026-03-30T21:07:06+00:00",
-      "category": "Diplomacy"
+      "title": "US warns its citizens to leave Lebanon citing escalating security risks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T20:06:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T17:45:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T13:16:33+00:00",
+      "category": "Military"
     },
     {
       "title": "International law experts allege violations in Iran war",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-03T11:53:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "When will the Iran war end? Tracing the Trump administration's timelines",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T11:28:34+00:00",
       "category": "Military"
     },
     {
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T23:25:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T23:16:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T18:57:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T12:56:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stock market hits highest close in a month and a half",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
@@ -309,13 +309,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660071/saudi-arabia/saudi-east-west-pipeline-runs-at-full-capacity-amid-gulf-disruption",
       "published_date": "2026-03-28T15:58:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why is it so hard to pass through the Strait of Hormuz?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T14:10:30+00:00",
       "category": "Energy"
     },
     {
@@ -387,6 +380,20 @@
       "url": "https://saudigazette.com.sa/article/660073/saudi-arabia/saudi-customs-ports-record-642-contraband-seizures-last-week",
       "published_date": "2026-03-28T17:27:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "US pilot rescued after fighter jet downed over Iran, US media report",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T21:47:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 Saudi cities rank in IMD Smart City Index 2026, Riyadh climbs to 24",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660233/saudi-arabia/8-saudi-cities-rank-in-imd-smart-city-index-2026-riyadh-rises-to-24",
+      "published_date": "2026-04-03T14:26:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "71 commercial cover up cases detected during 2,611 inspection visits in March",
@@ -512,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660161/saudi-arabia/hajj-ministry-launches-special-operations-room-to-serve-foreign-pilgrims",
       "published_date": "2026-03-31T16:51:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj minister: Nusuk app reaches over 51 million users globally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660158/saudi-arabia/hajj-minister-nusuk-app-reaches-over-51-million-users-globally",
-      "published_date": "2026-03-31T14:17:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madinah Emir: Serving pilgrims is Saudi Arabia’s deep-rooted commitment",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660155/saudi-arabia/madinah-emir-serving-pilgrims-is-saudi-arabias-deep-rooted-commitment",
-      "published_date": "2026-03-31T14:02:57+00:00",
       "category": "Local Events"
     }
   ]
