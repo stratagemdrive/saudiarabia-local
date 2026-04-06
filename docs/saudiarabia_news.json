@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-05T11:57:18.477863+00:00",
-  "story_count": 73,
+  "last_updated": "2026-04-06T00:03:14.145709+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi FM discusses regional developments with Pakistani, Kuwaiti, Latvian counterparts in phone calls",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660279/saudi-arabia/saudi-fm-discusses-regional-developments-with-pakistani-kuwaiti-latvian-counterparts-in-phone-calls",
+      "published_date": "2026-04-05T21:04:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPEC+ emphasizes importance of safeguarding international maritime routes to ensure uninterrupted energy flow",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660269/saudi-arabia/opec-emphasizes-importance-of-safeguarding-international-maritime-routes-to-ensure-uninterrupted-energy-flow",
+      "published_date": "2026-04-05T15:21:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPEC+ countries agree to raise oil output by 206,000 bpd from May",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660268/saudi-arabia/opec-countries-agree-to-raise-oil-output-by-206000-bpd-in-may",
+      "published_date": "2026-04-05T15:16:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "WHO designates Saudi National Health Command Center as collaborating center",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660263/saudi-arabia/who-designates-saudi-national-health-command-center-as-collaborating-center",
+      "published_date": "2026-04-05T13:41:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Singapore interior ministers discuss regional security developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660262/saudi-arabia/saudi-singapore-interior-ministers-discuss-regional-security-developments-in-phone-call",
+      "published_date": "2026-04-05T13:22:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns acts of vandalism targeting UAE Embassy in Damascus",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660261/saudi-arabia/saudi-arabia-condemns-acts-of-vandalism-targeting-uae-embassy-in-damascus",
+      "published_date": "2026-04-05T12:52:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia marks historic first Arab entry into Artemis program with ‘Shams’ satellite",
       "source": "Saudi Gazette",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hajj Minister holds series of meetings aimed to enhance quality of integrated services for pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660193/saudi-arabia/hajj-minister-holds-series-of-meetings-aimed-to-enhance-quality-of-integrated-services-for-pilgrims",
-      "published_date": "2026-04-01T21:20:33+00:00",
-      "category": "Diplomacy"
+      "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T20:02:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi FM, UN chief discuss regional developments in phone call",
+      "title": "Saudi Arabia intercepts 799 drones, 95 missiles since March 3",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660191/saudi-arabia/saudi-fm-un-chief-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-04-01T20:32:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660265/saudi-arabia/saudi-arabia-intercepts-cruise-missile-799-drones-95-missiles-detected-since-march-3",
+      "published_date": "2026-04-05T13:53:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Saudi humanitarian aid convoy arrives in Gaza",
+      "title": "Islamic Military Counter Terrorism Coalition holds coordination meeting to discuss strategies",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660189/saudi-arabia/new-saudi-humanitarian-aid-convoy-arrives-in-gaza",
-      "published_date": "2026-04-01T17:19:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Kuwaiti foreign ministers discuss current regional situation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660186/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-current-regional-situation",
-      "published_date": "2026-04-01T15:37:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Insurance Authority warns against unlicensed extended warranty sales",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660182/saudi-arabia/insurance-authority-warns-against-unlicensed-extended-warranty-sales",
-      "published_date": "2026-04-01T14:19:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nazaha arrests 71 suspects over corruption charges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660181/saudi-arabia/nazaha-arrests-71-suspects-over-corruption-charges",
-      "published_date": "2026-04-01T13:52:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660264/saudi-arabia/islamic-military-counter-terrorism-coalition-holds-coordination-meeting-to-discuss-strategies",
+      "published_date": "2026-04-05T13:52:19+00:00",
+      "category": "Military"
     },
     {
       "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump: US 'on the cusp' of ending Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx2vn4n24e5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T05:32:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T03:22:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Greek defense ministers discuss repercussions of Iranian attacks",
+      "title": "Harvest season produces over 550 million roses from 910 farms in Taif",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660190/saudi-arabia/saudi-greek-defense-ministers-discuss-repercussions-of-iranian-attacks",
-      "published_date": "2026-04-01T20:29:06+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
+      "published_date": "2026-04-05T14:22:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi stock market hits highest close in a month and a half",
@@ -296,6 +303,27 @@
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-30T12:11:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Bank guarantees and metal transit plates are not required for transit carriers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660266/saudi-arabia/bank-guarantees-and-metal-transit-plates-are-not-required-for-transit-carriers",
+      "published_date": "2026-04-05T14:09:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why beekeeping matters and how Saudi Arabia is working to enhance it",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660255/saudi-arabia/why-beekeeping-matters-and-how-saudi-arabia-is-working-to-enhance-it",
+      "published_date": "2026-04-05T11:48:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rainfall revives desert as rare ‘Bakhtari’ flowers bloom across Northern Borders",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660254/saudi-arabia/rainfall-revives-desert-as-rare-bakhtari-flowers-bloom-across-northern-borders",
+      "published_date": "2026-04-05T11:48:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "59 types of narcotics among seized items at Saudi customs ports last week",
@@ -373,6 +401,27 @@
       "url": "https://saudigazette.com.sa/article/660113/saudi-arabia/mawani-adds-3-maersk-shipping-services-to-jeddah-and-king-abdullah-ports",
       "published_date": "2026-03-30T13:04:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "NCM forecasts of heavy rain in most Saudi regions until Friday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660278/saudi-arabia/ncm-forecasts-of-heavy-rain-in-most-saudi-regions-until-friday",
+      "published_date": "2026-04-05T17:24:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi road network pivotal in enhancing logistics and mobility with GCC countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660277/saudi-arabia/saudi-road-network-pivotal-in-enhancing-logistics-and-mobility-with-gcc-countries",
+      "published_date": "2026-04-05T17:07:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SDAIA urges public to verify trustworthiness of websites when sharing data, documents, and biometrics",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660273/saudi-arabia/sdaia-urges-public-to-verify-trustworthiness-of-websites-when-sharing-data-documents-and-biometrics",
+      "published_date": "2026-04-05T16:19:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia condemns RSF attack on Sudan hospital, calls for immediate halt",
@@ -491,27 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660185/saudi-arabia/how-saudi-arabia-maintained-growth-and-stability-amid-rising-regional-tensions-in-march",
       "published_date": "2026-04-01T14:56:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clouds and fog blanket Al-Baha’s peaks, drawing visitors to its mist-covered landscapes",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660184/saudi-arabia/clouds-and-fog-blanket-al-bahas-peaks-drawing-visitors-to-its-mist-covered-landscapes",
-      "published_date": "2026-04-01T14:53:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unified Emergency Number 911 receives over 2.6 million calls in March",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660183/saudi-arabia/unified-emergency-number-911-receives-over-26-million-calls-in-march",
-      "published_date": "2026-04-01T14:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi interior minister condemns Iranian attacks as “unjustifiable under any circumstances”",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660178/saudi-arabia/saudi-interior-minister-condemns-iranian-attacks-as-unjustifiable-under-any-circumstances",
-      "published_date": "2026-04-01T12:54:16+00:00",
       "category": "Local Events"
     }
   ]
