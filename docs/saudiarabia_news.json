@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-06T00:03:14.145709+00:00",
-  "story_count": 77,
+  "last_updated": "2026-04-06T14:16:56.209584+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi Arabia to localize 69 administrative support jobs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660292/saudi-arabia/saudi-arabia-to-localize-69-administrative-support-professions",
+      "published_date": "2026-04-06T13:17:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Russia visa-free travel begins May 11, allows 90-day stays",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660291/saudi-arabia/saudi-arabia-russia-visa-free-travel-starts-may-11",
+      "published_date": "2026-04-06T12:54:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICAO condemns Iran attacks on aviation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660290/saudi-arabia/icao-condemns-iran-attacks-on-aviation",
+      "published_date": "2026-04-06T12:39:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional developments with Pakistani, Kuwaiti, Latvian counterparts in phone calls",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660215/saudi-arabia/putin-reaffirms-russias-support-for-saudi-arabia-in-call-with-crown-prince",
       "published_date": "2026-04-02T17:15:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia attends ministerial meeting to coordinate reopening of Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660214/saudi-arabia/saudi-arabia-attends-ministerial-meeting-to-coordinate-reopening-of-strait-of-hormuz",
-      "published_date": "2026-04-02T16:42:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Russian foreign ministers discuss over phone regional situation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660213/saudi-arabia/saudi-russian-foreign-ministers-discuss-over-phone-regional-situation",
-      "published_date": "2026-04-02T15:32:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional developments with Chinese, Japanese counterparts in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660210/saudi-arabia/saudi-fm-discusses-regional-developments-with-chinese-japanese-counterparts-in-phone-call",
-      "published_date": "2026-04-02T13:47:04+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Seven sunspots observed over Arar as solar activity intensifies",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660287/saudi-arabia/seven-sunspots-observed-over-arar-as-solar-activity-intensifies",
+      "published_date": "2026-04-06T11:33:48+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Harvest season produces over 550 million roses from 910 farms in Taif",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
@@ -295,13 +302,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
       "published_date": "2026-03-30T14:40:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T12:11:07+00:00",
       "category": "Energy"
     },
     {
@@ -396,11 +396,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi ports adds 3 Maersk shipping services to Jeddah, King Abdullah ports",
+      "title": "Saudi Arabia deploys electric scooters at King Fahd Causeway to speed passport services",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660113/saudi-arabia/mawani-adds-3-maersk-shipping-services-to-jeddah-and-king-abdullah-ports",
-      "published_date": "2026-03-30T13:04:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660286/saudi-arabia/saudi-arabia-deploys-electric-scooters-at-king-fahd-causeway",
+      "published_date": "2026-04-06T11:07:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NCM forecasts of heavy rain in most Saudi regions until Friday",
@@ -533,13 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660187/saudi-arabia/hajj-permanent-committee-reviews-preparations-for-the-upcoming-pilgrimage",
       "published_date": "2026-04-01T16:45:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Saudi Arabia maintained growth and stability amid rising regional tensions in March",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660185/saudi-arabia/how-saudi-arabia-maintained-growth-and-stability-amid-rising-regional-tensions-in-march",
-      "published_date": "2026-04-01T14:56:43+00:00",
       "category": "Local Events"
     }
   ]
