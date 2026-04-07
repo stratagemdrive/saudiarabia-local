@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-07T05:30:16.686668+00:00",
-  "story_count": 73,
+  "last_updated": "2026-04-07T14:58:38.350529+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi, Austrian foreign ministers discuss repercussions of regional developments in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660337/saudi-arabia/saudi-austrian-foreign-ministers-discuss-repercussions-of-regional-developments-in-riyadh",
+      "published_date": "2026-04-07T14:44:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns Israeli minister’s storming of Al-Aqsa Mosque",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660327/saudi-arabia/saudi-arabia-strongly-condemns-israeli-ministers-storming-of-al-aqsa-mosque",
+      "published_date": "2026-04-07T12:42:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Peru FMs discuss regional developments in phone call",
       "source": "Saudi Gazette",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "NCM launches rainfall distribution maps to enhance early warning",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660231/saudi-arabia/saudi-ncm-launches-rainfall-maps-to-strengthen-early-warning-system",
-      "published_date": "2026-04-03T13:54:27+00:00",
-      "category": "Diplomacy"
+      "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T14:12:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "CMA approves regulatory framework to offer Special Purpose Acquisition Companies in Nomu parallel market",
+      "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T13:55:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan condemns Iran attacks on Saudi energy sites",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660218/saudi-arabia/cma-approves-regulatory-framework-to-offer-special-purpose-acquisition-companies-in-nomu-parallel-market",
-      "published_date": "2026-04-02T21:14:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660318/saudi-arabia/pakistan-condemns-iran-attacks-on-saudi-energy-sites",
+      "published_date": "2026-04-07T12:08:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Daily gamble of Russian roulette': BBC at site of Iran strike on Haifa",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cm298yy0v1zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-06T14:08:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T13:41:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T12:44:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi air defenses intercept ballistic missile, down 5 drones",
+      "title": "Saudi Arabia opens Black Gold Museum with 350 artworks from 30 countries",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660200/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-down-5-drones",
-      "published_date": "2026-04-02T12:36:41+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/660319/saudi-arabia/saudi-arabia-opens-black-gold-museum-with-350-artworks-from-30-countries",
+      "published_date": "2026-04-07T12:15:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
+      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T11:33:18+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-06T21:55:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Seven sunspots observed over Arar as solar activity intensifies",
@@ -296,6 +310,20 @@
       "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
       "published_date": "2026-04-05T14:22:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi life expectancy rises to 79.9 as clinical trials grow over 50%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660330/saudi-arabia/saudi-life-expectancy-rises-to-80-as-clinical-trials-grow-over-50",
+      "published_date": "2026-04-07T13:43:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Commerce ministry: AI commercial registrations soar 240% in 5 years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660329/saudi-arabia/commerce-ministry-ai-commercial-registrations-soar-240-in-5-years",
+      "published_date": "2026-04-07T13:43:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Shoura Council member calls for abolishing fees for expatriates working in construction sector",
@@ -368,11 +396,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi dates expand global footprint, gain strong presence in German retail markets",
+      "title": "Rain forecast in Riyadh region from Wednesday to Thursday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660143/saudi-arabia/saudi-dates-expand-global-footprint-gain-strong-presence-in-german-retail-markets",
-      "published_date": "2026-03-31T09:40:11+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660335/saudi-arabia/rain-forecast-in-riyadh-region-from-wednesday-to-thursday",
+      "published_date": "2026-04-07T14:30:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry: Nusuk Card is a prerequisite for Hajj as it facilitates pilgrim’s movement and access to services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660334/saudi-arabia/hajj-ministry-nusuk-card-is-a-prerequisite-for-hajj-as-it-facilitates-pilgrims-movement-and-access-to-services",
+      "published_date": "2026-04-07T14:13:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi air defenses intercept 18 drones hours after downing 11 missiles",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660316/saudi-arabia/saudi-arabia-intercepts-18-drones-after-downing-11-missiles",
+      "published_date": "2026-04-07T10:55:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi air defenses intercept 11 ballistic missiles over Eastern Province as debris falls near energy sites",
@@ -491,27 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660212/saudi-arabia/71-commercial-cover-up-cases-detected-during-2611-inspection-visits-in-march",
       "published_date": "2026-04-02T14:54:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New summer school timing will take effect in Makkah region from Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660211/saudi-arabia/new-summer-school-timing-will-take-effect-in-makkah-region-from-sunday",
-      "published_date": "2026-04-02T14:23:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi courts receive over one million cases in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660209/saudi-arabia/saudi-courts-receive-over-one-million-cases-in-2025",
-      "published_date": "2026-04-02T12:58:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab, Islamic states condemn Israeli death penalty law for Palestinians in West Bank",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660206/saudi-arabia/arab-and-islamic-countries-condemn-israeli-death-penalty-law-in-west-bank",
-      "published_date": "2026-04-02T12:45:04+00:00",
       "category": "Local Events"
     }
   ]
