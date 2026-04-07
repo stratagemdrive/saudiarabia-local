@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-06T14:16:56.209584+00:00",
-  "story_count": 76,
+  "last_updated": "2026-04-07T05:30:16.686668+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi, Peru FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660306/saudi-arabia/saudi-peru-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-04-06T20:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Jordanian foreign ministers meet to reaffirm solidarity in repelling Iranian aggression",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660305/saudi-arabia/saudi-jordanian-foreign-ministers-meet-to-reaffirm-solidarity-in-repelling-iranian-aggression",
+      "published_date": "2026-04-06T20:31:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dr. Al-Rabeeah and Yemeni minister discuss enhancing humanitarian cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660298/saudi-arabia/dr-al-rabeeah-and-yemeni-minister-discuss-enhancing-humanitarian-cooperation",
+      "published_date": "2026-04-06T15:12:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia to localize 69 administrative support jobs",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660218/saudi-arabia/cma-approves-regulatory-framework-to-offer-special-purpose-acquisition-companies-in-nomu-parallel-market",
       "published_date": "2026-04-02T21:14:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Companies Law regulation amended regarding removal of board members and profit distributions in listed companies",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660217/saudi-arabia/companies-law-regulation-amended-regarding-removal-of-board-members-and-profit-distributions-in-listed-companies",
-      "published_date": "2026-04-02T21:08:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T17:15:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin reaffirms Russia’s support for Saudi Arabia in call with Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660215/saudi-arabia/putin-reaffirms-russias-support-for-saudi-arabia-in-call-with-crown-prince",
-      "published_date": "2026-04-02T17:15:38+00:00",
       "category": "Diplomacy"
     },
     {
@@ -298,11 +298,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi stock market hits highest close in a month and a half",
+      "title": "Shoura Council member calls for abolishing fees for expatriates working in construction sector",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660125/saudi-arabia/saudi-stock-market-rises-08-to-11167-points-on-strong-trading",
-      "published_date": "2026-03-30T14:40:13+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/660307/saudi-arabia/shoura-council-member-calls-for-abolishing-fees-for-expatriates-working-in-construction-sector",
+      "published_date": "2026-04-06T21:20:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi banks hold assets totaling SR5 trillion, driven by robust demand for corporate financing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660299/saudi-arabia/saudi-banks-hold-assets-totaling-sr5-trillion-driven-by-robust-demand-for-corporate-financing",
+      "published_date": "2026-04-06T15:42:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bank guarantees and metal transit plates are not required for transit carriers",
@@ -368,32 +375,46 @@
       "category": "Economy"
     },
     {
-      "title": "Riyadh University of Arts to open admission in May and classes in September",
+      "title": "Saudi air defenses intercept 11 ballistic missiles over Eastern Province as debris falls near energy sites",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660134/saudi-arabia/riyadh-university-of-arts-to-open-admission-in-may-and-classes-in-september",
-      "published_date": "2026-03-30T21:33:43+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660308/saudi-arabia/saudi-air-defenses-intercept-11-ballistic-missiles-in-eastern-province",
+      "published_date": "2026-04-07T01:10:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia, Canada agree to deepen partnership",
+      "title": "1,700-km-long Northern Highway connecting Saudi Arabia to region and Europe",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660132/saudi-arabia/saudi-arabia-canada-agree-to-deepen-partnership",
-      "published_date": "2026-03-30T21:01:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660304/saudi-arabia/1700-km-long-northern-highway-connecting-saudi-arabia-to-region-and-europe",
+      "published_date": "2026-04-06T19:34:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia affirms full support for WTO reform efforts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660130/saudi-arabia/saudi-arabia-affirms-full-support-for-wto-reform-efforts",
-      "published_date": "2026-03-30T16:48:11+00:00",
-      "category": "Economy"
+      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-06T19:11:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia&#039;s exports of services jump 17% to SR 66 billion in 4Q 2025",
+      "title": "Jeddah Red Crescent rescues expatriate from cardiac arrest in life-saving rapid response",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660124/saudi-arabia/saudi-arabias-exports-of-services-jump-17-to-sr-66-billion-in-4q-2025",
-      "published_date": "2026-03-30T14:37:16+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660303/saudi-arabia/jeddah-red-crescent-rescues-expatriate-from-cardiac-arrest-in-life-saving-rapid-response",
+      "published_date": "2026-04-06T17:31:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Defense urges caution amid forecast of heavy rainfall across most regions of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660302/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-heavy-rainfall-across-most-regions-of-saudi-arabia",
+      "published_date": "2026-04-06T17:02:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Consumers can approach neutral third party to inspect water meters",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660297/saudi-arabia/consumers-can-approach-neutral-third-party-to-inspect-water-meters",
+      "published_date": "2026-04-06T14:25:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia deploys electric scooters at King Fahd Causeway to speed passport services",
@@ -491,48 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660206/saudi-arabia/arab-and-islamic-countries-condemn-israeli-death-penalty-law-in-west-bank",
       "published_date": "2026-04-02T12:45:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turaif sees 15.2mm of rain as NCM monitors Kingdom-wide activity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660205/saudi-arabia/turaif-sees-152mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
-      "published_date": "2026-04-02T12:42:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA extends deadline to correct land transport status to August",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660203/saudi-arabia/tga-extends-road-transport-compliance-deadlines-to-august",
-      "published_date": "2026-04-02T12:42:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi skies glow with Shawwal’s ‘butterfly moon’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660201/saudi-arabia/saudi-skies-glow-with-shawwals-butterfly-moon",
-      "published_date": "2026-04-02T12:36:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madinah meeting discusses delivering optimal services to Prophet’s Mosque visitors during Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660192/saudi-arabia/madinah-meeting-discusses-delivering-optimal-services-to-prophets-mosque-visitors-during-hajj-season",
-      "published_date": "2026-04-01T20:52:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health minister inspects Jeddah hospitals",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660188/saudi-arabia/health-minister-inspects-jeddah-hospitals",
-      "published_date": "2026-04-01T17:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Permanent Committee reviews preparations for the upcoming pilgrimage",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660187/saudi-arabia/hajj-permanent-committee-reviews-preparations-for-the-upcoming-pilgrimage",
-      "published_date": "2026-04-01T16:45:18+00:00",
       "category": "Local Events"
     }
   ]
