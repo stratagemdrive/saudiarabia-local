@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-08T05:32:01.194754+00:00",
-  "story_count": 75,
+  "last_updated": "2026-04-08T14:59:58.933303+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi, Kuwaiti crown princes affirm support for all efforts to achieve regional security in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660365/saudi-arabia/saudi-kuwaiti-crown-princes-affirm-support-for-all-efforts-to-achieve-regional-security-in-phone-call",
+      "published_date": "2026-04-08T12:31:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns storming of Kuwait consulate in Basra",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660360/saudi-arabia/saudi-arabia-condemns-storming-of-kuwait-consulate-in-basra",
+      "published_date": "2026-04-08T12:09:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes US-Iran ceasefire, urges free navigation in Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660355/saudi-arabia/saudi-arabia-welcomes-us-iran-ceasefire-urges-open-hormuz",
+      "published_date": "2026-04-08T10:33:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "NCM forecast: Summer temperatures in Saudi Arabia to rise up to 2 °C above normal",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia marks historic first Arab entry into Artemis program with ‘Shams’ satellite",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660251/saudi-arabia/saudi-satellite-shams-launched-on-artemis-ii-first-arab-mission",
-      "published_date": "2026-04-04T17:30:09+00:00",
-      "category": "Diplomacy"
+      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T03:30:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "14,242 violators of residency, border security and labor laws arrested in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660248/saudi-arabia/14242-violators-of-residency-border-security-and-labor-laws-arrested-in-a-week",
-      "published_date": "2026-04-04T17:03:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Children born during pandemic period are eligible to enroll in formal education from Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660247/saudi-arabia/children-born-during-pandemic-period-are-eligible-to-enroll-in-formal-education-from-sunday",
-      "published_date": "2026-04-04T15:49:48+00:00",
-      "category": "Diplomacy"
+      "title": "Trump condemned over threat that Iran's 'civilisation will die'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T21:56:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranians form human chains at bridges and power plants",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ros Atkins on…the cost of the Iran war",
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T18:29:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: Trump's shifting deadlines for ending Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T17:13:00+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T14:16:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia opens Black Gold Museum with 350 artworks from 30 countries",
@@ -310,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
       "published_date": "2026-04-05T14:22:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi domestic tourism hits 28.9 million in Q1 2026, spending reaches SR34.7 billion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660359/saudi-arabia/saudi-domestic-tourism-hits-289-million-in-q1-2026-spending-reaches-sar-347-billion",
+      "published_date": "2026-04-08T11:04:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi life expectancy rises to 79.9 as clinical trials grow over 50%",
@@ -387,6 +401,41 @@
       "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-02T17:01:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "HR Ministry initiates 2nd phase of recognizing notarized employment contracts as enforceable documents",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660373/saudi-arabia/hr-ministry-initiates-2nd-phase-of-recognizing-notarized-employment-contracts-as-enforceable-documents",
+      "published_date": "2026-04-08T14:28:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry launches initiative for offers and discounts for pilgrims via Nusk Card",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660370/saudi-arabia/hajj-ministry-launches-initiative-for-offers-and-discounts-for-pilgrims-via-nusk-card",
+      "published_date": "2026-04-08T13:30:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia to develop 27 eco-cultural heritage sites across national parks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660369/saudi-arabia/saudi-arabia-to-develop-27-eco-cultural-heritage-sites-in-national-parks",
+      "published_date": "2026-04-08T13:23:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia, Syria discuss exchange of expertise in disaster management",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660366/saudi-arabia/saudi-arabia-syria-discuss-exchange-of-expertise-in-disaster-management",
+      "published_date": "2026-04-08T12:44:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi air defenses intercept 5 ballistic missiles, down 4 drones",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660354/world/saudi-air-defenses-intercept-5-ballistic-missiles-down-4-drones",
+      "published_date": "2026-04-08T10:27:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "TGA warns 24,000 erring carriers of penalties if failed to rectify violations",
@@ -491,41 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660250/saudi-arabia/saudi-arabia-condemns-rsf-attack-on-hospital-in-sudan",
       "published_date": "2026-04-04T17:25:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts of drop in temperatures across northern Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660246/saudi-arabia/ncm-forecasts-of-drop-in-temperatures-across-northern-saudi-arabia",
-      "published_date": "2026-04-04T15:45:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 19,400 students participate as 2nd phase of National Science and Mathematics Olympiad begins",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660241/saudi-arabia/over-19400-students-participate-as-2nd-phase-of-national-science-and-mathematics-olympiad-begins",
-      "published_date": "2026-04-04T14:19:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moderate rain forecast in Riyadh from Saturday to Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660234/saudi-arabia/moderate-rain-forecast-across-riyadh-region-from-saturday-to-sunday",
-      "published_date": "2026-04-04T02:47:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US pilot rescued after fighter jet downed over Iran, US media report",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T21:47:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 Saudi cities rank in IMD Smart City Index 2026, Riyadh climbs to 24",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660233/saudi-arabia/8-saudi-cities-rank-in-imd-smart-city-index-2026-riyadh-rises-to-24",
-      "published_date": "2026-04-03T14:26:27+00:00",
       "category": "Local Events"
     }
   ]
