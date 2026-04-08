@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-07T14:58:38.350529+00:00",
-  "story_count": 76,
+  "last_updated": "2026-04-08T05:32:01.194754+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "NCM forecast: Summer temperatures in Saudi Arabia to rise up to 2 °C above normal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660345/saudi-arabia/ncm-forecast-summer-temperatures-in-saudi-arabia-to-rise-up-to-2-c-above-normal",
+      "published_date": "2026-04-07T18:18:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albudaiwi: GCC tourist inflow may fall by 19 million, losses seen at $32 billion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660344/saudi-arabia/albudaiwi-tourist-inflow-into-gcc-states-expected-to-fall-by-up-to-19-million-with-maximum-revenue-losses-of-32-billion",
+      "published_date": "2026-04-07T17:49:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan PM condemns Iran attacks in call with Crown Prince, reaffirms full solidarity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660341/saudi-arabia/pakistan-pm-condemns-iran-attacks-in-call-with-crown-prince",
+      "published_date": "2026-04-07T16:15:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Austrian foreign ministers discuss repercussions of regional developments in Riyadh",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Pakistani foreign ministers discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660237/saudi-arabia/saudi-pakistani-foreign-ministers-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-04-04T12:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince meets Italy PM in Jeddah, discusses regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660236/saudi-arabia/crown-prince-mohammed-bin-salman-meets-italy-pm-giorgia-meloni-in-jeddah",
-      "published_date": "2026-04-04T03:05:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince meets FIFA President in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660235/saudi-arabia/crown-prince-mohammed-bin-salman-meets-fifa-president-gianni-infantino-in-jeddah",
-      "published_date": "2026-04-04T02:51:20+00:00",
-      "category": "Diplomacy"
+      "title": "Iranians form human chains at bridges and power plants",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T19:36:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T16:09:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia opens Black Gold Museum with 350 artworks from 30 countries",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660319/saudi-arabia/saudi-arabia-opens-black-gold-museum-with-350-artworks-from-30-countries",
@@ -389,11 +389,11 @@
       "category": "Economy"
     },
     {
-      "title": "Ministry of Justice, Public Prosecution sign deal to enhance training and exchange expertise",
+      "title": "TGA warns 24,000 erring carriers of penalties if failed to rectify violations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660163/saudi-arabia/ministry-of-justice-public-prosecution-sign-deal-to-enhance-training-and-exchange-expertise",
-      "published_date": "2026-03-31T20:58:57+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660343/saudi-arabia/tga-warns-24000-erring-carriers-of-penalties-if-failed-to-rectify-violations",
+      "published_date": "2026-04-07T16:52:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rain forecast in Riyadh region from Wednesday to Thursday",
@@ -526,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660233/saudi-arabia/8-saudi-cities-rank-in-imd-smart-city-index-2026-riyadh-rises-to-24",
       "published_date": "2026-04-03T14:26:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "71 commercial cover up cases detected during 2,611 inspection visits in March",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660212/saudi-arabia/71-commercial-cover-up-cases-detected-during-2611-inspection-visits-in-march",
-      "published_date": "2026-04-02T14:54:46+00:00",
       "category": "Local Events"
     }
   ]
