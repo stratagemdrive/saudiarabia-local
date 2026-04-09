@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-08T14:59:58.933303+00:00",
-  "story_count": 77,
+  "last_updated": "2026-04-09T00:03:43.877219+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Spouse of King Salman honors winners of Princess Nourah Prize for Women’s Excellence",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660382/saudi-arabia/spouse-of-king-salman-honors-winners-of-princess-nourah-prize-for-womens-excellence",
+      "published_date": "2026-04-08T20:48:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T20:26:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister discusses over phone regional developments with counterparts of several countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660380/saudi-arabia/saudi-foreign-minister-discusses-over-phone-regional-developments-with-counterparts-of-several-countries",
+      "published_date": "2026-04-08T16:50:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Faisal, Kaja Kallas meet to review strategic Saudi-EU partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660379/saudi-arabia/prince-faisal-kaja-kallas-meet-to-review-strategic-saudi-eu-partnership",
+      "published_date": "2026-04-08T16:44:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM receives written message from Spanish counterpart",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660377/saudi-arabia/saudi-fm-receives-written-message-from-spanish-counterpart",
+      "published_date": "2026-04-08T16:20:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives written message from South Sudan president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660375/saudi-arabia/crown-prince-receives-written-message-from-south-sudan-president",
+      "published_date": "2026-04-08T15:52:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Kuwaiti crown princes affirm support for all efforts to achieve regional security in phone call",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses regional developments with Pakistani, Kuwaiti, Latvian counterparts in phone calls",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660279/saudi-arabia/saudi-fm-discusses-regional-developments-with-pakistani-kuwaiti-latvian-counterparts-in-phone-calls",
-      "published_date": "2026-04-05T21:04:35+00:00",
-      "category": "Diplomacy"
+      "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T22:09:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "OPEC+ emphasizes importance of safeguarding international maritime routes to ensure uninterrupted energy flow",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660269/saudi-arabia/opec-emphasizes-importance-of-safeguarding-international-maritime-routes-to-ensure-uninterrupted-energy-flow",
-      "published_date": "2026-04-05T15:21:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OPEC+ countries agree to raise oil output by 206,000 bpd from May",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660268/saudi-arabia/opec-countries-agree-to-raise-oil-output-by-206000-bpd-in-may",
-      "published_date": "2026-04-05T15:16:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WHO designates Saudi National Health Command Center as collaborating center",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660263/saudi-arabia/who-designates-saudi-national-health-command-center-as-collaborating-center",
-      "published_date": "2026-04-05T13:41:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Singapore interior ministers discuss regional security developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660262/saudi-arabia/saudi-singapore-interior-ministers-discuss-regional-security-developments-in-phone-call",
-      "published_date": "2026-04-05T13:22:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns acts of vandalism targeting UAE Embassy in Damascus",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660261/saudi-arabia/saudi-arabia-condemns-acts-of-vandalism-targeting-uae-embassy-in-damascus",
-      "published_date": "2026-04-05T12:52:56+00:00",
-      "category": "Diplomacy"
+      "title": "Bowen: Ceasefire means respite for civilians, but it might not last long",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T17:05:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "When will the Iran war end? Tracing the Trump administration's timelines",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T11:28:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T10:35:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
@@ -317,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
       "published_date": "2026-04-05T14:22:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia affirms abundance of poultry products in local market",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660374/saudi-arabia/saudi-arabia-affirms-abundance-of-poultry-products-in-local-market",
+      "published_date": "2026-04-08T15:25:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi domestic tourism hits 28.9 million in Q1 2026, spending reaches SR34.7 billion",
@@ -401,6 +408,20 @@
       "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-02T17:01:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Al-Hogail launches &#039;Sandbox&#039; initiative for municipal, housing sectors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660381/saudi-arabia/al-hogail-launches-sandbox-initiative-for-municipal-housing-sectors",
+      "published_date": "2026-04-08T20:40:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Baha dams receive over 4 million cubic meters of floodwater after heavy rains",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660376/saudi-arabia/al-baha-dams-receive-over-4-million-cubic-meters-of-floodwater-after-heavy-rains",
+      "published_date": "2026-04-08T16:00:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "HR Ministry initiates 2nd phase of recognizing notarized employment contracts as enforceable documents",
@@ -526,20 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660277/saudi-arabia/saudi-road-network-pivotal-in-enhancing-logistics-and-mobility-with-gcc-countries",
       "published_date": "2026-04-05T17:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SDAIA urges public to verify trustworthiness of websites when sharing data, documents, and biometrics",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660273/saudi-arabia/sdaia-urges-public-to-verify-trustworthiness-of-websites-when-sharing-data-documents-and-biometrics",
-      "published_date": "2026-04-05T16:19:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia condemns RSF attack on Sudan hospital, calls for immediate halt",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660250/saudi-arabia/saudi-arabia-condemns-rsf-attack-on-hospital-in-sudan",
-      "published_date": "2026-04-04T17:25:53+00:00",
       "category": "Local Events"
     }
   ]
