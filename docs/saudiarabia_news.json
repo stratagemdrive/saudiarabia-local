@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-09T16:07:15.858043+00:00",
-  "story_count": 83,
+  "last_updated": "2026-04-10T06:10:16.112133+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Saudi, Spanish FMs discuss over phone repercussions of regional situation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660417/saudi-arabia/saudi-spanish-fms-discuss-over-phone-repercussions-of-regional-situation",
+      "published_date": "2026-04-09T20:56:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Faisal, Marco Rubio discuss latest regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660416/saudi-arabia/prince-faisal-marco-rubio-discuss-latest-regional-developments-in-phone-call",
+      "published_date": "2026-04-09T20:49:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Absher introduces seamless online transfer of vehicle number plates",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660412/saudi-arabia/absher-introduces-seamless-online-transfer-of-vehicle-number-plates",
+      "published_date": "2026-04-09T17:07:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "GCC seeks permanent solution for regional crisis",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan PM condemns Iran attacks in call with Crown Prince, reaffirms full solidarity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660341/saudi-arabia/pakistan-pm-condemns-iran-attacks-in-call-with-crown-prince",
-      "published_date": "2026-04-07T16:15:28+00:00",
-      "category": "Diplomacy"
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-09T23:01:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Austrian foreign ministers discuss repercussions of regional developments in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660337/saudi-arabia/saudi-austrian-foreign-ministers-discuss-repercussions-of-regional-developments-in-riyadh",
-      "published_date": "2026-04-07T14:44:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns Israeli minister’s storming of Al-Aqsa Mosque",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660327/saudi-arabia/saudi-arabia-strongly-condemns-israeli-ministers-storming-of-al-aqsa-mosque",
-      "published_date": "2026-04-07T12:42:11+00:00",
-      "category": "Diplomacy"
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-09T16:06:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Has US achieved its war objectives in Iran?",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Search for missing airman presents serious test for US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T20:13:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T21:25:54+00:00",
-      "category": "Military"
+      "title": "Attacks on Saudi energy sites kill one, disrupt East-West pipeline by 700,000 bpd, cut 600,000 bpd output",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660414/saudi-arabia/attacks-on-saudi-energy-sites-kill-one-disrupt-east-west-pipeline-by-700000-bpd-cut-600000-bpd-output",
+      "published_date": "2026-04-09T19:22:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Industrial Production Index rises by 9% in February",
@@ -431,18 +438,18 @@
       "category": "Economy"
     },
     {
-      "title": "Visitors to Saudi entertainment sector surpass 89 million in 2025",
+      "title": "Saudi Arabia surpasses 100% self-sufficiency in key food products, led by dairy, dates, and eggs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660216/saudi-arabia/visitors-to-saudi-entertainment-sector-surpass-89-million-in-2025",
-      "published_date": "2026-04-02T20:16:31+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660415/saudi-arabia/saudi-arabia-surpasses-100-self-sufficiency-in-key-food-products-led-by-dairy-dates-and-eggs",
+      "published_date": "2026-04-09T20:32:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T17:01:08+00:00",
-      "category": "Economy"
+      "title": "Saudia to resume flights to Dubai, Abu Dhabi, Amman from April 11",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660413/saudi-arabia/saudia-to-resume-flights-to-dubai-abu-dhabi-amman-from-april-11",
+      "published_date": "2026-04-09T17:20:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AlUla shortlisted for ‘Film City of the Year 2026’ at Global Production Awards",
@@ -568,20 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660297/saudi-arabia/consumers-can-approach-neutral-third-party-to-inspect-water-meters",
       "published_date": "2026-04-06T14:25:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia deploys electric scooters at King Fahd Causeway to speed passport services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660286/saudi-arabia/saudi-arabia-deploys-electric-scooters-at-king-fahd-causeway",
-      "published_date": "2026-04-06T11:07:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts of heavy rain in most Saudi regions until Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660278/saudi-arabia/ncm-forecasts-of-heavy-rain-in-most-saudi-regions-until-friday",
-      "published_date": "2026-04-05T17:24:37+00:00",
       "category": "Local Events"
     }
   ]
