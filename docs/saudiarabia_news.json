@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-10T14:36:12.448237+00:00",
+  "last_updated": "2026-04-10T23:37:23.501436+00:00",
   "story_count": 82,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T17:08:27+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
@@ -274,13 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-04T22:54:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T21:29:46+00:00",
       "category": "Military"
     },
     {
@@ -438,6 +438,13 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia forecasts heavy rain until Tuesday, Civil Defense issues alert",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660431/saudi-arabia/saudi-arabia-forecasts-heavy-rain-until-tuesday-across-regions",
+      "published_date": "2026-04-10T16:38:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi woman saves toddler after cardiac arrest at Quba Mosque",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660426/saudi-arabia/saudi-woman-saves-toddler-after-cardiac-arrest-at-quba-mosque",
@@ -568,13 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660303/saudi-arabia/jeddah-red-crescent-rescues-expatriate-from-cardiac-arrest-in-life-saving-rapid-response",
       "published_date": "2026-04-06T17:31:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense urges caution amid forecast of heavy rainfall across most regions of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660302/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-heavy-rainfall-across-most-regions-of-saudi-arabia",
-      "published_date": "2026-04-06T17:02:23+00:00",
       "category": "Local Events"
     }
   ]
