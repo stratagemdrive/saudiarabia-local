@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-10T06:10:16.112133+00:00",
+  "last_updated": "2026-04-10T14:36:12.448237+00:00",
   "story_count": 82,
   "stories": [
     {
@@ -438,6 +438,13 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi woman saves toddler after cardiac arrest at Quba Mosque",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660426/saudi-arabia/saudi-woman-saves-toddler-after-cardiac-arrest-at-quba-mosque",
+      "published_date": "2026-04-10T11:44:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi Arabia surpasses 100% self-sufficiency in key food products, led by dairy, dates, and eggs",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660415/saudi-arabia/saudi-arabia-surpasses-100-self-sufficiency-in-key-food-products-led-by-dairy-dates-and-eggs",
@@ -568,13 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660302/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-heavy-rainfall-across-most-regions-of-saudi-arabia",
       "published_date": "2026-04-06T17:02:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Consumers can approach neutral third party to inspect water meters",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660297/saudi-arabia/consumers-can-approach-neutral-third-party-to-inspect-water-meters",
-      "published_date": "2026-04-06T14:25:43+00:00",
       "category": "Local Events"
     }
   ]
