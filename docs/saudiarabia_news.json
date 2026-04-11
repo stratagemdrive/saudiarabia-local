@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-10T23:37:23.501436+00:00",
+  "last_updated": "2026-04-11T11:28:29.960082+00:00",
   "story_count": 82,
   "stories": [
+    {
+      "title": "Saudi finance minister meets Pakistan PM in Islamabad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660443/saudi-arabia/saudi-finance-minister-meets-pakistan-pm-in-islamabad",
+      "published_date": "2026-04-11T04:08:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Spanish FMs discuss over phone repercussions of regional situation",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660345/saudi-arabia/ncm-forecast-summer-temperatures-in-saudi-arabia-to-rise-up-to-2-c-above-normal",
       "published_date": "2026-04-07T18:18:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Albudaiwi: GCC tourist inflow may fall by 19 million, losses seen at $32 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660344/saudi-arabia/albudaiwi-tourist-inflow-into-gcc-states-expected-to-fall-by-up-to-19-million-with-maximum-revenue-losses-of-32-billion",
-      "published_date": "2026-04-07T17:49:06+00:00",
       "category": "Diplomacy"
     },
     {
@@ -438,6 +438,27 @@
       "category": "Economy"
     },
     {
+      "title": "Moderate to heavy rain forecast in Riyadh region through Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660442/saudi-arabia/moderate-to-heavy-rain-forecast-in-riyadh-region-through-sunday",
+      "published_date": "2026-04-11T04:08:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia mourns worker killed in attack on energy facility",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660441/saudi-arabia/saudi-arabia-mourns-worker-killed-in-energy-facility-attack",
+      "published_date": "2026-04-11T03:50:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi tourism sets Hajj penalties up to SR50,000 for hospitality violations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660439/saudi-arabia/saudi-sets-hajj-hospitality-penalties-up-to-sr50000",
+      "published_date": "2026-04-11T03:49:22+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi Arabia forecasts heavy rain until Tuesday, Civil Defense issues alert",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660431/saudi-arabia/saudi-arabia-forecasts-heavy-rain-until-tuesday-across-regions",
@@ -554,27 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660308/saudi-arabia/saudi-air-defenses-intercept-11-ballistic-missiles-in-eastern-province",
       "published_date": "2026-04-07T01:10:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1,700-km-long Northern Highway connecting Saudi Arabia to region and Europe",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660304/saudi-arabia/1700-km-long-northern-highway-connecting-saudi-arabia-to-region-and-europe",
-      "published_date": "2026-04-06T19:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-06T19:11:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah Red Crescent rescues expatriate from cardiac arrest in life-saving rapid response",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660303/saudi-arabia/jeddah-red-crescent-rescues-expatriate-from-cardiac-arrest-in-life-saving-rapid-response",
-      "published_date": "2026-04-06T17:31:54+00:00",
       "category": "Local Events"
     }
   ]
