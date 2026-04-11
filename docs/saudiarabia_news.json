@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-11T11:28:29.960082+00:00",
-  "story_count": 82,
+  "last_updated": "2026-04-11T23:37:11.930992+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 7,392 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660455/saudi-arabia/saudi-arabia-deports-7392-illegal-residents-in-a-week",
+      "published_date": "2026-04-11T17:40:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, Macron discuss ceasefire, maritime threats in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660453/saudi-arabia/crown-prince-macron-discuss-ceasefire-and-maritime-threats",
+      "published_date": "2026-04-11T16:15:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Iran attacks on Kuwait, reaffirms full support",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660452/saudi-arabia/saudi-arabia-condemns-iran-attacks-on-kuwait-backs-full-support",
+      "published_date": "2026-04-11T16:01:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi finance minister meets Pakistan PM in Islamabad",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns storming of Kuwait consulate in Basra",
+      "title": "Pakistani military force arrives in Saudi Arabia as part of defense pact",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660360/saudi-arabia/saudi-arabia-condemns-storming-of-kuwait-consulate-in-basra",
-      "published_date": "2026-04-08T12:09:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia welcomes US-Iran ceasefire, urges free navigation in Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660355/saudi-arabia/saudi-arabia-welcomes-us-iran-ceasefire-urges-open-hormuz",
-      "published_date": "2026-04-08T10:33:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NCM forecast: Summer temperatures in Saudi Arabia to rise up to 2 °C above normal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660345/saudi-arabia/ncm-forecast-summer-temperatures-in-saudi-arabia-to-rise-up-to-2-c-above-normal",
-      "published_date": "2026-04-07T18:18:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660444/saudi-arabia/pakistani-military-force-arrives-in-saudi-arabia-as-part-of-defense-pact",
+      "published_date": "2026-04-11T12:34:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T22:54:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Attacks on Saudi energy sites kill one, disrupt East-West pipeline by 700,000 bpd, cut 600,000 bpd output",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660414/saudi-arabia/attacks-on-saudi-energy-sites-kill-one-disrupt-east-west-pipeline-by-700000-bpd-cut-600000-bpd-output",
@@ -331,6 +331,27 @@
       "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
       "published_date": "2026-04-05T14:22:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Customs reports 900 contraband seizures last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660456/saudi-arabia/saudi-customs-reports-900-contraband-seizures-last-week",
+      "published_date": "2026-04-11T17:49:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia records highest visitor spending at SR160 billion in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660451/saudi-arabia/saudi-arabia-records-highest-visitor-spending-at-sr160-billion-in-2025",
+      "published_date": "2026-04-11T15:35:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Railways launches 5 logistics routes to connect Gulf ports to Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660446/saudi-arabia/saudi-railways-launches-5-logistics-routes-to-connect-gulf-ports-to-saudi-arabia",
+      "published_date": "2026-04-11T14:34:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Business Confidence Index shows optimism with 52 points despite geopolitical pressures",
@@ -421,20 +442,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660254/saudi-arabia/rainfall-revives-desert-as-rare-bakhtari-flowers-bloom-across-northern-borders",
       "published_date": "2026-04-05T11:48:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "59 types of narcotics among seized items at Saudi customs ports last week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660249/saudi-arabia/59-types-of-narcotics-among-seized-items-at-saudi-customs-ports-last-week",
-      "published_date": "2026-04-04T17:14:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "2 arrested after foiling attempt to smuggle in 2.9 million Captagon pills at Jeddah port",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660238/saudi-arabia/2-arrested-after-foiling-attempt-to-smuggle-in-29-million-captagon-pills-at-jeddah-port",
-      "published_date": "2026-04-04T12:47:22+00:00",
       "category": "Economy"
     },
     {
