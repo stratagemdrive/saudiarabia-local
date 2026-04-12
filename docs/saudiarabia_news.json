@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-12T11:32:54.394796+00:00",
-  "story_count": 83,
+  "last_updated": "2026-04-12T23:37:21.733228+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "King Salman, Crown Prince congratulate Djibouti president on re-election",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660486/saudi-arabia/king-salman-crown-prince-congratulate-djibouti-president-on-re-election",
+      "published_date": "2026-04-12T17:31:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM, Korean Presidential Special Envoy discuss regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660485/saudi-arabia/saudi-fm-korean-presidential-special-envoy-discuss-regional-developments",
+      "published_date": "2026-04-12T17:05:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia summons Iraqi ambassador over drone attacks from Iraqi territory",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660484/saudi-arabia/saudi-arabia-summons-iraqi-ambassador-over-drone-attacks-from-iraqi-territory",
+      "published_date": "2026-04-12T16:40:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry recalls 33,250 Toyota, Lexus vehicles over electronic system fault",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660480/saudi-arabia/commerce-ministry-recalls-33250-toyota-lexus-vehicles-over-electronic-system-fault",
+      "published_date": "2026-04-12T14:30:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC ministers says region safe for tourists, projects progressing as planned",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660479/saudi-arabia/gcc-tourism-ministers-affirm-stability-condemn-iran-attacks",
+      "published_date": "2026-04-12T14:03:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HR Ministry raises employment contracts compliance rate via Qiwa platform to 85% from April 30",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660467/saudi-arabia/hr-ministry-raises-employment-contracts-compliance-rate-via-qiwa-platform-to-85-from-april-30",
+      "published_date": "2026-04-12T13:09:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 7,392 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -99,48 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660382/saudi-arabia/spouse-of-king-salman-honors-winners-of-princess-nourah-prize-for-womens-excellence",
       "published_date": "2026-04-08T20:48:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T20:26:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister discusses over phone regional developments with counterparts of several countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660380/saudi-arabia/saudi-foreign-minister-discusses-over-phone-regional-developments-with-counterparts-of-several-countries",
-      "published_date": "2026-04-08T16:50:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Faisal, Kaja Kallas meet to review strategic Saudi-EU partnership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660379/saudi-arabia/prince-faisal-kaja-kallas-meet-to-review-strategic-saudi-eu-partnership",
-      "published_date": "2026-04-08T16:44:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM receives written message from Spanish counterpart",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660377/saudi-arabia/saudi-fm-receives-written-message-from-spanish-counterpart",
-      "published_date": "2026-04-08T16:20:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives written message from South Sudan president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660375/saudi-arabia/crown-prince-receives-written-message-from-south-sudan-president",
-      "published_date": "2026-04-08T15:52:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Kuwaiti crown princes affirm support for all efforts to achieve regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660365/saudi-arabia/saudi-kuwaiti-crown-princes-affirm-support-for-all-efforts-to-achieve-regional-security-in-phone-call",
-      "published_date": "2026-04-08T12:31:22+00:00",
       "category": "Diplomacy"
     },
     {
@@ -263,25 +263,11 @@
       "category": "Military"
     },
     {
-      "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-05T20:02:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia intercepts 799 drones, 95 missiles since March 3",
+      "title": "Saudi Arabia restores energy facilities, East-West pipeline capacity after attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660265/saudi-arabia/saudi-arabia-intercepts-cruise-missile-799-drones-95-missiles-detected-since-march-3",
-      "published_date": "2026-04-05T13:53:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Islamic Military Counter Terrorism Coalition holds coordination meeting to discuss strategies",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660264/saudi-arabia/islamic-military-counter-terrorism-coalition-holds-coordination-meeting-to-discuss-strategies",
-      "published_date": "2026-04-05T13:52:19+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/660461/saudi-arabia/east-west-pipeline-energy-facilities-fully-restored-after-attacks",
+      "published_date": "2026-04-12T11:17:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Attacks on Saudi energy sites kill one, disrupt East-West pipeline by 700,000 bpd, cut 600,000 bpd output",
@@ -326,11 +312,39 @@
       "category": "Energy"
     },
     {
-      "title": "Harvest season produces over 550 million roses from 910 farms in Taif",
+      "title": "‏Al-Jadaan heads Saudi delegation to 2026 IMF-World Bank Group Spring Meetings",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660267/saudi-arabia/rose-harvest-season-produces-over-550-million-roses-from-910-farms-in-taif",
-      "published_date": "2026-04-05T14:22:50+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/660490/saudi-arabia/al-jadaan-heads-saudi-delegation-to-2026-imf-world-bank-group-spring-meetings",
+      "published_date": "2026-04-12T21:03:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SAMA: E-payments account for 85% of total retail payments in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660488/saudi-arabia/sama-e-payments-account-for-85-of-total-retail-payments-in-2025",
+      "published_date": "2026-04-12T20:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hotel occupancy rate in Saudi Arabia reaches 57% in Q4 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660483/saudi-arabia/hotel-occupancy-rate-in-saudi-arabia-reaches-57-in-q4-2025",
+      "published_date": "2026-04-12T15:30:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Expat remittances drop to SR12.5 billion in February, lowest in 15 months",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660477/saudi-arabia/expat-remittances-drop-to-sr125-billion-in-february-lowest-in-15-months",
+      "published_date": "2026-04-12T13:49:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Total investments in Jubail, Yanbu exceed SR1.5 trillion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660465/saudi-arabia/investments-in-jubail-yanbu-industrial-cities-exceed-sr15-trillion",
+      "published_date": "2026-04-12T11:45:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs reports 900 contraband seizures last week",
@@ -424,25 +438,46 @@
       "category": "Economy"
     },
     {
-      "title": "Bank guarantees and metal transit plates are not required for transit carriers",
+      "title": "Expatriates, without an official permit, are not allowed to enter Makkah from Monday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660266/saudi-arabia/bank-guarantees-and-metal-transit-plates-are-not-required-for-transit-carriers",
-      "published_date": "2026-04-05T14:09:44+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660491/saudi-arabia/expatriates-without-an-official-permit-are-not-allowed-to-enter-makkah-from-monday",
+      "published_date": "2026-04-12T21:55:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why beekeeping matters and how Saudi Arabia is working to enhance it",
+      "title": "Hajj Ministry: Hajj visa is the only officially approved visa for performing pilgrimage",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660255/saudi-arabia/why-beekeeping-matters-and-how-saudi-arabia-is-working-to-enhance-it",
-      "published_date": "2026-04-05T11:48:36+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660489/saudi-arabia/hajj-ministry-hajj-visa-is-the-only-officially-approved-visa-for-performing-pilgrimage",
+      "published_date": "2026-04-12T20:26:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rainfall revives desert as rare ‘Bakhtari’ flowers bloom across Northern Borders",
+      "title": "Registration open for domestic pilgrims, who previously performed Hajj, from April 18",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660254/saudi-arabia/rainfall-revives-desert-as-rare-bakhtari-flowers-bloom-across-northern-borders",
-      "published_date": "2026-04-05T11:48:29+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660481/saudi-arabia/registration-open-for-domestic-pilgrims-who-previously-performed-hajj-from-april-18",
+      "published_date": "2026-04-12T14:40:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah Border Guards rescue two Bangladeshis stranded at sea",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660475/saudi-arabia/makkah-border-guards-rescue-two-bangladeshis-stranded-at-sea",
+      "published_date": "2026-04-12T13:33:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asir sees 65.6mm of rain as NCM monitors Kingdom-wide activity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660469/saudi-arabia/asir-sees-656mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
+      "published_date": "2026-04-12T13:17:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM forecasts widespread thunderstorms across Kingdom to next Tuesday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660466/saudi-arabia/ncm-forecasts-widespread-thunderstorms-across-kingdom-to-next-tuesday",
+      "published_date": "2026-04-12T12:53:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia suspends in-person classes in multiple regions amid heavy rain",
@@ -540,48 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660369/saudi-arabia/saudi-arabia-to-develop-27-eco-cultural-heritage-sites-in-national-parks",
       "published_date": "2026-04-08T13:23:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia, Syria discuss exchange of expertise in disaster management",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660366/saudi-arabia/saudi-arabia-syria-discuss-exchange-of-expertise-in-disaster-management",
-      "published_date": "2026-04-08T12:44:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi air defenses intercept 5 ballistic missiles, down 4 drones",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660354/world/saudi-air-defenses-intercept-5-ballistic-missiles-down-4-drones",
-      "published_date": "2026-04-08T10:27:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA warns 24,000 erring carriers of penalties if failed to rectify violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660343/saudi-arabia/tga-warns-24000-erring-carriers-of-penalties-if-failed-to-rectify-violations",
-      "published_date": "2026-04-07T16:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain forecast in Riyadh region from Wednesday to Thursday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660335/saudi-arabia/rain-forecast-in-riyadh-region-from-wednesday-to-thursday",
-      "published_date": "2026-04-07T14:30:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry: Nusuk Card is a prerequisite for Hajj as it facilitates pilgrim’s movement and access to services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660334/saudi-arabia/hajj-ministry-nusuk-card-is-a-prerequisite-for-hajj-as-it-facilitates-pilgrims-movement-and-access-to-services",
-      "published_date": "2026-04-07T14:13:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi air defenses intercept 18 drones hours after downing 11 missiles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660316/saudi-arabia/saudi-arabia-intercepts-18-drones-after-downing-11-missiles",
-      "published_date": "2026-04-07T10:55:20+00:00",
       "category": "Local Events"
     }
   ]
