@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-11T23:37:11.930992+00:00",
+  "last_updated": "2026-04-12T11:32:54.394796+00:00",
   "story_count": 83,
   "stories": [
     {
@@ -445,6 +445,13 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia suspends in-person classes in multiple regions amid heavy rain",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660458/saudi-arabia/saudi-suspends-classes-in-multiple-regions-amid-heavy-rain",
+      "published_date": "2026-04-12T01:52:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Moderate to heavy rain forecast in Riyadh region through Sunday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660442/saudi-arabia/moderate-to-heavy-rain-forecast-in-riyadh-region-through-sunday",
@@ -575,13 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660316/saudi-arabia/saudi-arabia-intercepts-18-drones-after-downing-11-missiles",
       "published_date": "2026-04-07T10:55:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi air defenses intercept 11 ballistic missiles over Eastern Province as debris falls near energy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660308/saudi-arabia/saudi-air-defenses-intercept-11-ballistic-missiles-in-eastern-province",
-      "published_date": "2026-04-07T01:10:37+00:00",
       "category": "Local Events"
     }
   ]
