@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-13T12:00:53.629878+00:00",
-  "story_count": 83,
+  "last_updated": "2026-04-13T23:44:10.345621+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Two royal reserves witness births of 55 Arabian oryx and gazelles",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660524/saudi-arabia/two-royal-reserves-witness-births-of-55-arabian-oryxand-gazelles",
+      "published_date": "2026-04-13T21:20:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660523/saudi-arabia/saudi-kuwaiti-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-04-13T21:15:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister discusses regional developments with Egyptian, Kyrgyz counterparts in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660518/saudi-arabia/saudi-foreign-minister-discusses-regional-developments-with-egyptian-kyrgyz-counterparts-in-phone-call",
+      "published_date": "2026-04-13T16:47:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Passports Directorate starts issuing Makkah entry e-permits for Hajj 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660515/saudi-arabia/passports-directorate-launches-makkah-entry-e-permits-for-hajj-2026",
+      "published_date": "2026-04-13T14:31:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Iranian foreign ministers discuss over phone post peace talk developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660506/saudi-arabia/saudi-iranian-foreign-ministers-discuss-over-phone-post-peace-talk-developments",
+      "published_date": "2026-04-13T12:52:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Pakistani FMs underscore diplomacy in restoring regional stability in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660505/saudi-arabia/saudi-pakistani-fms-underscore-diplomacy-in-restoring-regional-stability-in-phone-call",
+      "published_date": "2026-04-13T12:48:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman, Crown Prince congratulate Djibouti president on re-election",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Pakistani foreign ministers discuss efforts to restore regional security in phone call",
+      "title": "Three expatriates arrested for prostitution in Madinah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660410/saudi-arabia/saudi-pakistani-foreign-ministers-discuss-efforts-to-restore-regional-security-in-phone-call",
-      "published_date": "2026-04-09T15:13:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660517/saudi-arabia/three-expatriates-arrested-for-prostitution-in-madinah",
+      "published_date": "2026-04-13T15:49:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "AI leads new phase of breathtaking transformation in Saudi judiciary",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660407/saudi-arabia/ai-leads-new-phase-of-breathtaking-transformation-in-saudi-judiciary",
-      "published_date": "2026-04-09T14:32:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "title": "French cement giant guilty of financing IS and other militant groups in Syria",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T11:46:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Iranian foreign ministers discuss de-escalation in first call since conflict began",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660394/saudi-arabia/saudi-iranian-foreign-ministers-discuss-de-escalation-in-call",
-      "published_date": "2026-04-09T11:24:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, UK PM reaffirm support for regional stability in Jeddah meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660393/world/crown-prince-uk-pm-reaffirm-support-for-regional-stability-in-jeddah-meeting",
-      "published_date": "2026-04-09T10:46:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spouse of King Salman honors winners of Princess Nourah Prize for Women’s Excellence",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660382/saudi-arabia/spouse-of-king-salman-honors-winners-of-princess-nourah-prize-for-womens-excellence",
-      "published_date": "2026-04-08T20:48:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T14:15:50+00:00",
+      "category": "Military"
     },
     {
       "title": "How many ships are crossing the Strait of Hormuz?",
@@ -270,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Daily gamble of Russian roulette': BBC at site of Iran strike on Haifa",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cm298yy0v1zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-06T14:08:37+00:00",
-      "category": "Military"
+      "title": "Use of portable gas stoves and cylinders by guests at hospitality facilities banned in Madinah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660516/saudi-arabia/use-of-portable-gas-stoves-and-cylinders-by-guests-at-hospitality-facilities-banned-in-madinah",
+      "published_date": "2026-04-13T15:24:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia restores energy facilities, East-West pipeline capacity after attacks",
@@ -312,11 +326,25 @@
       "category": "Energy"
     },
     {
-      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-06T21:55:50+00:00",
-      "category": "Energy"
+      "title": "Saudi Arabia enforces Financial Oversight Law to strengthen transparency, accountability, and fiscal integrity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660520/saudi-arabia/saudi-arabia-enforces-financial-oversight-law-to-strengthen-transparency-accountability-and-fiscal-integrity",
+      "published_date": "2026-04-13T20:35:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ramadan and Eid boost domestic tourism to 10 million visitors across the Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660503/saudi-arabia/ramadan-and-eid-boost-domestic-tourism-to-10m-visitors-across-the-kingdom",
+      "published_date": "2026-04-13T12:43:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi non-oil exports surge 15% in 2025, highest growth among G20",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660502/saudi-arabia/saudi-non-oil-exports-surge-15-in-2025-highest-growth-among-g20",
+      "published_date": "2026-04-13T11:53:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "‏Al-Jadaan heads Saudi delegation to 2026 IMF-World Bank Group Spring Meetings",
@@ -431,18 +459,53 @@
       "category": "Economy"
     },
     {
-      "title": "Shoura Council member calls for abolishing fees for expatriates working in construction sector",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660307/saudi-arabia/shoura-council-member-calls-for-abolishing-fees-for-expatriates-working-in-construction-sector",
-      "published_date": "2026-04-06T21:20:25+00:00",
-      "category": "Economy"
+      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T21:29:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi banks hold assets totaling SR5 trillion, driven by robust demand for corporate financing",
+      "title": "NCM warns of heavy rain and flash floods hitting several Saudi regions on Tuesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660299/saudi-arabia/saudi-banks-hold-assets-totaling-sr5-trillion-driven-by-robust-demand-for-corporate-financing",
-      "published_date": "2026-04-06T15:42:12+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660521/saudi-arabia/ncm-warns-of-heavy-rain-and-flash-floods-hitting-several-saudi-regions-on-tuesday",
+      "published_date": "2026-04-13T20:57:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alkhorayef inspects Ras Al-Khair Port, Ma&#039;aden facilities and Royal Commission’s operations center",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660519/saudi-arabia/alkhorayef-inspects-ras-al-khair-port-maaden-facilities-and-royal-commissions-operations-center",
+      "published_date": "2026-04-13T17:20:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh opens bids for naming rights of five metro stations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660512/saudi-arabia/riyadh-opens-bids-for-naming-rights-of-five-metro-stations",
+      "published_date": "2026-04-13T14:03:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia, Indonesia to bolster cultural collaboration",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660511/saudi-arabia/saudi-arabia-indonesia-to-bolster-cultural-collaboration",
+      "published_date": "2026-04-13T13:51:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi court upholds dismissal for absenteeism despite attendance signing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660510/saudi-arabia/saudi-court-upholds-dismissal-for-absenteeism-despite-attendance-signing",
+      "published_date": "2026-04-13T13:19:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Global Ports trials East–West multimodal route linking Gulf to Red Sea ports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660504/saudi-arabia/saudi-global-ports-trials-eastwest-multimodal-route-linking-gulf-to-red-sea-ports",
+      "published_date": "2026-04-13T12:44:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Expatriates, without an official permit, are not allowed to enter Makkah from Monday",
@@ -533,55 +596,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660415/saudi-arabia/saudi-arabia-surpasses-100-self-sufficiency-in-key-food-products-led-by-dairy-dates-and-eggs",
       "published_date": "2026-04-09T20:32:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudia to resume flights to Dubai, Abu Dhabi, Amman from April 11",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660413/saudi-arabia/saudia-to-resume-flights-to-dubai-abu-dhabi-amman-from-april-11",
-      "published_date": "2026-04-09T17:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AlUla shortlisted for ‘Film City of the Year 2026’ at Global Production Awards",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660396/saudi-arabia/alula-shortlisted-for-film-city-of-the-year-2026-at-global-production-awards",
-      "published_date": "2026-04-09T12:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Hogail launches &#039;Sandbox&#039; initiative for municipal, housing sectors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660381/saudi-arabia/al-hogail-launches-sandbox-initiative-for-municipal-housing-sectors",
-      "published_date": "2026-04-08T20:40:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Baha dams receive over 4 million cubic meters of floodwater after heavy rains",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660376/saudi-arabia/al-baha-dams-receive-over-4-million-cubic-meters-of-floodwater-after-heavy-rains",
-      "published_date": "2026-04-08T16:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HR Ministry initiates 2nd phase of recognizing notarized employment contracts as enforceable documents",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660373/saudi-arabia/hr-ministry-initiates-2nd-phase-of-recognizing-notarized-employment-contracts-as-enforceable-documents",
-      "published_date": "2026-04-08T14:28:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry launches initiative for offers and discounts for pilgrims via Nusk Card",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660370/saudi-arabia/hajj-ministry-launches-initiative-for-offers-and-discounts-for-pilgrims-via-nusk-card",
-      "published_date": "2026-04-08T13:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia to develop 27 eco-cultural heritage sites across national parks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660369/saudi-arabia/saudi-arabia-to-develop-27-eco-cultural-heritage-sites-in-national-parks",
-      "published_date": "2026-04-08T13:23:35+00:00",
       "category": "Local Events"
     }
   ]
