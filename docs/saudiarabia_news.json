@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-14T11:56:04.073517+00:00",
-  "story_count": 85,
+  "last_updated": "2026-04-14T23:43:26.672651+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Crown Prince, EU Council president discuss regional developments in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660551/saudi-arabia/crown-prince-meets-eu-council-president-to-discuss-regional-developments",
+      "published_date": "2026-04-14T22:27:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Expo 2030 Riyadh construction begins as Saudi Arabia updates BIE in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660546/saudi-arabia/expo-2030-construction-begins-as-saudi-updates-bie-in-paris",
+      "published_date": "2026-04-14T15:49:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia ranks first globally in digital readiness index",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660543/saudi-arabia/saudi-arabia-ranks-first-globally-in-digital-readiness-index-2025",
+      "published_date": "2026-04-14T14:22:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TASI rises to highest close since November 2025 as gains reach 9.5% in 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660539/saudi-arabia/tasi-rises-to-highest-close-since-november-2025-as-gains-reach-95-in-2026",
+      "published_date": "2026-04-14T13:33:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses regional developments with UAE, Qatari counterparts in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660538/saudi-arabia/saudi-fm-discusses-regional-developments-with-uae-qatari-counterparts-in-phone-call",
+      "published_date": "2026-04-14T13:11:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aramco Stadium recycles 18,000 tons of construction waste in sustainability push",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660536/saudi-arabia/aramco-stadium-recycles-18000-tons-of-construction-waste-in-sustainability-push",
+      "published_date": "2026-04-14T13:00:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Two royal reserves witness births of 55 Arabian oryx and gazelles",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Iran attacks on Kuwait, reaffirms full support",
+      "title": "Saudi Arabia affirms uninterrupted global energy flows, reinforcing economic stability",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660452/saudi-arabia/saudi-arabia-condemns-iran-attacks-on-kuwait-backs-full-support",
-      "published_date": "2026-04-11T16:01:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi finance minister meets Pakistan PM in Islamabad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660443/saudi-arabia/saudi-finance-minister-meets-pakistan-pm-in-islamabad",
-      "published_date": "2026-04-11T04:08:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Spanish FMs discuss over phone repercussions of regional situation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660417/saudi-arabia/saudi-spanish-fms-discuss-over-phone-repercussions-of-regional-situation",
-      "published_date": "2026-04-09T20:56:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Faisal, Marco Rubio discuss latest regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660416/saudi-arabia/prince-faisal-marco-rubio-discuss-latest-regional-developments-in-phone-call",
-      "published_date": "2026-04-09T20:49:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Absher introduces seamless online transfer of vehicle number plates",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660412/saudi-arabia/absher-introduces-seamless-online-transfer-of-vehicle-number-plates",
-      "published_date": "2026-04-09T17:07:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC seeks permanent solution for regional crisis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660411/saudi-arabia/gcc-seeks-permanent-solution-to-end-regional-crisis",
-      "published_date": "2026-04-09T15:29:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660552/saudi-arabia/saudi-arabia-affirms-uninterrupted-global-energy-flows-reinforcing-economic-stability",
+      "published_date": "2026-04-14T22:34:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump condemned over threat that Iran's 'civilisation will die'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T21:56:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Use of portable gas stoves and cylinders by guests at hospitality facilities banned in Madinah",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660516/saudi-arabia/use-of-portable-gas-stoves-and-cylinders-by-guests-at-hospitality-facilities-banned-in-madinah",
@@ -319,11 +319,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia opens Black Gold Museum with 350 artworks from 30 countries",
+      "title": "Saudi, Indonesian ministers meet to discuss cooperation in creative economy",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660319/saudi-arabia/saudi-arabia-opens-black-gold-museum-with-350-artworks-from-30-countries",
-      "published_date": "2026-04-07T12:15:45+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/660541/saudi-arabia/saudi-indonesian-ministers-meet-to-discuss-cooperation-in-creative-economy",
+      "published_date": "2026-04-14T14:02:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia enforces Financial Oversight Law to strengthen transparency, accountability, and fiscal integrity",
@@ -445,18 +445,67 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi life expectancy rises to 79.9 as clinical trials grow over 50%",
+      "title": "Saudi Arabia to slap SR100,000 fine on those who facilitate visit visa holders to perform Hajj illegally",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660330/saudi-arabia/saudi-life-expectancy-rises-to-80-as-clinical-trials-grow-over-50",
-      "published_date": "2026-04-07T13:43:10+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660550/saudi-arabia/saudi-arabia-to-slap-sr100000-fine-on-those-who-facilitate-visit-visa-holders-to-perform-hajj-illegally",
+      "published_date": "2026-04-14T21:02:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Commerce ministry: AI commercial registrations soar 240% in 5 years",
+      "title": "Saudi Arabia launches National Health Survey",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660329/saudi-arabia/commerce-ministry-ai-commercial-registrations-soar-240-in-5-years",
-      "published_date": "2026-04-07T13:43:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660549/saudi-arabia/saudi-arabia-launches-national-health-survey",
+      "published_date": "2026-04-14T17:20:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Al-Rabiah briefs Makkah Deputy Emir on Hajj preparations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660548/saudi-arabia/minister-al-rabiah-briefs-makkah-deputy-emir-on-hajj-preparations",
+      "published_date": "2026-04-14T16:45:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Israeli town on the frontline with Hezbollah",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cqxll4qz3d5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T16:24:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 3,000 counterfeit clothing items seized in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660547/saudi-arabia/over-3000-counterfeit-clothing-items-seized-in-jeddah",
+      "published_date": "2026-04-14T16:16:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GASTAT survey: Over 75% of Saudi population visited cultural events in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660544/saudi-arabia/gastat-survey-over-75-of-saudi-population-visited-cultural-events-in-2025",
+      "published_date": "2026-04-14T15:13:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Preemptive arrangements for transhipments are in place at Saudi ports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660542/saudi-arabia/preemptive-arrangements-for-transit-shipments-are-in-place-at-saudi-ports",
+      "published_date": "2026-04-14T14:16:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alkhorayef reviews operational readiness, development projects in Jubail Industrial City",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660540/saudi-arabia/alkhorayef-reviews-operational-readiness-development-projects-in-jubail-industrial-city",
+      "published_date": "2026-04-14T13:41:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clouds swirl over Taif mountains as cool weather draws visitors outdoors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660535/saudi-arabia/clouds-swirl-over-taif-mountains-as-cool-weather-draws-visitors-outdoors",
+      "published_date": "2026-04-14T12:59:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
@@ -533,69 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660475/saudi-arabia/makkah-border-guards-rescue-two-bangladeshis-stranded-at-sea",
       "published_date": "2026-04-12T13:33:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asir sees 65.6mm of rain as NCM monitors Kingdom-wide activity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660469/saudi-arabia/asir-sees-656mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
-      "published_date": "2026-04-12T13:17:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts widespread thunderstorms across Kingdom to next Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660466/saudi-arabia/ncm-forecasts-widespread-thunderstorms-across-kingdom-to-next-tuesday",
-      "published_date": "2026-04-12T12:53:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia suspends in-person classes in multiple regions amid heavy rain",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660458/saudi-arabia/saudi-suspends-classes-in-multiple-regions-amid-heavy-rain",
-      "published_date": "2026-04-12T01:52:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moderate to heavy rain forecast in Riyadh region through Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660442/saudi-arabia/moderate-to-heavy-rain-forecast-in-riyadh-region-through-sunday",
-      "published_date": "2026-04-11T04:08:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia mourns worker killed in attack on energy facility",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660441/saudi-arabia/saudi-arabia-mourns-worker-killed-in-energy-facility-attack",
-      "published_date": "2026-04-11T03:50:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi tourism sets Hajj penalties up to SR50,000 for hospitality violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660439/saudi-arabia/saudi-sets-hajj-hospitality-penalties-up-to-sr50000",
-      "published_date": "2026-04-11T03:49:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts heavy rain until Tuesday, Civil Defense issues alert",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660431/saudi-arabia/saudi-arabia-forecasts-heavy-rain-until-tuesday-across-regions",
-      "published_date": "2026-04-10T16:38:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi woman saves toddler after cardiac arrest at Quba Mosque",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660426/saudi-arabia/saudi-woman-saves-toddler-after-cardiac-arrest-at-quba-mosque",
-      "published_date": "2026-04-10T11:44:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia surpasses 100% self-sufficiency in key food products, led by dairy, dates, and eggs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660415/saudi-arabia/saudi-arabia-surpasses-100-self-sufficiency-in-key-food-products-led-by-dairy-dates-and-eggs",
-      "published_date": "2026-04-09T20:32:16+00:00",
       "category": "Local Events"
     }
   ]
