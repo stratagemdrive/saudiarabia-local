@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-13T23:44:10.345621+00:00",
+  "last_updated": "2026-04-14T11:56:04.073517+00:00",
   "story_count": 85,
   "stories": [
     {
@@ -144,10 +144,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T19:20:08+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Three expatriates arrested for prostitution in Madinah",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660517/saudi-arabia/three-expatriates-arrested-for-prostitution-in-madinah",
       "published_date": "2026-04-13T15:49:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The US blockade of Iran is a gamble. Will it work?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T15:27:43+00:00",
       "category": "Military"
     },
     {
@@ -162,6 +176,20 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-13T10:18:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer says UK will not join Trump's blockade of Iran's ports",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T10:09:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T22:57:22+00:00",
       "category": "Military"
     },
     {
@@ -253,34 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-07T21:56:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians form human chains at bridges and power plants",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T19:36:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T14:12:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T13:55:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan condemns Iran attacks on Saudi energy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660318/saudi-arabia/pakistan-condemns-iran-attacks-on-saudi-energy-sites",
-      "published_date": "2026-04-07T12:08:06+00:00",
       "category": "Military"
     },
     {
