@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-15T11:55:22.895217+00:00",
+  "last_updated": "2026-04-15T23:43:10.624989+00:00",
   "story_count": 84,
   "stories": [
+    {
+      "title": "Al-Samaani: New law provides more structured and transparent enforcement process",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660583/saudi-arabia/al-samaani-new-law-provides-more-structured-and-transparent-enforcement-process",
+      "published_date": "2026-04-15T21:20:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-15T21:10:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Russian foreign ministers discuss enhancing regional security in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660582/saudi-arabia/saudi-russian-foreign-ministers-discuss-enhancing-regional-security-in-phone-call",
+      "published_date": "2026-04-15T21:06:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA begins classifying fines according to size of establishment in bid to support MSMEs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660578/saudi-arabia/sfda-begins-classifying-fines-according-to-size-of-establishment-in-bid-to-support-msmes",
+      "published_date": "2026-04-15T15:06:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump hints Iran talks could resume this week as US port blockade continues",
       "source": "BBC News",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Commerce Ministry recalls 33,250 Toyota, Lexus vehicles over electronic system fault",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660480/saudi-arabia/commerce-ministry-recalls-33250-toyota-lexus-vehicles-over-electronic-system-fault",
-      "published_date": "2026-04-12T14:30:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC ministers says region safe for tourists, projects progressing as planned",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660479/saudi-arabia/gcc-tourism-ministers-affirm-stability-condemn-iran-attacks",
-      "published_date": "2026-04-12T14:03:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HR Ministry raises employment contracts compliance rate via Qiwa platform to 85% from April 30",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660467/saudi-arabia/hr-ministry-raises-employment-contracts-compliance-rate-via-qiwa-platform-to-85-from-april-30",
-      "published_date": "2026-04-12T13:09:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 7,392 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660455/saudi-arabia/saudi-arabia-deports-7392-illegal-residents-in-a-week",
-      "published_date": "2026-04-11T17:40:30+00:00",
-      "category": "Diplomacy"
+      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-15T10:00:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia affirms uninterrupted global energy flows, reinforcing economic stability",
@@ -263,27 +270,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T22:09:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T20:26:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bowen: Ceasefire means respite for civilians, but it might not last long",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T17:05:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "What does the blockade mean for oil prices?",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/c20ddq3y8n2o?at_medium=RSS&at_campaign=rss",
@@ -326,11 +312,53 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T14:16:07+00:00",
-      "category": "Energy"
+      "title": "Al-Rumayyan: PIF contributes one-third of non-oil GDP growth, amounting to SR910 billion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660580/saudi-arabia/al-rumayyan-pif-contributes-one-third-of-non-oil-gdp-growth-amounting-to-sr910-billion",
+      "published_date": "2026-04-15T17:40:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Land Bridge design contract awarded to Spanish firm Sener",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660576/saudi-arabia/saudi-land-bridge-design-contract-awarded-to-spanish-firm-sener",
+      "published_date": "2026-04-15T14:30:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rome set to host FII PRIORITY Europe Summit in June as Europe reimagines capital and sovereignty",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660575/saudi-arabia/rome-set-to-host-fii-priority-europe-summit-in-june-as-europe-reimagines-capital-and-sovereignty",
+      "published_date": "2026-04-15T14:06:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prince Badr: Culture is most important bridge to deepen Saudi-Malaysian historical ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660569/saudi-arabia/prince-badr-culture-is-most-important-bridge-to-deepen-saudi-malaysian-historical-ties",
+      "published_date": "2026-04-15T13:01:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PIF governor: No projects cancelled in NEOM",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660565/saudi-arabia/pif-governor-says-no-projects-cancelled-in-neom-spending-reviewed",
+      "published_date": "2026-04-15T12:48:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi inflation rises 0.3% to 1.8% in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660563/saudi-arabia/saudi-inflation-rises-03-to-18-in-march-2026",
+      "published_date": "2026-04-15T12:30:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PIF approves 2026–2030 strategy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660562/saudi-arabia/pif-approves-20262030-strategy-to-boost-economic-diversification",
+      "published_date": "2026-04-15T11:21:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi, Indonesian ministers meet to discuss cooperation in creative economy",
@@ -424,32 +452,46 @@
       "category": "Economy"
     },
     {
-      "title": "SFDA, Mawani join hands to enhance resilience of local and regional supply chains",
+      "title": "Permanent Hajj and Umrah Committee reviews Hajj operational plans",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660403/saudi-arabia/sfda-mawani-join-hands-to-enhance-resilience-of-local-and-regional-supply-chains",
-      "published_date": "2026-04-09T13:46:17+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660584/saudi-arabia/permanent-hajj-and-umrah-committee-reviews-hajj-operational-plans",
+      "published_date": "2026-04-15T21:46:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Jazan Municipality implements 28 development projects worth SR546 million in Farasan Islands",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660402/saudi-arabia/jazan-municipality-implements-28-development-projects-worth-sr546-million",
-      "published_date": "2026-04-09T13:45:01+00:00",
-      "category": "Economy"
+      "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-15T18:48:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AlUla saffron earns ‘Grade One’ status as cultivation expands",
+      "title": "NCM forecast: Thunderstorms to hit most Saudi regions until Sunday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660397/saudi-arabia/alula-saffron-earns-grade-one-status-as-cultivation-expands",
-      "published_date": "2026-04-09T12:57:22+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660581/saudi-arabia/ncm-forecast-thunderstorms-to-hit-most-saudi-regions-until-sunday",
+      "published_date": "2026-04-15T18:27:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia affirms abundance of poultry products in local market",
+      "title": "Makkah police arrest Egyptian resident for publishing fraudulent Hajj ads",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660374/saudi-arabia/saudi-arabia-affirms-abundance-of-poultry-products-in-local-market",
-      "published_date": "2026-04-08T15:25:38+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660574/saudi-arabia/makkah-police-arrest-egyptian-resident-for-publishing-fraudulent-hajj-ads",
+      "published_date": "2026-04-15T13:24:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jazan sees 34.2mm of rain as NCM monitors Kingdom-wide activity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660566/saudi-arabia/jazan-sees-342mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
+      "published_date": "2026-04-15T12:48:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi math team wins 3 awards at European Girls’ Olympiad 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660564/saudi-arabia/saudi-math-team-wins-3-awards-at-european-girls-olympiad-2026",
+      "published_date": "2026-04-15T12:42:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Israeli town on the frontline with Hezbollah",
@@ -547,48 +589,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660519/saudi-arabia/alkhorayef-inspects-ras-al-khair-port-maaden-facilities-and-royal-commissions-operations-center",
       "published_date": "2026-04-13T17:20:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh opens bids for naming rights of five metro stations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660512/saudi-arabia/riyadh-opens-bids-for-naming-rights-of-five-metro-stations",
-      "published_date": "2026-04-13T14:03:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia, Indonesia to bolster cultural collaboration",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660511/saudi-arabia/saudi-arabia-indonesia-to-bolster-cultural-collaboration",
-      "published_date": "2026-04-13T13:51:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi court upholds dismissal for absenteeism despite attendance signing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660510/saudi-arabia/saudi-court-upholds-dismissal-for-absenteeism-despite-attendance-signing",
-      "published_date": "2026-04-13T13:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Global Ports trials East–West multimodal route linking Gulf to Red Sea ports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660504/saudi-arabia/saudi-global-ports-trials-eastwest-multimodal-route-linking-gulf-to-red-sea-ports",
-      "published_date": "2026-04-13T12:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Expatriates, without an official permit, are not allowed to enter Makkah from Monday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660491/saudi-arabia/expatriates-without-an-official-permit-are-not-allowed-to-enter-makkah-from-monday",
-      "published_date": "2026-04-12T21:55:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry: Hajj visa is the only officially approved visa for performing pilgrimage",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660489/saudi-arabia/hajj-ministry-hajj-visa-is-the-only-officially-approved-visa-for-performing-pilgrimage",
-      "published_date": "2026-04-12T20:26:19+00:00",
       "category": "Local Events"
     }
   ]
