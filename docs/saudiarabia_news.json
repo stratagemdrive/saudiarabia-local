@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-14T23:43:26.672651+00:00",
-  "story_count": 83,
+  "last_updated": "2026-04-15T11:55:22.895217+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Trump hints Iran talks could resume this week as US port blockade continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-15T04:04:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince, EU Council president discuss regional developments in Jeddah",
       "source": "Saudi Gazette",
@@ -137,17 +144,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crown Prince, Macron discuss ceasefire, maritime threats in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660453/saudi-arabia/crown-prince-macron-discuss-ceasefire-and-maritime-threats",
-      "published_date": "2026-04-11T16:15:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi Arabia affirms uninterrupted global energy flows, reinforcing economic stability",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660552/saudi-arabia/saudi-arabia-affirms-uninterrupted-global-energy-flows-reinforcing-economic-stability",
       "published_date": "2026-04-14T22:34:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy suspends defence agreement with Israel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T20:21:57+00:00",
       "category": "Military"
     },
     {
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+      "title": "What does the blockade mean for oil prices?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T03:30:55+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/videos/c20ddq3y8n2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T16:43:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T14:18:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Use of portable gas stoves and cylinders by guests at hospitality facilities banned in Madinah",
@@ -438,17 +452,24 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi domestic tourism hits 28.9 million in Q1 2026, spending reaches SR34.7 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660359/saudi-arabia/saudi-domestic-tourism-hits-289-million-in-q1-2026-spending-reaches-sar-347-billion",
-      "published_date": "2026-04-08T11:04:36+00:00",
-      "category": "Economy"
+      "title": "The Israeli town on the frontline with Hezbollah",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cm2kk32npv5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T21:14:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia to slap SR100,000 fine on those who facilitate visit visa holders to perform Hajj illegally",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660550/saudi-arabia/saudi-arabia-to-slap-sr100000-fine-on-those-who-facilitate-visit-visa-holders-to-perform-hajj-illegally",
       "published_date": "2026-04-14T21:02:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US-Kuwaiti journalist detained in Kuwait after social media posts, watchdog says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T20:14:53+00:00",
       "category": "Local Events"
     },
     {
@@ -568,20 +589,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660489/saudi-arabia/hajj-ministry-hajj-visa-is-the-only-officially-approved-visa-for-performing-pilgrimage",
       "published_date": "2026-04-12T20:26:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Registration open for domestic pilgrims, who previously performed Hajj, from April 18",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660481/saudi-arabia/registration-open-for-domestic-pilgrims-who-previously-performed-hajj-from-april-18",
-      "published_date": "2026-04-12T14:40:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Border Guards rescue two Bangladeshis stranded at sea",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660475/saudi-arabia/makkah-border-guards-rescue-two-bangladeshis-stranded-at-sea",
-      "published_date": "2026-04-12T13:33:28+00:00",
       "category": "Local Events"
     }
   ]
