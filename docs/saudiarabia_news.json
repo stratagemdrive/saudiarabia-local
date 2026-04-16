@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-16T11:57:34.557633+00:00",
-  "story_count": 82,
+  "last_updated": "2026-04-16T23:41:57.575792+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Shoura Council speaker attends IPU General Assembly in Istanbul",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660611/saudi-arabia/shoura-council-speaker-attends-ipu-general-assembly-in-istanbul",
+      "published_date": "2026-04-16T20:54:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes Trump’s announcement of ceasefire in Lebanon",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660609/saudi-arabia/saudi-arabia-welcomes-trumps-announcement-of-ceasefire-in-lebanon",
+      "published_date": "2026-04-16T19:34:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Surgical separation of Saudi conjoined twins successful",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660607/saudi-arabia/surgical-separation-of-saudi-conjoined-twins-successful",
+      "published_date": "2026-04-16T17:11:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia underscores empowering elderly people to achieve Sustainable Development Goals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660604/saudi-arabia/saudi-arabia-underscores-empowering-elderly-people-to-achieve-sustainable-development-goals",
+      "published_date": "2026-04-16T14:38:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia announces $8 billion in financial support for Pakistan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660600/saudi-arabia/saudi-arabia-announces-8-billion-in-financial-support-for-pakistan",
+      "published_date": "2026-04-16T13:00:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince, Pakistan PM discuss US-Iran talks, regional developments",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Passports Directorate starts issuing Makkah entry e-permits for Hajj 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660515/saudi-arabia/passports-directorate-launches-makkah-entry-e-permits-for-hajj-2026",
-      "published_date": "2026-04-13T14:31:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Iranian foreign ministers discuss over phone post peace talk developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660506/saudi-arabia/saudi-iranian-foreign-ministers-discuss-over-phone-post-peace-talk-developments",
-      "published_date": "2026-04-13T12:52:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Pakistani FMs underscore diplomacy in restoring regional stability in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660505/saudi-arabia/saudi-pakistani-fms-underscore-diplomacy-in-restoring-regional-stability-in-phone-call",
-      "published_date": "2026-04-13T12:48:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman, Crown Prince congratulate Djibouti president on re-election",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660486/saudi-arabia/king-salman-crown-prince-congratulate-djibouti-president-on-re-election",
-      "published_date": "2026-04-12T17:31:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM, Korean Presidential Special Envoy discuss regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660485/saudi-arabia/saudi-fm-korean-presidential-special-envoy-discuss-regional-developments",
-      "published_date": "2026-04-12T17:05:53+00:00",
-      "category": "Diplomacy"
+      "title": "Lyse Doucet in Iran: Destruction shows huge civilian cost of the war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c62j6d4n0wqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-16T19:35:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
@@ -228,34 +235,6 @@
       "category": "Military"
     },
     {
-      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T23:01:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T16:06:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has US achieved its war objectives in Iran?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T13:11:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T12:12:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "What does the blockade mean for oil prices?",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/c20ddq3y8n2o?at_medium=RSS&at_campaign=rss",
@@ -284,18 +263,11 @@
       "category": "Energy"
     },
     {
-      "title": "Attacks on Saudi energy sites kill one, disrupt East-West pipeline by 700,000 bpd, cut 600,000 bpd output",
+      "title": "CEDA reviews report highlighting exceptional resilience of Saudi economy amid regional tensions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660414/saudi-arabia/attacks-on-saudi-energy-sites-kill-one-disrupt-east-west-pipeline-by-700000-bpd-cut-600000-bpd-output",
-      "published_date": "2026-04-09T19:22:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Industrial Production Index rises by 9% in February",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660401/saudi-arabia/saudi-industrial-production-index-rises-by-9-in-february",
-      "published_date": "2026-04-09T13:14:47+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/660601/saudi-arabia/ceda-reviews-report-highlighting-exceptional-resilience-of-saudi-economy-amid-regional-tensions",
+      "published_date": "2026-04-16T14:15:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Rumayyan: PIF contributes one-third of non-oil GDP growth, amounting to SR910 billion",
@@ -431,11 +403,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Business Confidence Index shows optimism with 52 points despite geopolitical pressures",
+      "title": "Culture minister announces initiative to support local communities in restoring heritage towns",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660405/saudi-arabia/saudi-business-confidence-index-shows-optimism-with-52-points-despite-geopolitical-pressures",
-      "published_date": "2026-04-09T14:05:51+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660610/saudi-arabia/culture-minister-announces-initiative-to-support-local-communities-in-restoring-heritage-towns",
+      "published_date": "2026-04-16T20:17:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commerce ministry recalls 18,708 Toyota-Lexus vehicles due to transmission defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660606/saudi-arabia/commerce-ministry-recalls-18708-toyota-lexus-vehicles-due-to-transmission-defect",
+      "published_date": "2026-04-16T16:28:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah police arrest Egyptian for promoting fake Hajj services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660605/saudi-arabia/makkah-police-arrest-egyptian-for-promoting-fake-hajj-services",
+      "published_date": "2026-04-16T15:05:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh Art unveils 75 permanent works, plans 115 more across capital",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660603/saudi-arabia/riyadh-art-unveils-75-permanent-works-plans-115-more-across-capital",
+      "published_date": "2026-04-16T14:34:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh to build tunnel, 4 bridges at Thumamah–Othman intersection",
@@ -547,34 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660547/saudi-arabia/over-3000-counterfeit-clothing-items-seized-in-jeddah",
       "published_date": "2026-04-14T16:16:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GASTAT survey: Over 75% of Saudi population visited cultural events in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660544/saudi-arabia/gastat-survey-over-75-of-saudi-population-visited-cultural-events-in-2025",
-      "published_date": "2026-04-14T15:13:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preemptive arrangements for transhipments are in place at Saudi ports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660542/saudi-arabia/preemptive-arrangements-for-transit-shipments-are-in-place-at-saudi-ports",
-      "published_date": "2026-04-14T14:16:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alkhorayef reviews operational readiness, development projects in Jubail Industrial City",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660540/saudi-arabia/alkhorayef-reviews-operational-readiness-development-projects-in-jubail-industrial-city",
-      "published_date": "2026-04-14T13:41:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clouds swirl over Taif mountains as cool weather draws visitors outdoors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660535/saudi-arabia/clouds-swirl-over-taif-mountains-as-cool-weather-draws-visitors-outdoors",
-      "published_date": "2026-04-14T12:59:44+00:00",
       "category": "Local Events"
     }
   ]
