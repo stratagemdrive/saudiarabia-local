@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-15T23:43:10.624989+00:00",
-  "story_count": 84,
+  "last_updated": "2026-04-16T11:57:34.557633+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Crown Prince, Pakistan PM discuss US-Iran talks, regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660586/saudi-arabia/crown-prince-pakistan-pm-discuss-us-iran-talks-and-regional-developments",
+      "published_date": "2026-04-16T03:39:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Al-Samaani: New law provides more structured and transparent enforcement process",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia summons Iraqi ambassador over drone attacks from Iraqi territory",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660484/saudi-arabia/saudi-arabia-summons-iraqi-ambassador-over-drone-attacks-from-iraqi-territory",
-      "published_date": "2026-04-12T16:40:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
@@ -253,20 +253,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-09T12:12:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mawani launches 1m sq m truck staging area at Jeddah Islamic Port",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660395/saudi-arabia/mawani-launches-1m-sq-m-truck-staging-area-at-jeddah-port",
-      "published_date": "2026-04-09T11:47:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T11:39:56+00:00",
       "category": "Military"
     },
     {
@@ -452,6 +438,27 @@
       "category": "Economy"
     },
     {
+      "title": "Riyadh to build tunnel, 4 bridges at Thumamah–Othman intersection",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660596/saudi-arabia/riyadh-to-build-tunnel-and-4-bridges-at-thumamahothman-intersection",
+      "published_date": "2026-04-16T11:54:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia offers condolences to Türkiye over Kahramanmaraş school incident",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660595/saudi-arabia/saudi-arabia-offers-condolences-to-turkiye-over-kahramanmaras-school-incident",
+      "published_date": "2026-04-16T11:52:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM warns of high winds, dust storms across Kingdom through Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660585/saudi-arabia/ncm-warns-of-high-winds-dust-storms-across-kingdom-through-saturday",
+      "published_date": "2026-04-16T03:20:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Permanent Hajj and Umrah Committee reviews Hajj operational plans",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660584/saudi-arabia/permanent-hajj-and-umrah-committee-reviews-hajj-operational-plans",
@@ -568,27 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660535/saudi-arabia/clouds-swirl-over-taif-mountains-as-cool-weather-draws-visitors-outdoors",
       "published_date": "2026-04-14T12:59:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T21:29:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM warns of heavy rain and flash floods hitting several Saudi regions on Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660521/saudi-arabia/ncm-warns-of-heavy-rain-and-flash-floods-hitting-several-saudi-regions-on-tuesday",
-      "published_date": "2026-04-13T20:57:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alkhorayef inspects Ras Al-Khair Port, Ma&#039;aden facilities and Royal Commission’s operations center",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660519/saudi-arabia/alkhorayef-inspects-ras-al-khair-port-maaden-facilities-and-royal-commissions-operations-center",
-      "published_date": "2026-04-13T17:20:38+00:00",
       "category": "Local Events"
     }
   ]
