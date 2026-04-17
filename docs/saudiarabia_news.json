@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-17T11:51:09.371501+00:00",
-  "story_count": 79,
+  "last_updated": "2026-04-17T23:40:51.335942+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Saudi, US foreign ministers discuss Hormuz, Lebanon ceasefire",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660633/saudi-arabia/saudi-us-foreign-ministers-discuss-hormuz-and-lebanon-ceasefire",
+      "published_date": "2026-04-17T20:08:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-17T19:59:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry blocks online store over use of national symbols in ads",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660631/saudi-arabia/commerce-ministry-blocks-online-store-over-use-of-national-symbols-in-ads",
+      "published_date": "2026-04-17T17:34:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Shoura Council speaker attends IPU General Assembly in Istanbul",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Two royal reserves witness births of 55 Arabian oryx and gazelles",
+      "title": "ZATCA foils 29kg cocaine smuggling attempt at Jeddah port",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660524/saudi-arabia/two-royal-reserves-witness-births-of-55-arabian-oryxand-gazelles",
-      "published_date": "2026-04-13T21:20:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Kuwaiti FMs discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660523/saudi-arabia/saudi-kuwaiti-fms-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-04-13T21:15:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister discusses regional developments with Egyptian, Kyrgyz counterparts in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660518/saudi-arabia/saudi-foreign-minister-discusses-regional-developments-with-egyptian-kyrgyz-counterparts-in-phone-call",
-      "published_date": "2026-04-13T16:47:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660622/saudi-arabia/zatca-foils-29kg-cocaine-smuggling-attempt-at-jeddah-port",
+      "published_date": "2026-04-17T13:42:00+00:00",
+      "category": "Military"
     },
     {
       "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
@@ -242,11 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T17:08:27+00:00",
-      "category": "Military"
+      "title": "Saudi grant supports irrigation, food security in Pakistan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660624/saudi-arabia/saudi-grant-supports-irrigation-and-food-security-in-pakistan",
+      "published_date": "2026-04-17T13:54:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "What does the blockade mean for oil prices?",
@@ -275,6 +282,13 @@
       "url": "https://saudigazette.com.sa/article/660461/saudi-arabia/east-west-pipeline-energy-facilities-fully-restored-after-attacks",
       "published_date": "2026-04-12T11:17:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan: No quick recovery from Iran war",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660627/saudi-arabia/mohammed-al-jadaan-iran-war-gulf-reforms-investments-saudi-economy-resilience-east-west-pipeline-hormuz-imf-world-bank-meetings",
+      "published_date": "2026-04-17T15:09:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "CEDA reviews report highlighting exceptional resilience of Saudi economy amid regional tensions",
@@ -410,11 +424,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Railways launches 5 logistics routes to connect Gulf ports to Saudi Arabia",
+      "title": "Saudi Arabia amends anti-money laundering law, imposes travel ban on offenders",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660446/saudi-arabia/saudi-railways-launches-5-logistics-routes-to-connect-gulf-ports-to-saudi-arabia",
-      "published_date": "2026-04-11T14:34:26+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660632/saudi-arabia/saudi-amends-anti-money-laundering-law-adds-travel-bans",
+      "published_date": "2026-04-17T18:36:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside the 10 routes carrying Hajj pilgrims to Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660629/saudi-arabia/how-saudi-arabias-road-network-moves-millions-of-hajj-pilgrims-safely-to-the-holy-mosques",
+      "published_date": "2026-04-17T15:14:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rain expected in Riyadh through Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660628/saudi-arabia/rain-expected-in-riyadh-through-sunday",
+      "published_date": "2026-04-17T15:10:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Probe ongoing into Saudi tourist’s death in Istanbul hotel",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660623/saudi-arabia/probe-ongoing-into-saudi-tourist-death-in-istanbul-hotel",
+      "published_date": "2026-04-17T13:48:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Culture minister announces initiative to support local communities in restoring heritage towns",
@@ -526,34 +561,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-14T20:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia launches National Health Survey",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660549/saudi-arabia/saudi-arabia-launches-national-health-survey",
-      "published_date": "2026-04-14T17:20:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Al-Rabiah briefs Makkah Deputy Emir on Hajj preparations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660548/saudi-arabia/minister-al-rabiah-briefs-makkah-deputy-emir-on-hajj-preparations",
-      "published_date": "2026-04-14T16:45:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Israeli town on the frontline with Hezbollah",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cqxll4qz3d5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T16:24:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 3,000 counterfeit clothing items seized in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660547/saudi-arabia/over-3000-counterfeit-clothing-items-seized-in-jeddah",
-      "published_date": "2026-04-14T16:16:21+00:00",
       "category": "Local Events"
     }
   ]
