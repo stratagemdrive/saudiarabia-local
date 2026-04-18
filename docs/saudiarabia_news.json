@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-17T23:40:51.335942+00:00",
+  "last_updated": "2026-04-18T11:33:07.894756+00:00",
   "story_count": 80,
   "stories": [
     {
@@ -424,6 +424,13 @@
       "category": "Economy"
     },
     {
+      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T00:20:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi Arabia amends anti-money laundering law, imposes travel ban on offenders",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660632/saudi-arabia/saudi-amends-anti-money-laundering-law-adds-travel-bans",
@@ -554,13 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660550/saudi-arabia/saudi-arabia-to-slap-sr100000-fine-on-those-who-facilitate-visit-visa-holders-to-perform-hajj-illegally",
       "published_date": "2026-04-14T21:02:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US-Kuwaiti journalist detained in Kuwait after social media posts, watchdog says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T20:14:53+00:00",
       "category": "Local Events"
     }
   ]
