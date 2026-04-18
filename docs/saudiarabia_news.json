@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-18T11:33:07.894756+00:00",
-  "story_count": 80,
+  "last_updated": "2026-04-18T23:37:21.031507+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "14,487 violators of residency, border security and labor laws arrested in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660650/saudi-arabia/14487-violators-of-residency-border-security-and-labor-laws-arrested-in-a-week",
+      "published_date": "2026-04-18T18:19:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Quadrilateral Islamic ministerial meeting in Antalya focused on regional de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660635/saudi-arabia/quadrilateral-islamic-ministerial-meeting-in-antalya-focused-on-regional-de-escalation",
+      "published_date": "2026-04-18T12:45:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, US foreign ministers discuss Hormuz, Lebanon ceasefire",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses regional developments with UAE, Qatari counterparts in phone call",
+      "title": "Holy Kaaba maintenance completed with highest global standards",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660538/saudi-arabia/saudi-fm-discusses-regional-developments-with-uae-qatari-counterparts-in-phone-call",
-      "published_date": "2026-04-14T13:11:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660647/saudi-arabia/holy-kaaba-maintenance-completed-with-highest-global-standards",
+      "published_date": "2026-04-18T16:48:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Aramco Stadium recycles 18,000 tons of construction waste in sustainability push",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660536/saudi-arabia/aramco-stadium-recycles-18000-tons-of-construction-waste-in-sustainability-push",
-      "published_date": "2026-04-14T13:00:04+00:00",
-      "category": "Diplomacy"
+      "title": "French peacekeeper killed in southern Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T14:53:17+00:00",
+      "category": "Military"
     },
     {
       "title": "ZATCA foils 29kg cocaine smuggling attempt at Jeddah port",
@@ -239,13 +253,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-12T22:57:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistani military force arrives in Saudi Arabia as part of defense pact",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660444/saudi-arabia/pakistani-military-force-arrives-in-saudi-arabia-as-part-of-defense-pact",
-      "published_date": "2026-04-11T12:34:54+00:00",
       "category": "Military"
     },
     {
@@ -410,18 +417,39 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs reports 900 contraband seizures last week",
+      "title": "Hajj Ministry asserts no entry to Makkah without an official Hajj permit",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660456/saudi-arabia/saudi-customs-reports-900-contraband-seizures-last-week",
-      "published_date": "2026-04-11T17:49:46+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660651/saudi-arabia/hajj-ministry-asserts-no-entry-to-makkah-without-an-official-hajj-permit",
+      "published_date": "2026-04-18T18:24:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia records highest visitor spending at SR160 billion in 2025",
+      "title": "Dust storm hits Jeddah and other governorates of Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660451/saudi-arabia/saudi-arabia-records-highest-visitor-spending-at-sr160-billion-in-2025",
-      "published_date": "2026-04-11T15:35:30+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660649/saudi-arabia/dust-storm-hits-jeddah-and-other-governorates-of-makkah",
+      "published_date": "2026-04-18T17:31:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First batches of pilgrims land in Madinah and Jeddah as international arrivals commence for Hajj 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660646/saudi-arabia/first-batches-of-pilgrims-land-in-madinah-and-jeddah-as-international-arrivals-commence-for-hajj-2026",
+      "published_date": "2026-04-18T15:22:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lower section of Kaaba’s Kiswa raised in preparation for Hajj 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660640/saudi-arabia/lower-section-of-kaabas-kiswa-raised-in-preparation-for-hajj-2026",
+      "published_date": "2026-04-18T13:17:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC reports from Lebanese border town as residents try to return home",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T11:47:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
@@ -526,41 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660581/saudi-arabia/ncm-forecast-thunderstorms-to-hit-most-saudi-regions-until-sunday",
       "published_date": "2026-04-15T18:27:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah police arrest Egyptian resident for publishing fraudulent Hajj ads",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660574/saudi-arabia/makkah-police-arrest-egyptian-resident-for-publishing-fraudulent-hajj-ads",
-      "published_date": "2026-04-15T13:24:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jazan sees 34.2mm of rain as NCM monitors Kingdom-wide activity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660566/saudi-arabia/jazan-sees-342mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
-      "published_date": "2026-04-15T12:48:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi math team wins 3 awards at European Girls’ Olympiad 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660564/saudi-arabia/saudi-math-team-wins-3-awards-at-european-girls-olympiad-2026",
-      "published_date": "2026-04-15T12:42:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Israeli town on the frontline with Hezbollah",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cm2kk32npv5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T21:14:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia to slap SR100,000 fine on those who facilitate visit visa holders to perform Hajj illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660550/saudi-arabia/saudi-arabia-to-slap-sr100000-fine-on-those-who-facilitate-visit-visa-holders-to-perform-hajj-illegally",
-      "published_date": "2026-04-14T21:02:55+00:00",
       "category": "Local Events"
     }
   ]
