@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-20T12:02:15.233912+00:00",
-  "story_count": 74,
+  "last_updated": "2026-04-20T23:43:39.319331+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi Arabia reaffirms full support for Palestinian government’s reform program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660710/saudi-arabia/saudi-arabia-reaffirms-full-support-for-palestinian-governments-reform-program",
+      "published_date": "2026-04-20T20:51:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Al-Burhan discuss safeguarding Sudan’s security and sovereignty",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660707/saudi-arabia/saudi-crown-prince-al-burhan-discuss-safeguarding-sudans-security-and-sovereignty",
+      "published_date": "2026-04-20T16:52:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia’s non-oil exports hit record SR624 billion in 2025, up 15%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660704/saudi-arabia/saudi-arabias-non-oil-exports-hit-record-sr624-billion-in-2025-up-15",
+      "published_date": "2026-04-20T14:28:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HR ministry shuts 14 erring recruitment offices",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660702/saudi-arabia/hr-ministry-shuts-14-erring-recruitment-offices",
+      "published_date": "2026-04-20T13:39:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi-Indian talks focus on supporting energy security and stability of its supplies",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crown Prince, Pakistan PM discuss US-Iran talks, regional developments",
+      "title": "Deputy defense minister attends graduation ceremony of 84th batch of King Abdulaziz Military Academy cadets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660586/saudi-arabia/crown-prince-pakistan-pm-discuss-us-iran-talks-and-regional-developments",
-      "published_date": "2026-04-16T03:39:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660711/saudi-arabia/deputy-defense-minister-attends-graduation-ceremony-of-84th-batch-of-king-abdulaziz-military-academy-cadets",
+      "published_date": "2026-04-20T21:16:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al-Samaani: New law provides more structured and transparent enforcement process",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660583/saudi-arabia/al-samaani-new-law-provides-more-structured-and-transparent-enforcement-process",
-      "published_date": "2026-04-15T21:20:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-15T21:10:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T18:57:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Russian foreign ministers discuss enhancing regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660582/saudi-arabia/saudi-russian-foreign-ministers-discuss-enhancing-regional-security-in-phone-call",
-      "published_date": "2026-04-15T21:06:55+00:00",
-      "category": "Diplomacy"
+      "title": "Are insider traders making millions from the Iran war?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T12:14:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Holy Kaaba maintenance completed with highest global standards",
@@ -214,34 +235,6 @@
       "category": "Military"
     },
     {
-      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T19:20:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three expatriates arrested for prostitution in Madinah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660517/saudi-arabia/three-expatriates-arrested-for-prostitution-in-madinah",
-      "published_date": "2026-04-13T15:49:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US blockade of Iran is a gamble. Will it work?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T15:27:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French cement giant guilty of financing IS and other militant groups in Syria",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T14:15:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -270,11 +263,18 @@
       "category": "Energy"
     },
     {
-      "title": "Use of portable gas stoves and cylinders by guests at hospitality facilities banned in Madinah",
+      "title": "Saudi liquidity surges 8.4% to SR3.28 trillion by end of February 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660516/saudi-arabia/use-of-portable-gas-stoves-and-cylinders-by-guests-at-hospitality-facilities-banned-in-madinah",
-      "published_date": "2026-04-13T15:24:33+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/660708/saudi-arabia/saudi-liquidity-surges-84-to-sr328-trillion-by-end-of-february-2026",
+      "published_date": "2026-04-20T17:28:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia signs Expo Belgrade 2027 participation deal, moves into execution phase",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660692/saudi-arabia/saudi-arabia-signs-expo-belgrade-2027-participation-deal-moves-into-execution-phase",
+      "published_date": "2026-04-20T11:59:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "60% Saudization in 20 marketing and sales professions begins as grace period comes to an end",
@@ -368,18 +368,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia enforces Financial Oversight Law to strengthen transparency, accountability, and fiscal integrity",
+      "title": "NCM forecast: Riyadh to witness heavy rainfall on Thursday and Friday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660520/saudi-arabia/saudi-arabia-enforces-financial-oversight-law-to-strengthen-transparency-accountability-and-fiscal-integrity",
-      "published_date": "2026-04-13T20:35:24+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660709/saudi-arabia/ncm-forecast-riyadh-to-witness-heavy-rainfall-on-thursday-and-friday",
+      "published_date": "2026-04-20T18:11:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ramadan and Eid boost domestic tourism to 10 million visitors across the Kingdom",
+      "title": "Saudi property prices fall by 1.6% in Q1 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660503/saudi-arabia/ramadan-and-eid-boost-domestic-tourism-to-10m-visitors-across-the-kingdom",
-      "published_date": "2026-04-13T12:43:40+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660706/saudi-arabia/saudi-property-prices-fall-by-16-in-q1-2026",
+      "published_date": "2026-04-20T15:46:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Ministry warns against fraudulent Hajj campaigns",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660705/saudi-arabia/interior-ministry-warns-against-fraudulent-hajj-campaigns",
+      "published_date": "2026-04-20T14:58:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China’s Xi says Strait of Hormuz should remain open in call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660699/saudi-arabia/strait-of-hormuz-should-remain-open-asserts-chinese-president-xi-in-call-with-saudi-crown-prince",
+      "published_date": "2026-04-20T13:02:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Interior minister approves strategic plan for Crime Research Center",
@@ -491,34 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660623/saudi-arabia/probe-ongoing-into-saudi-tourist-death-in-istanbul-hotel",
       "published_date": "2026-04-17T13:48:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Culture minister announces initiative to support local communities in restoring heritage towns",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660610/saudi-arabia/culture-minister-announces-initiative-to-support-local-communities-in-restoring-heritage-towns",
-      "published_date": "2026-04-16T20:17:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerce ministry recalls 18,708 Toyota-Lexus vehicles due to transmission defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660606/saudi-arabia/commerce-ministry-recalls-18708-toyota-lexus-vehicles-due-to-transmission-defect",
-      "published_date": "2026-04-16T16:28:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah police arrest Egyptian for promoting fake Hajj services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660605/saudi-arabia/makkah-police-arrest-egyptian-for-promoting-fake-hajj-services",
-      "published_date": "2026-04-16T15:05:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh Art unveils 75 permanent works, plans 115 more across capital",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660603/saudi-arabia/riyadh-art-unveils-75-permanent-works-plans-115-more-across-capital",
-      "published_date": "2026-04-16T14:34:54+00:00",
       "category": "Local Events"
     }
   ]
