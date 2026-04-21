@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-20T23:43:39.319331+00:00",
-  "story_count": 72,
+  "last_updated": "2026-04-21T11:58:30.014584+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi FM holds talks with Kuwait, Oman counterparts on regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660724/saudi-arabia/saudi-fm-holds-talks-with-kuwait-oman-counterparts-on-regional-security",
+      "published_date": "2026-04-21T11:32:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia reaffirms full support for Palestinian government’s reform program",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia announces $8 billion in financial support for Pakistan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660600/saudi-arabia/saudi-arabia-announces-8-billion-in-financial-support-for-pakistan",
-      "published_date": "2026-04-16T13:00:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Deputy defense minister attends graduation ceremony of 84th batch of King Abdulaziz Military Academy cadets",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660711/saudi-arabia/deputy-defense-minister-attends-graduation-ceremony-of-84th-batch-of-king-abdulaziz-military-academy-cadets",
@@ -197,6 +197,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-17T09:19:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-16T22:55:59+00:00",
       "category": "Military"
     },
     {
@@ -368,6 +375,13 @@
       "category": "Economy"
     },
     {
+      "title": "NCM forecasts heavy rainfall across Kingdom through Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660723/saudi-arabia/ncm-forecasts-heavy-rainfall-across-kingdom-through-saturday",
+      "published_date": "2026-04-21T11:10:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "NCM forecast: Riyadh to witness heavy rainfall on Thursday and Friday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660709/saudi-arabia/ncm-forecast-riyadh-to-witness-heavy-rainfall-on-thursday-and-friday",
@@ -498,13 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660628/saudi-arabia/rain-expected-in-riyadh-through-sunday",
       "published_date": "2026-04-17T15:10:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe ongoing into Saudi tourist’s death in Istanbul hotel",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660623/saudi-arabia/probe-ongoing-into-saudi-tourist-death-in-istanbul-hotel",
-      "published_date": "2026-04-17T13:48:42+00:00",
       "category": "Local Events"
     }
   ]
