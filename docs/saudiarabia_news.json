@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-21T11:58:30.014584+00:00",
-  "story_count": 73,
+  "last_updated": "2026-04-21T23:36:43.106214+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Aoun thanks for continued Saudi support to Lebanon in call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660741/saudi-arabia/aoun-thanks-for-continued-saudi-support-to-lebanon-in-call-with-crown-prince",
+      "published_date": "2026-04-21T21:06:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Syrian President discuss regional developments in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660740/saudi-arabia/saudi-crown-prince-syrian-president-discuss-regional-developments-in-jeddah",
+      "published_date": "2026-04-21T20:35:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Absher carries out over 43.5 million electronic transactions in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660732/saudi-arabia/absher-carries-out-over-435-million-electronic-transactions-in-march",
+      "published_date": "2026-04-21T14:16:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince congratulate new Iraqi President Nizar Amidi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660730/saudi-arabia/king-salman-and-crown-prince-congratulate-new-iraqi-president-nizar-amidi",
+      "published_date": "2026-04-21T13:45:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM holds talks with Kuwait, Oman counterparts on regional security",
       "source": "Saudi Gazette",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shoura Council speaker attends IPU General Assembly in Istanbul",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660611/saudi-arabia/shoura-council-speaker-attends-ipu-general-assembly-in-istanbul",
-      "published_date": "2026-04-16T20:54:54+00:00",
-      "category": "Diplomacy"
+      "title": "Two Palestinians killed during settler attack on West Bank village, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-21T17:17:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia welcomes Trump’s announcement of ceasefire in Lebanon",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660609/saudi-arabia/saudi-arabia-welcomes-trumps-announcement-of-ceasefire-in-lebanon",
-      "published_date": "2026-04-16T19:34:32+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-21T16:13:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Surgical separation of Saudi conjoined twins successful",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660607/saudi-arabia/surgical-separation-of-saudi-conjoined-twins-successful",
-      "published_date": "2026-04-16T17:11:30+00:00",
-      "category": "Diplomacy"
+      "title": "Iran sees mass redundancies from war with US and Israel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-21T16:05:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia underscores empowering elderly people to achieve Sustainable Development Goals",
+      "title": "Saudi authority launches service to check crowd levels in tawaf and sa’i areas at Grand Mosque",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660604/saudi-arabia/saudi-arabia-underscores-empowering-elderly-people-to-achieve-sustainable-development-goals",
-      "published_date": "2026-04-16T14:38:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660731/saudi-arabia/saudi-arabia-launches-live-crowd-tracking-service-for-grand-mosque-pilgrims",
+      "published_date": "2026-04-21T14:09:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia backs UAE after foiled terror plot",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660727/saudi-arabia/saudi-arabia-supports-uae-after-foiled-terror-plot-linked-to-iran",
+      "published_date": "2026-04-21T12:56:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Deputy defense minister attends graduation ceremony of 84th batch of King Abdulaziz Military Academy cadets",
@@ -228,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia affirms uninterrupted global energy flows, reinforcing economic stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660552/saudi-arabia/saudi-arabia-affirms-uninterrupted-global-energy-flows-reinforcing-economic-stability",
-      "published_date": "2026-04-14T22:34:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy suspends defence agreement with Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T20:21:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -256,18 +277,18 @@
       "category": "Energy"
     },
     {
-      "title": "What does the blockade mean for oil prices?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c20ddq3y8n2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T16:43:48+00:00",
-      "category": "Energy"
+      "title": "Crown Prince calls for all-out efforts to ensure seamless Hajj operation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660739/saudi-arabia/crown-prince-calls-for-all-out-efforts-to-ensure-seamless-hajj-operation",
+      "published_date": "2026-04-21T19:33:37+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T14:18:04+00:00",
-      "category": "Energy"
+      "title": "Saudi FDI inflows top SR1 trillion in 2025, up 13%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660725/saudi-arabia/saudi-fdi-rises-13-to-surpass-sr1-trillion-in-2025",
+      "published_date": "2026-04-21T12:14:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi liquidity surges 8.4% to SR3.28 trillion by end of February 2026",
@@ -368,11 +389,46 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi, Indonesian ministers meet to discuss cooperation in creative economy",
+      "title": "Hajj Minister reviews readiness of Mina camps ahead of the pilgrimage season",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660541/saudi-arabia/saudi-indonesian-ministers-meet-to-discuss-cooperation-in-creative-economy",
-      "published_date": "2026-04-14T14:02:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660742/saudi-arabia/hajj-minister-reviews-readiness-of-mina-camps-ahead-of-hajj-season",
+      "published_date": "2026-04-21T21:15:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delivery sector soars 49% with over 118 million orders in Q1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660737/saudi-arabia/delivery-sector-soars-49-with-over-118-million-orders-in-q1-2026",
+      "published_date": "2026-04-21T17:04:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission announces excavation results of Saudi-Chinese Mission at Al-Serrain archaeological site during 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660736/saudi-arabia/heritage-commission-announces-excavation-results-of-saudi-chinese-mission-at-al-serrain-archaeological-site-during-2025",
+      "published_date": "2026-04-21T16:37:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainfall rates record 162% higher across Saudi Arabia during first half of April",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660734/saudi-arabia/rainfall-rates-record-162-higher-across-saudi-arabia-during-first-half-of-april",
+      "published_date": "2026-04-21T14:46:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abdullah Kamel says 22 logistics challenges resolved as Saudi trade flows remain smooth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660733/saudi-arabia/saudi-chambers-identifies-130-logistics-challenges-as-22-issues-resolved",
+      "published_date": "2026-04-21T14:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eastern Province sees 40.6mm of rain as NCM monitors Kingdom-wide activity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660726/saudi-arabia/eastern-province-sees-406mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
+      "published_date": "2026-04-21T12:38:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NCM forecasts heavy rainfall across Kingdom through Saturday",
@@ -470,48 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660646/saudi-arabia/first-batches-of-pilgrims-land-in-madinah-and-jeddah-as-international-arrivals-commence-for-hajj-2026",
       "published_date": "2026-04-18T15:22:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lower section of Kaaba’s Kiswa raised in preparation for Hajj 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660640/saudi-arabia/lower-section-of-kaabas-kiswa-raised-in-preparation-for-hajj-2026",
-      "published_date": "2026-04-18T13:17:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC reports from Lebanese border town as residents try to return home",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T11:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T00:20:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia amends anti-money laundering law, imposes travel ban on offenders",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660632/saudi-arabia/saudi-amends-anti-money-laundering-law-adds-travel-bans",
-      "published_date": "2026-04-17T18:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the 10 routes carrying Hajj pilgrims to Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660629/saudi-arabia/how-saudi-arabias-road-network-moves-millions-of-hajj-pilgrims-safely-to-the-holy-mosques",
-      "published_date": "2026-04-17T15:14:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain expected in Riyadh through Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660628/saudi-arabia/rain-expected-in-riyadh-through-sunday",
-      "published_date": "2026-04-17T15:10:51+00:00",
       "category": "Local Events"
     }
   ]
