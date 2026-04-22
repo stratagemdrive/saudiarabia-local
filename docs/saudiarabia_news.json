@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-22T11:58:32.972971+00:00",
-  "story_count": 74,
+  "last_updated": "2026-04-22T23:48:23.919477+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Saudi, Dutch FMs discuss efforts for safety of international waterways",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660768/saudi-arabia/saudi-dutch-fms-discuss-efforts-for-safety-of-international-waterways",
+      "published_date": "2026-04-22T20:42:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi construction costs rise by 2% in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660765/saudi-arabia/saudi-construction-costs-rise-by-2-in-march",
+      "published_date": "2026-04-22T16:56:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi space mission reveals key gene changes in cells, opening path to advanced medicine",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660761/saudi-arabia/saudi-space-mission-reveals-key-gene-changes-in-cells-opening-path-to-advanced-medicine",
+      "published_date": "2026-04-22T15:15:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "source": "BBC News",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Quadrilateral Islamic ministerial meeting in Antalya focused on regional de-escalation",
+      "title": "Six categories are permitted to enter Makkah with an Absher permit",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660635/saudi-arabia/quadrilateral-islamic-ministerial-meeting-in-antalya-focused-on-regional-de-escalation",
-      "published_date": "2026-04-18T12:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660764/saudi-arabia/six-categories-are-permitted-to-enter-makkah-with-an-absher-permit",
+      "published_date": "2026-04-22T16:28:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, US foreign ministers discuss Hormuz, Lebanon ceasefire",
+      "title": "Saudi, Italian defense ministers discuss enhancing military partnership",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660633/saudi-arabia/saudi-us-foreign-ministers-discuss-hormuz-and-lebanon-ceasefire",
-      "published_date": "2026-04-17T20:08:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T19:59:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660759/saudi-arabia/saudi-italian-defense-ministers-discuss-enhancing-military-partnership",
+      "published_date": "2026-04-22T14:23:05+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
@@ -256,13 +270,6 @@
       "category": "Military"
     },
     {
-      "title": "Frank Gardner: Why China keeps cropping up in Iran war stories",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-15T18:54:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -340,46 +347,39 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Rumayyan: PIF contributes one-third of non-oil GDP growth, amounting to SR910 billion",
+      "title": "Justice minister makes inspection tour of Jeddah courts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660580/saudi-arabia/al-rumayyan-pif-contributes-one-third-of-non-oil-gdp-growth-amounting-to-sr910-billion",
-      "published_date": "2026-04-15T17:40:50+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660769/saudi-arabia/justice-minister-makes-inspection-tour-of-jeddah-courts",
+      "published_date": "2026-04-22T20:47:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Land Bridge design contract awarded to Spanish firm Sener",
+      "title": "Ride-hailing apps see 15.7% increase with 32 million trips in Q1 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660576/saudi-arabia/saudi-land-bridge-design-contract-awarded-to-spanish-firm-sener",
-      "published_date": "2026-04-15T14:30:41+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660767/saudi-arabia/ride-hailing-apps-see-157-increase-with-32-million-trips-in-q1-2026",
+      "published_date": "2026-04-22T17:29:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rome set to host FII PRIORITY Europe Summit in June as Europe reimagines capital and sovereignty",
+      "title": "SFDA: 10-year jail and SR10 million fine for unauthorized food activities during Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660575/saudi-arabia/rome-set-to-host-fii-priority-europe-summit-in-june-as-europe-reimagines-capital-and-sovereignty",
-      "published_date": "2026-04-15T14:06:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660766/saudi-arabia/sfda-10-year-jail-and-sr10-million-fine-for-unauthorized-food-activities-during-hajj",
+      "published_date": "2026-04-22T17:25:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Prince Badr: Culture is most important bridge to deepen Saudi-Malaysian historical ties",
+      "title": "Hajj Security Forces arrest citizen and resident for transporting people to Makkah illegally",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660569/saudi-arabia/prince-badr-culture-is-most-important-bridge-to-deepen-saudi-malaysian-historical-ties",
-      "published_date": "2026-04-15T13:01:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660763/saudi-arabia/hajj-security-forces-arrest-egyptian-resident-for-transporting-visa-holder-to-makkah-illegally",
+      "published_date": "2026-04-22T15:39:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PIF governor: No projects cancelled in NEOM",
+      "title": "GACA readies 3.1 million seats, 12,000 flights for 2026 Hajj season",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660565/saudi-arabia/pif-governor-says-no-projects-cancelled-in-neom-spending-reviewed",
-      "published_date": "2026-04-15T12:48:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi inflation rises 0.3% to 1.8% in March",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660563/saudi-arabia/saudi-inflation-rises-03-to-18-in-march-2026",
-      "published_date": "2026-04-15T12:30:51+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660760/saudi-arabia/gaca-readies-31-million-seats-12000-flights-for-2026-hajj-season",
+      "published_date": "2026-04-22T14:42:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What 40 years of data reveal about May weather patterns in Saudi Arabia",
@@ -484,41 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660682/saudi-arabia/interior-minister-approves-strategic-plan-for-crime-research-center",
       "published_date": "2026-04-19T21:16:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense urges caution amid forecast of thunderstorms hitting across Saudi Arabia through Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660680/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-thunderstorms-hitting-across-saudi-arabia-through-friday",
-      "published_date": "2026-04-19T17:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah police arrest Sudanese resident for promoting fake entry permits",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660677/saudi-arabia/makkah-police-arrest-sudanese-resident-for-promoting-fake-entry-permits",
-      "published_date": "2026-04-19T16:21:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relocating car showrooms and scrap yards from South Jeddah’s Al-Jawhara neighborhood to Al-Khumra begins",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660676/saudi-arabia/relocating-car-showrooms-and-scrap-yards-from-south-jeddahs-al-jawhara-neighborhood-to-al-khumra-begins",
-      "published_date": "2026-04-19T15:40:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court announces Sunday first day of Dhul Qada",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660667/saudi-arabia/supreme-court-announces-sunday-first-day-of-dhul-qada",
-      "published_date": "2026-04-19T14:31:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transport minister visits Makkah Route Initiative terminal at Jeddah airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660666/saudi-arabia/transport-minister-visits-makkah-route-initiative-terminal-at-jeddah-airport",
-      "published_date": "2026-04-19T13:51:34+00:00",
       "category": "Local Events"
     }
   ]
