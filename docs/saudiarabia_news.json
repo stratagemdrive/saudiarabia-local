@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-21T23:36:43.106214+00:00",
-  "story_count": 75,
+  "last_updated": "2026-04-22T11:58:32.972971+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T00:32:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Aoun thanks for continued Saudi support to Lebanon in call with Crown Prince",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Commerce Ministry blocks online store over use of national symbols in ads",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660631/saudi-arabia/commerce-ministry-blocks-online-store-over-use-of-national-symbols-in-ads",
-      "published_date": "2026-04-17T17:34:02+00:00",
-      "category": "Diplomacy"
+      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T04:01:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Two Palestinians killed during settler attack on West Bank village, officials say",
@@ -253,13 +260,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-15T18:54:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-15T10:00:41+00:00",
       "category": "Military"
     },
     {
@@ -382,11 +382,25 @@
       "category": "Economy"
     },
     {
-      "title": "PIF approves 2026–2030 strategy",
+      "title": "What 40 years of data reveal about May weather patterns in Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660562/saudi-arabia/pif-approves-20262030-strategy-to-boost-economic-diversification",
-      "published_date": "2026-04-15T11:21:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660753/saudi-arabia/what-40-years-of-data-reveal-about-may-weather-patterns-in-saudi-arabia",
+      "published_date": "2026-04-22T11:24:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MOI warns of SR100,000 fine for transporting visit visa holders to Makkah during Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660752/saudi-arabia/moi-imposes-sr100000-fine-for-transporting-visit-visa-holders-to-makkah-during-hajj",
+      "published_date": "2026-04-22T11:23:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia restores 614,000 hectares, surpasses 60% of national milestone",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660751/saudi-arabia/saudi-arabia-restores-614000-hectares-surpasses-60-of-national-milestone",
+      "published_date": "2026-04-22T11:19:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hajj Minister reviews readiness of Mina camps ahead of the pilgrimage season",
@@ -505,27 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660666/saudi-arabia/transport-minister-visits-makkah-route-initiative-terminal-at-jeddah-airport",
       "published_date": "2026-04-19T13:51:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry asserts no entry to Makkah without an official Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660651/saudi-arabia/hajj-ministry-asserts-no-entry-to-makkah-without-an-official-hajj-permit",
-      "published_date": "2026-04-18T18:24:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust storm hits Jeddah and other governorates of Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660649/saudi-arabia/dust-storm-hits-jeddah-and-other-governorates-of-makkah",
-      "published_date": "2026-04-18T17:31:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First batches of pilgrims land in Madinah and Jeddah as international arrivals commence for Hajj 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660646/saudi-arabia/first-batches-of-pilgrims-land-in-madinah-and-jeddah-as-international-arrivals-commence-for-hajj-2026",
-      "published_date": "2026-04-18T15:22:06+00:00",
       "category": "Local Events"
     }
   ]
