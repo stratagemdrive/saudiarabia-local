@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-23T11:58:08.488334+00:00",
-  "story_count": 71,
+  "last_updated": "2026-04-23T23:49:26.966433+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi FM, Lebanese speaker discuss efforts for cessation of Israeli hostilities in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660797/saudi-arabia/saudi-fm-lebanese-speaker-discuss-efforts-for-cessation-of-israeli-hostilities-in-phone-call",
+      "published_date": "2026-04-23T19:59:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Council of Health Insurance slaps SR4 million fines on violating employers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660796/saudi-arabia/council-of-health-insurance-slaps-sr4-million-fines-on-violating-employers",
+      "published_date": "2026-04-23T17:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Cuban FMs discuss Mideast situation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660794/saudi-arabia/saudi-cuban-fms-discuss-mideast-situation-in-phone-call",
+      "published_date": "2026-04-23T15:53:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi surgeons begin 24-hour separation of Filipino conjoined twins in one of world’s most complex cases",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660783/saudi-arabia/saudi-surgeons-begin-separation-of-filipino-conjoined-twins-in-riyadh",
+      "published_date": "2026-04-23T12:44:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince, Swiss president discuss expanding investment ties in Jeddah meeting",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Iraqi foreign ministers discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660679/saudi-arabia/saudi-iraqi-foreign-ministers-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-04-19T16:45:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Maximum fine of SR900 for driving a deceased person&#039;s vehicle without authorization",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660669/saudi-arabia/maximum-fine-of-sr900-for-driving-a-deceased-persons-vehicle-without-authorization",
-      "published_date": "2026-04-19T15:17:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns attack against French contingent of UNIFIL in Lebanon",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660661/saudi-arabia/saudi-arabia-strongly-condemns-attack-against-french-contingent-of-unifil-in-lebanon",
-      "published_date": "2026-04-19T12:55:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM joins Gaza ministerial talks at Antalya Diplomacy Forum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660654/saudi-arabia/saudi-fm-joins-gaza-ministerial-talks-at-antalya-diplomacy-forum",
-      "published_date": "2026-04-19T11:27:03+00:00",
-      "category": "Diplomacy"
+      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T15:11:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T22:55:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -296,6 +296,20 @@
       "url": "https://saudigazette.com.sa/article/660624/saudi-arabia/saudi-grant-supports-irrigation-and-food-security-in-pakistan",
       "published_date": "2026-04-17T13:54:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Health minister inspects Makkah medical facilities, ensures full readiness for Hajj 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660800/saudi-arabia/health-minister-inspects-makkah-medical-facilities-ensures-full-readiness-for-hajj-2026",
+      "published_date": "2026-04-23T21:00:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia secures leading GEM rankings, reinforcing its position as premier global entrepreneurship hub",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660792/saudi-arabia/saudi-arabia-secures-leading-gem-rankings-reinforcing-its-position-as-premier-global-entrepreneurship-hub",
+      "published_date": "2026-04-23T14:57:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Crown Prince calls for all-out efforts to ensure seamless Hajj operation",
@@ -354,11 +368,67 @@
       "category": "Economy"
     },
     {
-      "title": "CEDA reviews report highlighting exceptional resilience of Saudi economy amid regional tensions",
+      "title": "Saudi Arabia and 7 other Islamic nations denounce Israeli violations of Jerusalem’s Islamic and Christian holy sites",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660601/saudi-arabia/ceda-reviews-report-highlighting-exceptional-resilience-of-saudi-economy-amid-regional-tensions",
-      "published_date": "2026-04-16T14:15:22+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660801/saudi-arabia/saudi-arabia-and-7-other-islamic-nations-denounce-israeli-violations-of-jerusalems-islamic-and-christian-holy-sites",
+      "published_date": "2026-04-23T21:46:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Defense warns of continued thunderstorms across Saudi Arabia through Tuesday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660799/saudi-arabia/civil-defense-warns-of-continued-thunderstorms-across-saudi-arabia-through-tuesday",
+      "published_date": "2026-04-23T20:56:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Ministry: Up to SR100,000 fine for sheltering visit visa holders in Makkah during Hajj season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660798/saudi-arabia/interior-ministry-up-to-sr100000-fine-for-sheltering-visit-visa-holders-in-makkah-during-hajj-season",
+      "published_date": "2026-04-23T20:10:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 19,000 inspection visits conducted to assess pilgrims’ housing compliance in Makkah, Madinah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660795/saudi-arabia/over-19000-inspection-visits-conducted-to-assess-pilgrims-housing-compliance-in-makkah-madinah",
+      "published_date": "2026-04-23T16:37:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 residents and a citizen arrested in Makkah for posting fake Hajj service ads",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660791/saudi-arabia/4-residents-and-a-citizen-arrested-in-makkah-for-posting-fake-hajj-service-ads",
+      "published_date": "2026-04-23T14:21:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 30.6 million passengers used urban public buses across Saudi Arabia in Q1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660790/saudi-arabia/over-306-million-passengers-used-urban-public-buses-across-saudi-arabia-in-q1-2026",
+      "published_date": "2026-04-23T13:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempt to smuggle over 2.7 million amphetamine pills foiled in Eastern Province",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660787/saudi-arabia/attempt-to-smuggle-over-27-million-amphetamine-pills-foiled-in-eastern-province",
+      "published_date": "2026-04-23T13:09:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SAR extends free storage at Riyadh dry port to 30 days",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660786/saudi-arabia/sar-extends-free-storage-at-riyadh-dry-port-to-30-days",
+      "published_date": "2026-04-23T13:04:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1,414 new archaeological sites registered in National Antiquities Register",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660785/saudi-arabia/1414-new-archaeological-sites-registered-in-national-antiquities-register",
+      "published_date": "2026-04-23T12:57:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi digital readiness hits 76.04% as government accelerates emerging tech adoption",
@@ -435,69 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660751/saudi-arabia/saudi-arabia-restores-614000-hectares-surpasses-60-of-national-milestone",
       "published_date": "2026-04-22T11:19:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Minister reviews readiness of Mina camps ahead of the pilgrimage season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660742/saudi-arabia/hajj-minister-reviews-readiness-of-mina-camps-ahead-of-hajj-season",
-      "published_date": "2026-04-21T21:15:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delivery sector soars 49% with over 118 million orders in Q1 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660737/saudi-arabia/delivery-sector-soars-49-with-over-118-million-orders-in-q1-2026",
-      "published_date": "2026-04-21T17:04:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Commission announces excavation results of Saudi-Chinese Mission at Al-Serrain archaeological site during 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660736/saudi-arabia/heritage-commission-announces-excavation-results-of-saudi-chinese-mission-at-al-serrain-archaeological-site-during-2025",
-      "published_date": "2026-04-21T16:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rainfall rates record 162% higher across Saudi Arabia during first half of April",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660734/saudi-arabia/rainfall-rates-record-162-higher-across-saudi-arabia-during-first-half-of-april",
-      "published_date": "2026-04-21T14:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdullah Kamel says 22 logistics challenges resolved as Saudi trade flows remain smooth",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660733/saudi-arabia/saudi-chambers-identifies-130-logistics-challenges-as-22-issues-resolved",
-      "published_date": "2026-04-21T14:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eastern Province sees 40.6mm of rain as NCM monitors Kingdom-wide activity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660726/saudi-arabia/eastern-province-sees-406mm-of-rain-as-ncm-monitors-kingdom-wide-activity",
-      "published_date": "2026-04-21T12:38:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts heavy rainfall across Kingdom through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660723/saudi-arabia/ncm-forecasts-heavy-rainfall-across-kingdom-through-saturday",
-      "published_date": "2026-04-21T11:10:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecast: Riyadh to witness heavy rainfall on Thursday and Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660709/saudi-arabia/ncm-forecast-riyadh-to-witness-heavy-rainfall-on-thursday-and-friday",
-      "published_date": "2026-04-20T18:11:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi property prices fall by 1.6% in Q1 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660706/saudi-arabia/saudi-property-prices-fall-by-16-in-q1-2026",
-      "published_date": "2026-04-20T15:46:21+00:00",
       "category": "Local Events"
     }
   ]
