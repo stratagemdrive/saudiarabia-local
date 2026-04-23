@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-22T23:48:23.919477+00:00",
-  "story_count": 69,
+  "last_updated": "2026-04-23T11:58:08.488334+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi Crown Prince, Swiss president discuss expanding investment ties in Jeddah meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660779/saudi-arabia/saudi-crown-prince-meets-swiss-president-in-jeddah-to-boost-investment-ties",
+      "published_date": "2026-04-23T11:52:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, Japan PM discuss regional tensions, maritime supply concerns",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660775/saudi-arabia/crown-prince-japan-pm-discuss-regional-tensions-maritime-supply-concerns",
+      "published_date": "2026-04-23T10:58:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Dutch FMs discuss efforts for safety of international waterways",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Arab, Islamic nations condemn Israeli envoy move on Somaliland",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660652/saudi-arabia/arab-and-islamic-nations-condemn-israeli-envoy-move-on-somaliland",
-      "published_date": "2026-04-19T11:00:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "14,487 violators of residency, border security and labor laws arrested in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660650/saudi-arabia/14487-violators-of-residency-border-security-and-labor-laws-arrested-in-a-week",
-      "published_date": "2026-04-18T18:19:37+00:00",
-      "category": "Diplomacy"
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T04:25:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Six categories are permitted to enter Makkah with an Absher permit",
@@ -155,6 +162,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660759/saudi-arabia/saudi-italian-defense-ministers-discuss-enhancing-military-partnership",
       "published_date": "2026-04-22T14:23:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Iran 'locked in war of words' says Lyse Doucet",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T08:37:50+00:00",
       "category": "Military"
     },
     {
@@ -183,6 +197,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-21T16:05:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Nothing to go back to' - BBC reports from Lebanon's 'Yellow Line'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cj37dj76njno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-21T14:12:59+00:00",
       "category": "Military"
     },
     {
@@ -263,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Lyse Doucet in Iran: Destruction shows huge civilian cost of the war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c62j6d4n0wqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T19:35:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -347,10 +361,31 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi digital readiness hits 76.04% as government accelerates emerging tech adoption",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660778/saudi-arabia/saudi-digital-readiness-hits-7604-as-government-accelerates-emerging-tech-adoption",
+      "published_date": "2026-04-23T11:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strike kills five Palestinians in northern Gaza, medics say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T09:59:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Justice minister makes inspection tour of Jeddah courts",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660769/saudi-arabia/justice-minister-makes-inspection-tour-of-jeddah-courts",
       "published_date": "2026-04-22T20:47:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tracking ships under fire in the Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T20:12:03+00:00",
       "category": "Local Events"
     },
     {
@@ -463,27 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660706/saudi-arabia/saudi-property-prices-fall-by-16-in-q1-2026",
       "published_date": "2026-04-20T15:46:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry warns against fraudulent Hajj campaigns",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660705/saudi-arabia/interior-ministry-warns-against-fraudulent-hajj-campaigns",
-      "published_date": "2026-04-20T14:58:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China’s Xi says Strait of Hormuz should remain open in call with Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660699/saudi-arabia/strait-of-hormuz-should-remain-open-asserts-chinese-president-xi-in-call-with-saudi-crown-prince",
-      "published_date": "2026-04-20T13:02:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior minister approves strategic plan for Crime Research Center",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660682/saudi-arabia/interior-minister-approves-strategic-plan-for-crime-research-center",
-      "published_date": "2026-04-19T21:16:10+00:00",
       "category": "Local Events"
     }
   ]
