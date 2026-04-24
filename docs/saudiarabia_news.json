@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-24T11:55:35.375872+00:00",
-  "story_count": 72,
+  "last_updated": "2026-04-24T23:40:48.986818+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi Crown Prince, Zelensky discuss Ukraine crisis and Middle East in Jeddah talks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660821/saudi-arabia/saudi-crown-prince-and-zelensky-discuss-ukraine-crisis-in-jeddah",
+      "published_date": "2026-04-24T19:32:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Public Prosecution approves remote work, anti-fraud office in reform push",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660818/saudi-arabia/saudi-public-prosecution-approves-remote-work-and-anti-fraud-office",
+      "published_date": "2026-04-24T15:36:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, Switzerland sign investment pact as leaders hold business forum in Jeddah",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia’s non-oil exports hit record SR624 billion in 2025, up 15%",
+      "title": "Saudi customs foils attempt to smuggle 154,108 Captagon pills at Al Haditha border",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660704/saudi-arabia/saudi-arabias-non-oil-exports-hit-record-sr624-billion-in-2025-up-15",
-      "published_date": "2026-04-20T14:28:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HR ministry shuts 14 erring recruitment offices",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660702/saudi-arabia/hr-ministry-shuts-14-erring-recruitment-offices",
-      "published_date": "2026-04-20T13:39:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660819/saudi-arabia/saudi-customs-foils-smuggling-of-154108-captagon-pills-at-al-haditha-border",
+      "published_date": "2026-04-24T16:06:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "ZATCA foils 29kg cocaine smuggling attempt at Jeddah port",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660622/saudi-arabia/zatca-foils-29kg-cocaine-smuggling-attempt-at-jeddah-port",
-      "published_date": "2026-04-17T13:42:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -291,11 +291,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi grant supports irrigation, food security in Pakistan",
+      "title": "Saudi sukuk added to J.P. Morgan and Bloomberg emerging market bond indices",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660624/saudi-arabia/saudi-grant-supports-irrigation-and-food-security-in-pakistan",
-      "published_date": "2026-04-17T13:54:53+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/660817/saudi-arabia/saudi-sukuk-added-to-jp-morgan-and-bloomberg-emerging-market-bond-indices",
+      "published_date": "2026-04-24T14:57:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Health minister inspects Makkah medical facilities, ensures full readiness for Hajj 2026",
@@ -361,11 +361,18 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan: No quick recovery from Iran war",
+      "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T16:20:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain forecast for Riyadh through Monday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660627/saudi-arabia/mohammed-al-jadaan-iran-war-gulf-reforms-investments-saudi-economy-resilience-east-west-pipeline-hormuz-imf-world-bank-meetings",
-      "published_date": "2026-04-17T15:09:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660814/saudi-arabia/saudi-arabia-warns-of-heavy-rain-in-riyadh-makkah-and-multiple-regions",
+      "published_date": "2026-04-24T14:09:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi surgeons complete separation of Filipino conjoined twins in 18.5-hour complex operation",
@@ -491,20 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660760/saudi-arabia/gaca-readies-31-million-seats-12000-flights-for-2026-hajj-season",
       "published_date": "2026-04-22T14:42:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What 40 years of data reveal about May weather patterns in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660753/saudi-arabia/what-40-years-of-data-reveal-about-may-weather-patterns-in-saudi-arabia",
-      "published_date": "2026-04-22T11:24:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MOI warns of SR100,000 fine for transporting visit visa holders to Makkah during Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660752/saudi-arabia/moi-imposes-sr100000-fine-for-transporting-visit-visa-holders-to-makkah-during-hajj",
-      "published_date": "2026-04-22T11:23:31+00:00",
       "category": "Local Events"
     }
   ]
