@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-23T23:49:26.966433+00:00",
+  "last_updated": "2026-04-24T11:55:35.375872+00:00",
   "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi Arabia, Switzerland sign investment pact as leaders hold business forum in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660804/saudi-arabia/saudi-arabia-switzerland-sign-investment-protection-pact-in-jeddah",
+      "published_date": "2026-04-24T03:36:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM, Lebanese speaker discuss efforts for cessation of Israeli hostilities in phone call",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi-Indian talks focus on supporting energy security and stability of its supplies",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660681/saudi-arabia/saudi-indian-talks-focus-on-supporting-energy-security-and-stability-of-its-supplies",
-      "published_date": "2026-04-19T20:32:30+00:00",
-      "category": "Diplomacy"
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T10:41:32+00:00",
+      "category": "Military"
     },
     {
       "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T09:19:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -366,6 +366,13 @@
       "url": "https://saudigazette.com.sa/article/660627/saudi-arabia/mohammed-al-jadaan-iran-war-gulf-reforms-investments-saudi-economy-resilience-east-west-pipeline-hormuz-imf-world-bank-meetings",
       "published_date": "2026-04-17T15:09:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi surgeons complete separation of Filipino conjoined twins in 18.5-hour complex operation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660805/saudi-arabia/saudi-surgeons-complete-separation-of-filipino-conjoined-twins-in-riyadh",
+      "published_date": "2026-04-24T05:38:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia and 7 other Islamic nations denounce Israeli violations of Jerusalem’s Islamic and Christian holy sites",
@@ -498,13 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660752/saudi-arabia/moi-imposes-sr100000-fine-for-transporting-visit-visa-holders-to-makkah-during-hajj",
       "published_date": "2026-04-22T11:23:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia restores 614,000 hectares, surpasses 60% of national milestone",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660751/saudi-arabia/saudi-arabia-restores-614000-hectares-surpasses-60-of-national-milestone",
-      "published_date": "2026-04-22T11:19:02+00:00",
       "category": "Local Events"
     }
   ]
