@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-25T11:36:51.475359+00:00",
-  "story_count": 70,
+  "last_updated": "2026-04-25T23:39:55.174478+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Moroccan conjoined twins undergo medical evaluation after arrival in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660840/saudi-arabia/moroccan-conjoined-twins-undergo-medical-evaluation-after-arrivalin-riyadh",
+      "published_date": "2026-04-25T14:51:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns drone strikes on Kuwait launched from Iraq",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660822/saudi-arabia/saudi-arabia-condemns-drone-strikes-on-kuwait-launched-from-iraq",
+      "published_date": "2026-04-25T12:26:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince, Zelensky discuss Ukraine crisis and Middle East in Jeddah talks",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia reaffirms full support for Palestinian government’s reform program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660710/saudi-arabia/saudi-arabia-reaffirms-full-support-for-palestinian-governments-reform-program",
-      "published_date": "2026-04-20T20:51:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Al-Burhan discuss safeguarding Sudan’s security and sovereignty",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660707/saudi-arabia/saudi-crown-prince-al-burhan-discuss-safeguarding-sudans-security-and-sovereignty",
-      "published_date": "2026-04-20T16:52:23+00:00",
-      "category": "Diplomacy"
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T21:34:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi customs foils attempt to smuggle 154,108 Captagon pills at Al Haditha border",
@@ -263,25 +270,46 @@
       "category": "Military"
     },
     {
-      "title": "Holy Kaaba maintenance completed with highest global standards",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660647/saudi-arabia/holy-kaaba-maintenance-completed-with-highest-global-standards",
-      "published_date": "2026-04-18T16:48:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French peacekeeper killed in southern Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T14:53:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
       "published_date": "2026-04-19T21:30:16+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Customs record 1,077 smuggling cases last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660843/saudi-arabia/saudi-customs-record-1077-smuggling-cases-last-week",
+      "published_date": "2026-04-25T16:01:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Vision 2030 enters final phase with 93% of KPIs meeting targets in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660839/saudi-arabia/saudi-vision-2030-enters-final-phase-as-93-of-kpis-meet-2025-targets",
+      "published_date": "2026-04-25T14:35:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Crown Prince: Saudi ambition has been turned into real results under Vision 2030",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660838/saudi-arabia/crown-prince-says-saudi-ambition-turned-into-real-results-under-vision-2030",
+      "published_date": "2026-04-25T14:29:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King Salman: Saudi Arabia has become leading model for driving comprehensive development",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660837/saudi-arabia/king-salman-says-saudi-arabia-moves-toward-brighter-future-after-vision-2030-progress",
+      "published_date": "2026-04-25T14:26:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Value of Saudi date exports surpasses SR1.9 billion in 2025, up 14.3%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660826/saudi-arabia/value-of-saudi-date-exports-surpasses-sr19-billion-in-2025-up-143",
+      "published_date": "2026-04-25T13:02:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi sukuk added to J.P. Morgan and Bloomberg emerging market bond indices",
@@ -352,6 +380,20 @@
       "url": "https://saudigazette.com.sa/article/660662/saudi-arabia/saudi-arabia-projected-3rd-fastest-growing-g20-economy-in-2027-imf",
       "published_date": "2026-04-19T12:56:47+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Security forces arrest 1,454 infiltrators in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660842/saudi-arabia/security-forcesarrest-1454-infiltrators-in-a-week",
+      "published_date": "2026-04-25T15:55:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Myanmar national arrested for transporting 6 violators of Hajj regulations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660841/saudi-arabia/myanmar-national-arrested-for-transporting-6-violators-of-hajj-regulations",
+      "published_date": "2026-04-25T15:01:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinians in West Bank and some in Gaza vote in local elections",
@@ -477,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660767/saudi-arabia/ride-hailing-apps-see-157-increase-with-32-million-trips-in-q1-2026",
       "published_date": "2026-04-22T17:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA: 10-year jail and SR10 million fine for unauthorized food activities during Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660766/saudi-arabia/sfda-10-year-jail-and-sr10-million-fine-for-unauthorized-food-activities-during-hajj",
-      "published_date": "2026-04-22T17:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Security Forces arrest citizen and resident for transporting people to Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660763/saudi-arabia/hajj-security-forces-arrest-egyptian-resident-for-transporting-visa-holder-to-makkah-illegally",
-      "published_date": "2026-04-22T15:39:12+00:00",
       "category": "Local Events"
     }
   ]
