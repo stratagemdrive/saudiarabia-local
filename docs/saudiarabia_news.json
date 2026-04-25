@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-24T23:40:48.986818+00:00",
-  "story_count": 71,
+  "last_updated": "2026-04-25T11:36:51.475359+00:00",
+  "story_count": 70,
   "stories": [
     {
       "title": "Saudi Crown Prince, Zelensky discuss Ukraine crisis and Middle East in Jeddah talks",
@@ -277,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "What people in power think the impact of the Iran war will be",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T05:00:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia among 10 countries welcoming Libya’s unified budget agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660683/saudi-arabia/saudi-arabia-among-10-countries-welcoming-libyas-unified-budget-agreement",
@@ -359,6 +352,13 @@
       "url": "https://saudigazette.com.sa/article/660662/saudi-arabia/saudi-arabia-projected-3rd-fastest-growing-g20-economy-in-2027-imf",
       "published_date": "2026-04-19T12:56:47+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T10:52:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
@@ -491,13 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660763/saudi-arabia/hajj-security-forces-arrest-egyptian-resident-for-transporting-visa-holder-to-makkah-illegally",
       "published_date": "2026-04-22T15:39:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GACA readies 3.1 million seats, 12,000 flights for 2026 Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660760/saudi-arabia/gaca-readies-31-million-seats-12000-flights-for-2026-hajj-season",
-      "published_date": "2026-04-22T14:42:28+00:00",
       "category": "Local Events"
     }
   ]
