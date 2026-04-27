@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-27T12:19:08.193021+00:00",
-  "story_count": 76,
+  "last_updated": "2026-04-27T23:55:22.661585+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Alkhorayef discusses enhancing industrial cooperation with Oman",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660905/saudi-arabia/alkhorayef-discusses-enhancing-industrial-cooperation-with-oman",
+      "published_date": "2026-04-27T21:31:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses over phone regional developments with his Qatari, Omani, and Egyptian counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660903/saudi-arabia/saudi-fm-discusses-over-phone-regional-developments-with-his-qatari-omani-and-egyptian-counterparts",
+      "published_date": "2026-04-27T21:03:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives message from Bangladeshi prime minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660900/saudi-arabia/crown-prince-receives-message-from-bangladeshi-prime-minister",
+      "published_date": "2026-04-27T17:37:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia signs educational program to support Gaza children through field schools for 1,000 students",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660899/saudi-arabia/saudi-arabia-signs-educational-program-to-support-gaza-children-through-field-schools-for-1000-students",
+      "published_date": "2026-04-27T17:19:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia records major healthcare gains, reaches 97.5% satisfaction",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660889/saudi-arabia/saudi-arabia-records-major-healthcare-gains-reaches-975-satisfaction",
+      "published_date": "2026-04-27T12:29:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Our Pilgrims are fully adhering to Saudi regulations, says Envoy Enayati as first group of Iranian pilgrims lands in Madinah",
       "source": "Saudi Gazette",
@@ -106,41 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660779/saudi-arabia/saudi-crown-prince-meets-swiss-president-in-jeddah-to-boost-investment-ties",
       "published_date": "2026-04-23T11:52:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, Japan PM discuss regional tensions, maritime supply concerns",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660775/saudi-arabia/crown-prince-japan-pm-discuss-regional-tensions-maritime-supply-concerns",
-      "published_date": "2026-04-23T10:58:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Dutch FMs discuss efforts for safety of international waterways",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660768/saudi-arabia/saudi-dutch-fms-discuss-efforts-for-safety-of-international-waterways",
-      "published_date": "2026-04-22T20:42:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi construction costs rise by 2% in March",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660765/saudi-arabia/saudi-construction-costs-rise-by-2-in-march",
-      "published_date": "2026-04-22T16:56:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi space mission reveals key gene changes in cells, opening path to advanced medicine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660761/saudi-arabia/saudi-space-mission-reveals-key-gene-changes-in-cells-opening-path-to-advanced-medicine",
-      "published_date": "2026-04-22T15:15:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-22T00:32:10+00:00",
       "category": "Diplomacy"
     },
     {
@@ -270,18 +270,11 @@
       "category": "Military"
     },
     {
-      "title": "Deputy defense minister attends graduation ceremony of 84th batch of King Abdulaziz Military Academy cadets",
+      "title": "Saudi renewable energy capacity reaches 64 GW",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660711/saudi-arabia/deputy-defense-minister-attends-graduation-ceremony-of-84th-batch-of-king-abdulaziz-military-academy-cadets",
-      "published_date": "2026-04-20T21:16:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-20T18:57:25+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/660888/saudi-arabia/saudi-renewable-energy-capacity-reaches-64-gw",
+      "published_date": "2026-04-27T12:20:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
@@ -289,6 +282,27 @@
       "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-23T20:45:51+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Alkhorayef: Local content jumps to 51% with $4.8 billion investments in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660898/saudi-arabia/alkhorayef-local-content-jumps-to-51-with-48-billion-investments-in-2025",
+      "published_date": "2026-04-27T16:52:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "3rd phase to focus on accelerating delivery and maximizing impact with expanding private sector’s role",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660896/saudi-arabia/3rd-phase-to-focus-on-accelerating-delivery-and-maximizing-impact-with-expanding-private-sectors-role",
+      "published_date": "2026-04-27T14:56:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Crown Prince: Vision 2030 reaches peak implementation stage after sustaining progress despite global turmoil",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660893/saudi-arabia/crown-prince-says-saudi-vision-2030-reaches-peak-implementation-stage-in-final-phase",
+      "published_date": "2026-04-27T13:28:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi women’s leadership roles rise to 44% in 2025 amid broad empowerment gains",
@@ -389,11 +403,39 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi liquidity surges 8.4% to SR3.28 trillion by end of February 2026",
+      "title": "Tourism minister inspects readiness of pilgrims’ accommodation in Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660708/saudi-arabia/saudi-liquidity-surges-84-to-sr328-trillion-by-end-of-february-2026",
-      "published_date": "2026-04-20T17:28:51+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660904/saudi-arabia/tourism-minister-inspects-readiness-of-pilgrims-accommodation-in-makkah",
+      "published_date": "2026-04-27T21:27:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj minister reviews readiness of Jadidat Arar, Al-Haditha border crossings to receive pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660902/saudi-arabia/hajj-minister-reviews-readiness-of-jadidat-arar-al-haditha-border-crossings-to-receive-pilgrims",
+      "published_date": "2026-04-27T20:55:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi, GCC citizens can perform Umrah until May 3",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660897/saudi-arabia/saudi-gcc-citizens-and-expats-in-kingdom-can-perform-umrah-until-may-3",
+      "published_date": "2026-04-27T15:46:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First groups of Iraqi Hajj pilgrims enter Jadidat Arar Border Crossing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660894/saudi-arabia/first-groups-of-iraqi-hajj-pilgrims-enter-jadidat-arar-border-crossing",
+      "published_date": "2026-04-27T13:52:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TGA warns carriers against transporting Hajj violators to Makkah and holy sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660892/saudi-arabia/tga-warns-carriers-against-transporting-hajj-violators-to-makkah-and-holy-sites",
+      "published_date": "2026-04-27T13:08:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Did Trump save eight Iranian women from execution?",
@@ -498,41 +540,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-24T16:20:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain forecast for Riyadh through Monday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660814/saudi-arabia/saudi-arabia-warns-of-heavy-rain-in-riyadh-makkah-and-multiple-regions",
-      "published_date": "2026-04-24T14:09:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi surgeons complete separation of Filipino conjoined twins in 18.5-hour complex operation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660805/saudi-arabia/saudi-surgeons-complete-separation-of-filipino-conjoined-twins-in-riyadh",
-      "published_date": "2026-04-24T05:38:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia and 7 other Islamic nations denounce Israeli violations of Jerusalem’s Islamic and Christian holy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660801/saudi-arabia/saudi-arabia-and-7-other-islamic-nations-denounce-israeli-violations-of-jerusalems-islamic-and-christian-holy-sites",
-      "published_date": "2026-04-23T21:46:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense warns of continued thunderstorms across Saudi Arabia through Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660799/saudi-arabia/civil-defense-warns-of-continued-thunderstorms-across-saudi-arabia-through-tuesday",
-      "published_date": "2026-04-23T20:56:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry: Up to SR100,000 fine for sheltering visit visa holders in Makkah during Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660798/saudi-arabia/interior-ministry-up-to-sr100000-fine-for-sheltering-visit-visa-holders-in-makkah-during-hajj-season",
-      "published_date": "2026-04-23T20:10:16+00:00",
       "category": "Local Events"
     }
   ]
