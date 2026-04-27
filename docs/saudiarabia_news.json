@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-26T23:40:28.293636+00:00",
-  "story_count": 75,
+  "last_updated": "2026-04-27T12:19:08.193021+00:00",
+  "story_count": 76,
   "stories": [
     {
       "title": "Our Pilgrims are fully adhering to Saudi regulations, says Envoy Enayati as first group of Iranian pilgrims lands in Madinah",
@@ -151,6 +151,13 @@
       "category": "Military"
     },
     {
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T00:34:21+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
@@ -176,6 +183,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-23T15:11:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Tehran, money is short and a return to war looms over daily life",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T11:26:01+00:00",
       "category": "Military"
     },
     {
@@ -270,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Are insider traders making millions from the Iran war?",
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-20T12:14:56+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T20:45:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi women’s leadership roles rise to 44% in 2025 amid broad empowerment gains",
@@ -379,13 +393,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660708/saudi-arabia/saudi-liquidity-surges-84-to-sr328-trillion-by-end-of-february-2026",
       "published_date": "2026-04-20T17:28:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia signs Expo Belgrade 2027 participation deal, moves into execution phase",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660692/saudi-arabia/saudi-arabia-signs-expo-belgrade-2027-participation-deal-moves-into-execution-phase",
-      "published_date": "2026-04-20T11:59:52+00:00",
       "category": "Economy"
     },
     {
