@@ -1,8 +1,85 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-28T12:23:06.769378+00:00",
-  "story_count": 76,
+  "last_updated": "2026-04-28T23:56:00.541109+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "America's special relationship 'probably Israel', says UK ambassador to US",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T23:54:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM, UN chief discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660933/saudi-arabia/saudi-fm-un-chief-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-04-28T20:34:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gulf leaders back missile early warning system, reject Hormuz closure",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660932/saudi-arabia/gulf-leaders-back-missile-early-warning-system-reject-hormuz-closure",
+      "published_date": "2026-04-28T19:48:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GASTAT: Risk awareness index among workers reached 77%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660931/saudi-arabia/gastat-risk-awareness-index-among-workers-reached-77",
+      "published_date": "2026-04-28T17:29:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Kheraiji, Turkish counterpart co-chair Saudi-Turkish panel meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660930/saudi-arabia/al-kheraiji-turkish-counterpart-co-chair-saudi-turkish-panel-meeting",
+      "published_date": "2026-04-28T17:25:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cabinet: Saudi Vision 2030 milestones forge a stronger, diversified, and resilient economy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660929/saudi-arabia/cabinet-saudi-vision-2030-milestones-forge-a-stronger-diversified-and-resilient-economy",
+      "published_date": "2026-04-28T16:41:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia elected ITU Council vice chair",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660924/saudi-arabia/saudi-arabia-elected-itu-council-vice-chair-in-geneva",
+      "published_date": "2026-04-28T14:17:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Russia mark 100 years of diplomatic ties with historical photo exhibition in Moscow",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660922/saudi-arabia/saudi-arabia-russia-mark-100-years-of-diplomatic-ties-with-historical-photo-exhibition-in-moscow",
+      "published_date": "2026-04-28T14:06:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC leaders convene in Jeddah as Hormuz risks dominate agenda",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660920/saudi-arabia/gcc-leaders-convene-in-jeddah-as-hormuz-risks-and-regional-tensions-dominate-summit-agenda",
+      "published_date": "2026-04-28T13:28:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia stresses Hormuz maritime security priority",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660918/saudi-arabia/saudi-arabia-urges-un-action-on-iran-stresses-hormuz-security-priority",
+      "published_date": "2026-04-28T13:24:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince chairs GCC Consultative Summit in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660911/saudi-arabia/saudi-crown-prince-chairs-gcc-consultative-summit-in-jeddah",
+      "published_date": "2026-04-28T12:59:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
       "source": "BBC News",
@@ -67,81 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman receives written message from president of Djibouti",
+      "title": "Six Pakistanis apprehended while attempting to enter Makkah illegally",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660872/saudi-arabia/king-salman-receives-written-message-from-president-of-djibouti",
-      "published_date": "2026-04-26T17:23:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns White House dinner shooting, affirms solidarity with US",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660852/saudi-arabia/saudi-arabia-condemns-white-house-dinner-shooting-affirms-solidarity-with-us",
-      "published_date": "2026-04-26T12:25:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Moroccan conjoined twins undergo medical evaluation after arrival in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660840/saudi-arabia/moroccan-conjoined-twins-undergo-medical-evaluation-after-arrivalin-riyadh",
-      "published_date": "2026-04-25T14:51:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns drone strikes on Kuwait launched from Iraq",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660822/saudi-arabia/saudi-arabia-condemns-drone-strikes-on-kuwait-launched-from-iraq",
-      "published_date": "2026-04-25T12:26:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Zelensky discuss Ukraine crisis and Middle East in Jeddah talks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660821/saudi-arabia/saudi-crown-prince-and-zelensky-discuss-ukraine-crisis-in-jeddah",
-      "published_date": "2026-04-24T19:32:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Public Prosecution approves remote work, anti-fraud office in reform push",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660818/saudi-arabia/saudi-public-prosecution-approves-remote-work-and-anti-fraud-office",
-      "published_date": "2026-04-24T15:36:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Switzerland sign investment pact as leaders hold business forum in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660804/saudi-arabia/saudi-arabia-switzerland-sign-investment-protection-pact-in-jeddah",
-      "published_date": "2026-04-24T03:36:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM, Lebanese speaker discuss efforts for cessation of Israeli hostilities in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660797/saudi-arabia/saudi-fm-lebanese-speaker-discuss-efforts-for-cessation-of-israeli-hostilities-in-phone-call",
-      "published_date": "2026-04-23T19:59:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Council of Health Insurance slaps SR4 million fines on violating employers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660796/saudi-arabia/council-of-health-insurance-slaps-sr4-million-fines-on-violating-employers",
-      "published_date": "2026-04-23T17:00:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Cuban FMs discuss Mideast situation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660794/saudi-arabia/saudi-cuban-fms-discuss-mideast-situation-in-phone-call",
-      "published_date": "2026-04-23T15:53:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi surgeons begin 24-hour separation of Filipino conjoined twins in one of world’s most complex cases",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660783/saudi-arabia/saudi-surgeons-begin-separation-of-filipino-conjoined-twins-in-riyadh",
-      "published_date": "2026-04-23T12:44:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/660934/saudi-arabia/six-pakistanis-apprehended-while-attempting-to-enter-makkah-illegally",
+      "published_date": "2026-04-28T20:40:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia condemns terror attacks in Mali",
@@ -228,46 +235,18 @@
       "category": "Military"
     },
     {
-      "title": "Two Palestinians killed during settler attack on West Bank village, officials say",
+      "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-21T17:17:33+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T16:24:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-21T16:13:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran sees mass redundancies from war with US and Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-21T16:05:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Nothing to go back to' - BBC reports from Lebanon's 'Yellow Line'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cj37dj76njno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-21T14:12:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi authority launches service to check crowd levels in tawaf and sa’i areas at Grand Mosque",
+      "title": "Saudi Arabia to host ERRA’s 24th annual energy regulators conference in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660731/saudi-arabia/saudi-arabia-launches-live-crowd-tracking-service-for-grand-mosque-pilgrims",
-      "published_date": "2026-04-21T14:09:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia backs UAE after foiled terror plot",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660727/saudi-arabia/saudi-arabia-supports-uae-after-foiled-terror-plot-linked-to-iran",
-      "published_date": "2026-04-21T12:56:52+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/660923/saudi-arabia/saudi-arabia-to-host-erras-24th-annual-energy-regulators-conference-in-riyadh",
+      "published_date": "2026-04-28T14:07:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi renewable energy capacity reaches 64 GW",
@@ -282,6 +261,13 @@
       "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-23T20:45:51+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia unveils SR700 billion investment drive as environment sectors post record gains",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660919/saudi-arabia/saudi-arabia-unveils-sr700-billion-investment-drive-as-environment-sectors-post-record-gains",
+      "published_date": "2026-04-28T13:25:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Alkhorayef: Local content jumps to 51% with $4.8 billion investments in 2025",
@@ -389,11 +375,32 @@
       "category": "Economy"
     },
     {
-      "title": "Crown Prince calls for all-out efforts to ensure seamless Hajj operation",
+      "title": "MAWANI allows release of goods from ports, granting 15-day time for storage fee payment",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660739/saudi-arabia/crown-prince-calls-for-all-out-efforts-to-ensure-seamless-hajj-operation",
-      "published_date": "2026-04-21T19:33:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/660928/saudi-arabia/mawani-allows-release-of-goods-from-ports-granting-15-day-time-for-storage-fee-payment",
+      "published_date": "2026-04-28T15:22:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Employee is entitled to maximum 15-day paid leave for performing Hajj for one time",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660926/saudi-arabia/employee-is-entitled-to-maximum-15-day-paid-leave-for-performing-hajj-for-one-time",
+      "published_date": "2026-04-28T14:45:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior ministry warns of maximum 6-month jail, SR50,000 fine and deportation for visa overstayers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660925/saudi-arabia/interior-ministry-warns-of-maximum-6-month-jail-sr50000-fine-and-deportation-for-visa-overstayers",
+      "published_date": "2026-04-28T14:17:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Egyptians arrested for entering Makkah without a Hajj permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660921/saudi-arabia/five-egyptians-arrested-for-entering-makkah-without-a-hajj-permit",
+      "published_date": "2026-04-28T13:52:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tourism minister inspects readiness of pilgrims’ accommodation in Makkah",
@@ -505,34 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660845/saudi-arabia/riyadh-reaches-1m-sqm-of-green-space-with-762-parks",
       "published_date": "2026-04-26T11:04:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security forces arrest 1,454 infiltrators in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660842/saudi-arabia/security-forcesarrest-1454-infiltrators-in-a-week",
-      "published_date": "2026-04-25T15:55:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Myanmar national arrested for transporting 6 violators of Hajj regulations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660841/saudi-arabia/myanmar-national-arrested-for-transporting-6-violators-of-hajj-regulations",
-      "published_date": "2026-04-25T15:01:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T10:52:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T16:20:10+00:00",
       "category": "Local Events"
     }
   ]
