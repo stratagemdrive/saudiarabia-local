@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-27T23:55:22.661585+00:00",
-  "story_count": 77,
+  "last_updated": "2026-04-28T12:23:06.769378+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T12:18:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Alkhorayef discusses enhancing industrial cooperation with Oman",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660783/saudi-arabia/saudi-surgeons-begin-separation-of-filipino-conjoined-twins-in-riyadh",
       "published_date": "2026-04-23T12:44:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Swiss president discuss expanding investment ties in Jeddah meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660779/saudi-arabia/saudi-crown-prince-meets-swiss-president-in-jeddah-to-boost-investment-ties",
-      "published_date": "2026-04-23T11:52:09+00:00",
       "category": "Diplomacy"
     },
     {
@@ -393,13 +393,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660739/saudi-arabia/crown-prince-calls-for-all-out-efforts-to-ensure-seamless-hajj-operation",
       "published_date": "2026-04-21T19:33:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi FDI inflows top SR1 trillion in 2025, up 13%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660725/saudi-arabia/saudi-fdi-rises-13-to-surpass-sr1-trillion-in-2025",
-      "published_date": "2026-04-21T12:14:19+00:00",
       "category": "Economy"
     },
     {
