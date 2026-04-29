@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-28T23:56:00.541109+00:00",
-  "story_count": 73,
+  "last_updated": "2026-04-29T12:16:13.855307+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Commerce Ministry recalls 857 Hyundai vehicles over electronic system fault",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660943/saudi-arabia/commerce-ministry-recalls-857-hyundai-over-electronic-system-fault",
+      "published_date": "2026-04-29T10:55:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "America's special relationship 'probably Israel', says UK ambassador to US",
       "source": "BBC News",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Iranian foreign ministers discuss de-escalation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660876/saudi-arabia/saudi-iranian-foreign-ministers-discuss-de-escalation-in-phone-call",
-      "published_date": "2026-04-26T20:15:49+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-29T11:46:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-29T02:01:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Six Pakistanis apprehended while attempting to enter Makkah illegally",
@@ -221,24 +235,17 @@
       "category": "Military"
     },
     {
-      "title": "US and Iran 'locked in war of words' says Lyse Doucet",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-22T08:37:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-22T04:01:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-28T16:24:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T15:55:46+00:00",
       "category": "Energy"
     },
     {
