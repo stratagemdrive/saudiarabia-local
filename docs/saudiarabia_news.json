@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-29T12:16:13.855307+00:00",
-  "story_count": 74,
+  "last_updated": "2026-04-29T23:56:15.044411+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi Crown Prince, Canadian PM discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660959/saudi-arabia/saudi-crown-prince-canadian-pm-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-04-29T17:12:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interior Ministry takes legal action over online content threatening unity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660956/saudi-arabia/saudi-arabia-takes-legal-action-over-online-content-threatening-unity",
+      "published_date": "2026-04-29T15:01:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shehbaz Sharif: Pakistan repaid $3.5 billion in external debt thanks to Saudi Arabia&#039;s pivotal support",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660955/saudi-arabia/shehbaz-sharif-pakistan-repaid-35-billion-in-external-debt-thanks-to-saudi-arabias-pivotal-support",
+      "published_date": "2026-04-29T14:44:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for nuclear-free Middle East, says Israel stance blocks progress",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660948/saudi-arabia/saudi-arabia-urges-nuclear-treaty-compliance-gaza-ceasefire-at-un",
+      "published_date": "2026-04-29T12:05:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Commerce Ministry recalls 857 Hyundai vehicles over electronic system fault",
       "source": "Saudi Gazette",
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia signs educational program to support Gaza children through field schools for 1,000 students",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660899/saudi-arabia/saudi-arabia-signs-educational-program-to-support-gaza-children-through-field-schools-for-1000-students",
-      "published_date": "2026-04-27T17:19:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia records major healthcare gains, reaches 97.5% satisfaction",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660889/saudi-arabia/saudi-arabia-records-major-healthcare-gains-reaches-975-satisfaction",
-      "published_date": "2026-04-27T12:29:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Our Pilgrims are fully adhering to Saudi regulations, says Envoy Enayati as first group of Iranian pilgrims lands in Madinah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660878/saudi-arabia/our-pilgrims-are-fully-adhering-to-saudi-regulations-says-envoy-enayati-as-first-group-of-iranian-pilgrims-lands-in-madinah",
-      "published_date": "2026-04-26T21:33:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses over phone regional situation with counterparts of Afghan, Qatar and Bahrain",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660877/saudi-arabia/saudi-fm-discusses-over-phone-regional-situation-with-counterparts-of-afghan-qatar-and-bahrain",
-      "published_date": "2026-04-26T20:22:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
@@ -221,20 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "Six categories are permitted to enter Makkah with an Absher permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660764/saudi-arabia/six-categories-are-permitted-to-enter-makkah-with-an-absher-permit",
-      "published_date": "2026-04-22T16:28:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Italian defense ministers discuss enhancing military partnership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660759/saudi-arabia/saudi-italian-defense-ministers-discuss-enhancing-military-partnership",
-      "published_date": "2026-04-22T14:23:05+00:00",
-      "category": "Military"
-    },
-    {
       "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
@@ -268,6 +254,27 @@
       "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-23T20:45:51+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "New ‘Hadaf for Leadership’ programs launched to empower national talent and support future economy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660961/saudi-arabia/new-hadaf-for-leadership-programs-launched-to-empower-national-talent-and-support-future-economy",
+      "published_date": "2026-04-29T21:07:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What Phase 3 of Saudi Vision 2030 means for growth, jobs and the future",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660947/saudi-arabia/what-happens-in-phase-3-of-saudi-vision-2030",
+      "published_date": "2026-04-29T11:52:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi date exports surge across key markets with gains of up to 67%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660946/saudi-arabia/saudi-date-exports-surge-across-key-markets-with-gains-of-up-to-67",
+      "published_date": "2026-04-29T11:42:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia unveils SR700 billion investment drive as environment sectors post record gains",
@@ -382,6 +389,41 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Red Crescent teams restore Indonesian pilgrim’s pulse at Prophet’s Mosque courtyards",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660962/saudi-arabia/saudi-red-crescent-teams-restore-indonesian-pilgrims-pulse-at-prophets-mosque-courtyards",
+      "published_date": "2026-04-29T21:12:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria trial seen as first step on long road for Assad's victims",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-29T20:11:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 Indonesians arrested in Makkah for promoting fake Hajj services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660960/saudi-arabia/3-indonesians-arrested-in-makkah-for-promoting-fake-hajj-services",
+      "published_date": "2026-04-29T17:30:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MoH releases list of illnesses that prevent obtaining a permit for Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660958/saudi-arabia/moh-releases-list-of-illnesses-that-prevent-obtaining-a-permit-for-hajj",
+      "published_date": "2026-04-29T16:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passports Directorate deploys mobile counter to facilitate seamless entry of Hajj pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660953/saudi-arabia/passports-directorate-deploys-mobile-counter-to-facilitate-seamless-entry-of-hajj-pilgrims",
+      "published_date": "2026-04-29T13:39:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "MAWANI allows release of goods from ports, granting 15-day time for storage fee payment",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660928/saudi-arabia/mawani-allows-release-of-goods-from-ports-granting-15-day-time-for-storage-fee-payment",
@@ -484,41 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660868/saudi-arabia/ncm-forecast-of-heavy-rain-and-fog-in-most-saudi-regions",
       "published_date": "2026-04-26T14:56:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prospective pilgrims urged to verify authenticity of Hajj permits before making travel arrangements to Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660866/saudi-arabia/prospective-pilgrims-urged-to-verify-authenticity-of-hajj-permits-before-making-travel-arrangements-to-makkah",
-      "published_date": "2026-04-26T13:52:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maximum fine of SR100,000 for facilitating visit visas to individuals entering Makkah without a Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660863/saudi-arabia/maximum-fine-of-sr100000-for-facilitating-visit-visas-to-individuals-entering-makkah-without-a-hajj-permit",
-      "published_date": "2026-04-26T13:10:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asir’s coffee harvest exceeds 82,000 kg",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660858/saudi-arabia/asirs-coffee-harvest-exceeds-82000-kg",
-      "published_date": "2026-04-26T12:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia explores museum cooperation with Victoria and Albert Museum in London",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660847/saudi-arabia/saudi-arabia-explores-museum-cooperation-with-victoria-and-albert-museum-in-london",
-      "published_date": "2026-04-26T11:12:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh reaches 1M sqm of green space with 762 parks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660845/saudi-arabia/riyadh-reaches-1m-sqm-of-green-space-with-762-parks",
-      "published_date": "2026-04-26T11:04:28+00:00",
       "category": "Local Events"
     }
   ]
