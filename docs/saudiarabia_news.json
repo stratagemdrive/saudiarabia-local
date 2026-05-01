@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-04-30T23:54:32.848635+00:00",
-  "story_count": 73,
+  "last_updated": "2026-05-01T11:57:40.947246+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Crown Prince offers condolences to Egypt PM over father’s death",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660998/saudi-arabia/saudi-crown-prince-offers-condolences-to-egypt-pm-over-fathers-death",
+      "published_date": "2026-05-01T10:52:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional developments in phone call with Canadian, Kuwaiti counterparts",
       "source": "Saudi Gazette",
@@ -123,24 +130,17 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T13:51:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "GCC leaders convene in Jeddah as Hormuz risks dominate agenda",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660920/saudi-arabia/gcc-leaders-convene-in-jeddah-as-hormuz-risks-and-regional-tensions-dominate-summit-agenda",
       "published_date": "2026-04-28T13:28:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia stresses Hormuz maritime security priority",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660918/saudi-arabia/saudi-arabia-urges-un-action-on-iran-stresses-hormuz-security-priority",
-      "published_date": "2026-04-28T13:24:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince chairs GCC Consultative Summit in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660911/saudi-arabia/saudi-crown-prince-chairs-gcc-consultative-summit-in-jeddah",
-      "published_date": "2026-04-28T12:59:41+00:00",
       "category": "Diplomacy"
     },
     {
@@ -197,13 +197,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660819/saudi-arabia/saudi-customs-foils-smuggling-of-154108-captagon-pills-at-al-haditha-border",
       "published_date": "2026-04-24T16:06:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T10:41:32+00:00",
       "category": "Military"
     },
     {
@@ -375,6 +368,20 @@
       "category": "Economy"
     },
     {
+      "title": "Interior Ministry: Visit visas do not permit Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/660999/saudi-arabia/saudi-interior-ministry-says-visit-visas-do-not-permit-hajj",
+      "published_date": "2026-05-01T11:01:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T05:04:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "NCM: Saudi regions experience exceptional weather in April",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660991/saudi-arabia/ncm-saudi-regions-experience-exceptional-weather-in-april",
@@ -498,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660904/saudi-arabia/tourism-minister-inspects-readiness-of-pilgrims-accommodation-in-makkah",
       "published_date": "2026-04-27T21:27:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj minister reviews readiness of Jadidat Arar, Al-Haditha border crossings to receive pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660902/saudi-arabia/hajj-minister-reviews-readiness-of-jadidat-arar-al-haditha-border-crossings-to-receive-pilgrims",
-      "published_date": "2026-04-27T20:55:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, GCC citizens can perform Umrah until May 3",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660897/saudi-arabia/saudi-gcc-citizens-and-expats-in-kingdom-can-perform-umrah-until-may-3",
-      "published_date": "2026-04-27T15:46:15+00:00",
       "category": "Local Events"
     }
   ]
