@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-01T11:57:40.947246+00:00",
-  "story_count": 72,
+  "last_updated": "2026-05-01T23:53:43.623146+00:00",
+  "story_count": 71,
   "stories": [
     {
       "title": "Crown Prince offers condolences to Egypt PM over father’s death",
@@ -193,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi customs foils attempt to smuggle 154,108 Captagon pills at Al Haditha border",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660819/saudi-arabia/saudi-customs-foils-smuggling-of-154108-captagon-pills-at-al-haditha-border",
-      "published_date": "2026-04-24T16:06:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
@@ -226,6 +219,13 @@
       "url": "https://saudigazette.com.sa/article/660888/saudi-arabia/saudi-renewable-energy-capacity-reaches-64-gw",
       "published_date": "2026-04-27T12:20:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Non-Oil Revenue Center empowered to review fees, support fiscal sustainability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661006/saudi-arabia/saudi-non-oil-revenue-center-gains-powers-to-review-fees-and-boost-revenues",
+      "published_date": "2026-05-01T17:34:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gulf Commerce ministers review progress on implementing unified commercial laws",
@@ -361,11 +361,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi sukuk added to J.P. Morgan and Bloomberg emerging market bond indices",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T17:03:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi anti-corruption authority probes 259 suspects, detains 97 in April crackdown",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660817/saudi-arabia/saudi-sukuk-added-to-jp-morgan-and-bloomberg-emerging-market-bond-indices",
-      "published_date": "2026-04-24T14:57:14+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661005/saudi-arabia/saudi-anti-corruption-authority-probes-259-suspects-detains-97-in-april",
+      "published_date": "2026-05-01T15:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia expands architecture design code to new regions in phase four rollout",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661004/saudi-arabia/saudi-arabia-expands-architecture-design-code-in-phase-four-rollout",
+      "published_date": "2026-05-01T15:28:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Interior Ministry: Visit visas do not permit Hajj",
@@ -484,27 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660926/saudi-arabia/employee-is-entitled-to-maximum-15-day-paid-leave-for-performing-hajj-for-one-time",
       "published_date": "2026-04-28T14:45:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior ministry warns of maximum 6-month jail, SR50,000 fine and deportation for visa overstayers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660925/saudi-arabia/interior-ministry-warns-of-maximum-6-month-jail-sr50000-fine-and-deportation-for-visa-overstayers",
-      "published_date": "2026-04-28T14:17:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Egyptians arrested for entering Makkah without a Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660921/saudi-arabia/five-egyptians-arrested-for-entering-makkah-without-a-hajj-permit",
-      "published_date": "2026-04-28T13:52:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourism minister inspects readiness of pilgrims’ accommodation in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660904/saudi-arabia/tourism-minister-inspects-readiness-of-pilgrims-accommodation-in-makkah",
-      "published_date": "2026-04-27T21:27:14+00:00",
       "category": "Local Events"
     }
   ]
