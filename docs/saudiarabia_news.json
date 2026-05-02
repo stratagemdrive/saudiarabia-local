@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-02T11:42:58.431489+00:00",
-  "story_count": 71,
+  "last_updated": "2026-05-02T23:46:06.515866+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Ban on use of government agencies’ names in real estate marketing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661027/saudi-arabia/ban-on-use-of-government-agencies-names-in-real-estate-marketing",
+      "published_date": "2026-05-02T17:53:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia deports 14,855 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661026/saudi-arabia/saudi-arabia-deports-14855-illegal-residents-in-a-week",
+      "published_date": "2026-05-02T17:46:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Syria to enhance bilateral cooperation in land transport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661025/saudi-arabia/saudi-arabia-syria-to-enhance-bilateral-cooperation-in-land-transport",
+      "published_date": "2026-05-02T16:05:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KSrelief aid convoy arrives in Gaza Strip",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661022/saudi-arabia/ksrelief-aid-convoy-arrives-in-gaza-strip",
+      "published_date": "2026-05-02T14:07:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Faisal, Kaja Kallas discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661016/saudi-arabia/prince-faisal-kaja-kallas-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-02T13:05:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince offers condolences to Egypt PM over father’s death",
       "source": "Saudi Gazette",
@@ -109,41 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cabinet: Saudi Vision 2030 milestones forge a stronger, diversified, and resilient economy",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660929/saudi-arabia/cabinet-saudi-vision-2030-milestones-forge-a-stronger-diversified-and-resilient-economy",
-      "published_date": "2026-04-28T16:41:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia elected ITU Council vice chair",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660924/saudi-arabia/saudi-arabia-elected-itu-council-vice-chair-in-geneva",
-      "published_date": "2026-04-28T14:17:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Russia mark 100 years of diplomatic ties with historical photo exhibition in Moscow",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660922/saudi-arabia/saudi-arabia-russia-mark-100-years-of-diplomatic-ties-with-historical-photo-exhibition-in-moscow",
-      "published_date": "2026-04-28T14:06:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T13:51:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC leaders convene in Jeddah as Hormuz risks dominate agenda",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660920/saudi-arabia/gcc-leaders-convene-in-jeddah-as-hormuz-risks-and-regional-tensions-dominate-summit-agenda",
-      "published_date": "2026-04-28T13:28:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi Arabia reaffirms support for UN efforts to combat terrorism",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660982/saudi-arabia/saudi-arabia-reaffirms-support-for-un-efforts-to-combat-terrorism",
@@ -186,13 +186,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T21:34:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
@@ -219,6 +212,13 @@
       "url": "https://saudigazette.com.sa/article/660888/saudi-arabia/saudi-renewable-energy-capacity-reaches-64-gw",
       "published_date": "2026-04-27T12:20:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Customs report 864 contraband seizures at Saudi ports last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661024/saudi-arabia/customs-report-864-contraband-seizures-at-saudi-ports-last-week",
+      "published_date": "2026-05-02T16:01:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Non-Oil Revenue Center empowered to review fees, support fiscal sustainability",
@@ -326,39 +326,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs record 1,077 smuggling cases last week",
+      "title": "Saudi Arabia ranks 2nd globally in data center market attractiveness",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660843/saudi-arabia/saudi-customs-record-1077-smuggling-cases-last-week",
-      "published_date": "2026-04-25T16:01:32+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661023/saudi-arabia/saudi-arabia-ranks-2nd-globally-in-data-center-market-attractiveness",
+      "published_date": "2026-05-02T14:54:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Vision 2030 enters final phase with 93% of KPIs meeting targets in 2025",
+      "title": "3 Indonesians arrested in Makkah for promoting fake Hajj services",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660839/saudi-arabia/saudi-vision-2030-enters-final-phase-as-93-of-kpis-meet-2025-targets",
-      "published_date": "2026-04-25T14:35:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Crown Prince: Saudi ambition has been turned into real results under Vision 2030",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660838/saudi-arabia/crown-prince-says-saudi-ambition-turned-into-real-results-under-vision-2030",
-      "published_date": "2026-04-25T14:29:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "King Salman: Saudi Arabia has become leading model for driving comprehensive development",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660837/saudi-arabia/king-salman-says-saudi-arabia-moves-toward-brighter-future-after-vision-2030-progress",
-      "published_date": "2026-04-25T14:26:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Value of Saudi date exports surpasses SR1.9 billion in 2025, up 14.3%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660826/saudi-arabia/value-of-saudi-date-exports-surpasses-sr19-billion-in-2025-up-143",
-      "published_date": "2026-04-25T13:02:40+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661021/saudi-arabia/3-indonesians-arrested-in-makkah-for-promoting-fake-hajj-services",
+      "published_date": "2026-05-02T14:02:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli police arrest man after nun attacked in Jerusalem",
@@ -484,20 +463,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660953/saudi-arabia/passports-directorate-deploys-mobile-counter-to-facilitate-seamless-entry-of-hajj-pilgrims",
       "published_date": "2026-04-29T13:39:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAWANI allows release of goods from ports, granting 15-day time for storage fee payment",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660928/saudi-arabia/mawani-allows-release-of-goods-from-ports-granting-15-day-time-for-storage-fee-payment",
-      "published_date": "2026-04-28T15:22:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Employee is entitled to maximum 15-day paid leave for performing Hajj for one time",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660926/saudi-arabia/employee-is-entitled-to-maximum-15-day-paid-leave-for-performing-hajj-for-one-time",
-      "published_date": "2026-04-28T14:45:35+00:00",
       "category": "Local Events"
     }
   ]
