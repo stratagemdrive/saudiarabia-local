@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-04T12:20:18.780688+00:00",
-  "story_count": 64,
+  "last_updated": "2026-05-04T23:55:15.343866+00:00",
+  "story_count": 62,
   "stories": [
+    {
+      "title": "Crown Prince reaffirms Saudi support against Iranian attacks in call with UAE president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661077/saudi-arabia/crown-prince-reaffirms-saudi-support-against-iranian-attacks-in-call-with-uae-president",
+      "published_date": "2026-05-04T21:44:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Singapore foreign ministers emphasize ensuring stability of waterways",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661076/saudi-arabia/saudi-singapore-foreign-ministers-emphasize-ensuring-stability-of-waterways",
+      "published_date": "2026-05-04T17:35:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC chief condemns Iranian attack on UAE tanker in Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661071/saudi-arabia/gcc-chief-condemns-iranian-attack-on-uae-tanker-in-strait-of-hormuz",
+      "published_date": "2026-05-04T15:34:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Egyptian FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661065/saudi-arabia/saudi-egyptian-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-04T12:56:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Albudaiwi reaffirms GCC’s solidarity with Bahrain in safeguarding its security",
       "source": "Saudi Gazette",
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia calls for nuclear-free Middle East, says Israel stance blocks progress",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660948/saudi-arabia/saudi-arabia-urges-nuclear-treaty-compliance-gaza-ceasefire-at-un",
-      "published_date": "2026-04-29T12:05:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce Ministry recalls 857 Hyundai vehicles over electronic system fault",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660943/saudi-arabia/commerce-ministry-recalls-857-hyundai-over-electronic-system-fault",
-      "published_date": "2026-04-29T10:55:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "America's special relationship 'probably Israel', says UK ambassador to US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T23:54:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM, UN chief discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660933/saudi-arabia/saudi-fm-un-chief-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-04-28T20:34:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
@@ -212,6 +212,13 @@
       "url": "https://saudigazette.com.sa/article/660923/saudi-arabia/saudi-arabia-to-host-erras-24th-annual-energy-regulators-conference-in-riyadh",
       "published_date": "2026-04-28T14:07:33+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi consumer spending crosses SR150 billion in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661069/saudi-arabia/saudi-consumer-spending-crosses-sr150-billion-in-march",
+      "published_date": "2026-05-04T14:20:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Global report: Saudi Arabia at the heart of robust tourism and travel growth in Mideast during 2025",
@@ -291,25 +298,46 @@
       "category": "Economy"
     },
     {
-      "title": "Alkhorayef: Local content jumps to 51% with $4.8 billion investments in 2025",
+      "title": "Heritage Commission revives Al-Nasb Heritage District as Abha Cultural Tourism Destination",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660898/saudi-arabia/alkhorayef-local-content-jumps-to-51-with-48-billion-investments-in-2025",
-      "published_date": "2026-04-27T16:52:58+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661075/saudi-arabia/heritage-commission-revives-al-nasb-heritage-district-as-abha-cultural-tourism-destination",
+      "published_date": "2026-05-04T17:20:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "3rd phase to focus on accelerating delivery and maximizing impact with expanding private sector’s role",
+      "title": "Phase two of shading and cooling project around Mount Arafat is complete",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660896/saudi-arabia/3rd-phase-to-focus-on-accelerating-delivery-and-maximizing-impact-with-expanding-private-sectors-role",
-      "published_date": "2026-04-27T14:56:30+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661074/saudi-arabia/phase-two-of-shading-and-cooling-project-around-mount-arafat-is-complete",
+      "published_date": "2026-05-04T16:54:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Crown Prince: Vision 2030 reaches peak implementation stage after sustaining progress despite global turmoil",
+      "title": "Expat arrested in Makkah for harassing a woman",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660893/saudi-arabia/crown-prince-says-saudi-vision-2030-reaches-peak-implementation-stage-in-final-phase",
-      "published_date": "2026-04-27T13:28:31+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661073/saudi-arabia/expat-arrested-in-makkah-for-harassing-a-woman",
+      "published_date": "2026-05-04T15:49:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi, Syrian ministers discuss enhancing cooperation in local administration and housing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661070/saudi-arabia/saudi-syrian-ministers-discuss-enhancing-cooperation-in-local-administration-and-housing",
+      "published_date": "2026-05-04T15:22:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "74 escalators installed in Mina to facilitate smooth pilgrim movement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661067/saudi-arabia/74-escalators-installed-in-mina-to-facilitate-smooth-pilgrim-movement",
+      "published_date": "2026-05-04T13:53:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission slaps fines on 11 persons for unlicensed trade in portable antiquities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661066/saudi-arabia/heritage-commission-slaps-fines-on-11-persons-for-unlicensed-trade-in-portable-antiquities",
+      "published_date": "2026-05-04T13:38:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia forecasts heavy rainfall in May, rising temperatures through summer: NCM",
@@ -407,48 +435,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661005/saudi-arabia/saudi-anti-corruption-authority-probes-259-suspects-detains-97-in-april",
       "published_date": "2026-05-01T15:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia expands architecture design code to new regions in phase four rollout",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661004/saudi-arabia/saudi-arabia-expands-architecture-design-code-in-phase-four-rollout",
-      "published_date": "2026-05-01T15:28:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry: Visit visas do not permit Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660999/saudi-arabia/saudi-interior-ministry-says-visit-visas-do-not-permit-hajj",
-      "published_date": "2026-05-01T11:01:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T05:04:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM: Saudi regions experience exceptional weather in April",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660991/saudi-arabia/ncm-saudi-regions-experience-exceptional-weather-in-april",
-      "published_date": "2026-04-30T20:16:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 citizens and 19 residents arrested for violating Hajj regulations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660990/saudi-arabia/one-citizens-and-two-residents-arrested-for-violating-hajj-regulations",
-      "published_date": "2026-04-30T20:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Hogail pays tribute to Jeddah Mayor Al-Turki, with accolades for 8 years of exceptional leadership and enduring achievements",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660989/saudi-arabia/minister-al-hogail-pays-tribute-to-jeddah-mayor-saleh-al-turki-with-accolades-for-8-years-of-exceptional-leadership-and-enduring-achievements",
-      "published_date": "2026-04-30T17:40:07+00:00",
       "category": "Local Events"
     }
   ]
