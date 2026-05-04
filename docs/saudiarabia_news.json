@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-03T23:50:16.165017+00:00",
+  "last_updated": "2026-05-04T12:20:18.780688+00:00",
   "story_count": 64,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T23:19:57+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi reserve revives endangered houbara populations",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661034/saudi-arabia/saudi-reserve-revives-endangered-houbara-populations",
@@ -204,13 +211,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660923/saudi-arabia/saudi-arabia-to-host-erras-24th-annual-energy-regulators-conference-in-riyadh",
       "published_date": "2026-04-28T14:07:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi renewable energy capacity reaches 64 GW",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660888/saudi-arabia/saudi-renewable-energy-capacity-reaches-64-gw",
-      "published_date": "2026-04-27T12:20:01+00:00",
       "category": "Energy"
     },
     {
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/660893/saudi-arabia/crown-prince-says-saudi-vision-2030-reaches-peak-implementation-stage-in-final-phase",
       "published_date": "2026-04-27T13:28:31+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia forecasts heavy rainfall in May, rising temperatures through summer: NCM",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661063/saudi-arabia/saudi-arabia-forecasts-heavy-may-rainfall-rising-summer-temperatures",
+      "published_date": "2026-05-04T11:48:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "5 arrested while attempting to enter Makkah on foot illegally",
@@ -442,13 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660989/saudi-arabia/minister-al-hogail-pays-tribute-to-jeddah-mayor-saleh-al-turki-with-accolades-for-8-years-of-exceptional-leadership-and-enduring-achievements",
       "published_date": "2026-04-30T17:40:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA finalizes comprehensive operational plan to ensure hassle-free Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660986/saudi-arabia/sfda-finalizes-comprehensive-operational-plan-to-ensure-hassle-free-hajj",
-      "published_date": "2026-04-30T15:52:19+00:00",
       "category": "Local Events"
     }
   ]
