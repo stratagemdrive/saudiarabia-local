@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-04T23:55:15.343866+00:00",
-  "story_count": 62,
+  "last_updated": "2026-05-05T11:59:21.441565+00:00",
+  "story_count": 63,
   "stories": [
+    {
+      "title": "Saudi Arabia calls for de-escalation, free navigation in Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661088/saudi-arabia/saudi-arabia-calls-for-de-escalation-free-navigation-in-hormuz",
+      "published_date": "2026-05-05T11:11:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince reaffirms Saudi support against Iranian attacks in call with UAE president",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shehbaz Sharif: Pakistan repaid $3.5 billion in external debt thanks to Saudi Arabia&#039;s pivotal support",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660955/saudi-arabia/shehbaz-sharif-pakistan-repaid-35-billion-in-external-debt-thanks-to-saudi-arabias-pivotal-support",
-      "published_date": "2026-04-29T14:44:29+00:00",
-      "category": "Diplomacy"
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-05T04:34:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
@@ -298,6 +305,13 @@
       "category": "Economy"
     },
     {
+      "title": "Two killed and several hurt after car plows into crowd in German city of Leipzig",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661086/saudi-arabia/two-killed-and-several-hurt-after-car-plows-into-crowd-in-german-city-of-leipzig",
+      "published_date": "2026-05-05T10:38:20+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Heritage Commission revives Al-Nasb Heritage District as Abha Cultural Tourism Destination",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661075/saudi-arabia/heritage-commission-revives-al-nasb-heritage-district-as-abha-cultural-tourism-destination",
@@ -428,13 +442,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-01T17:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi anti-corruption authority probes 259 suspects, detains 97 in April crackdown",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661005/saudi-arabia/saudi-anti-corruption-authority-probes-259-suspects-detains-97-in-april",
-      "published_date": "2026-05-01T15:57:00+00:00",
       "category": "Local Events"
     }
   ]
