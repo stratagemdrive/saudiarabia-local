@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-05T11:59:21.441565+00:00",
-  "story_count": 63,
+  "last_updated": "2026-05-05T23:49:46.450132+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Saudi Ambassador to Jordan delivers Saudi contribution of $2 million to support UNRWA",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661110/saudi-arabia/saudi-ambassador-to-jordan-delivers-saudi-contribution-of-2-million-to-support-unrwa",
+      "published_date": "2026-05-05T20:28:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Jordanian foreign ministers discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661108/saudi-arabia/saudi-jordanian-foreign-ministers-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-05T17:12:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia completes 2026 borrowing plan, secures 90% of funding before regional tensions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661099/saudi-arabia/saudi-ndmc-completes-2026-borrowing-plan-secures-90-funding",
+      "published_date": "2026-05-05T13:52:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA spells out permit requirements for pilgrims carrying controlled medications",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661094/saudi-arabia/sfda-spells-out-permit-requirements-for-pilgrims-carrying-controlled-medications",
+      "published_date": "2026-05-05T13:00:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia calls for de-escalation, free navigation in Strait of Hormuz",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, French FMs discuss regional developments in Riyadh",
+      "title": "Saudi Arabia strongly condemns attack on Khartoum airport",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660977/saudi-arabia/saudi-french-fms-discuss-regional-developments-in-riyadh",
-      "published_date": "2026-04-30T12:23:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661107/saudi-arabia/saudi-arabia-strongly-condemns-attack-on-khartoum-airport",
+      "published_date": "2026-05-05T16:55:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rwanda expresses solidarity with Saudi Arabia in message to Crown Prince",
+      "title": "Interior minister graces graduation ceremony of King Fahd Security College",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660976/saudi-arabia/rwanda-expresses-solidarity-with-saudi-arabia-in-message-to-crown-prince",
-      "published_date": "2026-04-30T12:21:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661100/saudi-arabia/interior-minister-graces-graduation-ceremony-of-king-fahd-security-college",
+      "published_date": "2026-05-05T13:52:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Crown Prince, Canadian PM discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660959/saudi-arabia/saudi-crown-prince-canadian-pm-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-04-29T17:12:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Interior Ministry takes legal action over online content threatening unity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660956/saudi-arabia/saudi-arabia-takes-legal-action-over-online-content-threatening-unity",
-      "published_date": "2026-04-29T15:01:25+00:00",
-      "category": "Diplomacy"
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-05T11:38:03+00:00",
+      "category": "Military"
     },
     {
       "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
@@ -162,6 +183,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661034/saudi-arabia/saudi-reserve-revives-endangered-houbara-populations",
       "published_date": "2026-05-03T12:17:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T19:31:27+00:00",
       "category": "Military"
     },
     {
@@ -186,13 +214,6 @@
       "category": "Military"
     },
     {
-      "title": "Six Pakistanis apprehended while attempting to enter Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660934/saudi-arabia/six-pakistanis-apprehended-while-attempting-to-enter-makkah-illegally",
-      "published_date": "2026-04-28T20:40:37+00:00",
-      "category": "Military"
-    },
-    {
       "title": "OPEC+ seven agree 188,000 bpd output adjustment for June to support market stability",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661029/saudi-arabia/opec-seven-agree-188000-bpd-output-adjustment-for-june",
@@ -200,25 +221,32 @@
       "category": "Energy"
     },
     {
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T16:24:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T15:55:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Arabia to host ERRA’s 24th annual energy regulators conference in Riyadh",
+      "title": "Prince Khaled: Saudi physical activity rises to 59% under Vision 2030",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660923/saudi-arabia/saudi-arabia-to-host-erras-24th-annual-energy-regulators-conference-in-riyadh",
-      "published_date": "2026-04-28T14:07:33+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/661104/saudi-arabia/saudi-sports-for-all-chief-highlights-fitness-growth-at-ksu-seminar",
+      "published_date": "2026-05-05T15:31:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Jadaan calls for integration of Arab financial institutions to confront global economic challenges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661101/saudi-arabia/al-jadaan-calls-for-integration-of-arab-financial-institutions-to-confront-global-economic-challenges",
+      "published_date": "2026-05-05T14:43:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia posts SR125.7 billion Q1 deficit as oil revenues decline",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661098/saudi-arabia/saudi-arabia-q1-2026-budget-deficit-hits-sr1257bn-amid-lower-oil-revenues",
+      "published_date": "2026-05-05T13:49:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia records 102% surge in individual patent filings in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661093/saudi-arabia/saudi-arabia-records-102-surge-in-individual-patent-filings-in-2025",
+      "published_date": "2026-05-05T12:40:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi consumer spending crosses SR150 billion in March",
@@ -298,11 +326,60 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia unveils SR700 billion investment drive as environment sectors post record gains",
+      "title": "Saudi Arabia backs political resolution to safeguard region from escalating tensions and instability",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660919/saudi-arabia/saudi-arabia-unveils-sr700-billion-investment-drive-as-environment-sectors-post-record-gains",
-      "published_date": "2026-04-28T13:25:18+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661113/saudi-arabia/saudi-arabia-backs-political-resolution-to-safeguard-region-from-escalating-tensions-and-instability",
+      "published_date": "2026-05-05T23:25:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry approves 73 companies qualified to provide services for domestic pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661111/saudi-arabia/hajj-ministry-approves-73-companies-qualified-to-provide-services-for-domestic-pilgrims",
+      "published_date": "2026-05-05T21:17:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 arrested for Hajj fraud in Buraidah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661109/saudi-arabia/3-arrested-for-hajj-fraud-in-buraidah",
+      "published_date": "2026-05-05T17:33:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission documents Islamic inscription from 1st Hijri century on Darb Zubayda",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661105/saudi-arabia/heritage-commission-documents-islamic-inscription-from-1st-hijri-century-on-darb-zubayda",
+      "published_date": "2026-05-05T15:52:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Salman Medical City expands services, advances toward world-class healthcare standards",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661103/saudi-arabia/king-salman-medical-city-expands-services-boosts-healthcare-performance",
+      "published_date": "2026-05-05T15:26:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six-month jail and SR100,000 fine for expat convicted of promoting unauthorized abortion drug",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661102/saudi-arabia/six-month-jail-and-sr100000-fine-for-expat-convicted-of-promoting-unauthorized-abortion-drug",
+      "published_date": "2026-05-05T15:25:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Security Operations Center handles over 2.5 million calls in April",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661097/saudi-arabia/national-security-operations-center-unified-emergency-number-911-makkah-madinah-riyadh-eastern-province",
+      "published_date": "2026-05-05T13:37:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia sets 10-day vaccination deadline for Hajj pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661090/saudi-arabia/saudi-arabia-sets-10-day-vaccination-deadline-for-hajj-pilgrims",
+      "published_date": "2026-05-05T12:06:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two killed and several hurt after car plows into crowd in German city of Leipzig",
@@ -375,73 +452,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T14:44:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hajj pilgrims can travel within Saudi Arabia, carrying digital visitor ID, instead of passport",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661044/saudi-arabia/hajj-pilgrims-can-travel-within-saudi-arabia-carrying-digital-visitor-id-instead-of-passport",
       "published_date": "2026-05-03T14:17:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipalities Ministry announces readiness of Hajj operational plan with deploying over 22,000 personnel",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661042/saudi-arabia/municipalities-ministry-announces-readiness-of-hajj-operational-plan-with-deploying-over-22000-personnel",
-      "published_date": "2026-05-03T13:51:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nazaha launches comprehensive oversight tours to ensure quality services for pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661041/saudi-arabia/nazaha-launches-comprehensive-oversight-tours-to-ensure-quality-services-for-pilgrims",
-      "published_date": "2026-05-03T13:31:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haramain High-Speed Train boosts capacity to 2.2 million seats",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661039/saudi-arabia/haramain-high-speed-train-boosts-capacity-to-22-million-seats",
-      "published_date": "2026-05-03T13:19:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperatures drop to 8°C across Kingdoms&#039; northern regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661033/saudi-arabia/temperatures-drop-to-8c-across-kingdoms-northern-regions",
-      "published_date": "2026-05-03T11:39:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj violators face SR20,000 fines, deportation and 10-year re-entry ban",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661032/saudi-arabia/hajj-violators-face-sr20000-fines-deportation-and-10-year-re-entry-ban",
-      "published_date": "2026-05-03T11:39:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MSC launches Saudi land bridge route linking Europe to Gulf, bypassing Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661031/saudi-arabia/msc-company-launches-a-new-main-route-connecting-europe-to-the-middle-east-via-saudi-arabia-bypassing-the-strait-of-hormuz",
-      "published_date": "2026-05-03T11:39:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia ranks 2nd globally in data center market attractiveness",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661023/saudi-arabia/saudi-arabia-ranks-2nd-globally-in-data-center-market-attractiveness",
-      "published_date": "2026-05-02T14:54:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 Indonesians arrested in Makkah for promoting fake Hajj services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661021/saudi-arabia/3-indonesians-arrested-in-makkah-for-promoting-fake-hajj-services",
-      "published_date": "2026-05-02T14:02:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police arrest man after nun attacked in Jerusalem",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T17:03:11+00:00",
       "category": "Local Events"
     }
   ]
