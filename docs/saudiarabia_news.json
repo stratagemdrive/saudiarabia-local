@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-05T23:49:46.450132+00:00",
-  "story_count": 66,
+  "last_updated": "2026-05-06T12:26:24.877386+00:00",
+  "story_count": 62,
   "stories": [
+    {
+      "title": "Saudi, Iran FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661121/saudi-arabia/saudi-iran-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-06T10:53:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T09:35:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Ambassador to Jordan delivers Saudi contribution of $2 million to support UNRWA",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses regional developments in phone call with Canadian, Kuwaiti counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660987/saudi-arabia/saudi-fm-discusses-regional-developments-in-phone-call-with-canadian-kuwaiti-counterparts",
-      "published_date": "2026-04-30T16:34:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from Japanese PM",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660980/saudi-arabia/crown-prince-receives-message-from-japanese-pm",
-      "published_date": "2026-04-30T12:47:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi Arabia strongly condemns attack on Khartoum airport",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661107/saudi-arabia/saudi-arabia-strongly-condemns-attack-on-khartoum-airport",
@@ -197,20 +197,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660982/saudi-arabia/saudi-arabia-reaffirms-support-for-un-efforts-to-combat-terrorism",
       "published_date": "2026-04-30T13:57:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-29T11:46:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-29T02:01:50+00:00",
       "category": "Military"
     },
     {
@@ -312,20 +298,6 @@
       "category": "Economy"
     },
     {
-      "title": "What Phase 3 of Saudi Vision 2030 means for growth, jobs and the future",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660947/saudi-arabia/what-happens-in-phase-3-of-saudi-vision-2030",
-      "published_date": "2026-04-29T11:52:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi date exports surge across key markets with gains of up to 67%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660946/saudi-arabia/saudi-date-exports-surge-across-key-markets-with-gains-of-up-to-67",
-      "published_date": "2026-04-29T11:42:43+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "Saudi Arabia backs political resolution to safeguard region from escalating tensions and instability",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661113/saudi-arabia/saudi-arabia-backs-political-resolution-to-safeguard-region-from-escalating-tensions-and-instability",
@@ -337,6 +309,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661111/saudi-arabia/hajj-ministry-approves-73-companies-qualified-to-provide-services-for-domestic-pilgrims",
       "published_date": "2026-05-05T21:17:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli court extends detention of two Gaza flotilla activists",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-05T19:10:30+00:00",
       "category": "Local Events"
     },
     {
@@ -456,13 +435,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-03T14:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj pilgrims can travel within Saudi Arabia, carrying digital visitor ID, instead of passport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661044/saudi-arabia/hajj-pilgrims-can-travel-within-saudi-arabia-carrying-digital-visitor-id-instead-of-passport",
-      "published_date": "2026-05-03T14:17:05+00:00",
       "category": "Local Events"
     }
   ]
