@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-06T12:26:24.877386+00:00",
-  "story_count": 62,
+  "last_updated": "2026-05-06T23:53:10.892874+00:00",
+  "story_count": 64,
   "stories": [
+    {
+      "title": "Turkish President, Saudi FM discuss solidifying regional stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661143/saudi-arabia/turkish-president-saudi-fm-discuss-solidifying-regional-stability",
+      "published_date": "2026-05-06T21:21:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives message from Japanese prime minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661138/saudi-arabia/crown-prince-receives-message-from-japanese-prime-minister",
+      "published_date": "2026-05-06T15:50:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Turkiye sign pact for mutual visa exemption for diplomatic and special passport holders",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661137/saudi-arabia/saudi-turkish-fms-sign-pact-for-mutual-visa-exemption",
+      "published_date": "2026-05-06T15:29:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HR Ministry to roll out unified platform for social support access to those most in need",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661135/saudi-arabia/hr-ministry-to-roll-out-unified-platform-for-social-support-access-to-those-most-in-need",
+      "published_date": "2026-05-06T14:32:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM arrives in Ankara for Saudi-Turkish Coordination Council talks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661132/saudi-arabia/saudi-fm-arrives-in-ankara-for-saudi-turkish-coordination-council-talks",
+      "published_date": "2026-05-06T13:21:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA sets regulations for pilgrims bringing narcotic, psychotropic medications",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661131/saudi-arabia/sfda-sets-regulations-for-pilgrims-bringing-narcotic-psychotropic-medications",
+      "published_date": "2026-05-06T13:21:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Iran FMs discuss regional developments in phone call",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ban on use of government agencies’ names in real estate marketing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661027/saudi-arabia/ban-on-use-of-government-agencies-names-in-real-estate-marketing",
-      "published_date": "2026-05-02T17:53:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 14,855 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661026/saudi-arabia/saudi-arabia-deports-14855-illegal-residents-in-a-week",
-      "published_date": "2026-05-02T17:46:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Syria to enhance bilateral cooperation in land transport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661025/saudi-arabia/saudi-arabia-syria-to-enhance-bilateral-cooperation-in-land-transport",
-      "published_date": "2026-05-02T16:05:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KSrelief aid convoy arrives in Gaza Strip",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661022/saudi-arabia/ksrelief-aid-convoy-arrives-in-gaza-strip",
-      "published_date": "2026-05-02T14:07:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Faisal, Kaja Kallas discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661016/saudi-arabia/prince-faisal-kaja-kallas-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-05-02T13:05:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince offers condolences to Egypt PM over father’s death",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660998/saudi-arabia/saudi-crown-prince-offers-condolences-to-egypt-pm-over-fathers-death",
-      "published_date": "2026-05-01T10:52:00+00:00",
-      "category": "Diplomacy"
+      "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T13:39:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia strongly condemns attack on Khartoum airport",
@@ -200,11 +207,25 @@
       "category": "Military"
     },
     {
+      "title": "Saudi Arabia calls for enhancing global water cooperation at Istanbul Forum",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
+      "published_date": "2026-05-06T13:13:21+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "OPEC+ seven agree 188,000 bpd output adjustment for June to support market stability",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661029/saudi-arabia/opec-seven-agree-188000-bpd-output-adjustment-for-june",
       "published_date": "2026-05-03T11:38:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Alkhorayef discusses with US, French officials joint investment opportunities in industry and mining",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661140/saudi-arabia/alkhorayef-discusses-with-us-french-officials-joint-investment-opportunities-in-industry-and-mining",
+      "published_date": "2026-05-06T17:10:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Prince Khaled: Saudi physical activity rises to 59% under Vision 2030",
@@ -291,11 +312,60 @@
       "category": "Economy"
     },
     {
-      "title": "New ‘Hadaf for Leadership’ programs launched to empower national talent and support future economy",
+      "title": "Hajj Ministry urges pilgrims to obtain permits via official channels",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660961/saudi-arabia/new-hadaf-for-leadership-programs-launched-to-empower-national-talent-and-support-future-economy",
-      "published_date": "2026-04-29T21:07:38+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661144/saudi-arabia/hajj-ministry-urges-pilgrims-to-obtain-permits-via-official-channels",
+      "published_date": "2026-05-06T21:32:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "10 residents arrested in Makkah for violating Hajj regulations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661142/saudi-arabia/10-residents-arrested-for-violating-hajj-regulations",
+      "published_date": "2026-05-06T20:31:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah Deputy Emir inaugurates 10 road projects costing SR553 million",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661141/saudi-arabia/makkah-deputy-emir-inaugurates-10-road-projects-costing-sr553-million",
+      "published_date": "2026-05-06T17:32:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dana Awartani’s colossal art work features Saudi pavilion as 61st Venice Biennale kicks off",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661139/saudi-arabia/dana-awartanis-colossal-art-work-features-saudi-pavilion-as-61st-venice-biennale-kicks-off",
+      "published_date": "2026-05-06T16:52:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "170 suspected commercial cover-up cases detected during 6,500 inspection tours in April",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661134/saudi-arabia/170-suspected-commercial-cover-up-cases-detected-during-6500-inspection-tours-in-april",
+      "published_date": "2026-05-06T13:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeddah Municipality shuts down 3 sites recycling old furniture for resale as new",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661133/saudi-arabia/jeddah-municipality-shuts-down-3-sites-recycling-old-furniture-for-resale-as-new",
+      "published_date": "2026-05-06T13:29:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia records over 270 million POS transactions in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661125/saudi-arabia/saudi-arabia-records-over-270m-pos-transactions-in-a-week",
+      "published_date": "2026-05-06T12:02:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj minister reviews pilgrim reception procedures at Jeddah airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661124/saudi-arabia/hajj-minister-reviews-pilgrim-reception-procedures-at-jeddah-airport",
+      "published_date": "2026-05-06T12:02:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia backs political resolution to safeguard region from escalating tensions and instability",
@@ -379,62 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661074/saudi-arabia/phase-two-of-shading-and-cooling-project-around-mount-arafat-is-complete",
       "published_date": "2026-05-04T16:54:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Expat arrested in Makkah for harassing a woman",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661073/saudi-arabia/expat-arrested-in-makkah-for-harassing-a-woman",
-      "published_date": "2026-05-04T15:49:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, Syrian ministers discuss enhancing cooperation in local administration and housing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661070/saudi-arabia/saudi-syrian-ministers-discuss-enhancing-cooperation-in-local-administration-and-housing",
-      "published_date": "2026-05-04T15:22:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "74 escalators installed in Mina to facilitate smooth pilgrim movement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661067/saudi-arabia/74-escalators-installed-in-mina-to-facilitate-smooth-pilgrim-movement",
-      "published_date": "2026-05-04T13:53:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Commission slaps fines on 11 persons for unlicensed trade in portable antiquities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661066/saudi-arabia/heritage-commission-slaps-fines-on-11-persons-for-unlicensed-trade-in-portable-antiquities",
-      "published_date": "2026-05-04T13:38:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts heavy rainfall in May, rising temperatures through summer: NCM",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661063/saudi-arabia/saudi-arabia-forecasts-heavy-may-rainfall-rising-summer-temperatures",
-      "published_date": "2026-05-04T11:48:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 arrested while attempting to enter Makkah on foot illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661049/saudi-arabia/5-arrested-while-attempting-to-enter-makkah-on-foot-illegally",
-      "published_date": "2026-05-03T20:12:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SEEC to introduce updated Fuel Economy Label for 2027 model vehicles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661046/saudi-arabia/seec-to-introduce-updated-fuel-economy-label-for-2027-model-vehicles",
-      "published_date": "2026-05-03T15:27:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T14:44:04+00:00",
       "category": "Local Events"
     }
   ]
