@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-06T23:53:10.892874+00:00",
-  "story_count": 64,
+  "last_updated": "2026-05-07T12:27:42.790716+00:00",
+  "story_count": 68,
   "stories": [
     {
       "title": "Turkish President, Saudi FM discuss solidifying regional stability",
@@ -142,6 +142,41 @@
       "url": "https://saudigazette.com.sa/article/661030/saudi-arabia/saudi-arabia-backs-bahrains-security-measures-warns-against-threats-to-sovereignty",
       "published_date": "2026-05-03T11:38:42+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T11:01:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T04:06:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf economies face long-term hit from Iran conflict",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T23:06:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T19:58:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's hopes for an Iran peace deal come with caveats",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T17:32:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
@@ -302,13 +337,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/660988/saudi-arabia/federation-of-saudi-chambers-launches-transformative-strategy-to-enhance-competitiveness",
       "published_date": "2026-04-30T17:34:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi GDP grows 2.8% in Q1 2026, driven by non-oil sector",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/660978/saudi-arabia/saudi-gdp-grows-28-in-q1-2026-driven-by-non-oil-sector",
-      "published_date": "2026-04-30T12:25:31+00:00",
       "category": "Economy"
     },
     {
