@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-08T12:07:21.657094+00:00",
-  "story_count": 70,
+  "last_updated": "2026-05-08T23:57:07.152208+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Saudi Arabia says Hantavirus risk remains ‘very low’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661193/saudi-arabia/saudi-arabia-says-hantavirus-risk-remains-very-low",
+      "published_date": "2026-05-08T18:20:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T16:11:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reiterates support for de-escalation after US-Iran ceasefire violations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661187/saudi-arabia/saudi-arabia-urges-de-escalation-after-us-iran-ceasefire-breach",
+      "published_date": "2026-05-08T11:48:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Japanese ministers discuss strengthening stability and security of global energy markets",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia completes 2026 borrowing plan, secures 90% of funding before regional tensions",
+      "title": "Saudi customs foils cocaine smuggling attempt at Jeddah Islamic Port",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661099/saudi-arabia/saudi-ndmc-completes-2026-borrowing-plan-secures-90-funding",
-      "published_date": "2026-05-05T13:52:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA spells out permit requirements for pilgrims carrying controlled medications",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661094/saudi-arabia/sfda-spells-out-permit-requirements-for-pilgrims-carrying-controlled-medications",
-      "published_date": "2026-05-05T13:00:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for de-escalation, free navigation in Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661088/saudi-arabia/saudi-arabia-calls-for-de-escalation-free-navigation-in-hormuz",
-      "published_date": "2026-05-05T11:11:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661191/saudi-arabia/saudi-customs-foils-cocaine-smuggling-attempt-at-jeddah-port",
+      "published_date": "2026-05-08T14:40:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
@@ -239,13 +246,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661034/saudi-arabia/saudi-reserve-revives-endangered-houbara-populations",
       "published_date": "2026-05-03T12:17:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T19:31:27+00:00",
       "category": "Military"
     },
     {
@@ -347,11 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Non-Oil Revenue Center empowered to review fees, support fiscal sustainability",
+      "title": "Saudi Arabia sends 42 students to compete at ISEF 2026 in US",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661006/saudi-arabia/saudi-non-oil-revenue-center-gains-powers-to-review-fees-and-boost-revenues",
-      "published_date": "2026-05-01T17:34:01+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661192/saudi-arabia/saudi-arabia-sends-42-students-to-isef-2026-in-us",
+      "published_date": "2026-05-08T17:20:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi medical team successfully separates Tanzanian conjoined twins in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661190/saudi-arabia/saudi-team-separates-tanzanian-conjoined-twins-in-riyadh",
+      "published_date": "2026-05-08T14:33:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "From first practice to Olympic dreams: Inside Saudi Arabia’s first women’s flag football team",
@@ -477,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661111/saudi-arabia/hajj-ministry-approves-73-companies-qualified-to-provide-services-for-domestic-pilgrims",
       "published_date": "2026-05-05T21:17:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli court extends detention of two Gaza flotilla activists",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T19:10:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 arrested for Hajj fraud in Buraidah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661109/saudi-arabia/3-arrested-for-hajj-fraud-in-buraidah",
-      "published_date": "2026-05-05T17:33:26+00:00",
       "category": "Local Events"
     }
   ]
