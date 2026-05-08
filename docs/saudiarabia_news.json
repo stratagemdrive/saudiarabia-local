@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-07T23:53:57.167621+00:00",
-  "story_count": 69,
+  "last_updated": "2026-05-08T12:07:21.657094+00:00",
+  "story_count": 70,
   "stories": [
     {
       "title": "Saudi, Japanese ministers discuss strengthening stability and security of global energy markets",
@@ -249,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T05:57:08+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi Arabia calls for enhancing global water cooperation at Istanbul Forum",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
@@ -345,6 +352,13 @@
       "url": "https://saudigazette.com.sa/article/661006/saudi-arabia/saudi-non-oil-revenue-center-gains-powers-to-review-fees-and-boost-revenues",
       "published_date": "2026-05-01T17:34:01+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "From first practice to Olympic dreams: Inside Saudi Arabia’s first women’s flag football team",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661175/saudi-arabia/saudi-arabias-first-womens-flag-football-team-eyes-olympic-dream",
+      "published_date": "2026-05-08T06:50:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Five Afghans arrested for attempting to enter Makkah on foot without a Hajj permit",
@@ -477,13 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661109/saudi-arabia/3-arrested-for-hajj-fraud-in-buraidah",
       "published_date": "2026-05-05T17:33:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Commission documents Islamic inscription from 1st Hijri century on Darb Zubayda",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661105/saudi-arabia/heritage-commission-documents-islamic-inscription-from-1st-hijri-century-on-darb-zubayda",
-      "published_date": "2026-05-05T15:52:57+00:00",
       "category": "Local Events"
     }
   ]
