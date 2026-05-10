@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-09T23:51:57.074183+00:00",
-  "story_count": 69,
+  "last_updated": "2026-05-10T11:50:02.328054+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Arabia unanimously elected to UN science and technology commission for 2027–2030",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661216/saudi-arabia/saudi-arabia-unanimously-elected-to-un-science-and-technology-commission-for-20272030",
+      "published_date": "2026-05-10T10:59:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Qatari FMs review regional developments, stability efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661215/saudi-arabia/saudi-qatari-fms-review-regional-developments-stability-efforts",
+      "published_date": "2026-05-10T10:59:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince congratulates Péter Magyar on taking oath as Hungarian PM",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Turkiye sign pact for mutual visa exemption for diplomatic and special passport holders",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661137/saudi-arabia/saudi-turkish-fms-sign-pact-for-mutual-visa-exemption",
-      "published_date": "2026-05-06T15:29:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HR Ministry to roll out unified platform for social support access to those most in need",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661135/saudi-arabia/hr-ministry-to-roll-out-unified-platform-for-social-support-access-to-those-most-in-need",
-      "published_date": "2026-05-06T14:32:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi customs foils cocaine smuggling attempt at Jeddah Islamic Port",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661191/saudi-arabia/saudi-customs-foils-cocaine-smuggling-attempt-at-jeddah-port",
@@ -260,13 +260,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
       "published_date": "2026-05-06T13:13:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "OPEC+ seven agree 188,000 bpd output adjustment for June to support market stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661029/saudi-arabia/opec-seven-agree-188000-bpd-output-adjustment-for-june",
-      "published_date": "2026-05-03T11:38:07+00:00",
       "category": "Energy"
     },
     {
