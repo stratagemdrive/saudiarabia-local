@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-10T11:50:02.328054+00:00",
-  "story_count": 68,
+  "last_updated": "2026-05-10T23:54:10.669899+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "King Salman approves adding women&#039;s segment to King Abdulaziz International Qur’an Competition",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661243/saudi-arabia/king-salman-approves-adding-womens-segment-to-king-abdulaziz-international-quran-competition",
+      "published_date": "2026-05-10T21:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns treacherous attacks on UAE, Qatar, and Kuwait",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661241/saudi-arabia/saudi-arabia-strongly-condemns-treacherous-attacks-on-uae-qatar-and-kuwait",
+      "published_date": "2026-05-10T19:49:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince congratulates Iraqi Prime Minister-designate Ali Al-Zaidi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661233/saudi-arabia/saudi-crown-prince-congratulates-iraqi-prime-minister-designate-ali-al-zaidi",
+      "published_date": "2026-05-10T13:32:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi ports handled over 14.5m tons of cargo in April 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661228/saudi-arabia/saudi-ports-handled-over-145m-tons-of-cargo-in-april-2026",
+      "published_date": "2026-05-10T13:01:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Jubeir attends Costa Rica presidential inauguration",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661218/saudi-arabia/al-jubeir-attends-costa-rica-presidential-inauguration",
+      "published_date": "2026-05-10T11:41:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia unanimously elected to UN science and technology commission for 2027–2030",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prince Khaled bin Faisal Cultural Foundation launched in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661160/saudi-arabia/prince-khaled-bin-faisal-cultural-foundation-launched-in-jeddah",
-      "published_date": "2026-05-07T14:08:06+00:00",
-      "category": "Diplomacy"
+      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T21:13:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Saudi humanitarian aid convoy arrives in Gaza",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661159/saudi-arabia/new-saudi-humanitarian-aid-convoy-arrives-in-gaza",
-      "published_date": "2026-05-07T13:53:48+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T21:01:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Surgical separation of Tanzanian conjoined twins Nancy and Nice begins in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661158/saudi-arabia/surgical-separation-of-tanzanian-conjoined-twins-nancy-and-nice-begins-in-riyadh",
-      "published_date": "2026-05-07T13:35:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkish President, Saudi FM discuss solidifying regional stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661143/saudi-arabia/turkish-president-saudi-fm-discuss-solidifying-regional-stability",
-      "published_date": "2026-05-06T21:21:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from Japanese prime minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661138/saudi-arabia/crown-prince-receives-message-from-japanese-prime-minister",
-      "published_date": "2026-05-06T15:50:24+00:00",
-      "category": "Diplomacy"
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T20:57:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi customs foils cocaine smuggling attempt at Jeddah Islamic Port",
@@ -235,18 +256,25 @@
       "category": "Military"
     },
     {
-      "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T23:19:57+00:00",
-      "category": "Military"
+      "title": "Aramco CEO: World deprived of 1 billion barrels of oil over past two months",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661237/saudi-arabia/aramco-ceo-world-deprived-of-1-billion-barrels-of-oil-over-past-two-months",
+      "published_date": "2026-05-10T14:29:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi reserve revives endangered houbara populations",
+      "title": "Saudi industrial production falls 14.1% in March amid oil sector decline",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661034/saudi-arabia/saudi-reserve-revives-endangered-houbara-populations",
-      "published_date": "2026-05-03T12:17:17+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/661236/saudi-arabia/saudi-industrial-production-falls-141-in-march-amid-oil-sector-decline",
+      "published_date": "2026-05-10T14:16:43+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aramco posts SR122 billion Q1 profit as East-West pipeline hits full capacity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661217/saudi-arabia/aramco-posts-sr122-billion-q1-profit-as-east-west-pipeline-hits-full-capacity",
+      "published_date": "2026-05-10T11:40:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
@@ -261,6 +289,20 @@
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
       "published_date": "2026-05-06T13:13:21+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi, Jordanian ministers discuss strengthening industrial integration",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661245/saudi-arabia/saudi-jordanian-ministers-discuss-strengthening-industrial-integration",
+      "published_date": "2026-05-10T21:38:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi bank credit hits highest level at SR3.3 trillion by end of February 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661239/saudi-arabia/saudi-bank-credit-hits-highest-level-at-sr33-trillion-by-end-of-february-2026",
+      "published_date": "2026-05-10T16:31:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Lebanon says Israeli strikes killed 39",
@@ -326,18 +368,46 @@
       "category": "Economy"
     },
     {
-      "title": "Global report: Saudi Arabia at the heart of robust tourism and travel growth in Mideast during 2025",
+      "title": "Saudi citizen arrested for transporting 3 Egyptians into Makkah without a Hajj permit",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661050/saudi-arabia/global-report-saudi-arabia-at-the-heart-of-robust-tourism-and-travel-growth-in-mideast-during-2025",
-      "published_date": "2026-05-03T21:06:18+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661244/saudi-arabia/saudi-citizen-arrested-for-transporting-3-egyptians-into-makkah-without-a-hajj-permit",
+      "published_date": "2026-05-10T21:32:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SAMA’s reserve assets surge to SR1.86 trillion in March, marking highest level in 6 years",
+      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T19:56:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah Deputy Emir reviews readiness of Grand Mosque for Hajj pilgrims",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661045/saudi-arabia/samas-reserve-assets-surge-to-sr186-trillion-in-march-marking-highest-level-in-6-years",
-      "published_date": "2026-05-03T14:54:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661240/saudi-arabia/makkah-deputy-emir-reviews-readiness-of-grand-mosque-for-hajj-pilgrims",
+      "published_date": "2026-05-10T17:17:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 1.6 million municipal inspection tours conducted across Saudi Arabia during 1Q 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661238/saudi-arabia/over-16-million-municipal-inspection-tours-conducted-across-saudi-arabia-during-1q-2026",
+      "published_date": "2026-05-10T15:07:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One citizen and 2 Indonesians arrested in Makkah over forged permits and fake Hajj services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661235/saudi-arabia/one-citizen-and-2-indonesians-arrested-in-makkah-over-forged-permits-and-fake-hajj-services",
+      "published_date": "2026-05-10T13:49:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry finalizes pilgrim movement, transport preparations for Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661227/saudi-arabia/hajj-ministry-finalizes-pilgrim-movement-transport-preparations-for-hajj",
+      "published_date": "2026-05-10T13:01:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "18 Pakistanis and Afghans arrested in Makkah for forging iqamas, Nusuk cards and Hajj wristbands",
@@ -435,48 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661141/saudi-arabia/makkah-deputy-emir-inaugurates-10-road-projects-costing-sr553-million",
       "published_date": "2026-05-06T17:32:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dana Awartani’s colossal art work features Saudi pavilion as 61st Venice Biennale kicks off",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661139/saudi-arabia/dana-awartanis-colossal-art-work-features-saudi-pavilion-as-61st-venice-biennale-kicks-off",
-      "published_date": "2026-05-06T16:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "170 suspected commercial cover-up cases detected during 6,500 inspection tours in April",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661134/saudi-arabia/170-suspected-commercial-cover-up-cases-detected-during-6500-inspection-tours-in-april",
-      "published_date": "2026-05-06T13:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah Municipality shuts down 3 sites recycling old furniture for resale as new",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661133/saudi-arabia/jeddah-municipality-shuts-down-3-sites-recycling-old-furniture-for-resale-as-new",
-      "published_date": "2026-05-06T13:29:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia records over 270 million POS transactions in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661125/saudi-arabia/saudi-arabia-records-over-270m-pos-transactions-in-a-week",
-      "published_date": "2026-05-06T12:02:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj minister reviews pilgrim reception procedures at Jeddah airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661124/saudi-arabia/hajj-minister-reviews-pilgrim-reception-procedures-at-jeddah-airport",
-      "published_date": "2026-05-06T12:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia backs political resolution to safeguard region from escalating tensions and instability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661113/saudi-arabia/saudi-arabia-backs-political-resolution-to-safeguard-region-from-escalating-tensions-and-instability",
-      "published_date": "2026-05-05T23:25:25+00:00",
       "category": "Local Events"
     }
   ]
