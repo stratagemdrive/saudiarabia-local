@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-11T13:46:49.469440+00:00",
-  "story_count": 74,
+  "last_updated": "2026-05-11T23:59:57.315501+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Emir of Madinah inspects pilgrims’ Welcome and Reception Center on Hijrah Road",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661274/saudi-arabia/madinah-permanent-hajj-and-umrah-committee-prince-salman-bin-sultan-hajj-pilgrims-umrah-pilgrims-pilgrims-welcome-and-reception-center-hijrah-road-prince-saud-bin-nahar",
+      "published_date": "2026-05-11T18:47:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Pakistani FMs discuss US-Iran mediation efforts in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661273/saudi-arabia/saudi-pakistani-fms-discuss-us-iran-mediation-efforts-in-phone-call",
+      "published_date": "2026-05-11T18:34:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN OCHA lauds KSrelief projects during field visit to Gaza",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661266/saudi-arabia/un-ocha-lauds-ksrelief-projects-during-field-visit-to-gaza",
+      "published_date": "2026-05-11T14:05:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Iranian FMs review Iran-US diplomatic talks in phone call",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Japanese ministers discuss strengthening stability and security of global energy markets",
+      "title": "Self-driving shuttle bus trial service launched at Quba Mosque",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661172/saudi-arabia/saudi-japanese-ministers-discuss-strengthening-stability-and-security-of-global-energy-markets",
-      "published_date": "2026-05-07T20:56:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from Mauritanian president on strengthening relations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661171/saudi-arabia/crown-prince-receives-message-from-mauritanian-president-on-strengthening-relations",
-      "published_date": "2026-05-07T20:51:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Swedish defense ministers discuss regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661168/saudi-arabia/saudi-swedish-defense-ministers-discuss-regional-security-in-phone-call",
-      "published_date": "2026-05-07T17:23:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661268/saudi-arabia/self-driving-shuttle-bus-trial-service-launched-at-quba-mosque",
+      "published_date": "2026-05-11T15:33:15+00:00",
+      "category": "Military"
     },
     {
       "title": "BBC speaks with civilians inside Iran struggling with impact of war",
@@ -256,6 +263,13 @@
       "category": "Military"
     },
     {
+      "title": "Aramco Chief: Saudi Arabia working to increase oil exports to more than 5 million bpd",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661275/saudi-arabia/aramco-chief-nasser-saudi-arabia-working-to-increase-oil-exports-to-more-than-5-million-bpd",
+      "published_date": "2026-05-11T20:48:44+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi students unveil cutting-edge AI, biomedical and energy projects at ISEF 2026",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661253/saudi-arabia/saudi-students-unveil-cutting-edge-ai-biomedical-and-energy-projects-at-isef-2026",
@@ -296,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
       "published_date": "2026-05-06T13:13:21+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "A host of global leaders and decision-makers to address FII PRIORITY Europe 2026 Rome summit on June 17-19",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661265/saudi-arabia/a-host-of-global-leaders-and-decision-makers-to-address-fii-priority-europe-2026-rome-summit-on-june-17-19",
+      "published_date": "2026-05-11T13:51:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi-Russian visa-free travel agreement enters into force",
@@ -375,11 +396,39 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi consumer spending crosses SR150 billion in March",
+      "title": "Hajj Ministry launches service for qualifying external agents and finalizing contracts for next Umrah Season",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661069/saudi-arabia/saudi-consumer-spending-crosses-sr150-billion-in-march",
-      "published_date": "2026-05-04T14:20:41+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661276/saudi-arabia/hajj-ministry-launches-service-for-qualifying-external-agents-and-finalizing-contracts-for-next-umrah-season",
+      "published_date": "2026-05-11T21:20:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh advances KAFD road network project with installation of major bridges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661271/saudi-arabia/riyadh-completes-major-bridge-installation-in-kafd-road-project",
+      "published_date": "2026-05-11T16:13:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New identity for pilgrims&#039; tents with integrated facilities in Mina",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661270/saudi-arabia/new-identity-for-pilgrims-tents-with-integrated-facilities-in-mina",
+      "published_date": "2026-05-11T16:00:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six hour-deadline for payment of domestic Hajj fee on Friday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661267/saudi-arabia/six-hour-deadline-for-payment-of-domestic-hajj-fee-on-friday",
+      "published_date": "2026-05-11T14:54:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Ministry outlines Hajj vaccine booking steps through Sehhaty App",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661264/saudi-arabia/health-ministry-outlines-hajj-vaccine-booking-steps-through-sehhaty-app",
+      "published_date": "2026-05-11T13:29:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia condemns deadly terrorist attack targeting Pakistani security checkpoint",
@@ -484,41 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661170/saudi-arabia/saudi-gazette-wins-top-digital-relaunch-award-at-middle-eastern-digital-media-awards-2026",
       "published_date": "2026-05-07T18:06:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madinah Emir meets minister of transport to review Hajj preparations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661169/saudi-arabia/madinah-emir-meets-minister-of-transport-to-review-hajj-preparations",
-      "published_date": "2026-05-07T17:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several Makkah schools switch to distance learning prior to peak Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661166/saudi-arabia/several-makkah-schools-switch-to-distance-learning-prior-to-peak-hajj-season",
-      "published_date": "2026-05-07T15:43:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unified number 1966 provides round-the-clock multilingual support for Hajj pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661164/saudi-arabia/unified-number-1966-provides-round-the-clock-multilingual-support-for-hajj-pilgrims",
-      "published_date": "2026-05-07T14:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi entertainment sector marks decade of transformation with 320 million visitors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661162/saudi-arabia/saudi-entertainment-sector-attracts-320-million-visitors-in-10-years",
-      "published_date": "2026-05-07T14:12:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry urges pilgrims to obtain permits via official channels",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661144/saudi-arabia/hajj-ministry-urges-pilgrims-to-obtain-permits-via-official-channels",
-      "published_date": "2026-05-06T21:32:14+00:00",
       "category": "Local Events"
     }
   ]
