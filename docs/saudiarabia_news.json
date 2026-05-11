@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-10T23:54:10.669899+00:00",
-  "story_count": 72,
+  "last_updated": "2026-05-11T13:46:49.469440+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi, Iranian FMs review Iran-US diplomatic talks in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661261/saudi-arabia/saudi-iranian-fms-review-iran-us-diplomatic-talks-in-phone-call",
+      "published_date": "2026-05-11T12:54:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman approves adding women&#039;s segment to King Abdulaziz International Qur’an Competition",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia rejects any attempt to close Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661165/saudi-arabia/saudi-arabia-rejects-any-attempt-to-close-strait-of-hormuz",
-      "published_date": "2026-05-07T15:14:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "BBC speaks with civilians inside Iran struggling with impact of war",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
@@ -256,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi students unveil cutting-edge AI, biomedical and energy projects at ISEF 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661253/saudi-arabia/saudi-students-unveil-cutting-edge-ai-biomedical-and-energy-projects-at-isef-2026",
+      "published_date": "2026-05-11T11:23:49+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Aramco CEO: World deprived of 1 billion barrels of oil over past two months",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661237/saudi-arabia/aramco-ceo-world-deprived-of-1-billion-barrels-of-oil-over-past-two-months",
@@ -289,6 +296,13 @@
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
       "published_date": "2026-05-06T13:13:21+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi-Russian visa-free travel agreement enters into force",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661256/saudi-arabia/saudi-russian-visa-free-travel-agreement-enters-into-force",
+      "published_date": "2026-05-11T11:58:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi, Jordanian ministers discuss strengthening industrial integration",
@@ -366,6 +380,20 @@
       "url": "https://saudigazette.com.sa/article/661069/saudi-arabia/saudi-consumer-spending-crosses-sr150-billion-in-march",
       "published_date": "2026-05-04T14:20:41+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia condemns deadly terrorist attack targeting Pakistani security checkpoint",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661260/saudi-arabia/saudi-arabia-condemns-deadly-terrorist-attack-targeting-pakistani-security-checkpoint",
+      "published_date": "2026-05-11T12:51:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T10:16:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi citizen arrested for transporting 3 Egyptians into Makkah without a Hajj permit",
@@ -491,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661144/saudi-arabia/hajj-ministry-urges-pilgrims-to-obtain-permits-via-official-channels",
       "published_date": "2026-05-06T21:32:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 residents arrested in Makkah for violating Hajj regulations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661142/saudi-arabia/10-residents-arrested-for-violating-hajj-regulations",
-      "published_date": "2026-05-06T20:31:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Deputy Emir inaugurates 10 road projects costing SR553 million",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661141/saudi-arabia/makkah-deputy-emir-inaugurates-10-road-projects-costing-sr553-million",
-      "published_date": "2026-05-06T17:32:26+00:00",
       "category": "Local Events"
     }
   ]
