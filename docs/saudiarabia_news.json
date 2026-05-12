@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-11T23:59:57.315501+00:00",
+  "last_updated": "2026-05-12T13:03:35.270491+00:00",
   "story_count": 76,
   "stories": [
+    {
+      "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T19:37:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Emir of Madinah inspects pilgrims’ Welcome and Reception Center on Hijrah Road",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia reiterates support for de-escalation after US-Iran ceasefire violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661187/saudi-arabia/saudi-arabia-urges-de-escalation-after-us-iran-ceasefire-breach",
-      "published_date": "2026-05-08T11:48:47+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T00:59:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Self-driving shuttle bus trial service launched at Quba Mosque",
@@ -169,6 +176,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-10T20:57:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Return of Palestine Marathon attracts thousands of runners",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T17:23:28+00:00",
       "category": "Military"
     },
     {
@@ -249,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T11:38:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T04:34:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Saudi Arabia working to increase oil exports to more than 5 million bpd",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661275/saudi-arabia/aramco-chief-nasser-saudi-arabia-working-to-increase-oil-exports-to-more-than-5-million-bpd",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
       "published_date": "2026-05-06T13:13:21+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia moves to expand workplace nurseries to support working parents",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661286/saudi-arabia/saudi-arabia-expands-workplace-nurseries-to-support-working-parents",
+      "published_date": "2026-05-12T12:17:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "A host of global leaders and decision-makers to address FII PRIORITY Europe 2026 Rome summit on June 17-19",
@@ -389,11 +396,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia records 102% surge in individual patent filings in 2025",
+      "title": "Arabian oryx recovers after decades of Saudi conservation efforts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661093/saudi-arabia/saudi-arabia-records-102-surge-in-individual-patent-filings-in-2025",
-      "published_date": "2026-05-05T12:40:08+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661285/saudi-arabia/arabian-oryx-recovers-after-decades-of-saudi-conservation-efforts",
+      "published_date": "2026-05-12T12:15:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prophet’s Mosque enhances Hajj accessibility with dedicated services for elderly and disabled pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661283/saudi-arabia/prophets-mosque-enhances-hajj-accessibility-with-dedicated-services-for-elderly-and-disabled-pilgrims",
+      "published_date": "2026-05-12T11:10:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T11:01:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T04:11:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hajj Ministry launches service for qualifying external agents and finalizing contracts for next Umrah Season",
@@ -487,6 +515,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Israel deports two activists detained on board Gaza flotilla",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T11:55:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "18 Pakistanis and Afghans arrested in Makkah for forging iqamas, Nusuk cards and Hajj wristbands",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661209/saudi-arabia/18-pakistanis-and-afghans-arrested-in-makkah-for-forging-iqamas-nusuk-cards-and-hajj-wristbands",
@@ -498,41 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661192/saudi-arabia/saudi-arabia-sends-42-students-to-isef-2026-in-us",
       "published_date": "2026-05-08T17:20:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi medical team successfully separates Tanzanian conjoined twins in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661190/saudi-arabia/saudi-team-separates-tanzanian-conjoined-twins-in-riyadh",
-      "published_date": "2026-05-08T14:33:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From first practice to Olympic dreams: Inside Saudi Arabia’s first women’s flag football team",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661175/saudi-arabia/saudi-arabias-first-womens-flag-football-team-eyes-olympic-dream",
-      "published_date": "2026-05-08T06:50:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Afghans arrested for attempting to enter Makkah on foot without a Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661174/saudi-arabia/five-afghans-arrested-for-attempting-to-enter-makkah-on-foot-without-a-hajj-permit",
-      "published_date": "2026-05-07T21:37:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerce ministry conducts over 23,000 inspection tours in Makkah, Madinah and holy sites since April 19",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661173/saudi-arabia/commerce-ministry-conducts-over-23000-inspection-tours-in-makkah-madinah-and-holy-sites-since-april-19",
-      "published_date": "2026-05-07T21:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Gazette wins WAN-IFRA award for best website relaunch",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661170/saudi-arabia/saudi-gazette-wins-top-digital-relaunch-award-at-middle-eastern-digital-media-awards-2026",
-      "published_date": "2026-05-07T18:06:37+00:00",
       "category": "Local Events"
     }
   ]
