@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-12T13:03:35.270491+00:00",
-  "story_count": 76,
+  "last_updated": "2026-05-13T00:00:34.588326+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "On behalf of Crown Prince, Al-Kheraiji attends Ugandan president&#039;s inauguration ceremony",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661302/saudi-arabia/on-behalf-of-crown-prince-al-kheraiji-attends-ugandan-presidents-inauguration-ceremony",
+      "published_date": "2026-05-12T21:18:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Qatari foreign ministers discuss over phone efforts for regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661301/saudi-arabia/saudi-qatari-foreign-ministers-discuss-efforts-for-regional-security",
+      "published_date": "2026-05-12T20:53:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns Iranian Revolutionary Guard’s infiltration of Kuwait&#039;s Bubiyan Island",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661300/saudi-arabia/saudi-arabia-strongly-condemns-iranian-revolutionary-guards-infiltration-of-kuwaits-bubiyan-island",
+      "published_date": "2026-05-12T20:49:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, UK reject using Strait of Hormuz a ‘pressure tool’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661298/saudi-arabia/saudi-arabia-uk-reject-using-strait-of-hormuz-a-pressure-tool",
+      "published_date": "2026-05-12T17:36:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Jordanian foreign ministers discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661295/saudi-arabia/saudi-jordanian-foreign-ministers-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-12T15:57:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reaffirms unwavering support for decisive measures to ensure Gulf security and stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661294/saudi-arabia/saudi-arabia-reaffirms-unwavering-support-for-decisive-measures-to-ensure-gulf-security-and-stability",
+      "published_date": "2026-05-12T15:30:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
       "source": "BBC News",
@@ -99,48 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661212/saudi-arabia/saudi-arabia-vows-full-support-for-bahraini-measures-against-anti-national-activities",
       "published_date": "2026-05-09T17:10:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "11,175 violators of residency, labor, and border security laws arrested in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661211/saudi-arabia/11175-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
-      "published_date": "2026-05-09T16:05:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia agrees to rehabilitate schools in Syria’s Idlib, Deir ez-Zor to benefit nearly 25000 people",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661210/saudi-arabia/saudi-arabia-agrees-to-rehabilitate-schools-in-syrias-idlib-deir-ez-zor-to-benefit-nearly-25000-people",
-      "published_date": "2026-05-09T15:59:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Wasel at UN Forum: Foreign remittances reached $44 billion in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661208/saudi-arabia/al-wasel-at-un-forum-foreign-remittances-reached-44-billion-in-2025",
-      "published_date": "2026-05-09T14:18:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM holds calls with Russian, Egyptian counterparts on regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661203/saudi-arabia/saudi-fm-holds-calls-with-russian-egyptian-counterparts-on-regional-security",
-      "published_date": "2026-05-09T13:04:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia says Hantavirus risk remains ‘very low’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661193/saudi-arabia/saudi-arabia-says-hantavirus-risk-remains-very-low",
-      "published_date": "2026-05-08T18:20:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T16:11:06+00:00",
       "category": "Diplomacy"
     },
     {
@@ -249,20 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia strongly condemns attack on Khartoum airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661107/saudi-arabia/saudi-arabia-strongly-condemns-attack-on-khartoum-airport",
-      "published_date": "2026-05-05T16:55:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Interior minister graces graduation ceremony of King Fahd Security College",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661100/saudi-arabia/interior-minister-graces-graduation-ceremony-of-king-fahd-security-college",
-      "published_date": "2026-05-05T13:52:38+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Saudi Arabia working to increase oil exports to more than 5 million bpd",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661275/saudi-arabia/aramco-chief-nasser-saudi-arabia-working-to-increase-oil-exports-to-more-than-5-million-bpd",
@@ -310,6 +296,20 @@
       "url": "https://saudigazette.com.sa/article/661130/saudi-arabia/saudi-arabia-calls-for-enhancing-global-water-cooperation-at-istanbul-forum",
       "published_date": "2026-05-06T13:13:21+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia, India discuss enhancing fertilizer partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661292/saudi-arabia/saudi-arabia-india-discuss-enhancing-fertilizer-partnership",
+      "published_date": "2026-05-12T13:44:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Albudaiwi: GCC and UK commerce ministers commend progress in free trade agreement negotiations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661291/saudi-arabia/albudaiwi-gcc-and-uk-commerce-ministers-commend-progress-in-free-trade-agreement-negotiations",
+      "published_date": "2026-05-12T13:14:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia moves to expand workplace nurseries to support working parents",
@@ -375,25 +375,39 @@
       "category": "Economy"
     },
     {
-      "title": "Prince Khaled: Saudi physical activity rises to 59% under Vision 2030",
+      "title": "Ministry of Health mandates meningococcal vaccination for all Hajj workers",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661104/saudi-arabia/saudi-sports-for-all-chief-highlights-fitness-growth-at-ksu-seminar",
-      "published_date": "2026-05-05T15:31:11+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661299/saudi-arabia/ministry-of-health-mandates-meningococcal-vaccination-for-all-hajj-workers",
+      "published_date": "2026-05-12T19:51:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Al-Jadaan calls for integration of Arab financial institutions to confront global economic challenges",
+      "title": "‘Adahi’ offers Hady vouchers for Hajj at unified price of SR720",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661101/saudi-arabia/al-jadaan-calls-for-integration-of-arab-financial-institutions-to-confront-global-economic-challenges",
-      "published_date": "2026-05-05T14:43:56+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661297/saudi-arabia/adahi-offers-hady-vouchers-for-hajj-at-unified-price-of-sr720",
+      "published_date": "2026-05-12T17:09:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia posts SR125.7 billion Q1 deficit as oil revenues decline",
+      "title": "Hajj Ministry&#039;s electronic track enhanced with over 250 pilgrim services",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661098/saudi-arabia/saudi-arabia-q1-2026-budget-deficit-hits-sr1257bn-amid-lower-oil-revenues",
-      "published_date": "2026-05-05T13:49:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661296/saudi-arabia/hajj-ministrys-electronic-track-enhanced-with-over-250-pilgrim-services",
+      "published_date": "2026-05-12T16:52:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi citizen, 3 residents arrested for entering Makkah without a Hajj permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661293/saudi-arabia/saudi-citizen-3-residents-arrested-for-entering-makkah-without-a-hajj-permit",
+      "published_date": "2026-05-12T14:20:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SFDA boosts Hajj laboratory readiness with 24/7 operations, rapid testing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661288/saudi-arabia/sfda-boosts-hajj-laboratory-readiness-with-247-operations-rapid-testing",
+      "published_date": "2026-05-12T12:51:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Arabian oryx recovers after decades of Saudi conservation efforts",
@@ -498,41 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661238/saudi-arabia/over-16-million-municipal-inspection-tours-conducted-across-saudi-arabia-during-1q-2026",
       "published_date": "2026-05-10T15:07:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One citizen and 2 Indonesians arrested in Makkah over forged permits and fake Hajj services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661235/saudi-arabia/one-citizen-and-2-indonesians-arrested-in-makkah-over-forged-permits-and-fake-hajj-services",
-      "published_date": "2026-05-10T13:49:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry finalizes pilgrim movement, transport preparations for Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661227/saudi-arabia/hajj-ministry-finalizes-pilgrim-movement-transport-preparations-for-hajj",
-      "published_date": "2026-05-10T13:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T11:55:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "18 Pakistanis and Afghans arrested in Makkah for forging iqamas, Nusuk cards and Hajj wristbands",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661209/saudi-arabia/18-pakistanis-and-afghans-arrested-in-makkah-for-forging-iqamas-nusuk-cards-and-hajj-wristbands",
-      "published_date": "2026-05-09T14:22:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia sends 42 students to compete at ISEF 2026 in US",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661192/saudi-arabia/saudi-arabia-sends-42-students-to-isef-2026-in-us",
-      "published_date": "2026-05-08T17:20:17+00:00",
       "category": "Local Events"
     }
   ]
