@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-13T00:00:34.588326+00:00",
-  "story_count": 73,
+  "last_updated": "2026-05-13T13:09:45.998797+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi Crown Prince, UAE President discuss regional security and cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661311/saudi-arabia/saudi-crown-prince-uae-president-discuss-regional-security-and-cooperation",
+      "published_date": "2026-05-13T11:31:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "On behalf of Crown Prince, Al-Kheraiji attends Ugandan president&#039;s inauguration ceremony",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia vows full support for Bahraini measures against anti-national activities",
+      "title": "Saudi Arabia deploys AI-powered multilingual robot at Two Holy Mosques",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661212/saudi-arabia/saudi-arabia-vows-full-support-for-bahraini-measures-against-anti-national-activities",
-      "published_date": "2026-05-09T17:10:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661314/saudi-arabia/saudi-arabia-deploys-ai-powered-multilingual-robot-at-two-holy-mosques",
+      "published_date": "2026-05-13T12:06:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T20:00:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T19:31:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says Iran ceasefire is on 'massive life support'",
