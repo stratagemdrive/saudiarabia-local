@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-14T00:00:56.888516+00:00",
-  "story_count": 74,
+  "last_updated": "2026-05-14T12:23:55.384437+00:00",
+  "story_count": 72,
   "stories": [
     {
       "title": "Saudi Arabia, Spain sign Strategic Partnership Council MoU, visa exemption agreement",
@@ -249,20 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T11:01:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T04:06:33+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Saudi Arabia working to increase oil exports to more than 5 million bpd",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661275/saudi-arabia/aramco-chief-nasser-saudi-arabia-working-to-increase-oil-exports-to-more-than-5-million-bpd",
@@ -380,6 +366,13 @@
       "url": "https://saudigazette.com.sa/article/661161/saudi-arabia/saudi-arabia-chairs-digital-cooperation-event-at-un-sustainable-development-forum",
       "published_date": "2026-05-07T14:12:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Riyadh University for Arts opens May 14 admissions across 8 programs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661344/saudi-arabia/riyadh-university-for-arts-opens-may-14-admissions-across-8-programs",
+      "published_date": "2026-05-14T11:52:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hajj Minister: Over 860,000 foreign Hajj pilgrims arrive in Saudi Arabia",
@@ -512,13 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661270/saudi-arabia/new-identity-for-pilgrims-tents-with-integrated-facilities-in-mina",
       "published_date": "2026-05-11T16:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six hour-deadline for payment of domestic Hajj fee on Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661267/saudi-arabia/six-hour-deadline-for-payment-of-domestic-hajj-fee-on-friday",
-      "published_date": "2026-05-11T14:54:06+00:00",
       "category": "Local Events"
     }
   ]
