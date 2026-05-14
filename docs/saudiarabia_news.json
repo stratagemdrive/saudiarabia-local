@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-14T12:23:55.384437+00:00",
-  "story_count": 72,
+  "last_updated": "2026-05-14T23:58:58.610709+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Shoura Council delegation joins Asian Women’s Forum in Uzbekistan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661367/saudi-arabia/saudi-shoura-council-joins-asian-womens-forum-in-uzbekistan",
+      "published_date": "2026-05-14T22:17:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Faisal co-chairs Saudi-Hellenic Strategic Partnership Council meeting in Athens",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661365/saudi-arabia/prince-faisal-co-chairs-saudi-hellenic-strategic-partnership-council-meeting-in-athens",
+      "published_date": "2026-05-14T21:27:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Jalajel announces advanced healthcare readiness for Hajj, with a bed-capacity surpassing 20,000",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661360/saudi-arabia/al-jalajel-announces-advanced-healthcare-readiness-for-hajj-with-a-bed-capacity-surpassing-20000",
+      "published_date": "2026-05-14T16:34:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanese President honors Saudi Envoy Bukhari on completion of his tenure",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661355/saudi-arabia/lebanese-president-honors-saudi-envoy-bukhari-on-completion-of-his-tenure",
+      "published_date": "2026-05-14T14:45:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia wins six medals at North African Olympiad in Informatics 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661353/saudi-arabia/saudi-arabia-wins-six-medals-at-north-african-olympiad-in-informatics-2026",
+      "published_date": "2026-05-14T13:47:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, Spain sign Strategic Partnership Council MoU, visa exemption agreement",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Emir of Madinah inspects pilgrims’ Welcome and Reception Center on Hijrah Road",
+      "title": "1750 prisoners to be released in Yemen exchange deal, including 7 Saudis",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661274/saudi-arabia/madinah-permanent-hajj-and-umrah-committee-prince-salman-bin-sultan-hajj-pilgrims-umrah-pilgrims-pilgrims-welcome-and-reception-center-hijrah-road-prince-saud-bin-nahar",
-      "published_date": "2026-05-11T18:47:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661363/saudi-arabia/yemen-prisoner-exchange-deal-to-release-1750-detainees-including-7-saudis",
+      "published_date": "2026-05-14T17:35:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Pakistani FMs discuss US-Iran mediation efforts in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661273/saudi-arabia/saudi-pakistani-fms-discuss-us-iran-mediation-efforts-in-phone-call",
-      "published_date": "2026-05-11T18:34:44+00:00",
-      "category": "Diplomacy"
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-14T13:33:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN OCHA lauds KSrelief projects during field visit to Gaza",
+      "title": "Saudi Defense Minister, UK National Security Advisor discuss efforts for regional de-escalation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661266/saudi-arabia/un-ocha-lauds-ksrelief-projects-during-field-visit-to-gaza",
-      "published_date": "2026-05-11T14:05:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Iranian FMs review Iran-US diplomatic talks in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661261/saudi-arabia/saudi-iranian-fms-review-iran-us-diplomatic-talks-in-phone-call",
-      "published_date": "2026-05-11T12:54:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman approves adding women&#039;s segment to King Abdulaziz International Qur’an Competition",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661243/saudi-arabia/king-salman-approves-adding-womens-segment-to-king-abdulaziz-international-quran-competition",
-      "published_date": "2026-05-10T21:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661349/saudi-arabia/saudi-defense-minister-uk-national-security-advisor-discuss-efforts-for-regional-de-escalation",
+      "published_date": "2026-05-14T13:08:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
@@ -235,18 +256,25 @@
       "category": "Military"
     },
     {
-      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T14:22:20+00:00",
-      "category": "Military"
+      "title": "Saudi inflation reaches 1.7% in April",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661361/saudi-arabia/saudi-inflation-reaches-17-in-april",
+      "published_date": "2026-05-14T17:11:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi Arabia wins seat on IFJ executive committee for first time",
+      "title": "GCC studies oil and gas pipeline projects",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661157/saudi-arabia/saudi-arabia-wins-seat-on-ifj-executive-committee-for-first-time",
-      "published_date": "2026-05-07T13:24:39+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/661359/saudi-arabia/gcc-studies-oil-and-gas-pipeline-projects-to-strengthen-regional-economy",
+      "published_date": "2026-05-14T15:40:43+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ministry of Energy opens prequalifications for CNG distribution project competitions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661348/saudi-arabia/ministry-of-energy-opens-prequalifications-for-cng-distribution-project-competitions",
+      "published_date": "2026-05-14T12:46:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco Chief: Saudi Arabia working to increase oil exports to more than 5 million bpd",
@@ -289,6 +317,34 @@
       "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-08T05:57:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "GCC Financial and Economic Cooperation Committee reviews progress in customs union",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661366/saudi-arabia/gcc-financial-and-economic-cooperation-committee-reviews-progress-in-customs-union",
+      "published_date": "2026-05-14T21:48:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Khereiji at BRICS meet: Gulf region remains a vital hub in global trade networks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661364/saudi-arabia/al-khereiji-at-brics-meet-gulf-region-remains-a-vital-hub-in-global-trade-networks",
+      "published_date": "2026-05-14T21:20:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alswaha, UK PM’s Chief Advisor discuss strengthening partnership in digital economy and AI",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661352/saudi-arabia/alswaha-uk-pms-chief-advisor-discuss-strengthening-partnership-in-digital-economy-and-ai",
+      "published_date": "2026-05-14T13:41:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Interior’s Absher records over 448 million digital transactions in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661351/saudi-arabia/ministry-of-interiors-absher-records-over-448-million-digital-transactions-in-2025",
+      "published_date": "2026-05-14T13:19:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "HR Ministry detects 168,000 violations during 250,000 inspection visits in 1Q 2026",
@@ -354,18 +410,32 @@
       "category": "Economy"
     },
     {
-      "title": "Storage fee exemption for transit goods extended for 15 days at 4 Saudi ports",
+      "title": "Commerce Ministry conducts over 33,000 inspection tours in Makkah and Madinah ahead of Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661167/saudi-arabia/storage-fee-exemption-for-transit-goods-extended-for-15-days-at-4-saudi-ports",
-      "published_date": "2026-05-07T15:59:36+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661362/saudi-arabia/commerce-ministry-conducts-over-33000-inspection-tours-in-makkah-and-madinah-ahead-of-hajj",
+      "published_date": "2026-05-14T17:26:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia chairs digital cooperation event at UN Sustainable Development Forum",
+      "title": "Al-Hogail: Ministry of Municipalities fields 22,000 personnel to serve pilgrims",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661161/saudi-arabia/saudi-arabia-chairs-digital-cooperation-event-at-un-sustainable-development-forum",
-      "published_date": "2026-05-07T14:12:26+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661358/saudi-arabia/al-hogail-ministry-of-municipalities-fields-22000-personnel-to-serve-pilgrims",
+      "published_date": "2026-05-14T15:26:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 33,000 buses, 5,000 taxis ready to serve pilgrims during Hajj season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661356/saudi-arabia/over-33000-buses-5000-taxis-ready-to-serve-pilgrims-during-hajj-season",
+      "published_date": "2026-05-14T15:06:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia deploys Middle East’s first heavy traffic simulator to test Hajj road durability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661347/saudi-arabia/saudi-arabia-deploys-middle-easts-first-heavy-traffic-simulator-to-test-hajj-road-durability",
+      "published_date": "2026-05-14T12:25:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh University for Arts opens May 14 admissions across 8 programs",
@@ -477,34 +547,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-12T11:01:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T04:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry launches service for qualifying external agents and finalizing contracts for next Umrah Season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661276/saudi-arabia/hajj-ministry-launches-service-for-qualifying-external-agents-and-finalizing-contracts-for-next-umrah-season",
-      "published_date": "2026-05-11T21:20:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh advances KAFD road network project with installation of major bridges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661271/saudi-arabia/riyadh-completes-major-bridge-installation-in-kafd-road-project",
-      "published_date": "2026-05-11T16:13:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New identity for pilgrims&#039; tents with integrated facilities in Mina",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661270/saudi-arabia/new-identity-for-pilgrims-tents-with-integrated-facilities-in-mina",
-      "published_date": "2026-05-11T16:00:35+00:00",
       "category": "Local Events"
     }
   ]
