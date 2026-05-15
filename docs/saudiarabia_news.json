@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-15T12:51:51.160906+00:00",
-  "story_count": 78,
+  "last_updated": "2026-05-15T23:55:58.398966+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi Arabia highlights women empowerment reforms at Asian Women’s Forum",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661385/saudi-arabia/saudi-arabia-highlights-women-empowerment-reforms-at-asian-forum",
+      "published_date": "2026-05-15T14:59:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia approves vacant property fee regulations to boost housing supply",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia reaffirms unwavering support for decisive measures to ensure Gulf security and stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661294/saudi-arabia/saudi-arabia-reaffirms-unwavering-support-for-decisive-measures-to-ensure-gulf-security-and-stability",
-      "published_date": "2026-05-12T15:30:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "BBC on the ground during march through Jerusalem's Old City",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
@@ -246,20 +246,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-10T20:57:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Return of Palestine Marathon attracts thousands of runners",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T17:23:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi customs foils cocaine smuggling attempt at Jeddah Islamic Port",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661191/saudi-arabia/saudi-customs-foils-cocaine-smuggling-attempt-at-jeddah-port",
-      "published_date": "2026-05-08T14:40:08+00:00",
       "category": "Military"
     },
     {
@@ -410,6 +396,55 @@
       "category": "Economy"
     },
     {
+      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T20:26:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel says it has killed Hamas commander in Gaza air strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T19:38:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi customs foils attempt to smuggle 426,000 amphetamine pills at Al Haditha border",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661386/saudi-arabia/saudi-customs-seizes-426000-amphetamine-pills-at-al-haditha-border",
+      "published_date": "2026-05-15T17:06:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi students win 12 special awards at ISEF 2026 in the US",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661384/saudi-arabia/saudi-students-win-12-awards-at-isef-2026-in-arizona",
+      "published_date": "2026-05-15T13:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Supreme Court calls for sighting of Dhul Hijjah crescent on May 17",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661383/saudi-arabia/saudi-supreme-court-calls-for-dhul-hijjah-moon-sighting-on-may-17",
+      "published_date": "2026-05-15T13:49:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia condemns Israeli officials’ actions at Al-Aqsa Mosque",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661382/saudi-arabia/saudi-arabia-condemns-israeli-actions-at-al-aqsa-mosque",
+      "published_date": "2026-05-15T13:46:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh Metro opens Western Station as fourth iconic hub",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661381/saudi-arabia/riyadh-metro-opens-western-station",
+      "published_date": "2026-05-15T13:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Commerce Ministry conducts over 33,000 inspection tours in Makkah and Madinah ahead of Hajj",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661362/saudi-arabia/commerce-ministry-conducts-over-33000-inspection-tours-in-makkah-and-madinah-ahead-of-hajj",
@@ -498,55 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661299/saudi-arabia/ministry-of-health-mandates-meningococcal-vaccination-for-all-hajj-workers",
       "published_date": "2026-05-12T19:51:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Adahi’ offers Hady vouchers for Hajj at unified price of SR720",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661297/saudi-arabia/adahi-offers-hady-vouchers-for-hajj-at-unified-price-of-sr720",
-      "published_date": "2026-05-12T17:09:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry&#039;s electronic track enhanced with over 250 pilgrim services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661296/saudi-arabia/hajj-ministrys-electronic-track-enhanced-with-over-250-pilgrim-services",
-      "published_date": "2026-05-12T16:52:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi citizen, 3 residents arrested for entering Makkah without a Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661293/saudi-arabia/saudi-citizen-3-residents-arrested-for-entering-makkah-without-a-hajj-permit",
-      "published_date": "2026-05-12T14:20:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA boosts Hajj laboratory readiness with 24/7 operations, rapid testing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661288/saudi-arabia/sfda-boosts-hajj-laboratory-readiness-with-247-operations-rapid-testing",
-      "published_date": "2026-05-12T12:51:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arabian oryx recovers after decades of Saudi conservation efforts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661285/saudi-arabia/arabian-oryx-recovers-after-decades-of-saudi-conservation-efforts",
-      "published_date": "2026-05-12T12:15:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prophet’s Mosque enhances Hajj accessibility with dedicated services for elderly and disabled pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661283/saudi-arabia/prophets-mosque-enhances-hajj-accessibility-with-dedicated-services-for-elderly-and-disabled-pilgrims",
-      "published_date": "2026-05-12T11:10:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T11:01:34+00:00",
       "category": "Local Events"
     }
   ]
