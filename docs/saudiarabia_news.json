@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-14T23:58:58.610709+00:00",
+  "last_updated": "2026-05-15T12:51:51.160906+00:00",
   "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi Arabia approves vacant property fee regulations to boost housing supply",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661368/saudi-arabia/saudi-arabia-approves-vacant-property-fee-regulations-to-balance-real-estate-market",
+      "published_date": "2026-05-15T11:04:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Shoura Council delegation joins Asian Women’s Forum in Uzbekistan",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+      "title": "BBC on the ground during march through Jerusalem's Old City",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T19:37:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-14T20:51:47+00:00",
+      "category": "Military"
     },
     {
       "title": "1750 prisoners to be released in Yemen exchange deal, including 7 Saudis",
@@ -309,13 +316,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661217/saudi-arabia/aramco-posts-sr122-billion-q1-profit-as-east-west-pipeline-hits-full-capacity",
       "published_date": "2026-05-10T11:40:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T05:57:08+00:00",
       "category": "Energy"
     },
     {
