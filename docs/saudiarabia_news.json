@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-16T11:48:49.702205+00:00",
-  "story_count": 76,
+  "last_updated": "2026-05-16T23:54:37.590464+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 11,272 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661402/saudi-arabia/saudi-arabia-deports-11272-illegal-residents-in-a-week",
+      "published_date": "2026-05-16T18:24:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Embassy in UK urges citizens to stay away from gatherings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661399/saudi-arabia/saudi-embassy-in-uk-urges-citizens-to-stay-away-from-gatherings",
+      "published_date": "2026-05-16T16:42:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Qatari Emir discuss efforts to enhance regional security in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661387/saudi-arabia/saudi-crown-prince-qatari-emir-discuss-efforts-to-enhance-regional-security-in-phone-call",
+      "published_date": "2026-05-16T13:05:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia highlights women empowerment reforms at Asian Women’s Forum",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia strongly condemns Iranian Revolutionary Guard’s infiltration of Kuwait&#039;s Bubiyan Island",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661300/saudi-arabia/saudi-arabia-strongly-condemns-iranian-revolutionary-guards-infiltration-of-kuwaits-bubiyan-island",
-      "published_date": "2026-05-12T20:49:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, UK reject using Strait of Hormuz a ‘pressure tool’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661298/saudi-arabia/saudi-arabia-uk-reject-using-strait-of-hormuz-a-pressure-tool",
-      "published_date": "2026-05-12T17:36:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Jordanian foreign ministers discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661295/saudi-arabia/saudi-jordanian-foreign-ministers-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-05-12T15:57:57+00:00",
-      "category": "Diplomacy"
+      "title": "US charges Iraqi with plots to target Jews in cities from London to LA",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7v918j6nj0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-16T00:14:37+00:00",
+      "category": "Military"
     },
     {
       "title": "BBC on the ground during march through Jerusalem's Old City",
@@ -305,6 +312,27 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Customs report 915 contraband seizures at ports last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661401/saudi-arabia/saudi-customs-report-915-contraband-seizures-at-ports-last-week",
+      "published_date": "2026-05-16T18:18:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tawakkalna supports pilgrims with 19 languages and 1,300 digital services during Hajj Season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661400/saudi-arabia/tawakkalna-supports-pilgrims-with-19-languages-and-1300-digital-services-during-hajj-season",
+      "published_date": "2026-05-16T17:25:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia underscores importance of maritime security, energy flows at UN meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661398/saudi-arabia/saudi-arabia-underscores-importance-of-maritime-security-energy-flows-at-un-meeting",
+      "published_date": "2026-05-16T15:08:13+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "GCC Financial and Economic Cooperation Committee reviews progress in customs union",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661366/saudi-arabia/gcc-financial-and-economic-cooperation-committee-reviews-progress-in-customs-union",
@@ -389,11 +417,18 @@
       "category": "Economy"
     },
     {
-      "title": "Lebanon says Israeli strikes killed 39",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T21:23:14+00:00",
-      "category": "Economy"
+      "title": "Saudi Arabia secures second place globally at ISEF 2026 for third year in a row",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661389/saudi-arabia/saudi-arabia-secures-second-place-globally-at-isef-2026-for-third-year-in-a-row",
+      "published_date": "2026-05-16T13:52:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grand Mufti urges Muslims to increase righteous deeds during first 10 days of Dhul Hijjah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661388/saudi-arabia/grand-mufti-urges-muslims-to-increase-righteous-deeds-during-first-10-days-of-dhul-hijjah",
+      "published_date": "2026-05-16T13:11:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
@@ -519,20 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661324/saudi-arabia/makkah-deputy-emir-reviews-readiness-of-holy-sites-for-upcoming-hajj",
       "published_date": "2026-05-13T14:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia raises SR2.418 billion through May Sukuk issuance",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661315/saudi-arabia/saudi-arabia-raises-sr2418-billion-through-may-sukuk-issuance",
-      "published_date": "2026-05-13T12:33:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Health mandates meningococcal vaccination for all Hajj workers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661299/saudi-arabia/ministry-of-health-mandates-meningococcal-vaccination-for-all-hajj-workers",
-      "published_date": "2026-05-12T19:51:26+00:00",
       "category": "Local Events"
     }
   ]
