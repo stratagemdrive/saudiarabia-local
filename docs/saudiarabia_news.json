@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-16T23:54:37.590464+00:00",
+  "last_updated": "2026-05-17T11:58:47.414196+00:00",
   "story_count": 79,
   "stories": [
+    {
+      "title": "Saudi, Qatari FMs discuss regional security in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661404/saudi-arabia/saudi-qatari-fms-discuss-regional-security-in-phone-call",
+      "published_date": "2026-05-17T10:37:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 11,272 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Qatari foreign ministers discuss over phone efforts for regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661301/saudi-arabia/saudi-qatari-foreign-ministers-discuss-efforts-for-regional-security",
-      "published_date": "2026-05-12T20:53:42+00:00",
-      "category": "Diplomacy"
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-16T23:10:19+00:00",
+      "category": "Military"
     },
     {
       "title": "US charges Iraqi with plots to target Jews in cities from London to LA",
@@ -305,13 +312,6 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco posts SR122 billion Q1 profit as East-West pipeline hits full capacity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661217/saudi-arabia/aramco-posts-sr122-billion-q1-profit-as-east-west-pipeline-hits-full-capacity",
-      "published_date": "2026-05-10T11:40:43+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Saudi Customs report 915 contraband seizures at ports last week",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661401/saudi-arabia/saudi-customs-report-915-contraband-seizures-at-ports-last-week",
@@ -415,6 +415,20 @@
       "url": "https://saudigazette.com.sa/article/661239/saudi-arabia/saudi-bank-credit-hits-highest-level-at-sr33-trillion-by-end-of-february-2026",
       "published_date": "2026-05-10T16:31:14+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia warns Hajj visa overstayers of fines, jail, deportation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661406/saudi-arabia/saudi-arabia-warns-hajj-visa-overstayers-of-fines-jail-deportation",
+      "published_date": "2026-05-17T11:32:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SAR launches naming rights project for Haramain High Speed Railway stations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661405/saudi-arabia/sar-launches-naming-rights-project-for-haramain-high-speed-railway-stations",
+      "published_date": "2026-05-17T11:04:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia secures second place globally at ISEF 2026 for third year in a row",
@@ -540,20 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661331/saudi-arabia/hajj-and-umrah-committee-meeting-reviews-plans-and-readiness-for-hassle-free-hajj",
       "published_date": "2026-05-13T17:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi employees are prohibited from holding more than seven jobs within one-year period",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661326/saudi-arabia/saudi-employees-are-prohibited-from-holding-more-than-seven-jobs-within-one-year-period",
-      "published_date": "2026-05-13T15:02:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Deputy Emir reviews readiness of holy sites for upcoming Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661324/saudi-arabia/makkah-deputy-emir-reviews-readiness-of-holy-sites-for-upcoming-hajj",
-      "published_date": "2026-05-13T14:29:10+00:00",
       "category": "Local Events"
     }
   ]
