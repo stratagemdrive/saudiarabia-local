@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-17T11:58:47.414196+00:00",
-  "story_count": 79,
+  "last_updated": "2026-05-17T23:58:20.386810+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi FM discusses regional de-escalation in call with UAE, Egyptian counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661420/saudi-arabia/saudi-fm-discusses-regional-de-escalation-in-call-with-uae-egyptian-counterparts",
+      "published_date": "2026-05-17T21:57:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Maliki: Three drones from Iraq intercepted and destroyed after entering Saudi airspace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661419/saudi-arabia/al-maliki-three-drones-from-iraq-intercepted-and-destroyed-after-entering-saudi-airspace",
+      "published_date": "2026-05-17T21:46:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Adel Al-Jubeir attends 1st European-Gulf Geopolitical and Investment Summit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661417/saudi-arabia/adel-al-jubeir-attends-1st-european-gulf-geopolitical-and-investment-summit",
+      "published_date": "2026-05-17T21:01:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arafat Day on Tuesday, May 26 and Eid Al-Adha on May 27",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661414/saudi-arabia/arafat-day-on-tuesday-may-26-and-eid-al-adha-on-may-27",
+      "published_date": "2026-05-17T16:55:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM, US Special Envoy discuss ways to solidify stability in Syria",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661411/saudi-arabia/saudi-fm-us-special-envoy-discuss-ways-to-support-stability-in-syria",
+      "published_date": "2026-05-17T14:13:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Qatari FMs discuss regional security in phone call",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Bahraini foreign ministers discuss regional situation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661322/saudi-arabia/saudi-bahraini-foreign-ministers-discuss-regional-situation-in-phone-call",
-      "published_date": "2026-05-13T13:33:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM meets UK National Security Advisor to discuss regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661321/saudi-arabia/saudi-fm-meets-uk-national-security-advisor-to-discuss-regional-security",
-      "published_date": "2026-05-13T13:27:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Princess Reema encourages Saudi students ahead of ISEF 2026 competition",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661316/saudi-arabia/princess-reema-encourages-saudi-students-ahead-of-isef-2026-competition",
-      "published_date": "2026-05-13T12:33:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, UAE President discuss regional security and cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661311/saudi-arabia/saudi-crown-prince-uae-president-discuss-regional-security-and-cooperation",
-      "published_date": "2026-05-13T11:31:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "On behalf of Crown Prince, Al-Kheraiji attends Ugandan president&#039;s inauguration ceremony",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661302/saudi-arabia/on-behalf-of-crown-prince-al-kheraiji-attends-ugandan-presidents-inauguration-ceremony",
-      "published_date": "2026-05-12T21:18:47+00:00",
-      "category": "Diplomacy"
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-17T23:02:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
@@ -242,25 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T21:13:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T21:01:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T20:57:22+00:00",
-      "category": "Military"
+      "title": "KACST launches special awards at ISEF 2026 for first time",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661407/saudi-arabia/kacst-launches-special-awards-at-isef-2026-for-first-time",
+      "published_date": "2026-05-17T12:05:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi inflation reaches 1.7% in April",
@@ -298,18 +291,11 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco CEO: World deprived of 1 billion barrels of oil over past two months",
+      "title": "Al-Hogail, Azerbaijan Deputy PM discuss cooperation in urban development",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661237/saudi-arabia/aramco-ceo-world-deprived-of-1-billion-barrels-of-oil-over-past-two-months",
-      "published_date": "2026-05-10T14:29:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi industrial production falls 14.1% in March amid oil sector decline",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661236/saudi-arabia/saudi-industrial-production-falls-141-in-march-amid-oil-sector-decline",
-      "published_date": "2026-05-10T14:16:43+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/661410/saudi-arabia/al-hogail-azerbaijan-deputy-pm-discuss-cooperation-in-urban-development",
+      "published_date": "2026-05-17T13:41:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs report 915 contraband seizures at ports last week",
@@ -403,18 +389,46 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi, Jordanian ministers discuss strengthening industrial integration",
+      "title": "Saudi Arabia strongly condemns attack on UAE&#039;s Barakah nuclear\nplant site",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661245/saudi-arabia/saudi-jordanian-ministers-discuss-strengthening-industrial-integration",
-      "published_date": "2026-05-10T21:38:50+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661421/saudi-arabia/saudi-arabia-strongly-condemns-attack-on-uaes-barakah-nuclear-plant-site",
+      "published_date": "2026-05-17T22:02:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi bank credit hits highest level at SR3.3 trillion by end of February 2026",
+      "title": "Civil Defense bans entry and use of gas cylinders at holy sites from Monday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661239/saudi-arabia/saudi-bank-credit-hits-highest-level-at-sr33-trillion-by-end-of-february-2026",
-      "published_date": "2026-05-10T16:31:14+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661418/saudi-arabia/civil-defense-bans-entry-and-use-of-gas-cylinders-at-holy-sites-from-monday",
+      "published_date": "2026-05-17T21:05:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi court upholds decision to revoke license of erring Hajj service company",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661416/saudi-arabia/saudi-court-upholds-decision-to-revoke-license-of-erring-hajj-service-company",
+      "published_date": "2026-05-17T17:35:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Ministry penalizes 5 persons for transporting 7 people to Makkah without a Hajj permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661415/saudi-arabia/interior-ministry-penalizes-5-persons-for-transporting-7-people-to-makkah-without-a-hajj-permit",
+      "published_date": "2026-05-17T17:25:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grand Mufti commences Hajj-related duties in Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661413/saudi-arabia/grand-mufti-commences-his-hajj-related-duties-in-makkah",
+      "published_date": "2026-05-17T15:52:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilgrims will start arriving on May 31 as Ministry of Hajj unveils new Umrah season calendar",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661408/saudi-arabia/pilgrims-will-start-arriving-on-may-31-as-ministry-of-hajj-unveils-new-umrah-season-calendar",
+      "published_date": "2026-05-17T12:34:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia warns Hajj visa overstayers of fines, jail, deportation",
@@ -512,48 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661356/saudi-arabia/over-33000-buses-5000-taxis-ready-to-serve-pilgrims-during-hajj-season",
       "published_date": "2026-05-14T15:06:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia deploys Middle East’s first heavy traffic simulator to test Hajj road durability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661347/saudi-arabia/saudi-arabia-deploys-middle-easts-first-heavy-traffic-simulator-to-test-hajj-road-durability",
-      "published_date": "2026-05-14T12:25:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh University for Arts opens May 14 admissions across 8 programs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661344/saudi-arabia/riyadh-university-for-arts-opens-may-14-admissions-across-8-programs",
-      "published_date": "2026-05-14T11:52:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Minister: Over 860,000 foreign Hajj pilgrims arrive in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661335/saudi-arabia/hajj-minister-over-860000-foreign-hajj-pilgrims-arrive-in-saudi-arabia",
-      "published_date": "2026-05-13T22:18:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 citizens arrested for transporting 5 residents to Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661334/saudi-arabia/2-citizens-arrested-for-transporting-5-residents-to-makkah-illegally",
-      "published_date": "2026-05-13T21:12:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry penalizes 19 people for transporting 29 individuals without Hajj permits",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661333/saudi-arabia/interior-ministry-penalizes-19-people-for-transporting-29-individuals-without-hajj-permits",
-      "published_date": "2026-05-13T21:07:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj and Umrah Committee meeting reviews plans and readiness for hassle-free Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661331/saudi-arabia/hajj-and-umrah-committee-meeting-reviews-plans-and-readiness-for-hassle-free-hajj",
-      "published_date": "2026-05-13T17:35:32+00:00",
       "category": "Local Events"
     }
   ]
