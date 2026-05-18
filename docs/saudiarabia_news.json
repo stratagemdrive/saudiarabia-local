@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-17T23:58:20.386810+00:00",
-  "story_count": 75,
+  "last_updated": "2026-05-18T14:28:50.350659+00:00",
+  "story_count": 74,
   "stories": [
     {
       "title": "Saudi FM discusses regional de-escalation in call with UAE, Egyptian counterparts",
@@ -144,10 +144,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Kuwait condemns drone attack targeting Saudi Arabia from Iraqi airspace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661428/saudi-arabia/kuwait-condemns-drone-attack-targeting-saudi-arabia-from-iraqi-airspace",
+      "published_date": "2026-05-18T12:39:15+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-17T23:02:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-17T20:53:45+00:00",
       "category": "Military"
     },
     {
@@ -284,13 +298,6 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi students unveil cutting-edge AI, biomedical and energy projects at ISEF 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661253/saudi-arabia/saudi-students-unveil-cutting-edge-ai-biomedical-and-energy-projects-at-isef-2026",
-      "published_date": "2026-05-11T11:23:49+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Al-Hogail, Azerbaijan Deputy PM discuss cooperation in urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661410/saudi-arabia/al-hogail-azerbaijan-deputy-pm-discuss-cooperation-in-urban-development",
@@ -375,18 +382,25 @@
       "category": "Economy"
     },
     {
-      "title": "A host of global leaders and decision-makers to address FII PRIORITY Europe 2026 Rome summit on June 17-19",
+      "title": "Egyptian man and woman arrested over fake Hajj services ads",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661265/saudi-arabia/a-host-of-global-leaders-and-decision-makers-to-address-fii-priority-europe-2026-rome-summit-on-june-17-19",
-      "published_date": "2026-05-11T13:51:33+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661434/saudi-arabia/egyptian-man-and-woman-arrested-over-fake-hajj-services-ads",
+      "published_date": "2026-05-18T13:58:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi-Russian visa-free travel agreement enters into force",
+      "title": "15 Arabian Oryx births recorded at Imam Turki Royal Reserve in Q1 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661256/saudi-arabia/saudi-russian-visa-free-travel-agreement-enters-into-force",
-      "published_date": "2026-05-11T11:58:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661433/saudi-arabia/15-arabian-oryx-births-recorded-at-imam-turki-royal-reserve-in-q1-2026",
+      "published_date": "2026-05-18T13:33:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Municipalities completes major road, infrastructure upgrades for Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661429/saudi-arabia/ministry-of-municipalities-completes-major-road-infrastructure-upgrades-for-hajj",
+      "published_date": "2026-05-18T12:39:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia strongly condemns attack on UAE&#039;s Barakah nuclear\nplant site",
@@ -505,27 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661381/saudi-arabia/riyadh-metro-opens-western-station",
       "published_date": "2026-05-15T13:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerce Ministry conducts over 33,000 inspection tours in Makkah and Madinah ahead of Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661362/saudi-arabia/commerce-ministry-conducts-over-33000-inspection-tours-in-makkah-and-madinah-ahead-of-hajj",
-      "published_date": "2026-05-14T17:26:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Hogail: Ministry of Municipalities fields 22,000 personnel to serve pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661358/saudi-arabia/al-hogail-ministry-of-municipalities-fields-22000-personnel-to-serve-pilgrims",
-      "published_date": "2026-05-14T15:26:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 33,000 buses, 5,000 taxis ready to serve pilgrims during Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661356/saudi-arabia/over-33000-buses-5000-taxis-ready-to-serve-pilgrims-during-hajj-season",
-      "published_date": "2026-05-14T15:06:44+00:00",
       "category": "Local Events"
     }
   ]
