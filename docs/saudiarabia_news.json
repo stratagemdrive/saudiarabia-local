@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-19T00:08:51.181633+00:00",
-  "story_count": 78,
+  "last_updated": "2026-05-19T13:54:40.068369+00:00",
+  "story_count": 75,
   "stories": [
     {
       "title": "China awards Outstanding Diplomat Medal to Saudi ambassador",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-18T22:30:58+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Minister of Justice inaugurates unified framework for general courts",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661440/saudi-arabia/minister-of-justice-inaugurates-unified-framework-for-general-courts",
@@ -270,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T00:59:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "KACST launches special awards at ISEF 2026 for first time",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661407/saudi-arabia/kacst-launches-special-awards-at-isef-2026-for-first-time",
@@ -386,27 +386,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661329/saudi-arabia/hr-ministry-detects-168000-violations-during-250000-inspection-visits-in-1q-2026",
       "published_date": "2026-05-13T15:49:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia, India discuss enhancing fertilizer partnership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661292/saudi-arabia/saudi-arabia-india-discuss-enhancing-fertilizer-partnership",
-      "published_date": "2026-05-12T13:44:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Albudaiwi: GCC and UK commerce ministers commend progress in free trade agreement negotiations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661291/saudi-arabia/albudaiwi-gcc-and-uk-commerce-ministers-commend-progress-in-free-trade-agreement-negotiations",
-      "published_date": "2026-05-12T13:14:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia moves to expand workplace nurseries to support working parents",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661286/saudi-arabia/saudi-arabia-expands-workplace-nurseries-to-support-working-parents",
-      "published_date": "2026-05-12T12:17:37+00:00",
       "category": "Economy"
     },
     {
