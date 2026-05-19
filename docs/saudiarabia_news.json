@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-18T14:28:50.350659+00:00",
-  "story_count": 74,
+  "last_updated": "2026-05-19T00:08:51.181633+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "China awards Outstanding Diplomat Medal to Saudi ambassador",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661441/saudi-arabia/china-awards-outstanding-diplomat-medal-to-saudi-ambassador",
+      "published_date": "2026-05-18T20:48:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "5 facilities shut, 130 violations uncovered during inspections of over 1,500 health centers in April",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661439/saudi-arabia/5-facilities-shut-130-violations-uncovered-during-inspections-of-over-1500-health-centers-in-april",
+      "published_date": "2026-05-18T17:16:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional de-escalation in call with UAE, Egyptian counterparts",
       "source": "Saudi Gazette",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ministry of Housing approves executive regulations for vacant property fees",
+      "title": "Minister of Justice inaugurates unified framework for general courts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661328/saudi-arabia/ministry-of-housing-approves-executive-regulations-for-vacant-property-fees",
-      "published_date": "2026-05-13T15:22:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661440/saudi-arabia/minister-of-justice-inaugurates-unified-framework-for-general-courts",
+      "published_date": "2026-05-18T20:42:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman honored for over 60 years of support for Qur&#039;an memorization in Saudi Arabia",
+      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-18T16:16:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arab League and GCC join several countries in condemning drone attack on Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661323/saudi-arabia/king-salman-honored-for-over-60-years-of-support-for-quran-memorization-in-saudi-arabia",
-      "published_date": "2026-05-13T14:09:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661437/saudi-arabia/arab-league-and-gcc-join-several-countries-in-condemning-drone-attack-on-saudi-arabia",
+      "published_date": "2026-05-18T15:43:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Kuwait condemns drone attack targeting Saudi Arabia from Iraqi airspace",
@@ -256,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Self-driving shuttle bus trial service launched at Quba Mosque",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661268/saudi-arabia/self-driving-shuttle-bus-trial-service-launched-at-quba-mosque",
-      "published_date": "2026-05-11T15:33:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "KACST launches special awards at ISEF 2026 for first time",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661407/saudi-arabia/kacst-launches-special-awards-at-isef-2026-for-first-time",
@@ -291,11 +305,25 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco Chief: Saudi Arabia working to increase oil exports to more than 5 million bpd",
+      "title": "Al-Hogail opens Saudi Pavilion at World Urban Forum in Azerbaijan",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661275/saudi-arabia/aramco-chief-nasser-saudi-arabia-working-to-increase-oil-exports-to-more-than-5-million-bpd",
-      "published_date": "2026-05-11T20:48:44+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/661442/saudi-arabia/al-hogail-opens-saudi-pavilion-at-world-urban-forum-in-azerbaijan",
+      "published_date": "2026-05-18T20:56:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia underscores enhancing international economic cooperation amid evolving global challenges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661436/saudi-arabia/saudi-arabia-underscores-enhancing-international-economic-cooperation-amid-evolving-global-challenges",
+      "published_date": "2026-05-18T14:58:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Qiddiya, Google Cloud partner to build AI-powered smart entertainment city",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661430/world/qiddiya-google-cloud-partner-to-build-ai-powered-smart-entertainment-city",
+      "published_date": "2026-05-18T12:40:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Hogail, Azerbaijan Deputy PM discuss cooperation in urban development",
@@ -380,6 +408,27 @@
       "url": "https://saudigazette.com.sa/article/661286/saudi-arabia/saudi-arabia-expands-workplace-nurseries-to-support-working-parents",
       "published_date": "2026-05-12T12:17:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Makkah deputy emir conducts field visit to holy sites to assess readiness of facilities for pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661443/saudi-arabia/makkah-deputy-emir-conducts-field-visit-to-holy-sites-to-assess-readiness-of-facilities-for-pilgrims",
+      "published_date": "2026-05-18T21:48:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM Chief: Hot and dusty weather expected in Makkah and holy sites during Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661438/saudi-arabia/ncm-chief-hot-and-dusty-weather-expected-in-makkah-and-holy-sites-during-hajj",
+      "published_date": "2026-05-18T16:48:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "141 million passengers travel through Saudi airports in 2025, up 9.6%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661435/saudi-arabia/141-million-passengers-travel-through-saudi-airports-in-2025-up-96",
+      "published_date": "2026-05-18T14:28:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Egyptian man and woman arrested over fake Hajj services ads",
@@ -498,27 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661384/saudi-arabia/saudi-students-win-12-awards-at-isef-2026-in-arizona",
       "published_date": "2026-05-15T13:58:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Supreme Court calls for sighting of Dhul Hijjah crescent on May 17",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661383/saudi-arabia/saudi-supreme-court-calls-for-dhul-hijjah-moon-sighting-on-may-17",
-      "published_date": "2026-05-15T13:49:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia condemns Israeli officials’ actions at Al-Aqsa Mosque",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661382/saudi-arabia/saudi-arabia-condemns-israeli-actions-at-al-aqsa-mosque",
-      "published_date": "2026-05-15T13:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh Metro opens Western Station as fourth iconic hub",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661381/saudi-arabia/riyadh-metro-opens-western-station",
-      "published_date": "2026-05-15T13:37:00+00:00",
       "category": "Local Events"
     }
   ]
