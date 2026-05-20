@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-19T13:54:40.068369+00:00",
-  "story_count": 75,
+  "last_updated": "2026-05-20T00:07:41.930274+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Embassy in China reminds citizens to complete electronic entry card before travel",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661457/saudi-arabia/saudi-embassy-in-china-reminds-citizens-to-complete-electronic-entry-card-before-travel",
+      "published_date": "2026-05-19T15:45:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661456/saudi-arabia/saudi-kuwaiti-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-19T15:27:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia vows unyielding action to safeguard national security and ensure safety of people",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661454/saudi-arabia/saudi-arabia-vows-unyielding-action-to-safeguard-national-security-and-ensure-safety-of-people",
+      "published_date": "2026-05-19T14:42:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China awards Outstanding Diplomat Medal to Saudi ambassador",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661355/saudi-arabia/lebanese-president-honors-saudi-envoy-bukhari-on-completion-of-his-tenure",
       "published_date": "2026-05-14T14:45:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia wins six medals at North African Olympiad in Informatics 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661353/saudi-arabia/saudi-arabia-wins-six-medals-at-north-african-olympiad-in-informatics-2026",
-      "published_date": "2026-05-14T13:47:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Spain sign Strategic Partnership Council MoU, visa exemption agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661332/saudi-arabia/saudi-arabia-spain-sign-strategic-partnership-council-mou-visa-exemption-agreement",
-      "published_date": "2026-05-13T20:25:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC Interior ministers reaffirm security of Gulf states is indivisible",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661330/saudi-arabia/gcc-interior-ministers-security-of-gulf-states-is-indivisible",
-      "published_date": "2026-05-13T17:15:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -263,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T20:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T19:31:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "KACST launches special awards at ISEF 2026 for first time",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661407/saudi-arabia/kacst-launches-special-awards-at-isef-2026-for-first-time",
@@ -303,6 +289,13 @@
       "url": "https://saudigazette.com.sa/article/661348/saudi-arabia/ministry-of-energy-opens-prequalifications-for-cng-distribution-project-competitions",
       "published_date": "2026-05-14T12:46:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Deputy finance minister attends 2nd Saudi Arabia-IMF High-Level Strategic Dialogue",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661460/saudi-arabia/deputy-finance-minister-attends-2nd-saudi-arabia-imf-high-level-strategic-dialogue",
+      "published_date": "2026-05-19T17:03:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Hogail opens Saudi Pavilion at World Urban Forum in Azerbaijan",
@@ -387,6 +380,55 @@
       "url": "https://saudigazette.com.sa/article/661329/saudi-arabia/hr-ministry-detects-168000-violations-during-250000-inspection-visits-in-1q-2026",
       "published_date": "2026-05-13T15:49:12+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Interior Ministry penalizes 7 persons for transporting 13 pilgrims to Makkah illegally",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661465/saudi-arabia/interior-ministry-penalizes-7-persons-for-transporting-13-pilgrims-to-makkah-illegally",
+      "published_date": "2026-05-19T21:03:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 Malaysians arrested for attempting to enter Makkah without a Hajj permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661464/saudi-arabia/5-malaysians-arrested-for-attempting-to-enter-makkah-without-a-hajj-permit",
+      "published_date": "2026-05-19T20:54:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tawakkalna App enables display of Hajj permits",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661463/saudi-arabia/tawakkalna-app-enables-display-of-hajj-permits",
+      "published_date": "2026-05-19T20:48:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry launches awareness guide for domestic pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661462/saudi-arabia/hajj-ministry-launches-awareness-guide-for-domestic-pilgrims",
+      "published_date": "2026-05-19T17:41:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-19T17:31:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Expo 2030 Riyadh showcases delivery progress at strategic site walkthrough",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661461/saudi-arabia/expo-2030-riyadh-showcases-delivery-progress-at-strategic-site-walkthrough",
+      "published_date": "2026-05-19T17:21:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yemeni resident arrested for fraudulent Hajj ads in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661458/saudi-arabia/yemeni-resident-arrested-for-fraudulent-hajj-ads-in-riyadh",
+      "published_date": "2026-05-19T15:59:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Makkah deputy emir conducts field visit to holy sites to assess readiness of facilities for pilgrims",
@@ -477,55 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661406/saudi-arabia/saudi-arabia-warns-hajj-visa-overstayers-of-fines-jail-deportation",
       "published_date": "2026-05-17T11:32:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SAR launches naming rights project for Haramain High Speed Railway stations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661405/saudi-arabia/sar-launches-naming-rights-project-for-haramain-high-speed-railway-stations",
-      "published_date": "2026-05-17T11:04:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia secures second place globally at ISEF 2026 for third year in a row",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661389/saudi-arabia/saudi-arabia-secures-second-place-globally-at-isef-2026-for-third-year-in-a-row",
-      "published_date": "2026-05-16T13:52:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand Mufti urges Muslims to increase righteous deeds during first 10 days of Dhul Hijjah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661388/saudi-arabia/grand-mufti-urges-muslims-to-increase-righteous-deeds-during-first-10-days-of-dhul-hijjah",
-      "published_date": "2026-05-16T13:11:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-15T20:26:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel says it has killed Hamas commander in Gaza air strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-15T19:38:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi customs foils attempt to smuggle 426,000 amphetamine pills at Al Haditha border",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661386/saudi-arabia/saudi-customs-seizes-426000-amphetamine-pills-at-al-haditha-border",
-      "published_date": "2026-05-15T17:06:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi students win 12 special awards at ISEF 2026 in the US",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661384/saudi-arabia/saudi-students-win-12-awards-at-isef-2026-in-arizona",
-      "published_date": "2026-05-15T13:58:31+00:00",
       "category": "Local Events"
     }
   ]
