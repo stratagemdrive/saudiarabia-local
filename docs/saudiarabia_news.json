@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-20T00:07:41.930274+00:00",
-  "story_count": 74,
+  "last_updated": "2026-05-20T13:36:51.734486+00:00",
+  "story_count": 76,
   "stories": [
     {
       "title": "Saudi Embassy in China reminds citizens to complete electronic entry card before travel",
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "British couple on new hunger strike in Iranian jail, family say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T12:53:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T10:42:03+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump says he called off new Iran attack at request of Gulf states",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
@@ -200,6 +214,13 @@
       "category": "Military"
     },
     {
+      "title": "Hamas confirms top commander killed in Israeli air strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-16T10:12:16+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US charges Iraqi with plots to target Jews in cities from London to LA",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c7v918j6nj0o?at_medium=RSS&at_campaign=rss",
@@ -253,13 +274,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-13T18:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia deploys AI-powered multilingual robot at Two Holy Mosques",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661314/saudi-arabia/saudi-arabia-deploys-ai-powered-multilingual-robot-at-two-holy-mosques",
-      "published_date": "2026-05-13T12:06:54+00:00",
       "category": "Military"
     },
     {
