@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-20T13:36:51.734486+00:00",
+  "last_updated": "2026-05-21T00:08:33.195182+00:00",
   "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi FM welcomes Trump move to “give diplomacy a chance” to end war, reopen Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661491/saudi-arabia/saudi-fm-welcomes-trump-move-to-give-diplomacy-a-chance-to-end-war-reopen-hormuz",
+      "published_date": "2026-05-20T20:06:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Britain sign deal to support injured children in Gaza",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661487/saudi-arabia/saudi-arabia-britain-sign-deal-to-support-injured-children-in-gaza",
+      "published_date": "2026-05-20T17:23:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses ways to improve relations in call with New Zealand, Nepal counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661479/saudi-arabia/saudi-fm-discusses-ways-to-improve-relations-in-call-with-new-zealand-nepal-counterparts",
+      "published_date": "2026-05-20T13:53:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Embassy in China reminds citizens to complete electronic entry card before travel",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prince Faisal co-chairs Saudi-Hellenic Strategic Partnership Council meeting in Athens",
+      "title": "Defense Ministry completes comprehensive preparations for Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661365/saudi-arabia/prince-faisal-co-chairs-saudi-hellenic-strategic-partnership-council-meeting-in-athens",
-      "published_date": "2026-05-14T21:27:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Jalajel announces advanced healthcare readiness for Hajj, with a bed-capacity surpassing 20,000",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661360/saudi-arabia/al-jalajel-announces-advanced-healthcare-readiness-for-hajj-with-a-bed-capacity-surpassing-20000",
-      "published_date": "2026-05-14T16:34:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanese President honors Saudi Envoy Bukhari on completion of his tenure",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661355/saudi-arabia/lebanese-president-honors-saudi-envoy-bukhari-on-completion-of-his-tenure",
-      "published_date": "2026-05-14T14:45:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661492/saudi-arabia/defense-ministry-completes-comprehensive-preparations-for-hajj",
+      "published_date": "2026-05-20T21:03:04+00:00",
+      "category": "Military"
     },
     {
       "title": "British couple on new hunger strike in Iranian jail, family say",
@@ -256,27 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T23:22:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says he 'secretly visited' UAE during war with Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T22:30:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas can survive politically by giving up weapons and armed conflict, peace envoy says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T18:41:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "KACST launches special awards at ISEF 2026 for first time",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661407/saudi-arabia/kacst-launches-special-awards-at-isef-2026-for-first-time",
@@ -303,6 +289,27 @@
       "url": "https://saudigazette.com.sa/article/661348/saudi-arabia/ministry-of-energy-opens-prequalifications-for-cng-distribution-project-competitions",
       "published_date": "2026-05-14T12:46:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK-GCC free trade deal set to boost Saudi-British trade and investment",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661490/saudi-arabia/uk-gcc-free-trade-deal-set-to-boost-saudi-british-trade-and-investment",
+      "published_date": "2026-05-20T20:01:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s non-oil trade surplus with GCC countries reaches SR4.47 billion in February",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661486/saudi-arabia/saudi-arabias-non-oil-trade-surplus-with-gcc-countries-reaches-sr447-billion-in-february",
+      "published_date": "2026-05-20T17:17:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "10.2% rise in Saudi operating revenue index in March",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661481/saudi-arabia/gastat-102-rise-in-saudi-operating-revenue-index-in-march",
+      "published_date": "2026-05-20T14:38:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Deputy finance minister attends 2nd Saudi Arabia-IMF High-Level Strategic Dialogue",
@@ -389,11 +396,67 @@
       "category": "Economy"
     },
     {
-      "title": "HR Ministry detects 168,000 violations during 250,000 inspection visits in 1Q 2026",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T23:28:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commerce Ministry conducts over 42,000 inspection tours in Makkah and Madinah in a month",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661329/saudi-arabia/hr-ministry-detects-168000-violations-during-250000-inspection-visits-in-1q-2026",
-      "published_date": "2026-05-13T15:49:12+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661494/saudi-arabia/commerce-ministry-conducts-over-42000-inspection-tours-in-makkah-and-madinah-in-a-month",
+      "published_date": "2026-05-20T21:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 Egyptians arrested for attempting to enter Makkah without a Hajj permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661493/saudi-arabia/3-egyptians-arrested-for-attempting-to-enter-makkah-without-a-hajj-permit",
+      "published_date": "2026-05-20T21:07:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Al-Rabiah: Saudi Arabia sets global benchmark in crowd management through advanced technology",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661489/saudi-arabia/minister-al-rabiah-saudi-arabia-sets-global-benchmark-in-crowd-management-through-advanced-technology",
+      "published_date": "2026-05-20T20:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sports Boulevard appoints OVG Middle East to operate Global Sports Tower in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661488/saudi-arabia/sports-boulevard-appoints-ovg-middle-east-to-operate-global-sports-tower-in-riyadh",
+      "published_date": "2026-05-20T19:58:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission unearths Abbasid-era gold jewelry in Qassim",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661485/saudi-arabia/heritage-commission-unearths-abbasid-era-gold-jewelry-in-qassim",
+      "published_date": "2026-05-20T16:30:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sheikh Al-Sudais: Arafat Sermon to be translated into 35 languages, broadcast digitally",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661483/saudi-arabia/sheikh-al-sudais-arafat-sermon-to-be-translated-into-35-languages-broadcast-digitally",
+      "published_date": "2026-05-20T15:26:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Al-Jalajel inspects readiness of healthcare facilities at holy sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661482/saudi-arabia/minister-al-jalajel-inspects-readiness-of-healthcare-services-at-holy-sites",
+      "published_date": "2026-05-20T15:05:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four Hajj pilgrims saved after suffering from severe heart attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661480/saudi-arabia/four-hajj-pilgrims-saved-after-suffering-from-severe-heart-attacks",
+      "published_date": "2026-05-20T14:16:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Interior Ministry penalizes 7 persons for transporting 13 pilgrims to Makkah illegally",
@@ -470,69 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661434/saudi-arabia/egyptian-man-and-woman-arrested-over-fake-hajj-services-ads",
       "published_date": "2026-05-18T13:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "15 Arabian Oryx births recorded at Imam Turki Royal Reserve in Q1 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661433/saudi-arabia/15-arabian-oryx-births-recorded-at-imam-turki-royal-reserve-in-q1-2026",
-      "published_date": "2026-05-18T13:33:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Municipalities completes major road, infrastructure upgrades for Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661429/saudi-arabia/ministry-of-municipalities-completes-major-road-infrastructure-upgrades-for-hajj",
-      "published_date": "2026-05-18T12:39:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns attack on UAE&#039;s Barakah nuclear\nplant site",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661421/saudi-arabia/saudi-arabia-strongly-condemns-attack-on-uaes-barakah-nuclear-plant-site",
-      "published_date": "2026-05-17T22:02:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense bans entry and use of gas cylinders at holy sites from Monday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661418/saudi-arabia/civil-defense-bans-entry-and-use-of-gas-cylinders-at-holy-sites-from-monday",
-      "published_date": "2026-05-17T21:05:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi court upholds decision to revoke license of erring Hajj service company",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661416/saudi-arabia/saudi-court-upholds-decision-to-revoke-license-of-erring-hajj-service-company",
-      "published_date": "2026-05-17T17:35:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry penalizes 5 persons for transporting 7 people to Makkah without a Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661415/saudi-arabia/interior-ministry-penalizes-5-persons-for-transporting-7-people-to-makkah-without-a-hajj-permit",
-      "published_date": "2026-05-17T17:25:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand Mufti commences Hajj-related duties in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661413/saudi-arabia/grand-mufti-commences-his-hajj-related-duties-in-makkah",
-      "published_date": "2026-05-17T15:52:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilgrims will start arriving on May 31 as Ministry of Hajj unveils new Umrah season calendar",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661408/saudi-arabia/pilgrims-will-start-arriving-on-may-31-as-ministry-of-hajj-unveils-new-umrah-season-calendar",
-      "published_date": "2026-05-17T12:34:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia warns Hajj visa overstayers of fines, jail, deportation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661406/saudi-arabia/saudi-arabia-warns-hajj-visa-overstayers-of-fines-jail-deportation",
-      "published_date": "2026-05-17T11:32:03+00:00",
       "category": "Local Events"
     }
   ]
