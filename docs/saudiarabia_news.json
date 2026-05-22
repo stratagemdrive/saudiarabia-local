@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-22T00:04:06.434961+00:00",
-  "story_count": 68,
+  "last_updated": "2026-05-22T13:30:07.059735+00:00",
+  "story_count": 70,
   "stories": [
     {
       "title": "Saudi, Syrian foreign ministers discuss regional developments in phone call",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Grand Mosque introduces geographic coding system for columns to improve navigation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661533/saudi-arabia/grand-mosque-launches-geographic-coding-system-for-columns",
+      "published_date": "2026-05-22T11:33:54+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi Arabia condemns terrorist attack on military base in Chad",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661520/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-military-base-in-chad",
@@ -155,6 +162,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661512/saudi-arabia/ncm-launches-ai-powered-weather-forecasts-for-hajj-pilgrims",
       "published_date": "2026-05-21T15:42:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-21T14:37:29+00:00",
       "category": "Military"
     },
     {
@@ -340,6 +354,34 @@
       "category": "Economy"
     },
     {
+      "title": "Interior Minister reviews Hajj security forces’ readiness for pilgrimage season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661535/saudi-arabia/saudi-interior-minister-reviews-hajj-security-readiness-for-2026-season",
+      "published_date": "2026-05-22T11:43:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi weather authority forecasts hot conditions on Hajj routes to Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661534/saudi-arabia/saudi-arabia-forecasts-hot-weather-on-hajj-routes-to-makkah",
+      "published_date": "2026-05-22T11:37:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Okaz General Manager Dr. Walid Qattan passes away at 71",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661532/saudi-arabia/former-okaz-general-manager-dr-walid-qattan-dies-at-71",
+      "published_date": "2026-05-22T11:06:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia begins blocking unauthorized vehicles from entering Hajj sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661523/saudi-arabia/saudi-arabia-blocks-unauthorized-vehicles-from-entering-hajj-sites",
+      "published_date": "2026-05-22T10:43:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Weqaya affirms Saudi Arabia’s readiness to confront Ebola and Hantavirus outbreaks",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661514/saudi-arabia/weqaya-affirms-saudi-arabias-readiness-to-confront-ebola-and-hantavirus-outbreaks",
@@ -449,34 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661463/saudi-arabia/tawakkalna-app-enables-display-of-hajj-permits",
       "published_date": "2026-05-19T20:48:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry launches awareness guide for domestic pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661462/saudi-arabia/hajj-ministry-launches-awareness-guide-for-domestic-pilgrims",
-      "published_date": "2026-05-19T17:41:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-19T17:31:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Expo 2030 Riyadh showcases delivery progress at strategic site walkthrough",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661461/saudi-arabia/expo-2030-riyadh-showcases-delivery-progress-at-strategic-site-walkthrough",
-      "published_date": "2026-05-19T17:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemeni resident arrested for fraudulent Hajj ads in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661458/saudi-arabia/yemeni-resident-arrested-for-fraudulent-hajj-ads-in-riyadh",
-      "published_date": "2026-05-19T15:59:25+00:00",
       "category": "Local Events"
     }
   ]
