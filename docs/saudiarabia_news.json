@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-22T13:30:07.059735+00:00",
-  "story_count": 70,
+  "last_updated": "2026-05-23T00:08:15.169172+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi Arabia bans charging power banks onboard flights",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661542/saudi-arabia/saudi-arabia-updates-airline-rules-for-power-banks-on-flights",
+      "published_date": "2026-05-22T15:54:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Syrian foreign ministers discuss regional developments in phone call",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia deports 11,272 illegal residents in a week",
+      "title": "Saudi Arabia says Hajj will not be exploited as over 1.5 million pilgrims arrive",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661402/saudi-arabia/saudi-arabia-deports-11272-illegal-residents-in-a-week",
-      "published_date": "2026-05-16T18:24:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661543/saudi-arabia/saudi-arabia-says-hajj-will-not-be-politicized-as-15-million-pilgrims-arrive",
+      "published_date": "2026-05-22T18:41:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Grand Mosque introduces geographic coding system for columns to improve navigation",
@@ -270,6 +277,13 @@
       "category": "Energy"
     },
     {
+      "title": "Moody’s affirms Saudi Arabia’s Aa3 rating with stable outlook",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661544/saudi-arabia/moodys-affirms-saudi-arabias-aa3-rating-with-stable-outlook",
+      "published_date": "2026-05-22T22:24:53+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi non-oil exports surge 21.5% in March",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661513/saudi-arabia/saudi-non-oil-exports-surge-215-in-march",
@@ -352,6 +366,13 @@
       "url": "https://saudigazette.com.sa/article/661398/saudi-arabia/saudi-arabia-underscores-importance-of-maritime-security-energy-flows-at-un-meeting",
       "published_date": "2026-05-16T15:08:13+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-22T20:52:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Interior Minister reviews Hajj security forces’ readiness for pilgrimage season",
@@ -484,13 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661464/saudi-arabia/5-malaysians-arrested-for-attempting-to-enter-makkah-without-a-hajj-permit",
       "published_date": "2026-05-19T20:54:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tawakkalna App enables display of Hajj permits",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661463/saudi-arabia/tawakkalna-app-enables-display-of-hajj-permits",
-      "published_date": "2026-05-19T20:48:49+00:00",
       "category": "Local Events"
     }
   ]
