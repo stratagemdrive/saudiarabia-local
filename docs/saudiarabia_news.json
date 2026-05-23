@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-23T11:58:37.503695+00:00",
-  "story_count": 70,
+  "last_updated": "2026-05-23T23:59:12.265782+00:00",
+  "story_count": 69,
   "stories": [
     {
       "title": "Saudi Arabia bans charging power banks onboard flights",
@@ -249,11 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-16T23:10:19+00:00",
-      "category": "Military"
+      "title": "Meticulously engineered shading and cooling systems tend to protect pilgrims from simmering sun at holy sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661554/saudi-arabia/meticulously-engineered-shading-and-cooling-systems-tend-to-protect-pilgrims-from-simmering-sun-at-holy-sites",
+      "published_date": "2026-05-23T16:47:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "KACST launches special awards at ISEF 2026 for first time",
@@ -261,6 +261,20 @@
       "url": "https://saudigazette.com.sa/article/661407/saudi-arabia/kacst-launches-special-awards-at-isef-2026-for-first-time",
       "published_date": "2026-05-17T12:05:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Customs ports record 931 contraband seizures last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661558/saudi-arabia/saudi-customs-ports-record-931-contraband-seizures-last-week",
+      "published_date": "2026-05-23T17:53:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Commerce: Over 243 million essential goods supplied to pilgrims in Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661548/saudi-arabia/ministry-of-commerce-over-243-million-essential-goods-supplied-to-pilgrims-in-makkah",
+      "published_date": "2026-05-23T15:22:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Moody’s affirms Saudi Arabia’s Aa3 rating with stable outlook",
@@ -333,25 +347,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs report 915 contraband seizures at ports last week",
+      "title": "Border Guard arrest 1,158 infiltrators in a week",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661401/saudi-arabia/saudi-customs-report-915-contraband-seizures-at-ports-last-week",
-      "published_date": "2026-05-16T18:18:43+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661559/saudi-arabia/border-guard-arrest-1158-infiltrators-in-a-week",
+      "published_date": "2026-05-23T18:02:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tawakkalna supports pilgrims with 19 languages and 1,300 digital services during Hajj Season",
+      "title": "Saudi, Pakistani interior ministers discuss security cooperation in phone call",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661400/saudi-arabia/tawakkalna-supports-pilgrims-with-19-languages-and-1300-digital-services-during-hajj-season",
-      "published_date": "2026-05-16T17:25:07+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661550/saudi-arabia/saudi-pakistani-interior-ministers-discuss-security-cooperation-in-phone-call",
+      "published_date": "2026-05-23T16:40:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia underscores importance of maritime security, energy flows at UN meeting",
+      "title": "13 persons arrested for attempting to enter Makkah illegally and Hajj fraud",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661398/saudi-arabia/saudi-arabia-underscores-importance-of-maritime-security-energy-flows-at-un-meeting",
-      "published_date": "2026-05-16T15:08:13+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661547/saudi-arabia/13-persons-arrested-for-attempting-to-enter-makkah-illegally-and-hajj-fraud",
+      "published_date": "2026-05-23T14:59:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emir of Makkah reviews operational plans for the upcoming Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661545/saudi-arabia/emir-of-makkah-reviews-operational-plans-for-the-upcoming-hajj",
+      "published_date": "2026-05-23T13:14:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
@@ -463,34 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661483/saudi-arabia/sheikh-al-sudais-arafat-sermon-to-be-translated-into-35-languages-broadcast-digitally",
       "published_date": "2026-05-20T15:26:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Al-Jalajel inspects readiness of healthcare facilities at holy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661482/saudi-arabia/minister-al-jalajel-inspects-readiness-of-healthcare-services-at-holy-sites",
-      "published_date": "2026-05-20T15:05:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Hajj pilgrims saved after suffering from severe heart attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661480/saudi-arabia/four-hajj-pilgrims-saved-after-suffering-from-severe-heart-attacks",
-      "published_date": "2026-05-20T14:16:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry penalizes 7 persons for transporting 13 pilgrims to Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661465/saudi-arabia/interior-ministry-penalizes-7-persons-for-transporting-13-pilgrims-to-makkah-illegally",
-      "published_date": "2026-05-19T21:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 Malaysians arrested for attempting to enter Makkah without a Hajj permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661464/saudi-arabia/5-malaysians-arrested-for-attempting-to-enter-makkah-without-a-hajj-permit",
-      "published_date": "2026-05-19T20:54:12+00:00",
       "category": "Local Events"
     }
   ]
