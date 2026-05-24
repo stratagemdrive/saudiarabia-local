@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-23T23:59:12.265782+00:00",
-  "story_count": 69,
+  "last_updated": "2026-05-24T11:59:25.882064+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Trump says US-Iran deal largely finalized, Hormuz set to reopen",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661560/saudi-arabia/trump-says-us-iran-deal-largely-finalized-hormuz-set-to-reopen",
+      "published_date": "2026-05-24T01:54:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia bans charging power banks onboard flights",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Qatari FMs discuss regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661404/saudi-arabia/saudi-qatari-fms-discuss-regional-security-in-phone-call",
-      "published_date": "2026-05-17T10:37:50+00:00",
-      "category": "Diplomacy"
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T23:24:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia says Hajj will not be exploited as over 1.5 million pilgrims arrive",
@@ -183,6 +190,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661492/saudi-arabia/defense-ministry-completes-comprehensive-preparations-for-hajj",
       "published_date": "2026-05-20T21:03:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T16:36:30+00:00",
       "category": "Military"
     },
     {
