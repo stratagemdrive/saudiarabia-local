@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-25T00:00:25.237376+00:00",
-  "story_count": 68,
+  "last_updated": "2026-05-25T13:57:58.675260+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T01:08:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Absher carries out over 16.5 million electronic transactions in April",
       "source": "Saudi Gazette",
@@ -242,13 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Kuwait condemns drone attack targeting Saudi Arabia from Iraqi airspace",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661428/saudi-arabia/kuwait-condemns-drone-attack-targeting-saudi-arabia-from-iraqi-airspace",
-      "published_date": "2026-05-18T12:39:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Al-Mashair Metro launches first journeys for Hajj",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661582/saudi-arabia/al-mashair-metro-launches-first-journeys-for-hajj",
@@ -333,11 +333,11 @@
       "category": "Economy"
     },
     {
-      "title": "Qiddiya, Google Cloud partner to build AI-powered smart entertainment city",
+      "title": "Over 1.5 million pilgrims descend on Mina, marking official beginning of Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661430/world/qiddiya-google-cloud-partner-to-build-ai-powered-smart-entertainment-city",
-      "published_date": "2026-05-18T12:40:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661596/saudi-arabia/over-15-million-pilgrims-descend-on-mina-marking-official-beginning-of-hajj",
+      "published_date": "2026-05-25T11:34:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia declares full readiness for Hajj as pilgrims prepare to flock to Mina Monday",
@@ -470,13 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661511/saudi-arabia/sheikh-saleh-bin-humaid-saudi-arabias-hajj-experience-represents-a-global-model-in-serving-pilgrims",
       "published_date": "2026-05-21T14:58:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior minister attends closing ceremony of 3rd Hajj Health and Safety Forum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661510/saudi-arabia/interior-minister-attends-closing-ceremony-of-3rd-hajj-health-and-safety-forum",
-      "published_date": "2026-05-21T14:36:56+00:00",
       "category": "Local Events"
     }
   ]
