@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-25T13:57:58.675260+00:00",
-  "story_count": 67,
+  "last_updated": "2026-05-26T00:07:15.344425+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Interior minister reviews preparations for pilgrims&#039; movement to Arafat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661618/saudi-arabia/interior-minister-reviews-preparations-for-pilgrims-movement-to-arafat",
+      "published_date": "2026-05-25T21:21:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How Saudi Arabia's spending spree reached the end of the line",
       "source": "BBC News",
@@ -123,18 +130,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China awards Outstanding Diplomat Medal to Saudi ambassador",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661441/saudi-arabia/china-awards-outstanding-diplomat-medal-to-saudi-ambassador",
-      "published_date": "2026-05-18T20:48:28+00:00",
-      "category": "Diplomacy"
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T20:40:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "5 facilities shut, 130 violations uncovered during inspections of over 1,500 health centers in April",
+      "title": "GCC Chief condemns Hezbollah’s interference in Bahrain’s internal affairs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661439/saudi-arabia/5-facilities-shut-130-violations-uncovered-during-inspections-of-over-1500-health-centers-in-april",
-      "published_date": "2026-05-18T17:16:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661617/saudi-arabia/gcc-chief-condemns-hezbollahs-interference-in-bahrains-internal-affairs",
+      "published_date": "2026-05-25T20:15:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T20:11:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "GACA issues first drone delivery permit for medical services during Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661606/saudi-arabia/gaca-issues-first-drone-delivery-permit-for-medical-services-during-hajj",
+      "published_date": "2026-05-25T14:46:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia condemns terrorist attack in Balochistan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661604/saudi-arabia/saudi-arabia-condemns-terrorist-attack-in-balochistan",
+      "published_date": "2026-05-25T14:00:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Visit times of Rawdah Sharif during Hajj announced",
@@ -221,32 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-18T22:30:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minister of Justice inaugurates unified framework for general courts",
+      "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661440/saudi-arabia/minister-of-justice-inaugurates-unified-framework-for-general-courts",
-      "published_date": "2026-05-18T20:42:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-18T16:16:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arab League and GCC join several countries in condemning drone attack on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661437/saudi-arabia/arab-league-and-gcc-join-several-countries-in-condemning-drone-attack-on-saudi-arabia",
-      "published_date": "2026-05-18T15:43:15+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
+      "published_date": "2026-05-25T17:37:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Al-Mashair Metro launches first journeys for Hajj",
@@ -319,18 +326,53 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Hogail opens Saudi Pavilion at World Urban Forum in Azerbaijan",
+      "title": "Pilgrims complete arrival in Mina, prepare for standing at Arafat",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661442/saudi-arabia/al-hogail-opens-saudi-pavilion-at-world-urban-forum-in-azerbaijan",
-      "published_date": "2026-05-18T20:56:14+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661619/saudi-arabia/pilgrims-complete-arrival-in-mina-prepare-for-standing-at-arafat",
+      "published_date": "2026-05-25T21:25:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia underscores enhancing international economic cooperation amid evolving global challenges",
+      "title": "Minister Al-Jalajel visits field hospital of Ministry of Interior in Arafat",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661436/saudi-arabia/saudi-arabia-underscores-enhancing-international-economic-cooperation-amid-evolving-global-challenges",
-      "published_date": "2026-05-18T14:58:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661615/saudi-arabia/minister-al-jalajel-visits-field-hospital-of-ministry-of-interior-in-arafat",
+      "published_date": "2026-05-25T17:12:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holy Kaaba aligns with sun on Thursday in rare astronomical event",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661614/saudi-arabia/holy-kaaba-aligns-with-sun-on-thursday-in-rare-astronomical-event",
+      "published_date": "2026-05-25T16:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Minister visits operations center to assess Hajj operational preparedness",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661613/saudi-arabia/hajj-minister-visits-operations-center-to-assess-hajj-operational-preparedness",
+      "published_date": "2026-05-25T16:14:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry emphasizes adherence to crowd management procedures at holy sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661612/saudi-arabia/hajj-ministry-emphasizes-adherence-to-crowd-management-procedures-at-holy-sites",
+      "published_date": "2026-05-25T16:05:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "33 expatriates apprehended while attempting to enter Makkah illegally",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661609/saudi-arabia/8-persons-penalized-for-transporting-18-without-hajj-permits",
+      "published_date": "2026-05-25T15:13:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On Day of Tarwiyah, Mina transforms into a global benchmark for crowd management",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661605/saudi-arabia/on-day-of-tarwiyah-mina-transforms-into-a-global-benchmark-for-crowd-management",
+      "published_date": "2026-05-25T14:21:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Over 1.5 million pilgrims descend on Mina, marking official beginning of Hajj",
@@ -421,55 +463,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661545/saudi-arabia/emir-of-makkah-reviews-operational-plans-for-the-upcoming-hajj",
       "published_date": "2026-05-23T13:14:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T20:52:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Minister reviews Hajj security forces’ readiness for pilgrimage season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661535/saudi-arabia/saudi-interior-minister-reviews-hajj-security-readiness-for-2026-season",
-      "published_date": "2026-05-22T11:43:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi weather authority forecasts hot conditions on Hajj routes to Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661534/saudi-arabia/saudi-arabia-forecasts-hot-weather-on-hajj-routes-to-makkah",
-      "published_date": "2026-05-22T11:37:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Okaz General Manager Dr. Walid Qattan passes away at 71",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661532/saudi-arabia/former-okaz-general-manager-dr-walid-qattan-dies-at-71",
-      "published_date": "2026-05-22T11:06:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia begins blocking unauthorized vehicles from entering Hajj sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661523/saudi-arabia/saudi-arabia-blocks-unauthorized-vehicles-from-entering-hajj-sites",
-      "published_date": "2026-05-22T10:43:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weqaya affirms Saudi Arabia’s readiness to confront Ebola and Hantavirus outbreaks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661514/saudi-arabia/weqaya-affirms-saudi-arabias-readiness-to-confront-ebola-and-hantavirus-outbreaks",
-      "published_date": "2026-05-21T17:02:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheikh Saleh bin Humaid: Saudi Arabia&#039;s Hajj experience represents a global model in serving pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661511/saudi-arabia/sheikh-saleh-bin-humaid-saudi-arabias-hajj-experience-represents-a-global-model-in-serving-pilgrims",
-      "published_date": "2026-05-21T14:58:56+00:00",
       "category": "Local Events"
     }
   ]
