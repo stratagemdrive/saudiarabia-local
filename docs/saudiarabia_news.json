@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-26T00:07:15.344425+00:00",
-  "story_count": 66,
+  "last_updated": "2026-05-26T13:52:08.997377+00:00",
+  "story_count": 67,
   "stories": [
     {
       "title": "Interior minister reviews preparations for pilgrims&#039; movement to Arafat",
@@ -128,6 +128,13 @@
       "url": "https://saudigazette.com.sa/article/661454/saudi-arabia/saudi-arabia-vows-unyielding-action-to-safeguard-national-security-and-ensure-safety-of-people",
       "published_date": "2026-05-19T14:42:34+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T09:44:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
@@ -326,6 +333,20 @@
       "category": "Economy"
     },
     {
+      "title": "Ministry of Health advises pilgrims to stay in camps until 4 PM on Day of Arafat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661631/saudi-arabia/ministry-of-health-advises-pilgrims-to-stay-in-camps-until-4-pm-on-day-of-arafat",
+      "published_date": "2026-05-26T11:50:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilgrims converge at Arafat as Hajj reaches its spiritual climax",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661630/saudi-arabia/pilgrims-converge-at-arafat-as-hajj-reaches-its-spiritual-climax",
+      "published_date": "2026-05-26T11:35:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pilgrims complete arrival in Mina, prepare for standing at Arafat",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661619/saudi-arabia/pilgrims-complete-arrival-in-mina-prepare-for-standing-at-arafat",
@@ -449,20 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661550/saudi-arabia/saudi-pakistani-interior-ministers-discuss-security-cooperation-in-phone-call",
       "published_date": "2026-05-23T16:40:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "13 persons arrested for attempting to enter Makkah illegally and Hajj fraud",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661547/saudi-arabia/13-persons-arrested-for-attempting-to-enter-makkah-illegally-and-hajj-fraud",
-      "published_date": "2026-05-23T14:59:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emir of Makkah reviews operational plans for the upcoming Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661545/saudi-arabia/emir-of-makkah-reviews-operational-plans-for-the-upcoming-hajj",
-      "published_date": "2026-05-23T13:14:12+00:00",
       "category": "Local Events"
     }
   ]
