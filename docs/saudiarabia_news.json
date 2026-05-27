@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-27T00:06:31.591860+00:00",
-  "story_count": 70,
+  "last_updated": "2026-05-27T14:25:21.080258+00:00",
+  "story_count": 69,
   "stories": [
     {
       "title": "Lebanese PM and FM laud GCC support for Lebanon&#039;s security and stability",
@@ -130,11 +130,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses ways to improve relations in call with New Zealand, Nepal counterparts",
+      "title": "Pilgrims perform main rituals on 3rd day of Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661479/saudi-arabia/saudi-fm-discusses-ways-to-improve-relations-in-call-with-new-zealand-nepal-counterparts",
-      "published_date": "2026-05-20T13:53:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661664/saudi-arabia/pilgrims-perform-main-rituals-on-3rd-day-of-hajj",
+      "published_date": "2026-05-27T13:31:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T13:15:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T12:27:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Interior minister reviews operations of Special Security Forces and Civil Defense units in Mina",
@@ -256,27 +270,6 @@
       "category": "Military"
     },
     {
-      "title": "NCM launches AI-powered weather forecasts for Hajj pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661512/saudi-arabia/ncm-launches-ai-powered-weather-forecasts-for-hajj-pilgrims",
-      "published_date": "2026-05-21T15:42:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran steps up claim to control Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-21T14:37:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense Ministry completes comprehensive preparations for Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661492/saudi-arabia/defense-ministry-completes-comprehensive-preparations-for-hajj",
-      "published_date": "2026-05-20T21:03:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -352,6 +345,20 @@
       "url": "https://saudigazette.com.sa/article/661481/saudi-arabia/gastat-102-rise-in-saudi-operating-revenue-index-in-march",
       "published_date": "2026-05-20T14:38:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia forecasts temperatures reaching 50°C in Eastern Province",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661659/saudi-arabia/saudi-arabia-forecasts-temperatures-near-50c-in-eastern-province",
+      "published_date": "2026-05-27T11:31:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Salman congratulates Muslims on Eid Al-Adha, prays for pilgrims’ Hajj acceptance",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661658/saudi-arabia/king-salman-congratulates-muslims-on-eid-al-adha-during-hajj",
+      "published_date": "2026-05-27T11:12:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Holy Kaaba aligns with sun in rare astronomical event over Makkah",
@@ -477,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661585/saudi-arabia/temperatures-to-hit-45-on-day-of-tarwiyah-as-ncm-readies-8-stations-to-monitor-extreme-weather-conditions",
       "published_date": "2026-05-24T17:37:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health ministry urges pilgrims to use umbrellas to prevent heat exhaustion, sunstroke",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661584/saudi-arabia/health-ministry-urges-pilgrims-to-use-umbrellas-to-prevent-heat-exhaustion-sunstroke",
-      "published_date": "2026-05-24T17:24:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nusuk Card reflects Saudi Arabia’s leadership in serving pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661583/saudi-arabia/nusuk-card-reflects-saudi-arabias-leadership-in-serving-pilgrims",
-      "published_date": "2026-05-24T16:41:18+00:00",
       "category": "Local Events"
     }
   ]
