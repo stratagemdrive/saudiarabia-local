@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-26T13:52:08.997377+00:00",
-  "story_count": 67,
+  "last_updated": "2026-05-27T00:06:31.591860+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Lebanese PM and FM laud GCC support for Lebanon&#039;s security and stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661649/saudi-arabia/lebanese-pm-and-fm-laud-gcc-support-for-lebanons-security-and-stability",
+      "published_date": "2026-05-26T21:53:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Qatari FMs discuss latest regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661644/saudi-arabia/saudi-qatari-fms-discuss-latest-regional-developments-in-phone-call",
+      "published_date": "2026-05-26T17:23:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia says no normalization with Israel without independent Palestinian state",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661637/saudi-arabia/saudi-source-to-cnn-palestinian-state-is-a-prerequisite-for-any-normalization-with-israel",
+      "published_date": "2026-05-26T13:56:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interior Minister says successful first phase of Hajj plans reflects integrated efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661635/saudi-arabia/saudi-interior-minister-praises-success-of-first-phase-of-hajj-plans",
+      "published_date": "2026-05-26T13:44:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Interior minister reviews preparations for pilgrims&#039; movement to Arafat",
       "source": "Saudi Gazette",
@@ -109,25 +137,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Embassy in China reminds citizens to complete electronic entry card before travel",
+      "title": "Interior minister reviews operations of Special Security Forces and Civil Defense units in Mina",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661457/saudi-arabia/saudi-embassy-in-china-reminds-citizens-to-complete-electronic-entry-card-before-travel",
-      "published_date": "2026-05-19T15:45:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661650/saudi-arabia/interior-minister-reviews-operations-of-special-security-forces-and-civil-defense-units-in-mina",
+      "published_date": "2026-05-26T22:02:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Kuwaiti FMs discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661456/saudi-arabia/saudi-kuwaiti-fms-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-05-19T15:27:17+00:00",
-      "category": "Diplomacy"
+      "title": "Internet starts coming back in Iran after months-long blackout",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T16:38:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia vows unyielding action to safeguard national security and ensure safety of people",
+      "title": "Saudi Arabia records 1.7 million pilgrims for Hajj 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661454/saudi-arabia/saudi-arabia-vows-unyielding-action-to-safeguard-national-security-and-ensure-safety-of-people",
-      "published_date": "2026-05-19T14:42:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661643/saudi-arabia/saudi-arabia-records-17-million-pilgrims-for-hajj-2026",
+      "published_date": "2026-05-26T16:18:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Civil Defense forces beef up safety inspections, field operations across Arafat camps",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661641/saudi-arabia/civil-defense-forces-beef-up-safety-inspections-field-operations-across-arafat-camps",
+      "published_date": "2026-05-26T14:49:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rights group accuses UAE of being transit point for mercenaries on way to Sudan",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T14:37:24+00:00",
+      "category": "Military"
     },
     {
       "title": "US launches new strikes on Iran, targeting missile sites and boats",
@@ -235,27 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-20T16:36:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British couple on new hunger strike in Iranian jail, family say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-20T12:53:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-20T10:42:03+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -275,6 +296,13 @@
       "url": "https://saudigazette.com.sa/article/661554/saudi-arabia/meticulously-engineered-shading-and-cooling-systems-tend-to-protect-pilgrims-from-simmering-sun-at-holy-sites",
       "published_date": "2026-05-23T16:47:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pilgrims settle in Muzdalifah after departing from Arafat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661646/saudi-arabia/pilgrims-settle-in-muzdalifah-after-departing-from-arafat",
+      "published_date": "2026-05-26T18:18:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs ports record 931 contraband seizures last week",
@@ -326,11 +354,39 @@
       "category": "Economy"
     },
     {
-      "title": "Deputy finance minister attends 2nd Saudi Arabia-IMF High-Level Strategic Dialogue",
+      "title": "Holy Kaaba aligns with sun in rare astronomical event over Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661460/saudi-arabia/deputy-finance-minister-attends-2nd-saudi-arabia-imf-high-level-strategic-dialogue",
-      "published_date": "2026-05-19T17:03:10+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661647/saudi-arabia/holy-kaaba-aligns-with-sun-in-rare-astronomical-event-over-makkah",
+      "published_date": "2026-05-26T18:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mashair Metro transports 314,000 pilgrims until Tuesday morning",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661645/saudi-arabia/mashair-metro-transports-314000-pilgrims-until-tuesday-morning",
+      "published_date": "2026-05-26T17:31:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "57 people were arrested for attempting to enter Makkah illegally",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661642/saudi-arabia/57-people-were-arrested-for-attempting-to-enter-makkah-illegally",
+      "published_date": "2026-05-26T15:25:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM urges pilgrims to avoid direct sun exposure amid rising temperatures",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661638/saudi-arabia/ncm-urges-pilgrims-to-avoid-direct-sun-exposure-amid-rising-temperatures",
+      "published_date": "2026-05-26T14:26:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy emir of Makkah says Saudi Arabia will continue enhancing Hajj services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661636/saudi-arabia/deputy-emir-of-makkah-says-saudi-arabia-will-continue-improving-hajj-services",
+      "published_date": "2026-05-26T13:47:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ministry of Health advises pilgrims to stay in camps until 4 PM on Day of Arafat",
@@ -435,41 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661583/saudi-arabia/nusuk-card-reflects-saudi-arabias-leadership-in-serving-pilgrims",
       "published_date": "2026-05-24T16:41:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Media Ministry concludes 3rd Hajj Media Hub with over 13,500 media professionals, visitors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661580/saudi-arabia/media-ministry-concludes-3rd-hajj-media-hub-with-over-13500-media-professionals-visitors",
-      "published_date": "2026-05-24T15:39:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holy sites undergo major environmental transformation with greening, shading and cooling projects",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661579/saudi-arabia/holy-sites-undergo-major-environmental-transformation-with-greening-shading-and-cooling-projects",
-      "published_date": "2026-05-24T15:35:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 Turkish and Yemeni nationals arrested for entering Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661578/saudi-arabia/12-turkish-and-yemeni-nationals-arrested-for-entering-makkah-illegally",
-      "published_date": "2026-05-24T15:09:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard arrest 1,158 infiltrators in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661559/saudi-arabia/border-guard-arrest-1158-infiltrators-in-a-week",
-      "published_date": "2026-05-23T18:02:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, Pakistani interior ministers discuss security cooperation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661550/saudi-arabia/saudi-pakistani-interior-ministers-discuss-security-cooperation-in-phone-call",
-      "published_date": "2026-05-23T16:40:51+00:00",
       "category": "Local Events"
     }
   ]
