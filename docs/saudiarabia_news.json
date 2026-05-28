@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-27T14:25:21.080258+00:00",
-  "story_count": 69,
+  "last_updated": "2026-05-28T00:00:36.232020+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Saudi Arabia provides $150 million in urgent support to Yemen",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661674/saudi-arabia/saudi-arabia-provides-150-million-in-urgent-support-to-yemen",
+      "published_date": "2026-05-27T21:14:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Indian foreign ministers discuss strengthening bilateral relations in Cyprus",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661672/saudi-arabia/saudi-indian-foreign-ministers-discuss-strengthening-bilateral-relations-in-cyprus",
+      "published_date": "2026-05-27T20:37:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanese PM and FM laud GCC support for Lebanon&#039;s security and stability",
       "source": "Saudi Gazette",
@@ -116,18 +130,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM welcomes Trump move to “give diplomacy a chance” to end war, reopen Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661491/saudi-arabia/saudi-fm-welcomes-trump-move-to-give-diplomacy-a-chance-to-end-war-reopen-hormuz",
-      "published_date": "2026-05-20T20:06:20+00:00",
-      "category": "Diplomacy"
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T20:26:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Britain sign deal to support injured children in Gaza",
+      "title": "3 critically ill Saudi citizens airlifted from Egypt",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661487/saudi-arabia/saudi-arabia-britain-sign-deal-to-support-injured-children-in-gaza",
-      "published_date": "2026-05-20T17:23:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661670/saudi-arabia/3-critically-ill-saudi-citizens-airlifted-from-egypt",
+      "published_date": "2026-05-27T17:45:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defense Ministry&#039;s air medical evacuation deploys 4 aircraft to support pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661668/saudi-arabia/defense-ministrys-air-medical-evacuation-deploys-4-aircraft-to-support-pilgrims",
+      "published_date": "2026-05-27T17:10:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Pilgrims perform main rituals on 3rd day of Hajj",
@@ -249,27 +270,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia says Hajj will not be exploited as over 1.5 million pilgrims arrive",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661543/saudi-arabia/saudi-arabia-says-hajj-will-not-be-politicized-as-15-million-pilgrims-arrive",
-      "published_date": "2026-05-22T18:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Grand Mosque introduces geographic coding system for columns to improve navigation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661533/saudi-arabia/grand-mosque-launches-geographic-coding-system-for-columns",
-      "published_date": "2026-05-22T11:33:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia condemns terrorist attack on military base in Chad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661520/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-military-base-in-chad",
-      "published_date": "2026-05-21T21:15:16+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -289,6 +289,13 @@
       "url": "https://saudigazette.com.sa/article/661554/saudi-arabia/meticulously-engineered-shading-and-cooling-systems-tend-to-protect-pilgrims-from-simmering-sun-at-holy-sites",
       "published_date": "2026-05-23T16:47:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pilgrims perform Tawaf Al-Ifadah in spiritual atmosphere",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661665/saudi-arabia/pilgrims-perform-tawaf-al-ifadah-in-spiritual-atmosphere",
+      "published_date": "2026-05-27T13:55:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pilgrims settle in Muzdalifah after departing from Arafat",
@@ -326,25 +333,46 @@
       "category": "Economy"
     },
     {
-      "title": "UK-GCC free trade deal set to boost Saudi-British trade and investment",
+      "title": "Saudi interior minister discusses security cooperation with Pakistani, Iraqi, Lebanese and Kuwaiti counterparts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661490/saudi-arabia/uk-gcc-free-trade-deal-set-to-boost-saudi-british-trade-and-investment",
-      "published_date": "2026-05-20T20:01:48+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661675/saudi-arabia/saudi-interior-minister-discusses-security-cooperation-with-pakistani-iraqi-lebanese-and-kuwaiti-counterparts",
+      "published_date": "2026-05-27T21:45:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia&#039;s non-oil trade surplus with GCC countries reaches SR4.47 billion in February",
+      "title": "Ministry of Health advises pilgrims to care for feet while moving around Mina",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661486/saudi-arabia/saudi-arabias-non-oil-trade-surplus-with-gcc-countries-reaches-sr447-billion-in-february",
-      "published_date": "2026-05-20T17:17:08+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661673/saudi-arabia/ministry-of-health-advises-pilgrims-to-care-for-feet-while-moving-around-mina",
+      "published_date": "2026-05-27T20:44:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "10.2% rise in Saudi operating revenue index in March",
+      "title": "10 violators penalized for transporting 34 persons to Makkah without Hajj permits",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661481/saudi-arabia/gastat-102-rise-in-saudi-operating-revenue-index-in-march",
-      "published_date": "2026-05-20T14:38:38+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661671/saudi-arabia/10-violators-penalized-for-transporting-34-persons-to-makkah-without-hajj-permits",
+      "published_date": "2026-05-27T20:07:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commerce Ministry reports supply of 622 million essential goods at holy sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661669/saudi-arabia/commerce-ministry-reports-supply-of-622-million-essential-goods-at-holy-sites",
+      "published_date": "2026-05-27T17:13:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Ministry urges pilgrims to avoid sharing shaving tools during tahallul to prevent infection",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661667/saudi-arabia/health-ministry-urges-pilgrims-to-avoid-sharing-shaving-tools-during-tahallul-to-prevent-infection",
+      "published_date": "2026-05-27T16:04:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Worshipers throng Two Holy Mosques for Eid prayers as Eid Al-Adha celebrations start in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661666/saudi-arabia/worshipers-throng-two-holy-mosques-for-eid-prayers-as-eid-al-adha-celebrations-start-in-saudi-arabia",
+      "published_date": "2026-05-27T14:40:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia forecasts temperatures reaching 50°C in Eastern Province",
@@ -442,48 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661612/saudi-arabia/hajj-ministry-emphasizes-adherence-to-crowd-management-procedures-at-holy-sites",
       "published_date": "2026-05-25T16:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "33 expatriates apprehended while attempting to enter Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661609/saudi-arabia/8-persons-penalized-for-transporting-18-without-hajj-permits",
-      "published_date": "2026-05-25T15:13:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On Day of Tarwiyah, Mina transforms into a global benchmark for crowd management",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661605/saudi-arabia/on-day-of-tarwiyah-mina-transforms-into-a-global-benchmark-for-crowd-management",
-      "published_date": "2026-05-25T14:21:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 1.5 million pilgrims descend on Mina, marking official beginning of Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661596/saudi-arabia/over-15-million-pilgrims-descend-on-mina-marking-official-beginning-of-hajj",
-      "published_date": "2026-05-25T11:34:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia declares full readiness for Hajj as pilgrims prepare to flock to Mina Monday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661588/saudi-arabia/saudi-arabia-declares-full-readiness-for-hajj-as-pilgrims-prepare-to-flock-to-mina-monday",
-      "published_date": "2026-05-24T21:56:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic foreign ministers condemn Ben-Gvir’s appalling actions against Gaza-bound flotilla activists",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661586/saudi-arabia/islamic-foreign-ministers-condemn-ben-gvirs-appalling-actions-against-gaza-bound-flotilla-participants",
-      "published_date": "2026-05-24T20:38:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperatures to hit 45 ℃ on Day of Tarwiyah as NCM readies 8 stations to monitor extreme weather conditions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661585/saudi-arabia/temperatures-to-hit-45-on-day-of-tarwiyah-as-ncm-readies-8-stations-to-monitor-extreme-weather-conditions",
-      "published_date": "2026-05-24T17:37:09+00:00",
       "category": "Local Events"
     }
   ]
