@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-28T00:00:36.232020+00:00",
-  "story_count": 67,
+  "last_updated": "2026-05-28T14:39:44.881530+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Saudi Crown Prince receives Eid Al-Adha well-wishers in Mina",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661676/saudi-arabia/crown-prince-receives-eid-al-adha-well-wishers-in-mina",
+      "published_date": "2026-05-28T02:09:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia provides $150 million in urgent support to Yemen",
       "source": "Saudi Gazette",
@@ -116,18 +123,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian pilgrimage head praises Saudi efforts to serve pilgrims during meeting with interior minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661509/saudi-arabia/iranian-pilgrimage-head-praises-saudi-efforts-to-serve-pilgrims-during-meeting-with-interior-minister",
-      "published_date": "2026-05-21T14:17:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Portuguese FMs discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661507/saudi-arabia/saudi-portuguese-fms-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-05-21T13:37:46+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T11:52:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel issues evacuation order for swathes of southern Lebanon",
@@ -263,13 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T23:24:03+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -331,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/661513/saudi-arabia/saudi-non-oil-exports-surge-215-in-march",
       "published_date": "2026-05-21T16:04:53+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Pilgrims continue stoning ritual on first day of Tashreeq",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661686/saudi-arabia/pilgrims-continue-stoning-ritual-on-first-day-of-tashreeq",
+      "published_date": "2026-05-28T12:52:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi interior minister discusses security cooperation with Pakistani, Iraqi, Lebanese and Kuwaiti counterparts",
@@ -463,13 +463,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661613/saudi-arabia/hajj-minister-visits-operations-center-to-assess-hajj-operational-preparedness",
       "published_date": "2026-05-25T16:14:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry emphasizes adherence to crowd management procedures at holy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661612/saudi-arabia/hajj-ministry-emphasizes-adherence-to-crowd-management-procedures-at-holy-sites",
-      "published_date": "2026-05-25T16:05:12+00:00",
       "category": "Local Events"
     }
   ]
