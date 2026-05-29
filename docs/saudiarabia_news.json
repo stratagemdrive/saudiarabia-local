@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-28T14:39:44.881530+00:00",
-  "story_count": 66,
+  "last_updated": "2026-05-29T00:12:04.042942+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Yemeni government thanks Saudi Arabia for alleviating suffering of its people",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661701/saudi-arabia/yemeni-government-thanks-saudi-arabia-for-supporting-its-security",
+      "published_date": "2026-05-28T22:18:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince hosts annual Hajj reception in Mina",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661698/saudi-arabia/crown-prince-hosts-annual-hajj-reception-in-mina",
+      "published_date": "2026-05-28T21:31:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM meets with his French, Belgian and Finnish counterparts in Cyprus",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661695/saudi-arabia/saudi-fm-meets-with-his-french-belgian-and-finnish-counterparts-in-cyprus",
+      "published_date": "2026-05-28T17:08:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM attends Informal Meeting of EU Foreign Ministers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661694/saudi-arabia/saudi-fm-attends-informal-meeting-of-eu-foreign-ministers",
+      "published_date": "2026-05-28T16:04:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns missile, drone attacks on Kuwait",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661693/saudi-arabia/saudi-arabia-condemns-missile-drone-attacks-on-kuwait",
+      "published_date": "2026-05-28T15:30:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince mourn death of Abdrabbuh Hadi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661690/saudi-arabia/king-salman-and-crown-prince-mourn-death-of-former-yemeni-president-hadi",
+      "published_date": "2026-05-28T14:17:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince receives Eid Al-Adha well-wishers in Mina",
       "source": "Saudi Gazette",
@@ -102,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Syrian foreign ministers discuss regional developments in phone call",
+      "title": "Saudi Arabia and Syria agree to prevent corruption and combat cross-border corruption crimes",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661522/saudi-arabia/saudi-syrian-foreign-ministers-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-05-21T21:28:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661700/saudi-arabia/saudi-arabia-and-syria-agree-to-prevent-corruption-and-combat-cross-border-corruption-crimes",
+      "published_date": "2026-05-28T22:11:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia denounces explosion near Syrian defense ministry building in Damascus",
+      "title": "Former Yemeni President Abdrabbuh Hadi dies in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661521/saudi-arabia/saudi-arabia-denounces-explosion-near-syrian-defense-ministry-building-in-damascus",
-      "published_date": "2026-05-21T21:23:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi construction cost index rises 2.4% in April",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661515/saudi-arabia/saudi-construction-cost-index-rises-24-in-april",
-      "published_date": "2026-05-21T17:24:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661691/saudi-arabia/former-yemeni-president-abdrabbuh-hadi-dies-in-riyadh",
+      "published_date": "2026-05-28T14:38:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran says it targeted American base after fresh US strikes",
@@ -249,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Visit times of Rawdah Sharif during Hajj announced",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661581/saudi-arabia/visit-times-of-rawdah-sharif-during-hajj-announced",
-      "published_date": "2026-05-24T16:03:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "National Guard minister inspects readiness of forces participating in Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661577/saudi-arabia/national-guard-minister-inspects-readiness-of-forces-participating-in-hajj",
-      "published_date": "2026-05-24T15:05:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -319,11 +340,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi non-oil exports surge 21.5% in March",
+      "title": "Interior Ministry penalizes 12 violators for transporting 43 unauthorized pilgrims to Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661513/saudi-arabia/saudi-non-oil-exports-surge-215-in-march",
-      "published_date": "2026-05-21T16:04:53+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661699/saudi-arabia/interior-ministry-penalizes-12-violators-for-transporting-43-unauthorized-pilgrims-to-makkah",
+      "published_date": "2026-05-28T21:35:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Ministry: No outbreaks of diseases or health threats reported during Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661697/saudi-arabia/health-ministry-no-outbreaks-of-diseases-or-health-threats-reported-during-hajj",
+      "published_date": "2026-05-28T17:44:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passports Directorate deploys teams to identify hospitalized, lost pilgrims during Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661696/saudi-arabia/passports-directorate-deploys-teams-to-identify-hospitalized-lost-pilgrims-during-hajj",
+      "published_date": "2026-05-28T17:19:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pilgrims continue stoning ritual on first day of Tashreeq",
@@ -442,27 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661619/saudi-arabia/pilgrims-complete-arrival-in-mina-prepare-for-standing-at-arafat",
       "published_date": "2026-05-25T21:25:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Al-Jalajel visits field hospital of Ministry of Interior in Arafat",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661615/saudi-arabia/minister-al-jalajel-visits-field-hospital-of-ministry-of-interior-in-arafat",
-      "published_date": "2026-05-25T17:12:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holy Kaaba aligns with sun on Thursday in rare astronomical event",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661614/saudi-arabia/holy-kaaba-aligns-with-sun-on-thursday-in-rare-astronomical-event",
-      "published_date": "2026-05-25T16:43:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Minister visits operations center to assess Hajj operational preparedness",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661613/saudi-arabia/hajj-minister-visits-operations-center-to-assess-hajj-operational-preparedness",
-      "published_date": "2026-05-25T16:14:08+00:00",
       "category": "Local Events"
     }
   ]
