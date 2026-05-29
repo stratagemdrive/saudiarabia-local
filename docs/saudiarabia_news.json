@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-29T00:12:04.042942+00:00",
+  "last_updated": "2026-05-29T13:58:26.330830+00:00",
   "story_count": 68,
   "stories": [
     {
@@ -340,6 +340,20 @@
       "category": "Economy"
     },
     {
+      "title": "Deputy emir of Makkah announces success of Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661710/saudi-arabia/deputy-emir-of-makkah-announces-success-of-hajj-2026",
+      "published_date": "2026-05-29T13:22:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilgrims in a hurry leave Mina after performing Hajj rituals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661709/saudi-arabia/pilgrims-in-a-hurry-leave-mina-after-performing-hajj-rituals",
+      "published_date": "2026-05-29T13:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Interior Ministry penalizes 12 violators for transporting 43 unauthorized pilgrims to Makkah",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661699/saudi-arabia/interior-ministry-penalizes-12-violators-for-transporting-43-unauthorized-pilgrims-to-makkah",
@@ -463,20 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661631/saudi-arabia/ministry-of-health-advises-pilgrims-to-stay-in-camps-until-4-pm-on-day-of-arafat",
       "published_date": "2026-05-26T11:50:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilgrims converge at Arafat as Hajj reaches its spiritual climax",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661630/saudi-arabia/pilgrims-converge-at-arafat-as-hajj-reaches-its-spiritual-climax",
-      "published_date": "2026-05-26T11:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilgrims complete arrival in Mina, prepare for standing at Arafat",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661619/saudi-arabia/pilgrims-complete-arrival-in-mina-prepare-for-standing-at-arafat",
-      "published_date": "2026-05-25T21:25:07+00:00",
       "category": "Local Events"
     }
   ]
