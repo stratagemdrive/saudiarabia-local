@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-29T13:58:26.330830+00:00",
-  "story_count": 68,
+  "last_updated": "2026-05-30T00:10:43.938713+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Arab and Gulf leaders congratulate King Salman and Crown Prince on resounding success of Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661724/saudi-arabia/arab-and-gulf-leaders-congratulate-king-salman-and-crown-prince-on-resounding-success-of-hajj",
+      "published_date": "2026-05-29T17:47:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince discusses prospects of cooperation with Chad president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661721/saudi-arabia/saudi-crown-prince-discusses-prospects-of-cooperation-with-chad-president",
+      "published_date": "2026-05-29T16:06:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Makkah deputy emir hands over new Kiswa to Kaaba’s gatekeeper",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661720/saudi-arabia/makkah-deputy-emir-hands-over-new-kiswa-to-kaabas-gatekeeper",
+      "published_date": "2026-05-29T15:49:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Yemeni government thanks Saudi Arabia for alleviating suffering of its people",
       "source": "Saudi Gazette",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Crown Prince joins Muslim leaders in phone call with Trump to discuss efforts for regional de-escalation",
+      "title": "Madinah welcomes first groups of Hajj pilgrims arriving from Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661575/saudi-arabia/saudi-crown-prince-joins-muslim-leaders-in-phone-call-with-trump-to-discuss-efforts-for-regional-de-escalation",
-      "published_date": "2026-05-24T13:56:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661725/saudi-arabia/madinah-welcomes-first-groups-of-hajj-pilgrims-arriving-from-makkah",
+      "published_date": "2026-05-29T20:53:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says US-Iran deal largely finalized, Hormuz set to reopen",
+      "title": "Civil Defense Command and Control Center deploys drones, geospatial tech for Hajj safety",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661560/saudi-arabia/trump-says-us-iran-deal-largely-finalized-hormuz-set-to-reopen",
-      "published_date": "2026-05-24T01:54:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661718/saudi-arabia/civil-defense-command-and-control-center-deploys-drones-geospatial-tech-for-hajj-safety",
+      "published_date": "2026-05-29T14:34:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia bans charging power banks onboard flights",
+      "title": "Early departing pilgrims complete Farewell Tawaf in Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661542/saudi-arabia/saudi-arabia-updates-airline-rules-for-power-banks-on-flights",
-      "published_date": "2026-05-22T15:54:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661711/saudi-arabia/early-departing-pilgrims-complete-farewell-tawaf-in-makkah",
+      "published_date": "2026-05-29T13:53:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia and Syria agree to prevent corruption and combat cross-border corruption crimes",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T20:11:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GACA issues first drone delivery permit for medical services during Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661606/saudi-arabia/gaca-issues-first-drone-delivery-permit-for-medical-services-during-hajj",
-      "published_date": "2026-05-25T14:46:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia condemns terrorist attack in Balochistan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661604/saudi-arabia/saudi-arabia-condemns-terrorist-attack-in-balochistan",
-      "published_date": "2026-05-25T14:00:01+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -333,11 +333,39 @@
       "category": "Economy"
     },
     {
-      "title": "Moody’s affirms Saudi Arabia’s Aa3 rating with stable outlook",
+      "title": "Syrian interior minister lauds efficient crowd management in Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661544/saudi-arabia/moodys-affirms-saudi-arabias-aa3-rating-with-stable-outlook",
-      "published_date": "2026-05-22T22:24:53+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661726/saudi-arabia/syrian-interior-minister-lauds-efficient-crowd-management-in-hajj",
+      "published_date": "2026-05-29T21:06:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Al-Rabiah discusses with officials of Hajj companies early preparations for next Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661723/saudi-arabia/minister-al-rabiah-discusses-with-officials-of-hajj-companies-early-preparations-for-next-hajj",
+      "published_date": "2026-05-29T17:22:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young woman pilgrim, in critical condition, airlifted to Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661722/saudi-arabia/young-woman-pilgrim-in-critical-condition-airlifted-to-jeddah",
+      "published_date": "2026-05-29T16:46:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah deputy emir meets with Hajj and transport ministers to review operational plans",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661719/saudi-arabia/makkah-deputy-emir-meets-with-hajj-and-transport-ministers-to-review-operational-plans",
+      "published_date": "2026-05-29T15:21:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah Grand Mosque imam highlights transformation as true sign of accepted Hajj",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661717/saudi-arabia/makkah-grand-mosque-imam-highlights-transformation-as-true-sign-of-accepted-hajj",
+      "published_date": "2026-05-29T14:19:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deputy emir of Makkah announces success of Hajj",
@@ -442,41 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661647/saudi-arabia/holy-kaaba-aligns-with-sun-in-rare-astronomical-event-over-makkah",
       "published_date": "2026-05-26T18:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mashair Metro transports 314,000 pilgrims until Tuesday morning",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661645/saudi-arabia/mashair-metro-transports-314000-pilgrims-until-tuesday-morning",
-      "published_date": "2026-05-26T17:31:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "57 people were arrested for attempting to enter Makkah illegally",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661642/saudi-arabia/57-people-were-arrested-for-attempting-to-enter-makkah-illegally",
-      "published_date": "2026-05-26T15:25:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM urges pilgrims to avoid direct sun exposure amid rising temperatures",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661638/saudi-arabia/ncm-urges-pilgrims-to-avoid-direct-sun-exposure-amid-rising-temperatures",
-      "published_date": "2026-05-26T14:26:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy emir of Makkah says Saudi Arabia will continue enhancing Hajj services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661636/saudi-arabia/deputy-emir-of-makkah-says-saudi-arabia-will-continue-improving-hajj-services",
-      "published_date": "2026-05-26T13:47:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Health advises pilgrims to stay in camps until 4 PM on Day of Arafat",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661631/saudi-arabia/ministry-of-health-advises-pilgrims-to-stay-in-camps-until-4-pm-on-day-of-arafat",
-      "published_date": "2026-05-26T11:50:30+00:00",
       "category": "Local Events"
     }
   ]
