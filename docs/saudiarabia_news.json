@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-30T00:10:43.938713+00:00",
-  "story_count": 67,
+  "last_updated": "2026-05-30T12:03:57.445635+00:00",
+  "story_count": 68,
   "stories": [
     {
       "title": "Arab and Gulf leaders congratulate King Salman and Crown Prince on resounding success of Hajj",
@@ -151,6 +151,13 @@
       "category": "Military"
     },
     {
+      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-29T18:41:36+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Civil Defense Command and Control Center deploys drones, geospatial tech for Hajj safety",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661718/saudi-arabia/civil-defense-command-and-control-center-deploys-drones-geospatial-tech-for-hajj-safety",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "GCC Chief condemns Hezbollah’s interference in Bahrain’s internal affairs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661617/saudi-arabia/gcc-chief-condemns-hezbollahs-interference-in-bahrains-internal-affairs",
-      "published_date": "2026-05-25T20:15:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/661554/saudi-arabia/meticulously-engineered-shading-and-cooling-systems-tend-to-protect-pilgrims-from-simmering-sun-at-holy-sites",
       "published_date": "2026-05-23T16:47:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia launches Guest of Honor pavilion at Kuala Lumpur International Book Fair",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661727/saudi-arabia/saudi-arabia-launches-guest-of-honor-pavilion-at-kuala-lumpur-international-book-fair",
+      "published_date": "2026-05-30T04:33:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pilgrims perform Tawaf Al-Ifadah in spiritual atmosphere",
