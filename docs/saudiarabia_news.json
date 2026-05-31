@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-30T12:03:57.445635+00:00",
-  "story_count": 68,
+  "last_updated": "2026-05-31T00:02:33.555330+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 7,466 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661746/saudi-arabia/saudi-arabia-deports-7466-illegal-residents-in-a-week",
+      "published_date": "2026-05-30T17:26:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Defense Minister conveys Saudi leadership’s condolences on death of former Yemeni President Hadi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661745/saudi-arabia/defense-minister-conveys-saudi-leaderships-condolences-on-death-of-former-yemeni-president-hadi",
+      "published_date": "2026-05-30T17:18:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia plans project to cool Riyadh streets and buildings by up to 15°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661741/saudi-arabia/saudi-arabia-plans-riyadh-cooling-project-to-cut-street-temperatures-by-up-to-15c",
+      "published_date": "2026-05-30T14:21:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Arab and Gulf leaders congratulate King Salman and Crown Prince on resounding success of Hajj",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T01:08:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Absher carries out over 16.5 million electronic transactions in April",
+      "title": "Interior Minister affirms no incidents disrupting Hajj reported",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661587/saudi-arabia/absher-carries-out-over-165-million-electronic-transactions-in-april",
-      "published_date": "2026-05-24T20:50:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia and 18 Muslim countries condemn Somaliland’s opening of purported embassy in Jerusalem",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661576/saudi-arabia/saudi-arabia-and-18-muslim-countries-condemn-somalilands-opening-of-purported-embassy-in-jerusalem",
-      "published_date": "2026-05-24T14:17:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661742/saudi-arabia/interior-minister-affirms-no-incidents-disrupting-hajj-reported",
+      "published_date": "2026-05-30T15:11:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Madinah welcomes first groups of Hajj pilgrims arriving from Makkah",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T20:40:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
@@ -298,11 +298,11 @@
       "category": "Energy"
     },
     {
-      "title": "Meticulously engineered shading and cooling systems tend to protect pilgrims from simmering sun at holy sites",
+      "title": "SAR transports over 1.9 million pilgrims on Mashair Metro during Hajj",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661554/saudi-arabia/meticulously-engineered-shading-and-cooling-systems-tend-to-protect-pilgrims-from-simmering-sun-at-holy-sites",
-      "published_date": "2026-05-23T16:47:14+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/661751/saudi-arabia/sar-transports-over-19-million-pilgrims-on-mashair-metro-during-hajj",
+      "published_date": "2026-05-30T21:07:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia launches Guest of Honor pavilion at Kuala Lumpur International Book Fair",
@@ -326,18 +326,46 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs ports record 931 contraband seizures last week",
+      "title": "Ministry of Health provides over 2.5 million services during Hajj season",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661558/saudi-arabia/saudi-customs-ports-record-931-contraband-seizures-last-week",
-      "published_date": "2026-05-23T17:53:47+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661752/saudi-arabia/ministry-of-health-provides-over-25-million-services-during-hajj-season",
+      "published_date": "2026-05-30T21:15:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ministry of Commerce: Over 243 million essential goods supplied to pilgrims in Makkah",
+      "title": "In major overhaul, Hajj Ministry introduces 3 enhanced package categories and scrapping Package D",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661548/saudi-arabia/ministry-of-commerce-over-243-million-essential-goods-supplied-to-pilgrims-in-makkah",
-      "published_date": "2026-05-23T15:22:47+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661750/saudi-arabia/in-major-overhaul-hajj-ministry-introduces-3-enhanced-package-categories-and-scrapping-package-d",
+      "published_date": "2026-05-30T20:11:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Specialized municipal teams carry out over 38,000 inspection visits in Makkah and holy sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661744/saudi-arabia/specialized-municipal-teams-carry-out-over-38000-inspection-visits-in-makkah-and-holy-sites",
+      "published_date": "2026-05-30T16:06:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passports Department at Jeddah airport swings into processing departure of Hajj pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661743/saudi-arabia/passports-department-at-jeddah-airport-swings-into-processing-departure-of-hajj-pilgrims",
+      "published_date": "2026-05-30T15:39:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj 2026 concludes successfully with no cases of epidemics or health threats",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661740/saudi-arabia/hajj-2026-concludes-successfully-with-no-cases-of-epidemics-or-health-threats",
+      "published_date": "2026-05-30T14:20:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilgrims leave Mina after 4th day&#039;s stoning as Hajj comes to an end officially",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661739/saudi-arabia/pilgrims-leave-mina-after-4th-days-stoning-as-hajj-comes-to-an-end-officially",
+      "published_date": "2026-05-30T13:44:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian interior minister lauds efficient crowd management in Hajj",
@@ -435,48 +463,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661671/saudi-arabia/10-violators-penalized-for-transporting-34-persons-to-makkah-without-hajj-permits",
       "published_date": "2026-05-27T20:07:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerce Ministry reports supply of 622 million essential goods at holy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661669/saudi-arabia/commerce-ministry-reports-supply-of-622-million-essential-goods-at-holy-sites",
-      "published_date": "2026-05-27T17:13:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Ministry urges pilgrims to avoid sharing shaving tools during tahallul to prevent infection",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661667/saudi-arabia/health-ministry-urges-pilgrims-to-avoid-sharing-shaving-tools-during-tahallul-to-prevent-infection",
-      "published_date": "2026-05-27T16:04:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Worshipers throng Two Holy Mosques for Eid prayers as Eid Al-Adha celebrations start in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661666/saudi-arabia/worshipers-throng-two-holy-mosques-for-eid-prayers-as-eid-al-adha-celebrations-start-in-saudi-arabia",
-      "published_date": "2026-05-27T14:40:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts temperatures reaching 50°C in Eastern Province",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661659/saudi-arabia/saudi-arabia-forecasts-temperatures-near-50c-in-eastern-province",
-      "published_date": "2026-05-27T11:31:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Salman congratulates Muslims on Eid Al-Adha, prays for pilgrims’ Hajj acceptance",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661658/saudi-arabia/king-salman-congratulates-muslims-on-eid-al-adha-during-hajj",
-      "published_date": "2026-05-27T11:12:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holy Kaaba aligns with sun in rare astronomical event over Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661647/saudi-arabia/holy-kaaba-aligns-with-sun-in-rare-astronomical-event-over-makkah",
-      "published_date": "2026-05-26T18:30:18+00:00",
       "category": "Local Events"
     }
   ]
