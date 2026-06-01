@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-05-31T12:10:08.136029+00:00",
-  "story_count": 66,
+  "last_updated": "2026-06-01T00:06:48.368526+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Harvard hosts graduation ceremony of 70 Saudi students from US universities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661770/saudi-arabia/harvard-hosts-graduation-ceremony-of-70-saudi-students-from-us-universities",
+      "published_date": "2026-05-31T20:33:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, French president discuss enhancing regional security in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661765/saudi-arabia/saudi-crown-prince-french-president-discuss-enhancing-regional-security-in-phone-call",
+      "published_date": "2026-05-31T15:27:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 7,466 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Interior Minister says successful first phase of Hajj plans reflects integrated efforts",
+      "title": "Saudi Arabia sets global benchmark in pilgrim health protection, says WHO",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661635/saudi-arabia/saudi-interior-minister-praises-success-of-first-phase-of-hajj-plans",
-      "published_date": "2026-05-26T13:44:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Interior minister reviews preparations for pilgrims&#039; movement to Arafat",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661618/saudi-arabia/interior-minister-reviews-preparations-for-pilgrims-movement-to-arafat",
-      "published_date": "2026-05-25T21:21:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661771/saudi-arabia/saudi-arabia-sets-global-benchmark-in-pilgrim-health-protection-says-who",
+      "published_date": "2026-05-31T20:55:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Interior Minister affirms no incidents disrupting Hajj reported",
@@ -263,24 +270,17 @@
       "category": "Military"
     },
     {
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T15:04:45+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Civil Defense forces beef up safety inspections, field operations across Arafat camps",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661641/saudi-arabia/civil-defense-forces-beef-up-safety-inspections-field-operations-across-arafat-camps",
       "published_date": "2026-05-26T14:49:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights group accuses UAE of being transit point for mercenaries on way to Sudan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T14:37:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T10:48:55+00:00",
       "category": "Military"
     },
     {
@@ -291,11 +291,18 @@
       "category": "Energy"
     },
     {
-      "title": "Al-Mashair Metro launches first journeys for Hajj",
+      "title": "Saudi wholesale and retail trade revenues record 7.3% growth in Q1 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661582/saudi-arabia/al-mashair-metro-launches-first-journeys-for-hajj",
-      "published_date": "2026-05-24T16:07:00+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/661768/saudi-arabia/saudi-wholesale-and-retail-trade-revenues-record-73-growth-in-q1-2026",
+      "published_date": "2026-05-31T16:57:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Commerce intensifies inspections in Madinah amid pilgrim arrivals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661760/saudi-arabia/ministry-of-commerce-intensifies-inspections-in-madinah-amid-pilgrim-arrivals",
+      "published_date": "2026-05-31T13:05:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "SAR transports over 1.9 million pilgrims on Mashair Metro during Hajj",
@@ -324,6 +331,27 @@
       "url": "https://saudigazette.com.sa/article/661646/saudi-arabia/pilgrims-settle-in-muzdalifah-after-departing-from-arafat",
       "published_date": "2026-05-26T18:18:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Hajj minister urges pilgrims to share feedback to enhance future Hajj seasons",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661769/saudi-arabia/hajj-minister-urges-pilgrims-to-share-feedback-to-enhance-future-hajj-seasons",
+      "published_date": "2026-05-31T17:38:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi non-oil exports surge 19% in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661764/saudi-arabia/saudi-non-oil-exports-surge-19-in-2025",
+      "published_date": "2026-05-31T14:49:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia starts issuing Umrah visas for the new season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661762/saudi-arabia/saudi-arabia-starts-issuing-umrah-visas-for-the-new-season",
+      "published_date": "2026-05-31T13:56:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ministry of Health provides over 2.5 million services during Hajj season",
@@ -442,27 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661686/saudi-arabia/pilgrims-continue-stoning-ritual-on-first-day-of-tashreeq",
       "published_date": "2026-05-28T12:52:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi interior minister discusses security cooperation with Pakistani, Iraqi, Lebanese and Kuwaiti counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661675/saudi-arabia/saudi-interior-minister-discusses-security-cooperation-with-pakistani-iraqi-lebanese-and-kuwaiti-counterparts",
-      "published_date": "2026-05-27T21:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Health advises pilgrims to care for feet while moving around Mina",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661673/saudi-arabia/ministry-of-health-advises-pilgrims-to-care-for-feet-while-moving-around-mina",
-      "published_date": "2026-05-27T20:44:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 violators penalized for transporting 34 persons to Makkah without Hajj permits",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661671/saudi-arabia/10-violators-penalized-for-transporting-34-persons-to-makkah-without-hajj-permits",
-      "published_date": "2026-05-27T20:07:47+00:00",
       "category": "Local Events"
     }
   ]
