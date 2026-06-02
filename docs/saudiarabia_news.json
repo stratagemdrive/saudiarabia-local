@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-01T16:35:14.540793+00:00",
+  "last_updated": "2026-06-02T00:14:31.238186+00:00",
   "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Crown Prince calls son of former Yemeni President Hadi to offer condolences",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661790/saudi-arabia/saudi-crown-prince-calls-son-of-former-yemeni-president-hadi-to-offer-condolences",
+      "published_date": "2026-06-01T16:51:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia implements 70% localization in procurement professions, starting Sunday",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Indian foreign ministers discuss strengthening bilateral relations in Cyprus",
+      "title": "Civil Defense begins early planning for Hajj 2027",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661672/saudi-arabia/saudi-indian-foreign-ministers-discuss-strengthening-bilateral-relations-in-cyprus",
-      "published_date": "2026-05-27T20:37:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661792/saudi-arabia/civil-defense-begins-early-planning-for-hajj-2027",
+      "published_date": "2026-06-01T17:31:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
@@ -277,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T12:27:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NCM: Mina records 45°C on Tarwiyah Day; similar temperatures expected in Arafat on Tuesday",
+      "title": "SAMA mandates advance notification of investment rounds by financing companies",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661616/saudi-arabia/ncm-mina-records-45c-on-tarwiyah-day-similar-temperatures-expected-in-arafat-on-tuesday",
-      "published_date": "2026-05-25T17:37:27+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/661793/saudi-arabia/sama-mandates-advance-notification-of-investment-rounds-by-financing-companies",
+      "published_date": "2026-06-01T20:23:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Six development sites worth SR13.3 billion awarded in Makkah",
@@ -338,6 +338,20 @@
       "url": "https://saudigazette.com.sa/article/661646/saudi-arabia/pilgrims-settle-in-muzdalifah-after-departing-from-arafat",
       "published_date": "2026-05-26T18:18:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Iranian pilgrims begin returning from Saudi Arabia by air",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661794/saudi-arabia/iranian-pilgrims-begin-returning-from-saudi-arabia-by-air",
+      "published_date": "2026-06-01T21:12:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia calls for global intervention to halt Israeli aggression on Lebanon",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661791/saudi-arabia/saudi-arabia-calls-for-global-intervention-to-halt-israeli-aggression-on-lebanon",
+      "published_date": "2026-06-01T17:10:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nazaha arrests 160 government employees over corruption charges",
@@ -463,20 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661709/saudi-arabia/pilgrims-in-a-hurry-leave-mina-after-performing-hajj-rituals",
       "published_date": "2026-05-29T13:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry penalizes 12 violators for transporting 43 unauthorized pilgrims to Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661699/saudi-arabia/interior-ministry-penalizes-12-violators-for-transporting-43-unauthorized-pilgrims-to-makkah",
-      "published_date": "2026-05-28T21:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Ministry: No outbreaks of diseases or health threats reported during Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661697/saudi-arabia/health-ministry-no-outbreaks-of-diseases-or-health-threats-reported-during-hajj",
-      "published_date": "2026-05-28T17:44:34+00:00",
       "category": "Local Events"
     }
   ]
