@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-02T00:14:31.238186+00:00",
-  "story_count": 68,
+  "last_updated": "2026-06-02T14:51:26.580654+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Beyond Hajj: Saudi Arabia’s key global achievements in May 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661805/saudi-arabia/beyond-hajj-saudi-arabias-key-global-achievements-in-may-2026",
+      "published_date": "2026-06-02T12:41:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince calls son of former Yemeni President Hadi to offer condolences",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia provides $150 million in urgent support to Yemen",
+      "title": "First group of pilgrims departs Kingdom via New Arar Border Crossing",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661674/saudi-arabia/saudi-arabia-provides-150-million-in-urgent-support-to-yemen",
-      "published_date": "2026-05-27T21:14:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661802/saudi-arabia/first-group-of-pilgrims-departs-kingdom-via-new-arar-border-crossing",
+      "published_date": "2026-06-02T11:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia urges international cooperation to combat small arms trafficking",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661801/saudi-arabia/saudi-arabia-urges-international-cooperation-to-combat-small-arms-trafficking",
+      "published_date": "2026-06-02T11:30:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-01T21:50:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Civil Defense begins early planning for Hajj 2027",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Defense Ministry&#039;s air medical evacuation deploys 4 aircraft to support pilgrims",
+      "title": "SAMA directive: Only Taqeem-licensed appraisals determine total loss for leased vehicles",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661668/saudi-arabia/defense-ministrys-air-medical-evacuation-deploys-4-aircraft-to-support-pilgrims",
-      "published_date": "2026-05-27T17:10:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pilgrims perform main rituals on 3rd day of Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661664/saudi-arabia/pilgrims-perform-main-rituals-on-3rd-day-of-hajj",
-      "published_date": "2026-05-27T13:31:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T13:15:26+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/661809/saudi-arabia/sama-directive-only-taqeem-licensed-appraisals-determine-total-loss-for-leased-vehicles",
+      "published_date": "2026-06-02T14:23:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "SAMA mandates advance notification of investment rounds by financing companies",
@@ -338,6 +345,13 @@
       "url": "https://saudigazette.com.sa/article/661646/saudi-arabia/pilgrims-settle-in-muzdalifah-after-departing-from-arafat",
       "published_date": "2026-05-26T18:18:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Just 12 days before exams, 6.5 million students return to classrooms across Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661808/saudi-arabia/just-12-days-before-exams-65-million-students-return-to-classrooms-across-saudi-arabia",
+      "published_date": "2026-06-02T13:46:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iranian pilgrims begin returning from Saudi Arabia by air",
@@ -470,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661710/saudi-arabia/deputy-emir-of-makkah-announces-success-of-hajj-2026",
       "published_date": "2026-05-29T13:22:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilgrims in a hurry leave Mina after performing Hajj rituals",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661709/saudi-arabia/pilgrims-in-a-hurry-leave-mina-after-performing-hajj-rituals",
-      "published_date": "2026-05-29T13:07:13+00:00",
       "category": "Local Events"
     }
   ]
