@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-02T14:51:26.580654+00:00",
-  "story_count": 69,
+  "last_updated": "2026-06-03T00:27:51.514280+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Arabia and 7 other Muslim countries condemn Israeli settlers’ incursions into Al-Aqsa Mosque",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661817/saudi-arabia/saudi-arabia-and-7-other-muslim-countries-condemn-israeli-settlers-incursions-into-al-aqsa-mosque",
+      "published_date": "2026-06-02T16:45:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister receives message from Russian counterpart",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661811/saudi-arabia/saudi-foreign-minister-receives-message-from-russian-counterpart",
+      "published_date": "2026-06-02T15:58:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Beyond Hajj: Saudi Arabia’s key global achievements in May 2026",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661693/saudi-arabia/saudi-arabia-condemns-missile-drone-attacks-on-kuwait",
       "published_date": "2026-05-28T15:30:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince mourn death of Abdrabbuh Hadi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661690/saudi-arabia/king-salman-and-crown-prince-mourn-death-of-former-yemeni-president-hadi",
-      "published_date": "2026-05-28T14:17:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince receives Eid Al-Adha well-wishers in Mina",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661676/saudi-arabia/crown-prince-receives-eid-al-adha-well-wishers-in-mina",
-      "published_date": "2026-05-28T02:09:58+00:00",
       "category": "Diplomacy"
     },
     {
@@ -340,11 +340,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pilgrims settle in Muzdalifah after departing from Arafat",
+      "title": "King Salman and Crown Prince commend exceptional dedication in serving Hajj pilgrims",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661646/saudi-arabia/pilgrims-settle-in-muzdalifah-after-departing-from-arafat",
-      "published_date": "2026-05-26T18:18:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661820/saudi-arabia/king-salman-and-crown-prince-commend-exceptional-dedication-in-serving-hajj-pilgrims",
+      "published_date": "2026-06-02T20:57:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Red Crescent ensures round-the-clock emergency care for pilgrims in Madinah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661819/saudi-arabia/saudi-red-crescent-ensures-round-the-clock-emergency-care-for-pilgrims-in-madinah",
+      "published_date": "2026-06-02T17:48:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One arrested in Taif after seizure of huge cache of drugs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661810/saudi-arabia/one-arrested-in-taif-after-seizure-of-huge-cache-of-drugs",
+      "published_date": "2026-06-02T15:31:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Just 12 days before exams, 6.5 million students return to classrooms across Saudi Arabia",
@@ -463,27 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661722/saudi-arabia/young-woman-pilgrim-in-critical-condition-airlifted-to-jeddah",
       "published_date": "2026-05-29T16:46:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah deputy emir meets with Hajj and transport ministers to review operational plans",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661719/saudi-arabia/makkah-deputy-emir-meets-with-hajj-and-transport-ministers-to-review-operational-plans",
-      "published_date": "2026-05-29T15:21:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Grand Mosque imam highlights transformation as true sign of accepted Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661717/saudi-arabia/makkah-grand-mosque-imam-highlights-transformation-as-true-sign-of-accepted-hajj",
-      "published_date": "2026-05-29T14:19:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy emir of Makkah announces success of Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661710/saudi-arabia/deputy-emir-of-makkah-announces-success-of-hajj-2026",
-      "published_date": "2026-05-29T13:22:23+00:00",
       "category": "Local Events"
     }
   ]
