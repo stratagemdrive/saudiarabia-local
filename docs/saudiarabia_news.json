@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-03T00:27:51.514280+00:00",
-  "story_count": 68,
+  "last_updated": "2026-06-03T15:26:20.702696+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "South Korean foreign minister emphasizes improving bilateral ties with Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661843/saudi-arabia/south-korean-foreign-minister-emphasizes-improving-bilateral-ties-with-saudi-arabia",
+      "published_date": "2026-06-03T14:33:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Khereiji visits Yemen embassy to offer condolences on the death of former President Hadi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661839/saudi-arabia/al-khereiji-visits-yemen-embassy-to-offer-condolences-on-the-death-of-former-president-hadi",
+      "published_date": "2026-06-03T13:27:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC chief condemns Iran’s continued aggression, calling it dangerous escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661836/saudi-arabia/gcc-chief-condemns-irans-continued-aggression-calling-it-dangerous-escalation",
+      "published_date": "2026-06-03T13:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia slams brutal Iranian aggression on Kuwait and Bahrain",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661834/saudi-arabia/saudi-arabia-slams-brutal-iranian-aggression-on-kuwait-and-bahrain",
+      "published_date": "2026-06-03T12:45:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh launches flexible working hours for over 50 government entities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661828/saudi-arabia/riyadh-launches-flexible-working-hours-for-over-50-government-entities",
+      "published_date": "2026-06-03T11:27:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Qatari FMs reaffirm coordination on regional issues in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661826/saudi-arabia/saudi-qatari-fms-reaffirm-coordination-on-regional-issues-in-phone-call",
+      "published_date": "2026-06-03T10:36:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia and 7 other Muslim countries condemn Israeli settlers’ incursions into Al-Aqsa Mosque",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Makkah deputy emir hands over new Kiswa to Kaaba’s gatekeeper",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661720/saudi-arabia/makkah-deputy-emir-hands-over-new-kiswa-to-kaabas-gatekeeper",
-      "published_date": "2026-05-29T15:49:58+00:00",
-      "category": "Diplomacy"
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T14:02:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Yemeni government thanks Saudi Arabia for alleviating suffering of its people",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661701/saudi-arabia/yemeni-government-thanks-saudi-arabia-for-supporting-its-security",
-      "published_date": "2026-05-28T22:18:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince hosts annual Hajj reception in Mina",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661698/saudi-arabia/crown-prince-hosts-annual-hajj-reception-in-mina",
-      "published_date": "2026-05-28T21:31:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM meets with his French, Belgian and Finnish counterparts in Cyprus",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661695/saudi-arabia/saudi-fm-meets-with-his-french-belgian-and-finnish-counterparts-in-cyprus",
-      "published_date": "2026-05-28T17:08:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM attends Informal Meeting of EU Foreign Ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661694/saudi-arabia/saudi-fm-attends-informal-meeting-of-eu-foreign-ministers",
-      "published_date": "2026-05-28T16:04:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns missile, drone attacks on Kuwait",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661693/saudi-arabia/saudi-arabia-condemns-missile-drone-attacks-on-kuwait",
-      "published_date": "2026-05-28T15:30:22+00:00",
-      "category": "Diplomacy"
+      "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T23:40:27+00:00",
+      "category": "Military"
     },
     {
       "title": "First group of pilgrims departs Kingdom via New Arar Border Crossing",
@@ -176,6 +190,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-01T14:13:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How much damage have Iranian strikes caused the US?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-01T12:03:30+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran says it targeted American base after fresh US strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T11:52:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T20:26:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "3 critically ill Saudi citizens airlifted from Egypt",
+      "title": "Saudi non-oil private sector growth at its fastest pace in three months",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661670/saudi-arabia/3-critically-ill-saudi-citizens-airlifted-from-egypt",
-      "published_date": "2026-05-27T17:45:26+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/661842/saudi-arabia/saudi-non-oil-private-sector-growth-at-its-fastest-pace-in-three-months",
+      "published_date": "2026-06-03T13:52:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mawani adds new shipping service linking Jeddah to India, Djibouti",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661833/saudi-arabia/mawani-adds-new-shipping-service-linking-jeddah-to-india-djibouti",
+      "published_date": "2026-06-03T12:41:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "SAMA directive: Only Taqeem-licensed appraisals determine total loss for leased vehicles",
@@ -333,11 +347,11 @@
       "category": "Economy"
     },
     {
-      "title": "Pilgrims perform Tawaf Al-Ifadah in spiritual atmosphere",
+      "title": "El Niño outlook brings higher temperatures, increased rainfall chances to the Kingdom",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661665/saudi-arabia/pilgrims-perform-tawaf-al-ifadah-in-spiritual-atmosphere",
-      "published_date": "2026-05-27T13:55:35+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661830/saudi-arabia/el-nino-outlook-brings-higher-temperatures-increased-rainfall-chances-to-the-kingdom",
+      "published_date": "2026-06-03T12:16:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "King Salman and Crown Prince commend exceptional dedication in serving Hajj pilgrims",
@@ -470,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661723/saudi-arabia/minister-al-rabiah-discusses-with-officials-of-hajj-companies-early-preparations-for-next-hajj",
       "published_date": "2026-05-29T17:22:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young woman pilgrim, in critical condition, airlifted to Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661722/saudi-arabia/young-woman-pilgrim-in-critical-condition-airlifted-to-jeddah",
-      "published_date": "2026-05-29T16:46:53+00:00",
       "category": "Local Events"
     }
   ]
