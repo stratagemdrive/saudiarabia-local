@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-04T01:42:43.771066+00:00",
+  "last_updated": "2026-06-04T13:57:23.525408+00:00",
   "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi FM condemns Iranian attack on Bahrain, reaffirms Kingdom’s full solidarity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661861/saudi-arabia/saudi-fm-condemns-iranian-attack-on-bahrain-reaffirms-kingdoms-full-solidarity",
+      "published_date": "2026-06-04T11:32:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, IAEA discuss nuclear safety and non-proliferation",
       "source": "Saudi Gazette",
@@ -81,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Wars, sanctions and punishments: Iraq's 40-year World Cup wait",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cyv2l60q188o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T07:29:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Saudi Crown Prince calls son of former Yemeni President Hadi to offer condolences",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661790/saudi-arabia/saudi-crown-prince-calls-son-of-former-yemeni-president-hadi-to-offer-condolences",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Defense Minister conveys Saudi leadership’s condolences on death of former Yemeni President Hadi",
+      "title": "117,000 sqm of Thassos Marble enhances cooling system at Prophet’s Mosque",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661745/saudi-arabia/defense-minister-conveys-saudi-leaderships-condolences-on-death-of-former-yemeni-president-hadi",
-      "published_date": "2026-05-30T17:18:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661867/saudi-arabia/117000-sqm-of-thassos-marble-enhances-cooling-system-at-prophets-mosque",
+      "published_date": "2026-06-04T13:27:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia plans project to cool Riyadh streets and buildings by up to 15°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661741/saudi-arabia/saudi-arabia-plans-riyadh-cooling-project-to-cut-street-temperatures-by-up-to-15c",
-      "published_date": "2026-05-30T14:21:40+00:00",
-      "category": "Diplomacy"
+      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T05:30:28+00:00",
+      "category": "Military"
     },
     {
       "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T16:39:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Yemeni President Abdrabbuh Hadi dies in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661691/saudi-arabia/former-yemeni-president-abdrabbuh-hadi-dies-in-riyadh",
-      "published_date": "2026-05-28T14:38:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "IMF praises Saudi economy’s resilience and ability to adapt swiftly to crises",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
@@ -359,6 +359,34 @@
       "url": "https://saudigazette.com.sa/article/661727/saudi-arabia/saudi-arabia-launches-guest-of-honor-pavilion-at-kuala-lumpur-international-book-fair",
       "published_date": "2026-05-30T04:33:40+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Rain to intensify across Asir and Jazan through midweek, NCM forecasts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661864/saudi-arabia/rain-to-intensify-across-asir-and-jazan-through-midweek-ncm-forecasts",
+      "published_date": "2026-06-04T12:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 1,700 artifacts uncovered at Al-Juhfah reveal centuries of pilgrimage history",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661862/saudi-arabia/over-1700-artifacts-uncovered-at-al-juhfah-reveal-centuries-of-pilgrimage-history",
+      "published_date": "2026-06-04T11:54:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T11:07:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to expect from June heat in Saudi Arabia based on 40 years of data",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661850/saudi-arabia/saudi-arabia-weather-conditions-weather-forecasts-heatwaves-cold-waves-rainfall-rise-in-temperatures-data-meteorology-ncm-climate-change",
+      "published_date": "2026-06-04T06:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "British court to pronounce Thursday final verdict in Saudi student Al-Qassim murder case",
@@ -470,34 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661744/saudi-arabia/specialized-municipal-teams-carry-out-over-38000-inspection-visits-in-makkah-and-holy-sites",
       "published_date": "2026-05-30T16:06:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passports Department at Jeddah airport swings into processing departure of Hajj pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661743/saudi-arabia/passports-department-at-jeddah-airport-swings-into-processing-departure-of-hajj-pilgrims",
-      "published_date": "2026-05-30T15:39:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj 2026 concludes successfully with no cases of epidemics or health threats",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661740/saudi-arabia/hajj-2026-concludes-successfully-with-no-cases-of-epidemics-or-health-threats",
-      "published_date": "2026-05-30T14:20:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilgrims leave Mina after 4th day&#039;s stoning as Hajj comes to an end officially",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661739/saudi-arabia/pilgrims-leave-mina-after-4th-days-stoning-as-hajj-comes-to-an-end-officially",
-      "published_date": "2026-05-30T13:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian interior minister lauds efficient crowd management in Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661726/saudi-arabia/syrian-interior-minister-lauds-efficient-crowd-management-in-hajj",
-      "published_date": "2026-05-29T21:06:03+00:00",
       "category": "Local Events"
     }
   ]
