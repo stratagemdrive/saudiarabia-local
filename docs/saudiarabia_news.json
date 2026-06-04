@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-03T15:26:20.702696+00:00",
-  "story_count": 69,
+  "last_updated": "2026-06-04T01:42:43.771066+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi Arabia, IAEA discuss nuclear safety and non-proliferation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661848/saudi-arabia/saudi-arabia-iaea-discuss-nuclear-safety-and-non-proliferation",
+      "published_date": "2026-06-03T20:18:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Jordanian FMs discuss over phone joint efforts to restore regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661847/saudi-arabia/saudi-jordanian-fms-discuss-over-phone-joint-efforts-to-restore-regional-security",
+      "published_date": "2026-06-03T17:12:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "South Korean foreign minister emphasizes improving bilateral ties with Saudi Arabia",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661741/saudi-arabia/saudi-arabia-plans-riyadh-cooling-project-to-cut-street-temperatures-by-up-to-15c",
       "published_date": "2026-05-30T14:21:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Arab and Gulf leaders congratulate King Salman and Crown Prince on resounding success of Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661724/saudi-arabia/arab-and-gulf-leaders-congratulate-king-salman-and-crown-prince-on-resounding-success-of-hajj",
-      "published_date": "2026-05-29T17:47:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince discusses prospects of cooperation with Chad president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661721/saudi-arabia/saudi-crown-prince-discusses-prospects-of-cooperation-with-chad-president",
-      "published_date": "2026-05-29T16:06:15+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "IMF praises Saudi economy’s resilience and ability to adapt swiftly to crises",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
+      "published_date": "2026-06-03T15:17:42+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Economy minister outlines Saudi economic diversification at OECD meeting in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661849/saudi-arabia/economy-minister-outlines-saudi-economic-diversification-at-oecd-meeting-in-paris",
+      "published_date": "2026-06-03T20:51:40+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi non-oil private sector growth at its fastest pace in three months",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661842/saudi-arabia/saudi-non-oil-private-sector-growth-at-its-fastest-pace-in-three-months",
@@ -345,6 +359,13 @@
       "url": "https://saudigazette.com.sa/article/661727/saudi-arabia/saudi-arabia-launches-guest-of-honor-pavilion-at-kuala-lumpur-international-book-fair",
       "published_date": "2026-05-30T04:33:40+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "British court to pronounce Thursday final verdict in Saudi student Al-Qassim murder case",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661846/saudi-arabia/british-court-to-pronounce-thursday-final-verdict-in-saudi-student-al-qassim-murder-case",
+      "published_date": "2026-06-03T16:45:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "El Niño outlook brings higher temperatures, increased rainfall chances to the Kingdom",
@@ -477,13 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661726/saudi-arabia/syrian-interior-minister-lauds-efficient-crowd-management-in-hajj",
       "published_date": "2026-05-29T21:06:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Al-Rabiah discusses with officials of Hajj companies early preparations for next Hajj",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661723/saudi-arabia/minister-al-rabiah-discusses-with-officials-of-hajj-companies-early-preparations-for-next-hajj",
-      "published_date": "2026-05-29T17:22:10+00:00",
       "category": "Local Events"
     }
   ]
