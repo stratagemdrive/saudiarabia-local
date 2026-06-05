@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-04T13:57:23.525408+00:00",
-  "story_count": 71,
+  "last_updated": "2026-06-05T00:09:49.522920+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "At UN event, Alwasil highlights sport’s role in promoting dialogue and peace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661875/saudi-arabia/at-un-event-alwasil-highlights-sports-role-in-promoting-dialogue-and-peace",
+      "published_date": "2026-06-04T21:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses regional security in phone call with Egyptian and Kuwaiti counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661874/saudi-arabia/saudi-fm-discusses-regional-security-in-phone-call-with-egyptian-and-kuwaiti-counterparts",
+      "published_date": "2026-06-04T20:54:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KSrelief, WHO agree to enhance nutrition services in Gaza health facilities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661872/saudi-arabia/ksrelief-who-agree-to-enhance-nutrition-services-in-gaza-health-facilities",
+      "published_date": "2026-06-04T16:58:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince affirms full solidarity with Bahrain during call with King Hamad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661871/saudi-arabia/saudi-crown-prince-affirms-full-solidarity-with-bahrain-during-call-with-king-hamad",
+      "published_date": "2026-06-04T16:12:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM condemns Iranian attack on Bahrain, reaffirms Kingdom’s full solidarity",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia strongly condemns heinous Iranian attacks on Kuwait",
+      "title": "Minister Al-Rajhi underscores need for responsible AI to shape future of work",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661780/saudi-arabia/saudi-arabia-strongly-condemns-heinous-iranian-attacks-on-kuwait",
-      "published_date": "2026-06-01T12:46:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Harvard hosts graduation ceremony of 70 Saudi students from US universities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661770/saudi-arabia/harvard-hosts-graduation-ceremony-of-70-saudi-students-from-us-universities",
-      "published_date": "2026-05-31T20:33:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, French president discuss enhancing regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661765/saudi-arabia/saudi-crown-prince-french-president-discuss-enhancing-regional-security-in-phone-call",
-      "published_date": "2026-05-31T15:27:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 7,466 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661746/saudi-arabia/saudi-arabia-deports-7466-illegal-residents-in-a-week",
-      "published_date": "2026-05-30T17:26:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661876/saudi-arabia/minister-al-rajhi-underscores-need-for-responsible-ai-to-shape-future-of-work",
+      "published_date": "2026-06-04T21:34:20+00:00",
+      "category": "Military"
     },
     {
       "title": "117,000 sqm of Thassos Marble enhances cooling system at Prophet’s Mosque",
@@ -263,32 +270,18 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia and Syria agree to prevent corruption and combat cross-border corruption crimes",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661700/saudi-arabia/saudi-arabia-and-syria-agree-to-prevent-corruption-and-combat-cross-border-corruption-crimes",
-      "published_date": "2026-05-28T22:11:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel hits Lebanese capital in 'targeted strike'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T17:39:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are US and Iran close to peace or sliding back to war?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T16:56:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "IMF praises Saudi economy’s resilience and ability to adapt swiftly to crises",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Energy minister: Saudi Arabia will remain a reliable energy supplier under all circumstances",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661873/saudi-arabia/energy-minister-saudi-arabia-will-remain-a-reliable-energy-supplier-under-all-circumstances",
+      "published_date": "2026-06-04T17:47:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Economy minister outlines Saudi economic diversification at OECD meeting in Paris",
@@ -359,6 +352,20 @@
       "url": "https://saudigazette.com.sa/article/661727/saudi-arabia/saudi-arabia-launches-guest-of-honor-pavilion-at-kuala-lumpur-international-book-fair",
       "published_date": "2026-05-30T04:33:40+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Yemeni resident arrested for transporting 10 violators",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661870/saudi-arabia/yemeni-resident-arrested-for-transporting-10-violators",
+      "published_date": "2026-06-04T15:25:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Killer of Saudi student Al-Qassim sentenced to life",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661868/saudi-arabia/killer-of-saudi-student-al-qassim-sentenced-to-life",
+      "published_date": "2026-06-04T14:12:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rain to intensify across Asir and Jazan through midweek, NCM forecasts",
@@ -484,20 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661752/saudi-arabia/ministry-of-health-provides-over-25-million-services-during-hajj-season",
       "published_date": "2026-05-30T21:15:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In major overhaul, Hajj Ministry introduces 3 enhanced package categories and scrapping Package D",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661750/saudi-arabia/in-major-overhaul-hajj-ministry-introduces-3-enhanced-package-categories-and-scrapping-package-d",
-      "published_date": "2026-05-30T20:11:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Specialized municipal teams carry out over 38,000 inspection visits in Makkah and holy sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661744/saudi-arabia/specialized-municipal-teams-carry-out-over-38000-inspection-visits-in-makkah-and-holy-sites",
-      "published_date": "2026-05-30T16:06:54+00:00",
       "category": "Local Events"
     }
   ]
