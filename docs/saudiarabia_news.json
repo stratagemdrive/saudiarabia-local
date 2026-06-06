@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-05T13:50:32.808719+00:00",
-  "story_count": 70,
+  "last_updated": "2026-06-06T00:07:21.050706+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Crown Prince, Lebanese president discuss latest developments in Lebanon",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661888/saudi-arabia/saudi-crown-prince-lebanese-president-discuss-regional-developments",
+      "published_date": "2026-06-05T16:22:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia sets requirements for foreign companies seeking property ownership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661885/saudi-arabia/saudi-arabia-sets-rules-for-foreign-companies-seeking-property-ownership",
+      "published_date": "2026-06-05T14:26:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "At UN event, Alwasil highlights sport’s role in promoting dialogue and peace",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia implements 70% localization in procurement professions, starting Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661788/saudi-arabia/saudi-arabia-implements-70-saudization-in-procurement-professions-starting-sunday",
-      "published_date": "2026-06-01T15:12:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia marks first birth of onager, one of world’s rarest animals, in over 100 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661781/saudi-arabia/saudi-arabia-marks-first-birth-of-onager-one-of-worlds-rarest-animals-in-over-100-years",
-      "published_date": "2026-06-01T13:13:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Minister Al-Rajhi underscores need for responsible AI to shape future of work",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661876/saudi-arabia/minister-al-rajhi-underscores-need-for-responsible-ai-to-shape-future-of-work",
@@ -242,39 +242,25 @@
       "category": "Military"
     },
     {
-      "title": "Madinah welcomes first groups of Hajj pilgrims arriving from Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661725/saudi-arabia/madinah-welcomes-first-groups-of-hajj-pilgrims-arriving-from-makkah",
-      "published_date": "2026-05-29T20:53:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T18:41:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Civil Defense Command and Control Center deploys drones, geospatial tech for Hajj safety",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661718/saudi-arabia/civil-defense-command-and-control-center-deploys-drones-geospatial-tech-for-hajj-safety",
-      "published_date": "2026-05-29T14:34:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Early departing pilgrims complete Farewell Tawaf in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661711/saudi-arabia/early-departing-pilgrims-complete-farewell-tawaf-in-makkah",
-      "published_date": "2026-05-29T13:53:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "IMF praises Saudi economy’s resilience and ability to adapt swiftly to crises",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia’s waqf model can drive sustainable development, says Abdullah Kamel",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661887/saudi-arabia/abdullah-kamel-highlights-saudi-waqf-model-at-islamic-economy-summit",
+      "published_date": "2026-06-05T16:14:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ZATCA foils attempt to smuggle 6.2kg of hashish through Al-Wadiah border crossing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661884/saudi-arabia/zatca-foils-62kg-hashish-smuggling-attempt-at-al-wadiah",
+      "published_date": "2026-06-05T13:55:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Energy minister: Saudi Arabia will remain a reliable energy supplier under all circumstances",
@@ -352,6 +338,13 @@
       "url": "https://saudigazette.com.sa/article/661727/saudi-arabia/saudi-arabia-launches-guest-of-honor-pavilion-at-kuala-lumpur-international-book-fair",
       "published_date": "2026-05-30T04:33:40+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia launches program to protect whistleblowers, witnesses and victims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661889/saudi-arabia/saudi-arabia-launches-protection-program-for-whistleblowers-and-witnesses",
+      "published_date": "2026-06-05T17:23:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Yemeni resident arrested for transporting 10 violators",
@@ -484,13 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661762/saudi-arabia/saudi-arabia-starts-issuing-umrah-visas-for-the-new-season",
       "published_date": "2026-05-31T13:56:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Health provides over 2.5 million services during Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661752/saudi-arabia/ministry-of-health-provides-over-25-million-services-during-hajj-season",
-      "published_date": "2026-05-30T21:15:17+00:00",
       "category": "Local Events"
     }
   ]
