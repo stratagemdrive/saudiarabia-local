@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-06T00:07:21.050706+00:00",
+  "last_updated": "2026-06-06T12:04:28.859044+00:00",
   "story_count": 68,
   "stories": [
     {
@@ -142,6 +142,13 @@
       "url": "https://saudigazette.com.sa/article/661790/saudi-arabia/saudi-crown-prince-calls-son-of-former-yemeni-president-hadi-to-offer-condolences",
       "published_date": "2026-06-01T16:51:16+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-06T06:16:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Minister Al-Rajhi underscores need for responsible AI to shape future of work",
@@ -330,13 +337,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661751/saudi-arabia/sar-transports-over-19-million-pilgrims-on-mashair-metro-during-hajj",
       "published_date": "2026-05-30T21:07:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia launches Guest of Honor pavilion at Kuala Lumpur International Book Fair",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661727/saudi-arabia/saudi-arabia-launches-guest-of-honor-pavilion-at-kuala-lumpur-international-book-fair",
-      "published_date": "2026-05-30T04:33:40+00:00",
       "category": "Economy"
     },
     {
