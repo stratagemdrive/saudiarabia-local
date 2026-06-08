@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-07T12:19:11.230645+00:00",
-  "story_count": 70,
+  "last_updated": "2026-06-08T00:10:37.816586+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "New Saudi humanitarian aid convoy arrives in Gaza Strip",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661912/saudi-arabia/new-saudi-humanitarian-aid-convoy-arrives-in-gaza-strip",
+      "published_date": "2026-06-07T13:04:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "7,760 violators of residency, labor, and border security laws arrested in a week",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Qatari FMs reaffirm coordination on regional issues in phone call",
+      "title": "Children’s Hospitality Center elevates visitor experience at the Prophet’s Mosque with safety and learning",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661826/saudi-arabia/saudi-qatari-fms-reaffirm-coordination-on-regional-issues-in-phone-call",
-      "published_date": "2026-06-03T10:36:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661925/saudi-arabia/childrens-hospitality-center-elevates-visitor-experience-at-the-prophets-mosque-with-safety-and-learning",
+      "published_date": "2026-06-07T15:21:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Passports Directorate streamlines pilgrim departures with smart mobile counters and AI translation in 138 languages",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661920/saudi-arabia/passports-directorate-streamlines-pilgrim-departures-with-smart-mobile-counters-and-ai-translation-in-138-languages",
+      "published_date": "2026-06-07T13:40:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanese general among three soldiers killed in Israeli attack on car",
@@ -249,11 +263,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia sets global benchmark in pilgrim health protection, says WHO",
+      "title": "7 OPEC+ countries to raise oil output by 188,000 bpd in July",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661771/saudi-arabia/saudi-arabia-sets-global-benchmark-in-pilgrim-health-protection-says-who",
-      "published_date": "2026-05-31T20:55:31+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/661924/saudi-arabia/7-opec-countries-to-raise-oil-output-by-188000-bpd-in-july",
+      "published_date": "2026-06-07T14:44:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "IMF praises Saudi economy’s resilience and ability to adapt swiftly to crises",
@@ -261,6 +275,27 @@
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi vehicle imports surge to 1.9 million in 2 years, with China emerging leading supplier",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661928/saudi-arabia/saudi-vehicle-imports-surge-to-19-million-in-2-years-with-china-emerging-leading-supplier",
+      "published_date": "2026-06-07T17:19:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prince Khaled bin Alwaleed outlines vision for future cities at SXSW London",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661926/saudi-arabia/prince-khaled-bin-alwaleed-outlines-future-cities-vision-at-sxsw-london",
+      "published_date": "2026-06-07T15:22:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alkhorayef explores high-impact industrial partnerships to deepen Saudi-Russian collaboration",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661922/saudi-arabia/alkhorayef-explores-high-impact-industrial-partnerships-to-deepen-saudi-russian-collaboration",
+      "published_date": "2026-06-07T14:07:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Saudi investor behind $1.5 billion in technology investments",
@@ -340,18 +375,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi wholesale and retail trade revenues record 7.3% growth in Q1 2026",
+      "title": "12 expats arrested for prostitution in Najran",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661768/saudi-arabia/saudi-wholesale-and-retail-trade-revenues-record-73-growth-in-q1-2026",
-      "published_date": "2026-05-31T16:57:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661927/saudi-arabia/12-expats-arrested-for-prostitution-in-najran",
+      "published_date": "2026-06-07T16:51:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ministry of Commerce intensifies inspections in Madinah amid pilgrim arrivals",
+      "title": "One dead, five injured after shooting in Israel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T15:40:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asir inaugurates SR473 million road projects spanning 252 km",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661760/saudi-arabia/ministry-of-commerce-intensifies-inspections-in-madinah-amid-pilgrim-arrivals",
-      "published_date": "2026-05-31T13:05:43+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661911/saudi-arabia/prince-turki-inaugurates-sr473-million-worth-of-road-projects-across-asir",
+      "published_date": "2026-06-07T12:01:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Ministry intensifies oversight of expat medical exams, violators face SR100,000 fine",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661910/saudi-arabia/health-ministry-intensifies-oversight-of-expat-medical-exams-violators-face-sr100000-fine",
+      "published_date": "2026-06-07T11:45:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia launches program to protect whistleblowers, witnesses and victims",
@@ -463,34 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661789/saudi-arabia/nazaha-arrests-160-government-employees-over-corruption-charges",
       "published_date": "2026-06-01T15:47:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unified emergency number 911 receives nearly 3 million calls in May",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661786/saudi-arabia/unified-emergency-number-911-receives-nearly-3-million-calls-in-may",
-      "published_date": "2026-06-01T14:34:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj minister urges pilgrims to share feedback to enhance future Hajj seasons",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661769/saudi-arabia/hajj-minister-urges-pilgrims-to-share-feedback-to-enhance-future-hajj-seasons",
-      "published_date": "2026-05-31T17:38:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi non-oil exports surge 19% in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661764/saudi-arabia/saudi-non-oil-exports-surge-19-in-2025",
-      "published_date": "2026-05-31T14:49:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia starts issuing Umrah visas for the new season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661762/saudi-arabia/saudi-arabia-starts-issuing-umrah-visas-for-the-new-season",
-      "published_date": "2026-05-31T13:56:21+00:00",
       "category": "Local Events"
     }
   ]
