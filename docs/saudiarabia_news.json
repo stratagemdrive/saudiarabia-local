@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-08T00:10:37.816586+00:00",
-  "story_count": 73,
+  "last_updated": "2026-06-08T14:46:31.395523+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Ambassador begins diplomatic mission in Albania after presenting credentials",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661942/saudi-arabia/saudi-ambassador-begins-diplomatic-mission-in-albania-after-presenting-credentials",
+      "published_date": "2026-06-08T11:33:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Qatar FMs discuss coordination to safeguard regional stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661941/saudi-arabia/saudi-qatar-fms-discuss-coordination-to-safeguard-regional-stability",
+      "published_date": "2026-06-08T11:12:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New Saudi humanitarian aid convoy arrives in Gaza Strip",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia slams brutal Iranian aggression on Kuwait and Bahrain",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661834/saudi-arabia/saudi-arabia-slams-brutal-iranian-aggression-on-kuwait-and-bahrain",
-      "published_date": "2026-06-03T12:45:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh launches flexible working hours for over 50 government entities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661828/saudi-arabia/riyadh-launches-flexible-working-hours-for-over-50-government-entities",
-      "published_date": "2026-06-03T11:27:23+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian strike on Israel suggests Tehran's sense of resilience is growing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T14:11:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Children’s Hospitality Center elevates visitor experience at the Prophet’s Mosque with safety and learning",
@@ -239,27 +246,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661792/saudi-arabia/civil-defense-begins-early-planning-for-hajj-2027",
       "published_date": "2026-06-01T17:31:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T14:13:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How much damage have Iranian strikes caused the US?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T12:03:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T05:33:18+00:00",
       "category": "Military"
     },
     {
@@ -368,11 +354,25 @@
       "category": "Economy"
     },
     {
-      "title": "Six development sites worth SR13.3 billion awarded in Makkah",
+      "title": "Saudi Health Ministry warns against skipping medications for unproven diets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661785/saudi-arabia/six-development-sites-worth-sr133-billion-awarded-in-makkah",
-      "published_date": "2026-06-01T14:07:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661951/saudi-arabia/saudi-health-ministry-warns-against-skipping-medications-for-unproven-diets",
+      "published_date": "2026-06-08T13:48:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh’s Wadi Laban parallel bridges to serve 400,000 vehicles daily",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661945/saudi-arabia/riyadhs-wadi-laban-parallel-bridges-to-serve-400000-vehicles-daily",
+      "published_date": "2026-06-08T12:45:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain, thunderstorms forecast across Makkah and southern regions through Friday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661937/saudi-arabia/heavy-rain-thunderstorms-forecast-across-makkah-and-southern-regions-through-friday",
+      "published_date": "2026-06-08T08:36:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "12 expats arrested for prostitution in Najran",
@@ -491,27 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661808/saudi-arabia/just-12-days-before-exams-65-million-students-return-to-classrooms-across-saudi-arabia",
       "published_date": "2026-06-02T13:46:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian pilgrims begin returning from Saudi Arabia by air",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661794/saudi-arabia/iranian-pilgrims-begin-returning-from-saudi-arabia-by-air",
-      "published_date": "2026-06-01T21:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia calls for global intervention to halt Israeli aggression on Lebanon",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661791/saudi-arabia/saudi-arabia-calls-for-global-intervention-to-halt-israeli-aggression-on-lebanon",
-      "published_date": "2026-06-01T17:10:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nazaha arrests 160 government employees over corruption charges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661789/saudi-arabia/nazaha-arrests-160-government-employees-over-corruption-charges",
-      "published_date": "2026-06-01T15:47:15+00:00",
       "category": "Local Events"
     }
   ]
