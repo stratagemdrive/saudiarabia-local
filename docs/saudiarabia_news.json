@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-08T14:46:31.395523+00:00",
-  "story_count": 70,
+  "last_updated": "2026-06-09T00:07:17.755673+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "King Salman orders promotion and appointment of 212 judges at Ministry of Justice",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661960/saudi-arabia/king-salman-orders-promotion-and-appointment-of-212-judges-at-ministry-of-justice",
+      "published_date": "2026-06-08T20:59:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Ambassador begins diplomatic mission in Albania after presenting credentials",
       "source": "Saudi Gazette",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "GCC chief condemns Iran’s continued aggression, calling it dangerous escalation",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T22:47:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia confirms missile fired from Yemen to another country fails, lands near border",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661836/saudi-arabia/gcc-chief-condemns-irans-continued-aggression-calling-it-dangerous-escalation",
-      "published_date": "2026-06-03T13:00:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661958/saudi-arabia/saudi-arabia-confirms-missile-fired-from-yemen-to-another-country-fails-lands-near-border",
+      "published_date": "2026-06-08T17:30:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jeddah Mayoralty serves evacuation notices for 129 dilapidated buildings in Ghulail district",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661956/saudi-arabia/jeddah-mayoralty-serves-evacuation-notices-for-129-dilapidated-buildings-in-ghulail-district",
+      "published_date": "2026-06-08T15:16:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Defense Ministry denies reports of attack on Prince Sultan Air Base",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661954/saudi-arabia/saudi-arabia-denies-reports-of-attack-on-prince-sultan-air-base",
+      "published_date": "2026-06-08T14:25:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranian strike on Israel suggests Tehran's sense of resilience is growing",
@@ -235,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T21:50:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Civil Defense begins early planning for Hajj 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661792/saudi-arabia/civil-defense-begins-early-planning-for-hajj-2027",
-      "published_date": "2026-06-01T17:31:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "7 OPEC+ countries to raise oil output by 188,000 bpd in July",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661924/saudi-arabia/7-opec-countries-to-raise-oil-output-by-188000-bpd-in-july",
@@ -261,6 +275,27 @@
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia offers five sports clubs for investment",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661962/saudi-arabia/saudi-arabia-offers-five-sports-clubs-for-investment",
+      "published_date": "2026-06-08T21:13:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Over 40 Arabian sand gazelle births recorded at Imam Turki bin Abdullah Royal Reserve",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661961/saudi-arabia/over-40-arabian-sand-gazelle-births-recorded-at-imam-turki-bin-abdullah-royal-reserve",
+      "published_date": "2026-06-08T21:07:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rural tourism thrives in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661952/saudi-arabia/rural-tourism-thrives-in-saudi-arabia",
+      "published_date": "2026-06-08T14:08:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi vehicle imports surge to 1.9 million in 2 years, with China emerging leading supplier",
@@ -347,11 +382,18 @@
       "category": "Economy"
     },
     {
-      "title": "SAMA mandates advance notification of investment rounds by financing companies",
+      "title": "SFDA penalizes 1,753 erring food establishments",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661793/saudi-arabia/sama-mandates-advance-notification-of-investment-rounds-by-financing-companies",
-      "published_date": "2026-06-01T20:23:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661957/saudi-arabia/sfda-penalizes-1753-erring-food-establishments",
+      "published_date": "2026-06-08T16:10:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eastern Province unveils SR406 million road projects, signs SR3 billion transport agreements",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661955/saudi-arabia/eastern-province-unveils-sr406-million-road-projects-signs-sr3-billion-transport-agreements",
+      "published_date": "2026-06-08T14:46:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Health Ministry warns against skipping medications for unproven diets",
@@ -477,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661819/saudi-arabia/saudi-red-crescent-ensures-round-the-clock-emergency-care-for-pilgrims-in-madinah",
       "published_date": "2026-06-02T17:48:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One arrested in Taif after seizure of huge cache of drugs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661810/saudi-arabia/one-arrested-in-taif-after-seizure-of-huge-cache-of-drugs",
-      "published_date": "2026-06-02T15:31:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Just 12 days before exams, 6.5 million students return to classrooms across Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661808/saudi-arabia/just-12-days-before-exams-65-million-students-return-to-classrooms-across-saudi-arabia",
-      "published_date": "2026-06-02T13:46:26+00:00",
       "category": "Local Events"
     }
   ]
