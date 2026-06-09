@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-09T00:07:17.755673+00:00",
-  "story_count": 74,
+  "last_updated": "2026-06-09T13:42:55.279997+00:00",
+  "story_count": 75,
   "stories": [
     {
       "title": "King Salman orders promotion and appointment of 212 judges at Ministry of Justice",
@@ -144,10 +144,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi intelligence helps UAE thwart smuggling of 267,300 amphetamine pills",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661972/saudi-arabia/saudi-intelligence-helps-uae-thwart-smuggling-of-267300-amphetamine-pills",
+      "published_date": "2026-06-09T12:10:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-08T22:47:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump tells BBC Netanyahu did not defy him",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T22:34:25+00:00",
       "category": "Military"
     },
     {
@@ -249,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "First group of pilgrims departs Kingdom via New Arar Border Crossing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661802/saudi-arabia/first-group-of-pilgrims-departs-kingdom-via-new-arar-border-crossing",
-      "published_date": "2026-06-02T11:48:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia urges international cooperation to combat small arms trafficking",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661801/saudi-arabia/saudi-arabia-urges-international-cooperation-to-combat-small-arms-trafficking",
-      "published_date": "2026-06-02T11:30:18+00:00",
-      "category": "Military"
-    },
-    {
       "title": "7 OPEC+ countries to raise oil output by 188,000 bpd in July",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661924/saudi-arabia/7-opec-countries-to-raise-oil-output-by-188000-bpd-in-july",
@@ -275,6 +275,13 @@
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia, Russia sign 13 agreements worth SR4.8 billion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661968/saudi-arabia/saudi-arabia-russia-sign-13-agreements-worth-sr48-billion",
+      "published_date": "2026-06-09T10:54:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia offers five sports clubs for investment",
@@ -380,6 +387,13 @@
       "url": "https://saudigazette.com.sa/article/661809/saudi-arabia/sama-directive-only-taqeem-licensed-appraisals-determine-total-loss-for-leased-vehicles",
       "published_date": "2026-06-02T14:23:13+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T06:15:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "SFDA penalizes 1,753 erring food establishments",
@@ -512,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661820/saudi-arabia/king-salman-and-crown-prince-commend-exceptional-dedication-in-serving-hajj-pilgrims",
       "published_date": "2026-06-02T20:57:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Red Crescent ensures round-the-clock emergency care for pilgrims in Madinah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661819/saudi-arabia/saudi-red-crescent-ensures-round-the-clock-emergency-care-for-pilgrims-in-madinah",
-      "published_date": "2026-06-02T17:48:34+00:00",
       "category": "Local Events"
     }
   ]
