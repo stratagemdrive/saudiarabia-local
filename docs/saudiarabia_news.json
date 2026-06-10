@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-10T00:15:41.766333+00:00",
+  "last_updated": "2026-06-10T14:21:09.000247+00:00",
   "story_count": 80,
   "stories": [
+    {
+      "title": "Saudi deputy FM, Spanish official review bilateral ties and regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662006/saudi-arabia/saudi-deputy-fm-spanish-official-review-bilateral-ties-and-regional-developments",
+      "published_date": "2026-06-10T12:54:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, Yemen sign $150 million petroleum supply deal to support energy sector, power plants",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM condemns Iranian attack on Bahrain, reaffirms Kingdom’s full solidarity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661861/saudi-arabia/saudi-fm-condemns-iranian-attack-on-bahrain-reaffirms-kingdoms-full-solidarity",
-      "published_date": "2026-06-04T11:32:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
@@ -270,6 +270,13 @@
       "category": "Military"
     },
     {
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T17:50:20+00:00",
+      "category": "Military"
+    },
+    {
       "title": "117,000 sqm of Thassos Marble enhances cooling system at Prophet’s Mosque",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661867/saudi-arabia/117000-sqm-of-thassos-marble-enhances-cooling-system-at-prophets-mosque",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T05:30:28+00:00",
-      "category": "Military"
+      "title": "Saudi nominal GDP rises 6.3% to SR1.274 trillion in Q1, monthly bulletin shows",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661999/saudi-arabia/saudi-nominal-gdp-rises-63-to-sr1274-trillion-in-q1-monthly-bulletin-shows",
+      "published_date": "2026-06-10T11:47:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "TASI surges 1.3%, closes at 11,115 points",
@@ -303,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK-Saudi Investment and Partnership Summit explores promising opportunities in key sectors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662005/saudi-arabia/uk-saudi-investment-and-partnership-summit-explores-promising-opportunities-in-key-sectors",
+      "published_date": "2026-06-10T12:52:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi economy grows 3% in Q1 2026 as non-oil activities lead expansion",
@@ -410,18 +424,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi non-oil private sector growth at its fastest pace in three months",
+      "title": "Historic Jeddah waterfront project enters 2nd phase to restore its connection to the sea",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661842/saudi-arabia/saudi-non-oil-private-sector-growth-at-its-fastest-pace-in-three-months",
-      "published_date": "2026-06-03T13:52:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mawani adds new shipping service linking Jeddah to India, Djibouti",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661833/saudi-arabia/mawani-adds-new-shipping-service-linking-jeddah-to-india-djibouti",
-      "published_date": "2026-06-03T12:41:22+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662002/saudi-arabia/historic-jeddah-waterfront-project-enters-2nd-phase-to-restore-its-connection-to-the-sea",
+      "published_date": "2026-06-10T12:18:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Seven people rescued after their vessel broke down off the coast of Rabigh",
@@ -554,13 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661868/saudi-arabia/killer-of-saudi-student-al-qassim-sentenced-to-life",
       "published_date": "2026-06-04T14:12:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain to intensify across Asir and Jazan through midweek, NCM forecasts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661864/saudi-arabia/rain-to-intensify-across-asir-and-jazan-through-midweek-ncm-forecasts",
-      "published_date": "2026-06-04T12:45:12+00:00",
       "category": "Local Events"
     }
   ]
