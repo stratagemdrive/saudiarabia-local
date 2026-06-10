@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-09T13:42:55.279997+00:00",
-  "story_count": 75,
+  "last_updated": "2026-06-10T00:15:41.766333+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Saudi Arabia, Yemen sign $150 million petroleum supply deal to support energy sector, power plants",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661987/saudi-arabia/saudi-arabia-yemen-sign-150-million-petroleum-supply-deal-to-support-energy-sector-power-plants",
+      "published_date": "2026-06-09T20:21:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia congratulates Austria, and Trinidad and Tobago on election to UN Security Council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661986/saudi-arabia/saudi-fm-congratulates-austria-and-trinidad-and-tobago-on-election-to-un-security-council",
+      "published_date": "2026-06-09T17:29:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Egyptian FMs underscore efforts for regional de-escalation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661984/saudi-arabia/saudi-egyptian-fms-underscore-efforts-for-regional-de-escalation-in-phone-call",
+      "published_date": "2026-06-09T15:22:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Freedom of navigation in Strait of Hormuz highlighted during meeting of Saudi, Swedish foreign ministers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661982/saudi-arabia/freedom-of-navigation-in-strait-of-hormuz-highlighted-during-meeting-of-saudi-swedish-foreign-ministers",
+      "published_date": "2026-06-09T14:24:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman orders promotion and appointment of 212 judges at Ministry of Justice",
       "source": "Saudi Gazette",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, IAEA discuss nuclear safety and non-proliferation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661848/saudi-arabia/saudi-arabia-iaea-discuss-nuclear-safety-and-non-proliferation",
-      "published_date": "2026-06-03T20:18:32+00:00",
-      "category": "Diplomacy"
+      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T23:35:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Jordanian FMs discuss over phone joint efforts to restore regional security",
+      "title": "US launches strikes on Iranian military targets after Apache helicopter incident",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661847/saudi-arabia/saudi-jordanian-fms-discuss-over-phone-joint-efforts-to-restore-regional-security",
-      "published_date": "2026-06-03T17:12:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661989/saudi-arabia/us-launches-strikes-on-iran-after-apache-helicopter-incident",
+      "published_date": "2026-06-09T22:05:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "South Korean foreign minister emphasizes improving bilateral ties with Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661843/saudi-arabia/south-korean-foreign-minister-emphasizes-improving-bilateral-ties-with-saudi-arabia",
-      "published_date": "2026-06-03T14:33:03+00:00",
-      "category": "Diplomacy"
+      "title": "US striking Iran in response to downing of helicopter, military says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T21:43:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al-Khereiji visits Yemen embassy to offer condolences on the death of former President Hadi",
+      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T20:14:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "20 tons of spoiled food destroyed in Jeddah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661839/saudi-arabia/al-khereiji-visits-yemen-embassy-to-offer-condolences-on-the-death-of-former-president-hadi",
-      "published_date": "2026-06-03T13:27:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/661985/saudi-arabia/20-tons-of-spoiled-food-destroyed-in-jeddah",
+      "published_date": "2026-06-09T16:02:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi intelligence helps UAE thwart smuggling of 267,300 amphetamine pills",
@@ -249,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T14:02:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T23:40:27+00:00",
-      "category": "Military"
+      "title": "TASI surges 1.3%, closes at 11,115 points",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661983/saudi-arabia/tasi-surges-142-points-closes-at-11115-points",
+      "published_date": "2026-06-09T14:56:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "7 OPEC+ countries to raise oil output by 188,000 bpd in July",
@@ -275,6 +303,20 @@
       "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
       "published_date": "2026-06-03T15:17:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi economy grows 3% in Q1 2026 as non-oil activities lead expansion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661976/saudi-arabia/saudi-economy-grows-3-in-q1-2026-as-non-oil-activities-lead-expansion",
+      "published_date": "2026-06-09T13:02:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s GDP reaches $1.31 trillion: NTP report",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661975/saudi-arabia/saudi-gdp-reaches-131-trillion-as-vision-2030-targets-advance-in-2025",
+      "published_date": "2026-06-09T12:57:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia, Russia sign 13 agreements worth SR4.8 billion",
@@ -382,11 +424,46 @@
       "category": "Economy"
     },
     {
-      "title": "SAMA directive: Only Taqeem-licensed appraisals determine total loss for leased vehicles",
+      "title": "Seven people rescued after their vessel broke down off the coast of Rabigh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661809/saudi-arabia/sama-directive-only-taqeem-licensed-appraisals-determine-total-loss-for-leased-vehicles",
-      "published_date": "2026-06-02T14:23:13+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/661988/saudi-arabia/seven-people-rescued-after-their-vessel-broke-down-off-the-coast-of-rabigh",
+      "published_date": "2026-06-09T20:56:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T17:47:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia, Türkiye sign railway deal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661981/saudi-arabia/saudi-arabia-turkiye-sign-rail-and-logistics-deals-to-boost-gulf-europe-corridor",
+      "published_date": "2026-06-09T14:17:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM: Eastern Province faces searing 50°C temperatures through Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661980/saudi-arabia/ncm-eastern-province-faces-searing-50c-temperatures-through-sunday",
+      "published_date": "2026-06-09T14:11:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "135 suspects in commercial cover-up cases referred to security authorities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661978/saudi-arabia/135-suspects-in-commercial-cover-up-cases-referred-to-security-authorities",
+      "published_date": "2026-06-09T13:36:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission documents 1,774 archaeological discoveries in Madinah&#039;s Al-Mahd governorate",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/661974/saudi-arabia/heritage-commission-documents-1774-archaeological-discoveries-in-madinahs-al-mahd-governorate",
+      "published_date": "2026-06-09T12:55:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
@@ -484,48 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661864/saudi-arabia/rain-to-intensify-across-asir-and-jazan-through-midweek-ncm-forecasts",
       "published_date": "2026-06-04T12:45:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 1,700 artifacts uncovered at Al-Juhfah reveal centuries of pilgrimage history",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661862/saudi-arabia/over-1700-artifacts-uncovered-at-al-juhfah-reveal-centuries-of-pilgrimage-history",
-      "published_date": "2026-06-04T11:54:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T11:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to expect from June heat in Saudi Arabia based on 40 years of data",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661850/saudi-arabia/saudi-arabia-weather-conditions-weather-forecasts-heatwaves-cold-waves-rainfall-rise-in-temperatures-data-meteorology-ncm-climate-change",
-      "published_date": "2026-06-04T06:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British court to pronounce Thursday final verdict in Saudi student Al-Qassim murder case",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661846/saudi-arabia/british-court-to-pronounce-thursday-final-verdict-in-saudi-student-al-qassim-murder-case",
-      "published_date": "2026-06-03T16:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Niño outlook brings higher temperatures, increased rainfall chances to the Kingdom",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661830/saudi-arabia/el-nino-outlook-brings-higher-temperatures-increased-rainfall-chances-to-the-kingdom",
-      "published_date": "2026-06-03T12:16:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Salman and Crown Prince commend exceptional dedication in serving Hajj pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661820/saudi-arabia/king-salman-and-crown-prince-commend-exceptional-dedication-in-serving-hajj-pilgrims",
-      "published_date": "2026-06-02T20:57:57+00:00",
       "category": "Local Events"
     }
   ]
