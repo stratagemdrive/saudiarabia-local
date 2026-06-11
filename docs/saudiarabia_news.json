@@ -1,8 +1,64 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-10T14:21:09.000247+00:00",
-  "story_count": 80,
+  "last_updated": "2026-06-11T00:16:47.095711+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi Arabia resumes Lebanese exports after Crown Prince directive",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662024/saudi-arabia/saudi-arabia-resumes-lebanese-exports-after-crown-prince-directive",
+      "published_date": "2026-06-11T00:02:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister attends GCC-Canada Strategic Dialogue Ministerial Meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662023/saudi-arabia/saudi-foreign-minister-attends-gcc-canada-strategic-dialogue-ministerial-meeting",
+      "published_date": "2026-06-10T20:23:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Greece strengthen cooperation to elevate tourism experiences",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662022/saudi-arabia/saudi-arabia-greece-strengthen-cooperation-to-elevate-tourism-experiences",
+      "published_date": "2026-06-10T20:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia elected First Vice-Chair of UN Committee on the Peaceful Uses of Outer Space",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662020/saudi-arabia/saudi-arabia-elected-first-vice-chair-of-un-committee-on-the-peaceful-uses-of-outer-space",
+      "published_date": "2026-06-10T17:36:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince offer condolences to Philippines president over earthquake victims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662019/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-philippines-president-over-earthquake-victims",
+      "published_date": "2026-06-10T17:20:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bahraini Crown Prince meets Gulf foreign ministers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662017/saudi-arabia/bahraini-crown-prince-meets-gulf-foreign-ministers",
+      "published_date": "2026-06-10T16:03:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC challenges Iran: How can future ties be built while  attacks continue?",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662016/saudi-arabia/gcc-challenges-iran-how-can-future-ties-be-built-while-attacks-continue",
+      "published_date": "2026-06-10T15:42:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reiterates full solidarity with Bahrain, Kuwait, and Jordan against Iranian attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662013/saudi-arabia/saudi-arabia-reiterates-full-solidarity-with-bahrain-kuwait-and-jordan-against-iranian-attacks",
+      "published_date": "2026-06-10T14:55:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi deputy FM, Spanish official review bilateral ties and regional developments",
       "source": "Saudi Gazette",
@@ -85,62 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661898/saudi-arabia/saudi-embassy-in-italy-warns-against-online-tourism-scams",
       "published_date": "2026-06-06T14:45:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns attack on UNIFIL position in Lebanon",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661897/saudi-arabia/saudi-arabia-condemns-attack-on-unifil-position-in-lebanon",
-      "published_date": "2026-06-06T13:21:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia warns continued Iranian attacks could drive region toward dangerous escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661896/saudi-arabia/saudi-arabia-ministry-of-foreign-affairs-iranian-attacks-bahrain-kuwait",
-      "published_date": "2026-06-06T13:18:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Lebanese president discuss latest developments in Lebanon",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661888/saudi-arabia/saudi-crown-prince-lebanese-president-discuss-regional-developments",
-      "published_date": "2026-06-05T16:22:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia sets requirements for foreign companies seeking property ownership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661885/saudi-arabia/saudi-arabia-sets-rules-for-foreign-companies-seeking-property-ownership",
-      "published_date": "2026-06-05T14:26:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At UN event, Alwasil highlights sport’s role in promoting dialogue and peace",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661875/saudi-arabia/at-un-event-alwasil-highlights-sports-role-in-promoting-dialogue-and-peace",
-      "published_date": "2026-06-04T21:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional security in phone call with Egyptian and Kuwaiti counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661874/saudi-arabia/saudi-fm-discusses-regional-security-in-phone-call-with-egyptian-and-kuwaiti-counterparts",
-      "published_date": "2026-06-04T20:54:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KSrelief, WHO agree to enhance nutrition services in Gaza health facilities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661872/saudi-arabia/ksrelief-who-agree-to-enhance-nutrition-services-in-gaza-health-facilities",
-      "published_date": "2026-06-04T16:58:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince affirms full solidarity with Bahrain during call with King Hamad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661871/saudi-arabia/saudi-crown-prince-affirms-full-solidarity-with-bahrain-during-call-with-king-hamad",
-      "published_date": "2026-06-04T16:12:14+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi Industrial Production Index drops by over 19% in April 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662008/saudi-arabia/saudi-industrial-production-index-drops-by-over-19-in-april-2026",
+      "published_date": "2026-06-10T13:54:37+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi nominal GDP rises 6.3% to SR1.274 trillion in Q1, monthly bulletin shows",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661999/saudi-arabia/saudi-nominal-gdp-rises-63-to-sr1274-trillion-in-q1-monthly-bulletin-shows",
@@ -305,11 +312,32 @@
       "category": "Energy"
     },
     {
-      "title": "IMF praises Saudi economy’s resilience and ability to adapt swiftly to crises",
+      "title": "Alkhorayef discusses developing investment partnerships with Kazakh PM",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661845/saudi-arabia/imf-praises-saudi-economys-resilience-and-ability-to-adapt-swiftly-to-crises",
-      "published_date": "2026-06-03T15:17:42+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662021/saudi-arabia/alkhorayef-discusses-developing-investment-partnerships-with-kazakh-pm",
+      "published_date": "2026-06-10T17:51:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Investment and communications ministries explore private investment opportunities in AI data centers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662018/saudi-arabia/investment-and-communications-ministries-explore-private-investment-opportunities-in-ai-data-centers",
+      "published_date": "2026-06-10T17:11:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FII Institute names Princess Maha Al Saud as new CEO",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662015/saudi-arabia/princess-dr-maha-al-saud-appointed-ceo-of-fii-institute",
+      "published_date": "2026-06-10T15:29:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkish minister: Railway link to Saudi Arabia to be completed within 3 years, with prospects to extend across Europe",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662011/saudi-arabia/turkish-minister-railway-link-to-saudi-arabia-to-be-completed-within-3-years-with-prospects-to-extend-across-europe",
+      "published_date": "2026-06-10T14:39:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK-Saudi Investment and Partnership Summit explores promising opportunities in key sectors",
@@ -417,11 +445,18 @@
       "category": "Economy"
     },
     {
-      "title": "Economy minister outlines Saudi economic diversification at OECD meeting in Paris",
+      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T14:44:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One man arrested for trafficking 30 kilograms of hashish",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661849/saudi-arabia/economy-minister-outlines-saudi-economic-diversification-at-oecd-meeting-in-paris",
-      "published_date": "2026-06-03T20:51:40+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662010/saudi-arabia/one-man-arrested-for-trafficking-30-kilograms-of-hashish",
+      "published_date": "2026-06-10T14:07:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Historic Jeddah waterfront project enters 2nd phase to restore its connection to the sea",
@@ -547,20 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661889/saudi-arabia/saudi-arabia-launches-protection-program-for-whistleblowers-and-witnesses",
       "published_date": "2026-06-05T17:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemeni resident arrested for transporting 10 violators",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661870/saudi-arabia/yemeni-resident-arrested-for-transporting-10-violators",
-      "published_date": "2026-06-04T15:25:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Killer of Saudi student Al-Qassim sentenced to life",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661868/saudi-arabia/killer-of-saudi-student-al-qassim-sentenced-to-life",
-      "published_date": "2026-06-04T14:12:56+00:00",
       "category": "Local Events"
     }
   ]
