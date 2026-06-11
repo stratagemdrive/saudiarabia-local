@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-11T00:16:47.095711+00:00",
-  "story_count": 83,
+  "last_updated": "2026-06-11T14:33:46.235728+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "At UN, Alwasil reaffirms Arab position on Palestinian cause",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662050/saudi-arabia/at-un-alwasil-reaffirms-arab-position-on-palestinian-cause",
+      "published_date": "2026-06-11T14:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Ambassador to UK reaffirms Saudi support for IMO’s efforts to enhance international maritime security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662048/saudi-arabia/saudi-ambassador-to-uk-reaffirms-saudi-support-for-imos-efforts-to-enhance-international-maritime-security",
+      "published_date": "2026-06-11T13:07:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for avoidance of any further escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662044/saudi-arabia/saudi-arabia-calls-for-avoidance-of-any-further-escalation",
+      "published_date": "2026-06-11T12:52:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reaffirms Palestine as Arab World’s central cause at UN Security Council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662039/saudi-arabia/saudi-arabia-reaffirms-palestine-as-arab-worlds-central-cause-at-un-security-council",
+      "published_date": "2026-06-11T12:38:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia resumes Lebanese exports after Crown Prince directive",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New Saudi humanitarian aid convoy arrives in Gaza Strip",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661912/saudi-arabia/new-saudi-humanitarian-aid-convoy-arrives-in-gaza-strip",
-      "published_date": "2026-06-07T13:04:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "7,760 violators of residency, labor, and border security laws arrested in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661900/saudi-arabia/7760-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
-      "published_date": "2026-06-06T17:18:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for immediate halt to Palestinian displacement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661899/saudi-arabia/saudi-arabia-calls-for-immediate-halt-to-palestinian-displacement",
-      "published_date": "2026-06-06T15:40:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Embassy in Italy warns against online tourism scams",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661898/saudi-arabia/saudi-embassy-in-italy-warns-against-online-tourism-scams",
-      "published_date": "2026-06-06T14:45:55+00:00",
-      "category": "Diplomacy"
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T12:31:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "117,000 sqm of Thassos Marble enhances cooling system at Prophet’s Mosque",
+      "title": "UN adds Saudi Green Building Forum to official Sustainability Forum Program",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661867/saudi-arabia/117000-sqm-of-thassos-marble-enhances-cooling-system-at-prophets-mosque",
-      "published_date": "2026-06-04T13:27:15+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662034/saudi-arabia/un-adds-saudi-green-building-forum-to-official-sustainability-forum-program",
+      "published_date": "2026-06-11T11:40:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Industrial Production Index drops by over 19% in April 2026",
@@ -310,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/661924/saudi-arabia/7-opec-countries-to-raise-oil-output-by-188000-bpd-in-july",
       "published_date": "2026-06-07T14:44:41+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Expat remittances jump 16% to SR14.7 billion in April",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662051/saudi-arabia/expat-remittances-jump-16-to-sr147-billion-in-april",
+      "published_date": "2026-06-11T14:17:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Alkhorayef discusses developing investment partnerships with Kazakh PM",
@@ -445,6 +459,13 @@
       "category": "Economy"
     },
     {
+      "title": "US and Iran exchange strikes across Middle East for second day in a row",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T12:09:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israeli strikes in southern Lebanon kill 17, reports say",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
@@ -575,13 +596,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661910/saudi-arabia/health-ministry-intensifies-oversight-of-expat-medical-exams-violators-face-sr100000-fine",
       "published_date": "2026-06-07T11:45:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia launches program to protect whistleblowers, witnesses and victims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661889/saudi-arabia/saudi-arabia-launches-protection-program-for-whistleblowers-and-witnesses",
-      "published_date": "2026-06-05T17:23:00+00:00",
       "category": "Local Events"
     }
   ]
