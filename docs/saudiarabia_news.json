@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-12T00:19:48.144040+00:00",
+  "last_updated": "2026-06-12T14:08:43.036231+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Saudi Arabia calls for stronger protections for elderly people with disabilities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662078/saudi-arabia/saudi-arabia-calls-for-stronger-protections-for-elderly-people-with-disabilities",
+      "published_date": "2026-06-12T13:22:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qiwa: Premium Residency holders must obtain SR100 work permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662069/saudi-arabia/qiwa-premium-residency-holders-must-obtain-sr100-work-permit",
+      "published_date": "2026-06-12T08:19:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Riyadh to host Global Security and Technology Summit in December 2026",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661986/saudi-arabia/saudi-fm-congratulates-austria-and-trinidad-and-tobago-on-election-to-un-security-council",
       "published_date": "2026-06-09T17:29:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Egyptian FMs underscore efforts for regional de-escalation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661984/saudi-arabia/saudi-egyptian-fms-underscore-efforts-for-regional-de-escalation-in-phone-call",
-      "published_date": "2026-06-09T15:22:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Freedom of navigation in Strait of Hormuz highlighted during meeting of Saudi, Swedish foreign ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661982/saudi-arabia/freedom-of-navigation-in-strait-of-hormuz-highlighted-during-meeting-of-saudi-swedish-foreign-ministers",
-      "published_date": "2026-06-09T14:24:23+00:00",
       "category": "Diplomacy"
     },
     {
@@ -319,6 +319,20 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Arabia calls for stronger global cooperation to build resilient tourism sector",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662080/saudi-arabia/saudi-arabia-calls-for-stronger-global-cooperation-to-build-resilient-tourism-sector",
+      "published_date": "2026-06-12T13:28:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ZATCA foils attempt to smuggle nearly 47,000 amphetamine pills hidden in cheese shipment",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662077/saudi-arabia/zatca-foils-attempt-to-smuggle-nearly-47000-amphetamine-pills",
+      "published_date": "2026-06-12T13:19:06+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi Arabia to deepen tourism cooperation and partnership with France and Indonesia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662062/saudi-arabia/saudi-arabia-to-deepen-tourism-cooperation-and-partnership-with-france-and-indonesia",
@@ -442,20 +456,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661902/saudi-arabia/the-saudi-investor-behind-15-billion-in-technology-investments",
       "published_date": "2026-06-06T17:55:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Customs ports record 686 contraband seizures last week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661901/saudi-arabia/saudi-customs-ports-record-686-contraband-seizures-last-week",
-      "published_date": "2026-06-06T17:25:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia’s waqf model can drive sustainable development, says Abdullah Kamel",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661887/saudi-arabia/abdullah-kamel-highlights-saudi-waqf-model-at-islamic-economy-summit",
-      "published_date": "2026-06-05T16:14:45+00:00",
       "category": "Economy"
     },
     {
