@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-13T00:20:49.986026+00:00",
+  "last_updated": "2026-06-13T12:23:31.537786+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-13T11:15:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia calls for stronger protections for elderly people with disabilities",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia congratulates Austria, and Trinidad and Tobago on election to UN Security Council",
+      "title": "Saudi Arabia updates traffic regulations to govern self-driving vehicles",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661986/saudi-arabia/saudi-fm-congratulates-austria-and-trinidad-and-tobago-on-election-to-un-security-council",
-      "published_date": "2026-06-09T17:29:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662084/saudi-arabia/saudi-arabia-updates-traffic-regulations-for-self-driving-vehicles",
+      "published_date": "2026-06-13T04:47:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Ahead of G7 Summit, Saudi citizens in Switzerland urged to avoid gatherings and demonstrations",
@@ -267,13 +274,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-06T19:57:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T06:16:28+00:00",
       "category": "Military"
     },
     {
