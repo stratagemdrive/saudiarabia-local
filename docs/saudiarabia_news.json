@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-13T12:23:31.537786+00:00",
-  "story_count": 85,
+  "last_updated": "2026-06-14T00:08:14.895521+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 7,989 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662098/saudi-arabia/saudi-arabia-deports-7989-illegal-residents-in-a-week",
+      "published_date": "2026-06-13T17:11:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "source": "BBC News",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Yemen sign $150 million petroleum supply deal to support energy sector, power plants",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661987/saudi-arabia/saudi-arabia-yemen-sign-150-million-petroleum-supply-deal-to-support-energy-sector-power-plants",
-      "published_date": "2026-06-09T20:21:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi Arabia updates traffic regulations to govern self-driving vehicles",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662084/saudi-arabia/saudi-arabia-updates-traffic-regulations-for-self-driving-vehicles",
@@ -263,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T21:23:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T19:57:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ministry of Energy announces winning bidders for 8 LPG filling, storage, and bulk distribution licenses",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662057/saudi-arabia/ministry-of-energy-announces-winning-bidders-for-8-lpg-filling-storage-and-bulk-distribution-licenses",
@@ -317,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/661924/saudi-arabia/7-opec-countries-to-raise-oil-output-by-188000-bpd-in-july",
       "published_date": "2026-06-07T14:44:41+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia to showcase premium dates as guest of honor at Fancy Food Show in New York",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662096/saudi-arabia/saudi-arabia-to-showcase-premium-dates-as-guest-of-honor-at-fancy-food-show-in-new-york",
+      "published_date": "2026-06-13T15:11:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia calls for stronger global cooperation to build resilient tourism sector",
@@ -452,11 +445,25 @@
       "category": "Economy"
     },
     {
-      "title": "The Saudi investor behind $1.5 billion in technology investments",
+      "title": "Saudi school students sit for final exams from Sunday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661902/saudi-arabia/the-saudi-investor-behind-15-billion-in-technology-investments",
-      "published_date": "2026-06-06T17:55:33+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662097/saudi-arabia/saudi-school-students-sit-for-final-exams-from-sunday",
+      "published_date": "2026-06-13T16:06:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia joins hand with Lebanon in foiling attempt to smuggle 3.9 million amphetamine pills",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662094/saudi-arabia/saudi-arabia-joins-hand-with-lebanon-in-foiling-attempt-to-smuggle-39-million-amphetamine-pills",
+      "published_date": "2026-06-13T14:13:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry suspends 21 Umrah companies for poor performance and violations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662090/saudi-arabia/hajj-ministry-suspends-21-umrah-companies-for-poor-performance-and-violations",
+      "published_date": "2026-06-13T13:45:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN chooses Riyadh as headquarters for UNITAR’s first cybersecurity office",
@@ -575,27 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661945/saudi-arabia/riyadhs-wadi-laban-parallel-bridges-to-serve-400000-vehicles-daily",
       "published_date": "2026-06-08T12:45:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain, thunderstorms forecast across Makkah and southern regions through Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661937/saudi-arabia/heavy-rain-thunderstorms-forecast-across-makkah-and-southern-regions-through-friday",
-      "published_date": "2026-06-08T08:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 expats arrested for prostitution in Najran",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661927/saudi-arabia/12-expats-arrested-for-prostitution-in-najran",
-      "published_date": "2026-06-07T16:51:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead, five injured after shooting in Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T15:40:49+00:00",
       "category": "Local Events"
     }
   ]
