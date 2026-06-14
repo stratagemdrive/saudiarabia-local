@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-14T00:08:14.895521+00:00",
+  "last_updated": "2026-06-14T12:59:11.314573+00:00",
   "story_count": 83,
   "stories": [
+    {
+      "title": "MOI: more than 10,700 violators apprehended across Kingdom in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662115/saudi-arabia/moi-more-than-10700-violators-apprehended-across-kingdom-in-a-week",
+      "published_date": "2026-06-14T11:56:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reaffirms support for Palestinian statehood, Gaza ceasefire efforts at Oslo Forum",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662110/saudi-arabia/saudi-arabia-reaffirms-support-for-palestinian-statehood-gaza-ceasefire-efforts-at-oslo-forum",
+      "published_date": "2026-06-14T11:31:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan review regional developments during ministerial call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662106/saudi-arabia/saudi-arabia-pakistan-review-regional-developments-muring-ministerial-call",
+      "published_date": "2026-06-14T10:33:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 7,989 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662017/saudi-arabia/bahraini-crown-prince-meets-gulf-foreign-ministers",
       "published_date": "2026-06-10T16:03:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC challenges Iran: How can future ties be built while  attacks continue?",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662016/saudi-arabia/gcc-challenges-iran-how-can-future-ties-be-built-while-attacks-continue",
-      "published_date": "2026-06-10T15:42:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia reiterates full solidarity with Bahrain, Kuwait, and Jordan against Iranian attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662013/saudi-arabia/saudi-arabia-reiterates-full-solidarity-with-bahrain-kuwait-and-jordan-against-iranian-attacks",
-      "published_date": "2026-06-10T14:55:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi deputy FM, Spanish official review bilateral ties and regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662006/saudi-arabia/saudi-deputy-fm-spanish-official-review-bilateral-ties-and-regional-developments",
-      "published_date": "2026-06-10T12:54:13+00:00",
       "category": "Diplomacy"
     },
     {
@@ -445,6 +445,13 @@
       "category": "Economy"
     },
     {
+      "title": "Umrah pilgrims surpass 11.2 million in Q4 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662107/saudi-arabia/umrah-performers-surpass-112-million-in-q4-2025",
+      "published_date": "2026-06-14T11:07:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi school students sit for final exams from Sunday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662097/saudi-arabia/saudi-school-students-sit-for-final-exams-from-sunday",
@@ -575,13 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661951/saudi-arabia/saudi-health-ministry-warns-against-skipping-medications-for-unproven-diets",
       "published_date": "2026-06-08T13:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh’s Wadi Laban parallel bridges to serve 400,000 vehicles daily",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661945/saudi-arabia/riyadhs-wadi-laban-parallel-bridges-to-serve-400000-vehicles-daily",
-      "published_date": "2026-06-08T12:45:46+00:00",
       "category": "Local Events"
     }
   ]
