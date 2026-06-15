@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-15T00:11:50.776034+00:00",
-  "story_count": 80,
+  "last_updated": "2026-06-15T16:15:54.012487+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Saudi, Jordanian FMs review regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662170/saudi-arabia/saudi-jordanian-fms-review-regional-developments-in-phone-call",
+      "published_date": "2026-06-15T15:22:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry recalls 490 GM SUVs over defect that could trigger rear-wheel lockup",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662158/saudi-arabia/commerce-ministry-recalls-490-gm-suvs-over-defect-that-could-trigger-rear-wheel-lockup",
+      "published_date": "2026-06-15T11:54:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Midday work ban takes effect across Saudi private sector until September 15",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662156/saudi-arabia/midday-work-ban-takes-effect-across-saudi-private-sector-until-september-15",
+      "published_date": "2026-06-15T11:26:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM welcomes US-Iran deal in call with Iranian FM, reaffirms push for lasting peace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662155/saudi-arabia/saudi-fm-welcomes-us-iran-deal-in-call-with-iranian-fm-reaffirms-push-for-lasting-peace",
+      "published_date": "2026-06-15T11:03:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes US-Iran deal, hopes for lasting peace and regional stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662154/saudi-arabia/saudi-arabia-welcomes-us-iran-deal-voices-hope-for-lasting-peace-and-regional-stability",
+      "published_date": "2026-06-15T10:52:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Unified platform launched to support legislative coordination and integration among Gulf states",
       "source": "Saudi Gazette",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia calls for avoidance of any further escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662044/saudi-arabia/saudi-arabia-calls-for-avoidance-of-any-further-escalation",
-      "published_date": "2026-06-11T12:52:44+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T14:59:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia reaffirms Palestine as Arab World’s central cause at UN Security Council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662039/saudi-arabia/saudi-arabia-reaffirms-palestine-as-arab-worlds-central-cause-at-un-security-council",
-      "published_date": "2026-06-11T12:38:54+00:00",
-      "category": "Diplomacy"
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T14:26:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia resumes Lebanese exports after Crown Prince directive",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662024/saudi-arabia/saudi-arabia-resumes-lebanese-exports-after-crown-prince-directive",
-      "published_date": "2026-06-11T00:02:36+00:00",
-      "category": "Diplomacy"
+      "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T13:54:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi foreign minister attends GCC-Canada Strategic Dialogue Ministerial Meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662023/saudi-arabia/saudi-foreign-minister-attends-gcc-canada-strategic-dialogue-ministerial-meeting",
-      "published_date": "2026-06-10T20:23:48+00:00",
-      "category": "Diplomacy"
+      "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T13:50:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Greece strengthen cooperation to elevate tourism experiences",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662022/saudi-arabia/saudi-arabia-greece-strengthen-cooperation-to-elevate-tourism-experiences",
-      "published_date": "2026-06-10T20:13:02+00:00",
-      "category": "Diplomacy"
+      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T13:07:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli military says Hezbollah targets struck in Beirut",
@@ -207,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "'Please send help': Crew's distress call after ship hit by US missile",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T13:42:26+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi intelligence helps UAE thwart smuggling of 267,300 amphetamine pills",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661972/saudi-arabia/saudi-intelligence-helps-uae-thwart-smuggling-of-267300-amphetamine-pills",
@@ -235,25 +277,18 @@
       "category": "Military"
     },
     {
-      "title": "Jeddah Mayoralty serves evacuation notices for 129 dilapidated buildings in Ghulail district",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661956/saudi-arabia/jeddah-mayoralty-serves-evacuation-notices-for-129-dilapidated-buildings-in-ghulail-district",
-      "published_date": "2026-06-08T15:16:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Defense Ministry denies reports of attack on Prince Sultan Air Base",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661954/saudi-arabia/saudi-arabia-denies-reports-of-attack-on-prince-sultan-air-base",
-      "published_date": "2026-06-08T14:25:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian strike on Israel suggests Tehran's sense of resilience is growing",
+      "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-08T14:11:22+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T14:21:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Non-compliant fuel station behind Riyadh petroleum spill, Fuel Service Committee says",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662161/saudi-arabia/non-compliant-fuel-station-behind-riyadh-petroleum-spill-fuel-service-committee-says",
+      "published_date": "2026-06-15T12:52:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia, Korea agree to bolster energy partnership",
@@ -296,6 +331,13 @@
       "url": "https://saudigazette.com.sa/article/661983/saudi-arabia/tasi-surges-142-points-closes-at-11115-points",
       "published_date": "2026-06-09T14:56:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia spends SR32 billion on developing digital government services in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662169/saudi-arabia/saudi-arabia-spends-sr32-billion-on-developing-digital-government-services-in-2025",
+      "published_date": "2026-06-15T14:33:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi establishments near full digital connectivity as internet penetration hits 98% and AI adoption surges 20% in 2025",
@@ -417,11 +459,39 @@
       "category": "Economy"
     },
     {
-      "title": "Rural tourism thrives in Saudi Arabia",
+      "title": "Qiddiya unveils region&#039;s largest National Tennis Centre",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661952/saudi-arabia/rural-tourism-thrives-in-saudi-arabia",
-      "published_date": "2026-06-08T14:08:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662168/saudi-arabia/qiddiya-unveils-regions-largest-national-tennis-centre",
+      "published_date": "2026-06-15T14:14:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Organs from a brain-dead Saudi boy save the lives of 4 patients in Buraidah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662167/saudi-arabia/organs-from-a-brain-dead-saudi-boy-save-the-lives-of-4-patients-in-buraidah",
+      "published_date": "2026-06-15T14:05:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where to watch the World Cup in Saudi Arabia: A guide to the Kingdom’s Fan Zones",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662166/saudi-arabia/where-to-watch-the-world-cup-in-saudi-arabia-a-guide-to-the-kingdoms-fan-zones",
+      "published_date": "2026-06-15T14:01:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Initiative launched to turn parks into fan zones across Kingdom for World Cup Saudi matches",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662165/saudi-arabia/initiative-launched-to-turn-parks-into-fan-zones-across-kingdom-for-world-cup-saudi-matches",
+      "published_date": "2026-06-15T13:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi inflation rises by 1.8% in May, driven by hike in housing, water, and electricity prices",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662164/saudi-arabia/saudi-inflation-rises-by-18-in-may-driven-by-hike-in-housing-water-and-electricity-prices",
+      "published_date": "2026-06-15T13:24:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Meticulous preparations as Kaaba set to adorn with new Kiswa on new Hijri year",
@@ -526,41 +596,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662002/saudi-arabia/historic-jeddah-waterfront-project-enters-2nd-phase-to-restore-its-connection-to-the-sea",
       "published_date": "2026-06-10T12:18:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven people rescued after their vessel broke down off the coast of Rabigh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661988/saudi-arabia/seven-people-rescued-after-their-vessel-broke-down-off-the-coast-of-rabigh",
-      "published_date": "2026-06-09T20:56:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T17:47:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia, Türkiye sign railway deal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661981/saudi-arabia/saudi-arabia-turkiye-sign-rail-and-logistics-deals-to-boost-gulf-europe-corridor",
-      "published_date": "2026-06-09T14:17:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM: Eastern Province faces searing 50°C temperatures through Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661980/saudi-arabia/ncm-eastern-province-faces-searing-50c-temperatures-through-sunday",
-      "published_date": "2026-06-09T14:11:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "135 suspects in commercial cover-up cases referred to security authorities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661978/saudi-arabia/135-suspects-in-commercial-cover-up-cases-referred-to-security-authorities",
-      "published_date": "2026-06-09T13:36:14+00:00",
       "category": "Local Events"
     }
   ]
