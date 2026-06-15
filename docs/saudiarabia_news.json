@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-14T12:59:11.314573+00:00",
-  "story_count": 83,
+  "last_updated": "2026-06-15T00:11:50.776034+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Unified platform launched to support legislative coordination and integration among Gulf states",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662137/saudi-arabia/unified-platform-launched-to-support-legislative-coordination-and-integration-among-gulf-states",
+      "published_date": "2026-06-14T21:21:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sports Center Regulations criminalize marketing or use of performance-enhancing drugs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662131/saudi-arabia/sports-center-regulations-criminalize-marketing-or-use-of-performance-enhancing-drugs",
+      "published_date": "2026-06-14T14:58:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Municipalities Ministry urges vacant land owners to correct violations before Sept. 26 deadline",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662128/saudi-arabia/municipalities-ministry-urges-vacant-land-owners-to-correct-violations-before-sept-26-deadline",
+      "published_date": "2026-06-14T13:24:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "MOI: more than 10,700 violators apprehended across Kingdom in a week",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia elected First Vice-Chair of UN Committee on the Peaceful Uses of Outer Space",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662020/saudi-arabia/saudi-arabia-elected-first-vice-chair-of-un-committee-on-the-peaceful-uses-of-outer-space",
-      "published_date": "2026-06-10T17:36:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince offer condolences to Philippines president over earthquake victims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662019/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-philippines-president-over-earthquake-victims",
-      "published_date": "2026-06-10T17:20:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bahraini Crown Prince meets Gulf foreign ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662017/saudi-arabia/bahraini-crown-prince-meets-gulf-foreign-ministers",
-      "published_date": "2026-06-10T16:03:30+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli military says Hezbollah targets struck in Beirut",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T17:52:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia updates traffic regulations to govern self-driving vehicles",
@@ -249,18 +256,11 @@
       "category": "Military"
     },
     {
-      "title": "Children’s Hospitality Center elevates visitor experience at the Prophet’s Mosque with safety and learning",
+      "title": "Saudi Arabia, Korea agree to bolster energy partnership",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661925/saudi-arabia/childrens-hospitality-center-elevates-visitor-experience-at-the-prophets-mosque-with-safety-and-learning",
-      "published_date": "2026-06-07T15:21:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Passports Directorate streamlines pilgrim departures with smart mobile counters and AI translation in 138 languages",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661920/saudi-arabia/passports-directorate-streamlines-pilgrim-departures-with-smart-mobile-counters-and-ai-translation-in-138-languages",
-      "published_date": "2026-06-07T13:40:44+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662135/saudi-arabia/saudi-arabia-korea-agree-to-bolster-energy-partnership",
+      "published_date": "2026-06-14T20:39:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ministry of Energy announces winning bidders for 8 LPG filling, storage, and bulk distribution licenses",
@@ -298,11 +298,11 @@
       "category": "Energy"
     },
     {
-      "title": "7 OPEC+ countries to raise oil output by 188,000 bpd in July",
+      "title": "Saudi establishments near full digital connectivity as internet penetration hits 98% and AI adoption surges 20% in 2025",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661924/saudi-arabia/7-opec-countries-to-raise-oil-output-by-188000-bpd-in-july",
-      "published_date": "2026-06-07T14:44:41+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662133/saudi-arabia/saudi-establishments-near-full-digital-connectivity-as-internet-penetration-hits-98-and-ai-adoption-surges-20-in-2025",
+      "published_date": "2026-06-14T15:49:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia to showcase premium dates as guest of honor at Fancy Food Show in New York",
@@ -424,25 +424,39 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi vehicle imports surge to 1.9 million in 2 years, with China emerging leading supplier",
+      "title": "Meticulous preparations as Kaaba set to adorn with new Kiswa on new Hijri year",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661928/saudi-arabia/saudi-vehicle-imports-surge-to-19-million-in-2-years-with-china-emerging-leading-supplier",
-      "published_date": "2026-06-07T17:19:47+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662136/saudi-arabia/meticulous-preparations-as-kaaba-set-to-adorn-with-new-kiswa-on-new-hijri-year",
+      "published_date": "2026-06-14T20:48:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Prince Khaled bin Alwaleed outlines vision for future cities at SXSW London",
+      "title": "Saudi, Chinese companies sign 6 MoUs to enhance cooperation in vital sectors",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661926/saudi-arabia/prince-khaled-bin-alwaleed-outlines-future-cities-vision-at-sxsw-london",
-      "published_date": "2026-06-07T15:22:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662134/saudi-arabia/saudi-chinese-companies-sign-6-mous-to-enhance-cooperation-in-vital-sectors",
+      "published_date": "2026-06-14T17:07:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Alkhorayef explores high-impact industrial partnerships to deepen Saudi-Russian collaboration",
+      "title": "HR Ministry answers: What should a worker do if his salary is delayed?",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661922/saudi-arabia/alkhorayef-explores-high-impact-industrial-partnerships-to-deepen-saudi-russian-collaboration",
-      "published_date": "2026-06-07T14:07:15+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662130/saudi-arabia/hr-ministry-answers-what-should-a-worker-do-if-his-salary-is-delayed",
+      "published_date": "2026-06-14T14:39:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calligrapher Bukhari’s legacy lives on in gold thread of Kaaba Kiswa for over 50 years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662129/saudi-arabia/calligrapher-bukharis-legacy-lives-on-in-gold-thread-of-kaaba-kiswa-for-over-50-years",
+      "published_date": "2026-06-14T14:09:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM: Thunderstorms to continue across southwestern Saudi Arabia through end of week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662121/saudi-arabia/ncm-thunderstorms-to-continue-across-southwestern-saudi-arabia-through-end-of-week",
+      "published_date": "2026-06-14T12:36:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Umrah pilgrims surpass 11.2 million in Q4 2025",
@@ -547,41 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661978/saudi-arabia/135-suspects-in-commercial-cover-up-cases-referred-to-security-authorities",
       "published_date": "2026-06-09T13:36:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Commission documents 1,774 archaeological discoveries in Madinah&#039;s Al-Mahd governorate",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661974/saudi-arabia/heritage-commission-documents-1774-archaeological-discoveries-in-madinahs-al-mahd-governorate",
-      "published_date": "2026-06-09T12:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T06:15:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA penalizes 1,753 erring food establishments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661957/saudi-arabia/sfda-penalizes-1753-erring-food-establishments",
-      "published_date": "2026-06-08T16:10:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eastern Province unveils SR406 million road projects, signs SR3 billion transport agreements",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661955/saudi-arabia/eastern-province-unveils-sr406-million-road-projects-signs-sr3-billion-transport-agreements",
-      "published_date": "2026-06-08T14:46:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Health Ministry warns against skipping medications for unproven diets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661951/saudi-arabia/saudi-health-ministry-warns-against-skipping-medications-for-unproven-diets",
-      "published_date": "2026-06-08T13:48:51+00:00",
       "category": "Local Events"
     }
   ]
