@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-16T01:41:13.311926+00:00",
+  "last_updated": "2026-06-16T15:51:10.185218+00:00",
   "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi Arabia reiterates Arab Group’s support for UN’s role in promoting global peace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662206/saudi-arabia/saudi-arabia-reiterates-arab-groups-support-for-uns-role-in-promoting-global-peace",
+      "published_date": "2026-06-16T14:37:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T14:34:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry recalls 717 Land Rover Evoque vehicles over airbag defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662202/saudi-arabia/commerce-ministry-recalls-717-land-rover-evoque-vehicles-over-airbag-defect",
+      "published_date": "2026-06-16T13:30:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Bahrain FMs reaffirm coordination to enhance regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662193/saudi-arabia/saudi-bahrain-fms-reaffirm-coordination-to-enhance-regional-security",
+      "published_date": "2026-06-16T11:09:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Supreme Court announces Tuesday first day of Islamic New Year",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qiwa: Premium Residency holders must obtain SR100 work permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662069/saudi-arabia/qiwa-premium-residency-holders-must-obtain-sr100-work-permit",
-      "published_date": "2026-06-12T08:19:04+00:00",
-      "category": "Diplomacy"
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T15:31:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Riyadh to host Global Security and Technology Summit in December 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662056/saudi-arabia/riyadh-to-host-global-security-and-technology-summit-in-december-2026",
-      "published_date": "2026-06-11T17:27:13+00:00",
-      "category": "Diplomacy"
+      "title": "'Hell will rain down' on Iran if they get nuclear weapon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c15yq5w7wy1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T11:11:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Crown Prince informs Macron his inability to attend G7 Summit due to prior commitments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662055/saudi-arabia/saudi-crown-prince-informs-macron-his-inability-to-attend-g7-summit-due-to-prior-commitments",
-      "published_date": "2026-06-11T16:23:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi citizen referred to Public Prosecution for insulting sister nation in audio recording",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662052/saudi-arabia/saudi-citizen-referred-to-public-prosecution-for-insulting-sister-nation-in-audio-recording",
-      "published_date": "2026-06-11T14:49:23+00:00",
-      "category": "Diplomacy"
+      "title": "Trump may release US-Iran deal before Friday, Vance says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T08:07:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Preparations to adorn Holy Kaaba with new Kiswa begins in Makkah",
@@ -256,20 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "'Please send help': Crew's distress call after ship hit by US missile",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T13:42:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi intelligence helps UAE thwart smuggling of 267,300 amphetamine pills",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661972/saudi-arabia/saudi-intelligence-helps-uae-thwart-smuggling-of-267300-amphetamine-pills",
-      "published_date": "2026-06-09T12:10:05+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
@@ -319,11 +326,25 @@
       "category": "Energy"
     },
     {
-      "title": "TASI surges 1.3%, closes at 11,115 points",
+      "title": "SASO imposes temporary ban on vehicles of 29 erring companies from entering Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661983/saudi-arabia/tasi-surges-142-points-closes-at-11115-points",
-      "published_date": "2026-06-09T14:56:55+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662208/saudi-arabia/saso-imposes-temporary-ban-on-vehicles-of-29-erring-companies-from-entering-saudi-arabia",
+      "published_date": "2026-06-16T15:17:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Red Sea Global opens first of nine resorts at AMAALA",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662195/saudi-arabia/red-sea-global-opens-first-of-nine-resorts-at-amaala",
+      "published_date": "2026-06-16T12:09:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Eastern Province attracts over SR7 billion in foreign investment through environmental projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662194/saudi-arabia/eastern-province-attracts-over-sr7-billion-in-foreign-investment-through-environmental-projects",
+      "published_date": "2026-06-16T11:43:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Pavilion, showcasing cutting-edge defense systems, inaugurated at Eurosatory 2026 in Paris",
@@ -424,25 +445,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi economy grows 3% in Q1 2026 as non-oil activities lead expansion",
+      "title": "Holy Kaaba adorned with new Kiswa",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661976/saudi-arabia/saudi-economy-grows-3-in-q1-2026-as-non-oil-activities-lead-expansion",
-      "published_date": "2026-06-09T13:02:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia&#039;s GDP reaches $1.31 trillion: NTP report",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661975/saudi-arabia/saudi-gdp-reaches-131-trillion-as-vision-2030-targets-advance-in-2025",
-      "published_date": "2026-06-09T12:57:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia, Russia sign 13 agreements worth SR4.8 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661968/saudi-arabia/saudi-arabia-russia-sign-13-agreements-worth-sr48-billion",
-      "published_date": "2026-06-09T10:54:24+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662205/saudi-arabia/holy-kaaba-adorned-with-new-kiswa",
+      "published_date": "2026-06-16T14:19:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Qiddiya unveils region&#039;s largest National Tennis Centre",
@@ -575,13 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662010/saudi-arabia/one-man-arrested-for-trafficking-30-kilograms-of-hashish",
       "published_date": "2026-06-10T14:07:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic Jeddah waterfront project enters 2nd phase to restore its connection to the sea",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662002/saudi-arabia/historic-jeddah-waterfront-project-enters-2nd-phase-to-restore-its-connection-to-the-sea",
-      "published_date": "2026-06-10T12:18:46+00:00",
       "category": "Local Events"
     }
   ]
