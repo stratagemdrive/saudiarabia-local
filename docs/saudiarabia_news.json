@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-15T16:15:54.012487+00:00",
-  "story_count": 85,
+  "last_updated": "2026-06-16T01:41:13.311926+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi Supreme Court announces Tuesday first day of Islamic New Year",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662175/saudi-arabia/saudi-supreme-court-announces-tuesday-first-day-of-islamic-new-year",
+      "published_date": "2026-06-15T20:34:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia marks end of Hijri year 1447 with landmark achievements and transformational milestones",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662172/saudi-arabia/saudi-arabia-marks-end-of-hijri-year-1447-with-landmark-achievements-and-transformational-milestones",
+      "published_date": "2026-06-15T16:17:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Jordanian FMs review regional developments in phone call",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At UN, Alwasil reaffirms Arab position on Palestinian cause",
+      "title": "Preparations to adorn Holy Kaaba with new Kiswa begins in Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662050/saudi-arabia/at-un-alwasil-reaffirms-arab-position-on-palestinian-cause",
-      "published_date": "2026-06-11T14:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662176/saudi-arabia/preparations-to-adorn-holy-kaaba-with-new-kiswa-begins-in-makkah",
+      "published_date": "2026-06-15T21:19:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Ambassador to UK reaffirms Saudi support for IMO’s efforts to enhance international maritime security",
+      "title": "Al-Samaani underscores need to enhance judicial, legal cooperation among Arab countries",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662048/saudi-arabia/saudi-ambassador-to-uk-reaffirms-saudi-support-for-imos-efforts-to-enhance-international-maritime-security",
-      "published_date": "2026-06-11T13:07:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662171/saudi-arabia/al-samaani-underscores-need-to-enhance-judicial-legal-cooperation-among-arab-countries",
+      "published_date": "2026-06-15T15:43:02+00:00",
+      "category": "Military"
     },
     {
       "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
@@ -256,27 +270,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-08T22:47:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump tells BBC Netanyahu did not defy him",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-08T22:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia confirms missile fired from Yemen to another country fails, lands near border",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661958/saudi-arabia/saudi-arabia-confirms-missile-fired-from-yemen-to-another-country-fails-lands-near-border",
-      "published_date": "2026-06-08T17:30:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
@@ -331,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/661983/saudi-arabia/tasi-surges-142-points-closes-at-11115-points",
       "published_date": "2026-06-09T14:56:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Pavilion, showcasing cutting-edge defense systems, inaugurated at Eurosatory 2026 in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662173/saudi-arabia/saudi-pavilion-showcasing-cutting-edge-defense-systems-inaugurated-at-eurosatory-2026-in-paris",
+      "published_date": "2026-06-15T17:44:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia spends SR32 billion on developing digital government services in 2025",
@@ -442,20 +442,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/661968/saudi-arabia/saudi-arabia-russia-sign-13-agreements-worth-sr48-billion",
       "published_date": "2026-06-09T10:54:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia offers five sports clubs for investment",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661962/saudi-arabia/saudi-arabia-offers-five-sports-clubs-for-investment",
-      "published_date": "2026-06-08T21:13:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Over 40 Arabian sand gazelle births recorded at Imam Turki bin Abdullah Royal Reserve",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661961/saudi-arabia/over-40-arabian-sand-gazelle-births-recorded-at-imam-turki-bin-abdullah-royal-reserve",
-      "published_date": "2026-06-08T21:07:33+00:00",
       "category": "Economy"
     },
     {
