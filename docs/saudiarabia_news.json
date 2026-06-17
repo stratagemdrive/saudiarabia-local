@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-16T15:51:10.185218+00:00",
-  "story_count": 83,
+  "last_updated": "2026-06-17T00:17:50.689258+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Crown Prince receives message from Chechen president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662218/saudi-arabia/crown-prince-receives-message-from-chechen-president",
+      "published_date": "2026-06-16T22:07:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia and Portugal agree for mutual visa exemption for diplomatic and special passports holders",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662217/saudi-arabia/saudi-portuguese-foreign-ministers-agree-for-mutual-visa-exemption-for-diplomatic-and-special-passports-holders",
+      "published_date": "2026-06-16T22:02:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia favors regional peace with safeguarding security interests of all countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662215/saudi-arabia/saudi-arabia-favors-regional-peace-with-safeguarding-security-interests-of-all-countries",
+      "published_date": "2026-06-16T18:42:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia and Qatar reaffirm full support for all efforts to enhance regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662214/saudi-arabia/saudi-arabia-and-qatar-reaffirm-full-support-for-all-efforts-to-enhance-regional-security",
+      "published_date": "2026-06-16T17:44:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TGA: 15 days remaining to object to unpaid traffic fines issued before 1st November 2024",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662212/saudi-arabia/tga-15-days-remaining-to-object-to-unpaid-traffic-fines-issued-before-1st-november-2024",
+      "published_date": "2026-06-16T17:31:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia reiterates Arab Group’s support for UN’s role in promoting global peace",
       "source": "Saudi Gazette",
@@ -109,45 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia reaffirms support for Palestinian statehood, Gaza ceasefire efforts at Oslo Forum",
+      "title": "Amid rising temperatures, Civil Defense warns against leaving flammable materials inside vehicles",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662110/saudi-arabia/saudi-arabia-reaffirms-support-for-palestinian-statehood-gaza-ceasefire-efforts-at-oslo-forum",
-      "published_date": "2026-06-14T11:31:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan review regional developments during ministerial call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662106/saudi-arabia/saudi-arabia-pakistan-review-regional-developments-muring-ministerial-call",
-      "published_date": "2026-06-14T10:33:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 7,989 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662098/saudi-arabia/saudi-arabia-deports-7989-illegal-residents-in-a-week",
-      "published_date": "2026-06-13T17:11:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T11:15:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for stronger protections for elderly people with disabilities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662078/saudi-arabia/saudi-arabia-calls-for-stronger-protections-for-elderly-people-with-disabilities",
-      "published_date": "2026-06-12T13:22:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662211/saudi-arabia/amid-rising-temperatures-civil-defense-warns-against-leaving-flammable-materials-inside-vehicles",
+      "published_date": "2026-06-16T16:56:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-16T15:31:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T14:11:30+00:00",
       "category": "Military"
     },
     {
@@ -242,41 +256,6 @@
       "category": "Military"
     },
     {
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T23:35:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches strikes on Iranian military targets after Apache helicopter incident",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661989/saudi-arabia/us-launches-strikes-on-iran-after-apache-helicopter-incident",
-      "published_date": "2026-06-09T22:05:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US striking Iran in response to downing of helicopter, military says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T21:43:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T20:14:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "20 tons of spoiled food destroyed in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661985/saudi-arabia/20-tons-of-spoiled-food-destroyed-in-jeddah",
-      "published_date": "2026-06-09T16:02:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
@@ -324,6 +303,20 @@
       "url": "https://saudigazette.com.sa/article/661999/saudi-arabia/saudi-nominal-gdp-rises-63-to-sr1274-trillion-in-q1-monthly-bulletin-shows",
       "published_date": "2026-06-10T11:47:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi-French ties enter new phase of growth, says Saudi Chambers chief",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662210/saudi-arabia/sheikh-kamel-saudi-french-partnership-ushers-in-a-new-era-of-accelerated-growth-and-innovation",
+      "published_date": "2026-06-16T16:45:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CEDA: Regional tensions won&#039;t halt Saudi development projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662209/saudi-arabia/ceda-reviews-ministry-of-economy-report-highlighting-kingdoms-strong-financial-resilience-amid-regional-tensions",
+      "published_date": "2026-06-16T15:51:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "SASO imposes temporary ban on vehicles of 29 erring companies from entering Saudi Arabia",
