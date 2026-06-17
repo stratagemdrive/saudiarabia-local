@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-17T00:17:50.689258+00:00",
+  "last_updated": "2026-06-17T14:25:25.734875+00:00",
   "story_count": 82,
   "stories": [
+    {
+      "title": "Lebanese foreign minister receives new Saudi ambassador",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662228/saudi-arabia/lebanese-foreign-minister-receives-new-saudi-ambassador",
+      "published_date": "2026-06-17T13:35:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi conservation efforts drive sea turtle recovery at Ras Baridi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662222/saudi-arabia/saudi-conservation-efforts-drive-sea-turtle-recovery-at-ras-baridi",
+      "published_date": "2026-06-17T11:43:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince receives message from Chechen president",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Municipalities Ministry urges vacant land owners to correct violations before Sept. 26 deadline",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662128/saudi-arabia/municipalities-ministry-urges-vacant-land-owners-to-correct-violations-before-sept-26-deadline",
-      "published_date": "2026-06-14T13:24:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "MOI: more than 10,700 violators apprehended across Kingdom in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662115/saudi-arabia/moi-more-than-10700-violators-apprehended-across-kingdom-in-a-week",
-      "published_date": "2026-06-14T11:56:46+00:00",
-      "category": "Diplomacy"
+      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T23:52:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Amid rising temperatures, Civil Defense warns against leaving flammable materials inside vehicles",
@@ -256,6 +263,20 @@
       "category": "Military"
     },
     {
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-17T13:27:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia marks World Day to Combat Desertification with restoration milestones",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662227/saudi-arabia/saudi-arabia-marks-world-day-to-combat-desertification-with-restoration-milestones",
+      "published_date": "2026-06-17T13:15:07+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
@@ -288,20 +309,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662034/saudi-arabia/un-adds-saudi-green-building-forum-to-official-sustainability-forum-program",
       "published_date": "2026-06-11T11:40:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Industrial Production Index drops by over 19% in April 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662008/saudi-arabia/saudi-industrial-production-index-drops-by-over-19-in-april-2026",
-      "published_date": "2026-06-10T13:54:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi nominal GDP rises 6.3% to SR1.274 trillion in Q1, monthly bulletin shows",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/661999/saudi-arabia/saudi-nominal-gdp-rises-63-to-sr1274-trillion-in-q1-monthly-bulletin-shows",
-      "published_date": "2026-06-10T11:47:00+00:00",
       "category": "Energy"
     },
     {
@@ -431,11 +438,18 @@
       "category": "Economy"
     },
     {
-      "title": "UK-Saudi Investment and Partnership Summit explores promising opportunities in key sectors",
+      "title": "Saudi students won three international awards at the European Physics Olympiad 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662005/saudi-arabia/uk-saudi-investment-and-partnership-summit-explores-promising-opportunities-in-key-sectors",
-      "published_date": "2026-06-10T12:52:46+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662226/saudi-arabia/saudi-students-won-three-international-awards-at-the-european-physics-olympiad-2026",
+      "published_date": "2026-06-17T12:37:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Royal Commission greenlights AlUla Manara, landmark astronomy hub",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662221/saudi-arabia/royal-commission-greenlights-alula-manara-landmark-astronomy-hub",
+      "published_date": "2026-06-17T11:04:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Holy Kaaba adorned with new Kiswa",
@@ -561,20 +575,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-11T12:09:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T14:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One man arrested for trafficking 30 kilograms of hashish",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662010/saudi-arabia/one-man-arrested-for-trafficking-30-kilograms-of-hashish",
-      "published_date": "2026-06-10T14:07:40+00:00",
       "category": "Local Events"
     }
   ]
