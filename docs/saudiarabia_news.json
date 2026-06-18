@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-18T00:16:34.988785+00:00",
-  "story_count": 78,
+  "last_updated": "2026-06-18T14:08:25.132453+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Saudi medical team began separation surgery on Filipino conjoined twins",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662267/saudi-arabia/saudi-medical-team-began-separation-surgery-on-filipino-conjoined-twins",
+      "published_date": "2026-06-18T12:20:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia urges stronger international cooperation to address growing humanitarian challenges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662263/saudi-arabia/saudi-arabia-urges-stronger-international-cooperation-to-address-growing-humanitarian-challenges",
+      "published_date": "2026-06-18T11:28:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM: Trust with Iran must be rebuilt before economic cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662255/saudi-arabia/saudi-fm-trust-with-iran-must-be-rebuilt-before-economic-cooperation",
+      "published_date": "2026-06-18T00:43:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia and Austria to bolster bilateral ties",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia marks end of Hijri year 1447 with landmark achievements and transformational milestones",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662172/saudi-arabia/saudi-arabia-marks-end-of-hijri-year-1447-with-landmark-achievements-and-transformational-milestones",
-      "published_date": "2026-06-15T16:17:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Jordanian FMs review regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662170/saudi-arabia/saudi-jordanian-fms-review-regional-developments-in-phone-call",
-      "published_date": "2026-06-15T15:22:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce Ministry recalls 490 GM SUVs over defect that could trigger rear-wheel lockup",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662158/saudi-arabia/commerce-ministry-recalls-490-gm-suvs-over-defect-that-could-trigger-rear-wheel-lockup",
-      "published_date": "2026-06-15T11:54:11+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iranian presidents sign deal aiming to end war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-18T03:03:29+00:00",
+      "category": "Military"
     },
     {
       "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
@@ -256,13 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-11T12:31:26+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iran sends tankers loaded with oil past US military blockade",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
@@ -305,11 +305,18 @@
       "category": "Energy"
     },
     {
-      "title": "UN adds Saudi Green Building Forum to official Sustainability Forum Program",
+      "title": "Saudi Arabia climbs to 13th globally, third among G20 in IMD World Competitiveness rankings",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662034/saudi-arabia/un-adds-saudi-green-building-forum-to-official-sustainability-forum-program",
-      "published_date": "2026-06-11T11:40:53+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662269/saudi-arabia/saudi-arabia-climbs-to-13th-globally-third-among-g20-in-imd-world-competitiveness-rankings",
+      "published_date": "2026-06-18T13:06:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PIF chief: International investments to continue as new strategy brings world to Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662266/saudi-arabia/pif-chief-international-investments-to-continue-under-new-strategy",
+      "published_date": "2026-06-18T12:05:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi-French ties enter new phase of growth, says Saudi Chambers chief",
@@ -408,6 +415,13 @@
       "url": "https://saudigazette.com.sa/article/662051/saudi-arabia/expat-remittances-jump-16-to-sr147-billion-in-april",
       "published_date": "2026-06-11T14:17:24+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "NCM warns of extreme heat as temperatures set to reach 50°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662261/saudi-arabia/ncm-warns-of-extreme-heat-as-temperatures-set-to-reach-50c",
+      "published_date": "2026-06-18T10:58:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Qiwa: Maximum 5 instant visas for newly established businesses",
@@ -540,13 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662094/saudi-arabia/saudi-arabia-joins-hand-with-lebanon-in-foiling-attempt-to-smuggle-39-million-amphetamine-pills",
       "published_date": "2026-06-13T14:13:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry suspends 21 Umrah companies for poor performance and violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662090/saudi-arabia/hajj-ministry-suspends-21-umrah-companies-for-poor-performance-and-violations",
-      "published_date": "2026-06-13T13:45:09+00:00",
       "category": "Local Events"
     }
   ]
