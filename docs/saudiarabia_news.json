@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-19T00:27:53.627372+00:00",
+  "last_updated": "2026-06-19T14:12:13.781790+00:00",
   "story_count": 78,
   "stories": [
+    {
+      "title": "Human Rights Commission concludes women’s rights trainer program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662297/saudi-arabia/saudi-human-rights-commission-concludes-womens-rights-training-program",
+      "published_date": "2026-06-19T06:45:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi foreign minister receives message from Chinese counterpart",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "TGA: 15 days remaining to object to unpaid traffic fines issued before 1st November 2024",
+      "title": "Civil Defense graduates 40 female recruits in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662212/saudi-arabia/tga-15-days-remaining-to-object-to-unpaid-traffic-fines-issued-before-1st-november-2024",
-      "published_date": "2026-06-16T17:31:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662298/saudi-arabia/saudi-civil-defense-graduates-40-female-recruits-in-safety-and-fire-protection-program",
+      "published_date": "2026-06-19T08:55:01+00:00",
+      "category": "Military"
     },
     {
       "title": "What Iran and US get from deal and why both could struggle to keep it",
@@ -312,6 +319,13 @@
       "category": "Energy"
     },
     {
+      "title": "Al-Khateeb says Saudi tourism overcame regional disruptions, eyes accelerated growth through 2030",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662303/saudi-arabia/al-khateeb-saudi-tourism-remains-resilient-amid-regional-turmoil-eyes-accelerated-growth-through-2030",
+      "published_date": "2026-06-19T11:09:02+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi Arabia records 123 million tourists with SR304 billion spending in 2025",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662271/saudi-arabia/saudi-arabia-records-123-million-tourists-with-sr304-billion-spending-in-2025",
@@ -396,18 +410,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia calls for stronger global cooperation to build resilient tourism sector",
+      "title": "Turki Alalshikh meets Erdogan’s son during Türkiye visit",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662080/saudi-arabia/saudi-arabia-calls-for-stronger-global-cooperation-to-build-resilient-tourism-sector",
-      "published_date": "2026-06-12T13:28:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ZATCA foils attempt to smuggle nearly 47,000 amphetamine pills hidden in cheese shipment",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662077/saudi-arabia/zatca-foils-attempt-to-smuggle-nearly-47000-amphetamine-pills",
-      "published_date": "2026-06-12T13:19:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662293/saudi-arabia/turki-alalshikh-meets-bilal-erdogan-during-visit-to-turkiye",
+      "published_date": "2026-06-19T03:57:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "65% of Saudi children exposed to inappropriate content; study reveals",
@@ -540,13 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662130/saudi-arabia/hr-ministry-answers-what-should-a-worker-do-if-his-salary-is-delayed",
       "published_date": "2026-06-14T14:39:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calligrapher Bukhari’s legacy lives on in gold thread of Kaaba Kiswa for over 50 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662129/saudi-arabia/calligrapher-bukharis-legacy-lives-on-in-gold-thread-of-kaaba-kiswa-for-over-50-years",
-      "published_date": "2026-06-14T14:09:02+00:00",
       "category": "Local Events"
     }
   ]
