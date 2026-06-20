@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-19T14:12:13.781790+00:00",
+  "last_updated": "2026-06-20T00:09:32.295587+00:00",
   "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi Crown Prince welcomes US-Iran agreement in call with Pakistan PM",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662310/saudi-arabia/saudi-crown-prince-welcomes-us-iran-agreement-during-call-with-pakistan-pm",
+      "published_date": "2026-06-19T19:42:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi ambassador to Lebanon presents credentials to President Aoun",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662308/saudi-arabia/saudi-ambassador-fahd-al-dosari-presents-credentials-to-lebanese-president-joseph-aoun",
+      "published_date": "2026-06-19T14:03:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Human Rights Commission concludes women’s rights trainer program",
       "source": "Saudi Gazette",
@@ -130,24 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia favors regional peace with safeguarding security interests of all countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662215/saudi-arabia/saudi-arabia-favors-regional-peace-with-safeguarding-security-interests-of-all-countries",
-      "published_date": "2026-06-16T18:42:03+00:00",
-      "category": "Diplomacy"
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T19:27:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia and Qatar reaffirm full support for all efforts to enhance regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662214/saudi-arabia/saudi-arabia-and-qatar-reaffirm-full-support-for-all-efforts-to-enhance-regional-security",
-      "published_date": "2026-06-16T17:44:59+00:00",
-      "category": "Diplomacy"
+      "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T15:16:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T14:53:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Civil Defense graduates 40 female recruits in Riyadh",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662298/saudi-arabia/saudi-civil-defense-graduates-40-female-recruits-in-safety-and-fire-protection-program",
       "published_date": "2026-06-19T08:55:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T05:33:59+00:00",
       "category": "Military"
     },
     {
@@ -253,34 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-15T13:54:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T13:50:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T13:07:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military says Hezbollah targets struck in Beirut",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T17:52:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia updates traffic regulations to govern self-driving vehicles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662084/saudi-arabia/saudi-arabia-updates-traffic-regulations-for-self-driving-vehicles",
-      "published_date": "2026-06-13T04:47:03+00:00",
       "category": "Military"
     },
     {
