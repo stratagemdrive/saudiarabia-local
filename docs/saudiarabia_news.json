@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-20T12:25:29.226004+00:00",
-  "story_count": 78,
+  "last_updated": "2026-06-21T00:08:23.544225+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "15,288 violators of residency, labor, and border security laws arrested in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662340/saudi-arabia/15288-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
+      "published_date": "2026-06-20T19:31:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon resumes exports to Saudi Arabia following lifting of 5-year-ban",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662338/saudi-arabia/lebanon-resumes-exports-to-saudi-arabia-following-lifting-of-5-year-ban",
+      "published_date": "2026-06-20T18:57:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanese PM receives new Saudi ambassador to Lebanon",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662329/saudi-arabia/lebanese-pm-receives-new-saudi-ambassador-to-lebanon",
+      "published_date": "2026-06-20T14:10:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince welcomes US-Iran agreement in call with Pakistan PM",
       "source": "Saudi Gazette",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi conservation efforts drive sea turtle recovery at Ras Baridi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662222/saudi-arabia/saudi-conservation-efforts-drive-sea-turtle-recovery-at-ras-baridi",
-      "published_date": "2026-06-17T11:43:39+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T21:57:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crown Prince receives message from Chechen president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662218/saudi-arabia/crown-prince-receives-message-from-chechen-president",
-      "published_date": "2026-06-16T22:07:37+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T21:11:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia and Portugal agree for mutual visa exemption for diplomatic and special passports holders",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T18:36:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T17:40:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At UN, Saudi Arabia reaffirms two-state solution only path to peace in Mideast",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662217/saudi-arabia/saudi-portuguese-foreign-ministers-agree-for-mutual-visa-exemption-for-diplomatic-and-special-passports-holders",
-      "published_date": "2026-06-16T22:02:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662334/saudi-arabia/at-un-saudi-arabia-reaffirms-two-state-solution-only-path-to-peace-in-mideast",
+      "published_date": "2026-06-20T15:43:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia condemns terrorist attack on Niamey airport in Niger",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662328/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-niamey-airport-in-niger",
+      "published_date": "2026-06-20T13:55:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump may release US-Iran deal before Friday, Vance says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T08:07:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Preparations to adorn Holy Kaaba with new Kiswa begins in Makkah",
+      "title": "Sunday marks astronomical start of summer, lasting for 93 days",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662176/saudi-arabia/preparations-to-adorn-holy-kaaba-with-new-kiswa-begins-in-makkah",
-      "published_date": "2026-06-15T21:19:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Samaani underscores need to enhance judicial, legal cooperation among Arab countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662171/saudi-arabia/al-samaani-underscores-need-to-enhance-judicial-legal-cooperation-among-arab-countries",
-      "published_date": "2026-06-15T15:43:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T14:59:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T14:26:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T13:54:18+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662336/saudi-arabia/sunday-marks-astronomical-start-of-summer-lasting-for-93-days",
+      "published_date": "2026-06-20T17:44:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran sends tankers loaded with oil past US military blockade",
@@ -317,6 +324,20 @@
       "url": "https://saudigazette.com.sa/article/662135/saudi-arabia/saudi-arabia-korea-agree-to-bolster-energy-partnership",
       "published_date": "2026-06-14T20:39:57+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "92% of Saudi regions are well prepared to face health risks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662339/saudi-arabia/92-of-saudi-regions-are-well-prepared-to-face-health-risks",
+      "published_date": "2026-06-20T19:06:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia chairs IMF AML/CFT Thematic Fund Steering Committee Meeting in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662333/saudi-arabia/saudi-arabia-chairs-imf-amlcft-thematic-fund-steering-committee-meeting-in-paris",
+      "published_date": "2026-06-20T15:30:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Khateeb says Saudi tourism overcame regional disruptions, eyes accelerated growth through 2030",
@@ -403,11 +424,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia to showcase premium dates as guest of honor at Fancy Food Show in New York",
+      "title": "School exam results to be available via Education Portal and Tawakkalna App on Monday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662096/saudi-arabia/saudi-arabia-to-showcase-premium-dates-as-guest-of-honor-at-fancy-food-show-in-new-york",
-      "published_date": "2026-06-13T15:11:50+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662337/saudi-arabia/school-exam-results-to-be-available-via-education-portal-and-tawakkalna-app-on-monday",
+      "published_date": "2026-06-20T17:53:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Turki Alalshikh meets Erdogan’s son during Türkiye visit",
@@ -540,13 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662134/saudi-arabia/saudi-chinese-companies-sign-6-mous-to-enhance-cooperation-in-vital-sectors",
       "published_date": "2026-06-14T17:07:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HR Ministry answers: What should a worker do if his salary is delayed?",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662130/saudi-arabia/hr-ministry-answers-what-should-a-worker-do-if-his-salary-is-delayed",
-      "published_date": "2026-06-14T14:39:06+00:00",
       "category": "Local Events"
     }
   ]
