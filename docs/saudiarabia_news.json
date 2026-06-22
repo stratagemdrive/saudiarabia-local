@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-22T00:13:07.910652+00:00",
-  "story_count": 81,
+  "last_updated": "2026-06-22T15:49:24.927218+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Saudi Arabia provides $23.761 billion to support refugees, displaced persons worldwide",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662396/saudi-arabia/saudi-arabia-provides-23761-billion-to-support-refugees-displaced-persons-worldwide",
+      "published_date": "2026-06-22T14:30:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanese defense minister discusses current developments with Saudi ambassador",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662391/saudi-arabia/lebanese-defense-minister-discusses-current-developments-with-saudi-ambassador",
+      "published_date": "2026-06-22T12:59:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia renews call for global action on refugee crises, highlights billions in humanitarian support",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662388/saudi-arabia/saudi-arabia-renews-call-for-global-action-on-refugee-crises-highlights-billions-in-humanitarian-support",
+      "published_date": "2026-06-22T12:07:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "El-Sisi underscores pivotal role of Quadrilateral Group in solidifying regional stability",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662273/saudi-arabia/saudi-arabia-declared-free-of-equine-viral-arteritis",
       "published_date": "2026-06-18T13:45:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi medical team began separation surgery on Filipino conjoined twins",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662267/saudi-arabia/saudi-medical-team-began-separation-surgery-on-filipino-conjoined-twins",
-      "published_date": "2026-06-18T12:20:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia urges stronger international cooperation to address growing humanitarian challenges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662263/saudi-arabia/saudi-arabia-urges-stronger-international-cooperation-to-address-growing-humanitarian-challenges",
-      "published_date": "2026-06-18T11:28:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM: Trust with Iran must be rebuilt before economic cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662255/saudi-arabia/saudi-fm-trust-with-iran-must-be-rebuilt-before-economic-cooperation",
-      "published_date": "2026-06-18T00:43:36+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi Industrial Production returns to growth, rising 5.1% in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662384/saudi-arabia/saudi-industrial-production-returns-to-growth-rising-51-in-2025",
+      "published_date": "2026-06-22T11:07:57+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Sunday marks astronomical start of summer, lasting for 93 days",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662336/saudi-arabia/sunday-marks-astronomical-start-of-summer-lasting-for-93-days",
@@ -302,20 +309,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662227/saudi-arabia/saudi-arabia-marks-world-day-to-combat-desertification-with-restoration-milestones",
       "published_date": "2026-06-17T13:15:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices fall and shares jump after US-Iran deal announced",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T14:21:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Non-compliant fuel station behind Riyadh petroleum spill, Fuel Service Committee says",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662161/saudi-arabia/non-compliant-fuel-station-behind-riyadh-petroleum-spill-fuel-service-committee-says",
-      "published_date": "2026-06-15T12:52:37+00:00",
       "category": "Energy"
     },
     {
@@ -424,11 +417,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia spends SR32 billion on developing digital government services in 2025",
+      "title": "SFDA grants marketing authorization for AI-powered medical app to measure vital signs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662169/saudi-arabia/saudi-arabia-spends-sr32-billion-on-developing-digital-government-services-in-2025",
-      "published_date": "2026-06-15T14:33:43+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662397/saudi-arabia/sfda-grants-marketing-authorization-for-ai-powered-medical-app-to-measure-vital-signs",
+      "published_date": "2026-06-22T14:48:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1.2 million mango trees supply local markets over 105,000 tons of mangoes annually",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662395/saudi-arabia/12-million-mango-trees-supply-local-markets-over-105000-tons-of-mangoes-annually",
+      "published_date": "2026-06-22T13:57:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms, strong winds and extreme heat forecast across Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662392/saudi-arabia/thunderstorms-strong-winds-and-extreme-heat-forecast-across-kingdom",
+      "published_date": "2026-06-22T13:11:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watermelon leads Saudi fruit production, exceeding 620,000 tons annually",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662385/saudi-arabia/watermelon-leads-saudi-fruit-production-exceeding-620000-tons-annually",
+      "published_date": "2026-06-22T11:30:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two citizens rescued after their vessel broke down at sea",
@@ -540,34 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662221/saudi-arabia/royal-commission-greenlights-alula-manara-landmark-astronomy-hub",
       "published_date": "2026-06-17T11:04:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holy Kaaba adorned with new Kiswa",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662205/saudi-arabia/holy-kaaba-adorned-with-new-kiswa",
-      "published_date": "2026-06-16T14:19:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qiddiya unveils region&#039;s largest National Tennis Centre",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662168/saudi-arabia/qiddiya-unveils-regions-largest-national-tennis-centre",
-      "published_date": "2026-06-15T14:14:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Organs from a brain-dead Saudi boy save the lives of 4 patients in Buraidah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662167/saudi-arabia/organs-from-a-brain-dead-saudi-boy-save-the-lives-of-4-patients-in-buraidah",
-      "published_date": "2026-06-15T14:05:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where to watch the World Cup in Saudi Arabia: A guide to the Kingdom’s Fan Zones",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662166/saudi-arabia/where-to-watch-the-world-cup-in-saudi-arabia-a-guide-to-the-kingdoms-fan-zones",
-      "published_date": "2026-06-15T14:01:55+00:00",
       "category": "Local Events"
     }
   ]
