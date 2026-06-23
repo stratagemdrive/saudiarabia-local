@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-23T00:07:38.160929+00:00",
-  "story_count": 79,
+  "last_updated": "2026-06-23T13:42:08.318513+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Saudi, Algerian FMs discuss regional developments at Arab League meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662417/saudi-arabia/saudi-algerian-fms-discuss-regional-developments-at-arab-league-meeting",
+      "published_date": "2026-06-23T11:23:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Jordanian foreign ministers meet in Amman",
       "source": "Saudi Gazette",
@@ -137,16 +144,16 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Human Rights Commission concludes women’s rights trainer program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662297/saudi-arabia/saudi-human-rights-commission-concludes-womens-rights-training-program",
-      "published_date": "2026-06-19T06:45:00+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T21:57:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-20T21:57:36+00:00",
       "category": "Military"
     },
@@ -161,6 +168,13 @@
       "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T18:36:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-20T18:36:19+00:00",
       "category": "Military"
     },
@@ -193,6 +207,13 @@
       "category": "Military"
     },
     {
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T19:27:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
@@ -200,9 +221,23 @@
       "category": "Military"
     },
     {
+      "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T15:16:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T14:53:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-19T14:53:52+00:00",
       "category": "Military"
     },
@@ -221,9 +256,23 @@
       "category": "Military"
     },
     {
+      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T05:33:59+00:00",
+      "category": "Military"
+    },
+    {
       "title": "What Iran and US get from deal and why both could struggle to keep it",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-18T20:04:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-18T20:04:40+00:00",
       "category": "Military"
     },
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T15:53:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Iranian presidents sign deal aiming to end war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T03:03:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T23:52:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid rising temperatures, Civil Defense warns against leaving flammable materials inside vehicles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662211/saudi-arabia/amid-rising-temperatures-civil-defense-warns-against-leaving-flammable-materials-inside-vehicles",
-      "published_date": "2026-06-16T16:56:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T15:31:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T14:11:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Hell will rain down' on Iran if they get nuclear weapon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c15yq5w7wy1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T11:11:41+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T15:15:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Industrial Production returns to growth, rising 5.1% in 2025",
@@ -305,11 +312,25 @@
       "category": "Energy"
     },
     {
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-17T13:27:47+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi Arabia marks World Day to Combat Desertification with restoration milestones",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662227/saudi-arabia/saudi-arabia-marks-world-day-to-combat-desertification-with-restoration-milestones",
       "published_date": "2026-06-17T13:15:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi industrial establishments rise to 13,660 as 322 new licenses issued",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662415/saudi-arabia/saudi-industrial-establishments-rise-to-13660-as-322-new-licenses-issued",
+      "published_date": "2026-06-23T11:10:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia unveils plan to allow 12 commercial activities in public parks",
@@ -403,20 +424,6 @@
       "category": "Economy"
     },
     {
-      "title": "Red Sea Global opens first of nine resorts at AMAALA",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662195/saudi-arabia/red-sea-global-opens-first-of-nine-resorts-at-amaala",
-      "published_date": "2026-06-16T12:09:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Eastern Province attracts over SR7 billion in foreign investment through environmental projects",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662194/saudi-arabia/eastern-province-attracts-over-sr7-billion-in-foreign-investment-through-environmental-projects",
-      "published_date": "2026-06-16T11:43:33+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "22 Saudi universities secure a place in QS World University Rankings 2027",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662403/saudi-arabia/22-saudi-universities-secure-a-place-in-qs-world-university-rankings-2027",
@@ -494,6 +501,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T17:40:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Turki Alalshikh meets Erdogan’s son during Türkiye visit",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662293/saudi-arabia/turki-alalshikh-meets-bilal-erdogan-during-visit-to-turkiye",
@@ -547,13 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662249/saudi-arabia/saudi-pavilion-inaugurated-at-beijing-international-book-fair-2026",
       "published_date": "2026-06-17T17:11:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GCC transport and communications ministers discuss strengthening Gulf supply chain corridors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662248/saudi-arabia/gcc-transport-and-communications-ministers-discuss-strengthening-gulf-supply-chain-corridors",
-      "published_date": "2026-06-17T16:58:04+00:00",
       "category": "Local Events"
     }
   ]
