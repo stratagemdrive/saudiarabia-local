@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-22T15:49:24.927218+00:00",
+  "last_updated": "2026-06-23T00:07:38.160929+00:00",
   "story_count": 79,
   "stories": [
+    {
+      "title": "Saudi, Jordanian foreign ministers meet in Amman",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662405/saudi-arabia/saudi-jordanian-foreign-ministers-meet-in-amman",
+      "published_date": "2026-06-22T21:17:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC Consultative Ministerial Meeting reaffirms support for regional de-escalation efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662404/saudi-arabia/gcc-consultative-ministerial-meeting-reaffirms-support-for-regional-de-escalation-efforts",
+      "published_date": "2026-06-22T21:08:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia offers condolences to Qatar over Ras Laffan gas plant explosion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662402/saudi-arabia/saudi-arabiaoffers-condolences-to-qatar-over-ras-laffan-gas-plant-explosion",
+      "published_date": "2026-06-22T19:20:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SR149 million in fines imposed on violators of the Telecommunications Law in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662400/saudi-arabia/sr149-million-in-fines-imposed-on-violators-of-the-telecommunications-law-in-2025",
+      "published_date": "2026-06-22T16:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia records over 60% drop in traffic fatalities between 2016 and 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662398/saudi-arabia/saudi-arabia-records-over-60-drop-in-traffic-fatalities-between-2016-and-2025",
+      "published_date": "2026-06-22T15:16:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia provides $23.761 billion to support refugees, displaced persons worldwide",
       "source": "Saudi Gazette",
@@ -106,41 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662297/saudi-arabia/saudi-human-rights-commission-concludes-womens-rights-training-program",
       "published_date": "2026-06-19T06:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister receives message from Chinese counterpart",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662287/saudi-arabia/saudi-foreign-minister-receives-message-from-chinese-counterpart",
-      "published_date": "2026-06-18T21:19:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia and 7 other Islamic states strongly condemn continued settler violence in West Bank",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662282/saudi-arabia/saudi-arabia-and-7-other-islamic-states-strongly-condemn-continued-settler-violence-in-west-bank",
-      "published_date": "2026-06-18T16:07:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Surgical separation of Filipino conjoined twins successful",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662281/saudi-arabia/surgical-separation-of-filipino-conjoined-twins-successful",
-      "published_date": "2026-06-18T15:36:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "1,293 underwater heritage sites documented in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662276/saudi-arabia/1293-underwater-heritage-sites-documented-in-saudi-arabia",
-      "published_date": "2026-06-18T14:59:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia declared free of equine viral arteritis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662273/saudi-arabia/saudi-arabia-declared-free-of-equine-viral-arteritis",
-      "published_date": "2026-06-18T13:45:28+00:00",
       "category": "Diplomacy"
     },
     {
@@ -312,6 +312,13 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Arabia unveils plan to allow 12 commercial activities in public parks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662401/saudi-arabia/saudi-arabia-unveils-plan-to-allow-12-commercial-activities-in-public-parks",
+      "published_date": "2026-06-22T16:44:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Asir targets more than 3 million visitors during this season",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662370/saudi-arabia/asir-targets-more-than-3-million-visitors-during-this-season",
@@ -410,11 +417,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Pavilion, showcasing cutting-edge defense systems, inaugurated at Eurosatory 2026 in Paris",
+      "title": "22 Saudi universities secure a place in QS World University Rankings 2027",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662173/saudi-arabia/saudi-pavilion-showcasing-cutting-edge-defense-systems-inaugurated-at-eurosatory-2026-in-paris",
-      "published_date": "2026-06-15T17:44:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662403/saudi-arabia/22-saudi-universities-secure-a-place-in-qs-world-university-rankings-2027",
+      "published_date": "2026-06-22T19:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh begins implementing design guidelines in central commercial corridor",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662399/saudi-arabia/riyadh-starts-implementing-design-guidelines-in-central-commercial-corridor",
+      "published_date": "2026-06-22T15:33:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "SFDA grants marketing authorization for AI-powered medical app to measure vital signs",
@@ -540,20 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662248/saudi-arabia/gcc-transport-and-communications-ministers-discuss-strengthening-gulf-supply-chain-corridors",
       "published_date": "2026-06-17T16:58:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi students won three international awards at the European Physics Olympiad 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662226/saudi-arabia/saudi-students-won-three-international-awards-at-the-european-physics-olympiad-2026",
-      "published_date": "2026-06-17T12:37:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royal Commission greenlights AlUla Manara, landmark astronomy hub",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662221/saudi-arabia/royal-commission-greenlights-alula-manara-landmark-astronomy-hub",
-      "published_date": "2026-06-17T11:04:47+00:00",
       "category": "Local Events"
     }
   ]
