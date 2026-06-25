@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-25T00:14:23.848841+00:00",
-  "story_count": 77,
+  "last_updated": "2026-06-25T13:13:53.954005+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi Arabia extends condolences to Venezuela following deadly earthquake",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662481/saudi-arabia/saudi-arabia-extends-condolences-to-venezuela-following-deadly-earthquake",
+      "published_date": "2026-06-25T11:58:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional developments with Turkish, Kyrgyz counterparts",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662388/saudi-arabia/saudi-arabia-renews-call-for-global-action-on-refugee-crises-highlights-billions-in-humanitarian-support",
       "published_date": "2026-06-22T12:07:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El-Sisi underscores pivotal role of Quadrilateral Group in solidifying regional stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662369/saudi-arabia/el-sisi-underscores-pivotal-role-of-quadrilateral-group-in-solidifying-regional-stability",
-      "published_date": "2026-06-21T20:41:07+00:00",
       "category": "Diplomacy"
     },
     {
@@ -312,6 +312,13 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Arabia&#039;s merchandise trade surplus doubles as exports rise 9.3%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662484/saudi-arabia/saudi-arabias-merchandise-trade-surplus-doubles-as-exports-rise-93",
+      "published_date": "2026-06-25T12:37:03+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "12 unlicensed water bottling plants shut in Jeddah",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662467/saudi-arabia/12-unlicensed-water-bottling-plants-shut-in-jeddah",
@@ -386,20 +393,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662271/saudi-arabia/saudi-arabia-records-123-million-tourists-with-sr304-billion-spending-in-2025",
       "published_date": "2026-06-18T13:24:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia climbs to 13th globally, third among G20 in IMD World Competitiveness rankings",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662269/saudi-arabia/saudi-arabia-climbs-to-13th-globally-third-among-g20-in-imd-world-competitiveness-rankings",
-      "published_date": "2026-06-18T13:06:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PIF chief: International investments to continue as new strategy brings world to Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662266/saudi-arabia/pif-chief-international-investments-to-continue-under-new-strategy",
-      "published_date": "2026-06-18T12:05:02+00:00",
       "category": "Economy"
     },
     {
