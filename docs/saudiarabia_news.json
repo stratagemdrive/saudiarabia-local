@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-25T13:13:53.954005+00:00",
-  "story_count": 76,
+  "last_updated": "2026-06-26T00:10:47.404792+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi Arabia bans citizens from traveling to 3 African countries over outbreak of Ebola",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662503/saudi-arabia/saudi-arabia-bans-citizens-from-traveling-to-3-african-countries-over-outbreak-of-ebola",
+      "published_date": "2026-06-25T22:14:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister attends Manama meeting that explores further bolstering strategic Gulf-US ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662502/saudi-arabia/saudi-foreign-minister-attends-manama-meeting-that-explores-further-bolstering-strategic-gulf-us-ties",
+      "published_date": "2026-06-25T21:25:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM meets with Qatari, Oman counterparts to discuss implications of US-Iran deal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662500/saudi-arabia/saudi-fm-meets-with-qatari-oman-counterparts-to-discuss-implications-of-us-iran-deal",
+      "published_date": "2026-06-25T17:17:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marco Rubio, Prince Faisal meet to review progress in negotiations with Iran",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662498/saudi-arabia/marco-rubio-prince-faisal-meet-to-review-progress-in-negotiations-with-iran",
+      "published_date": "2026-06-25T15:35:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC states seek US-Iran deal must guarantee Gulf security and freedom of navigation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662497/saudi-arabia/gcc-states-seek-us-iran-de-escalation-deal-must-guarantee-gulf-security-and-freedom-of-navigation",
+      "published_date": "2026-06-25T15:17:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marco Rubio: Regional allies’ security interests central to Iran negotiations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662496/saudi-arabia/marco-rubio-regional-allies-security-interests-central-to-iran-negotiations",
+      "published_date": "2026-06-25T14:30:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia launches Electronic Travel Authorization for British visitors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662486/saudi-arabia/saudi-arabia-launches-electronic-travel-authorization-for-british-visitors",
+      "published_date": "2026-06-25T13:15:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia extends condolences to Venezuela following deadly earthquake",
       "source": "Saudi Gazette",
@@ -95,53 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "GCC Consultative Ministerial Meeting reaffirms support for regional de-escalation efforts",
+      "title": "Gulf states assert addressing Iranian threats inevitable for lasting regional peace",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662404/saudi-arabia/gcc-consultative-ministerial-meeting-reaffirms-support-for-regional-de-escalation-efforts",
-      "published_date": "2026-06-22T21:08:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662501/saudi-arabia/gulf-states-assertaddressing-iranian-threats-inevitable-for-lasting-regional-peace",
+      "published_date": "2026-06-25T21:17:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia offers condolences to Qatar over Ras Laffan gas plant explosion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662402/saudi-arabia/saudi-arabiaoffers-condolences-to-qatar-over-ras-laffan-gas-plant-explosion",
-      "published_date": "2026-06-22T19:20:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SR149 million in fines imposed on violators of the Telecommunications Law in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662400/saudi-arabia/sr149-million-in-fines-imposed-on-violators-of-the-telecommunications-law-in-2025",
-      "published_date": "2026-06-22T16:03:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia records over 60% drop in traffic fatalities between 2016 and 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662398/saudi-arabia/saudi-arabia-records-over-60-drop-in-traffic-fatalities-between-2016-and-2025",
-      "published_date": "2026-06-22T15:16:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia provides $23.761 billion to support refugees, displaced persons worldwide",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662396/saudi-arabia/saudi-arabia-provides-23761-billion-to-support-refugees-displaced-persons-worldwide",
-      "published_date": "2026-06-22T14:30:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanese defense minister discusses current developments with Saudi ambassador",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662391/saudi-arabia/lebanese-defense-minister-discusses-current-developments-with-saudi-ambassador",
-      "published_date": "2026-06-22T12:59:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia renews call for global action on refugee crises, highlights billions in humanitarian support",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662388/saudi-arabia/saudi-arabia-renews-call-for-global-action-on-refugee-crises-highlights-billions-in-humanitarian-support",
-      "published_date": "2026-06-22T12:07:51+00:00",
-      "category": "Diplomacy"
+      "title": "TikTok influencer charged with Dubai murder",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-25T11:58:44+00:00",
+      "category": "Military"
     },
     {
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T14:53:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T14:53:52+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM issues dust alert for Saudi Arabia’s west coast until July 1",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662426/saudi-arabia/ncm-issues-dust-alert-for-saudi-arabias-west-coast-until-july-1",
@@ -389,11 +389,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia records 123 million tourists with SR304 billion spending in 2025",
+      "title": "4 people arrested for smuggling 1.4 million amphetamine pills hidden inside rock crusher",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662271/saudi-arabia/saudi-arabia-records-123-million-tourists-with-sr304-billion-spending-in-2025",
-      "published_date": "2026-06-18T13:24:26+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662499/saudi-arabia/4-people-arrested-for-smuggling-14-million-amphetamine-pills-hidden-inside-rock-crusher",
+      "published_date": "2026-06-25T15:57:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia&#039;s 1.3 million pomegranate trees produce 39,700 tons in summer",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662494/saudi-arabia/saudi-arabias-13-million-pomegranate-trees-produce-39700-tons-in-summer",
+      "published_date": "2026-06-25T13:40:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SFDA launches &#039;Saudi Food Composition Tables&#039; to document culinary heritage and enhance nutritional data",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662491/saudi-arabia/sfda-launches-saudi-food-composition-tables-to-document-culinary-heritage-and-enhance-nutritional-data",
+      "published_date": "2026-06-25T13:29:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh mayor, Tokyo governor discuss cooperation in digital transformation, smart cities",
@@ -512,27 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662372/saudi-arabia/two-citizens-rescued-after-their-vessel-broke-down-at-sea",
       "published_date": "2026-06-21T21:21:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 million students sit for final exams on Sunday in Makkah, Madinah, Jeddah, and Taif schools",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662365/saudi-arabia/2-million-students-sit-for-final-exams-on-sunday-in-makkah-madinah-jeddah-and-taif-schools",
-      "published_date": "2026-06-21T14:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperatures to reach 47°C as extreme heat persists across Madinah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662346/saudi-arabia/temperatures-to-reach-47c-as-extreme-heat-persists-across-madinah",
-      "published_date": "2026-06-21T11:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Giancarlo Esposito embraces Islam during stay in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662344/saudi-arabia/giancarlo-esposito-embraces-islam-during-stay-in-saudi-arabia",
-      "published_date": "2026-06-21T04:43:17+00:00",
       "category": "Local Events"
     }
   ]
