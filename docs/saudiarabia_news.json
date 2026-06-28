@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-27T12:07:50.364748+00:00",
-  "story_count": 73,
+  "last_updated": "2026-06-28T00:03:50.344114+00:00",
+  "story_count": 64,
   "stories": [
+    {
+      "title": "Saudi, Egyptian and Qatari foreign ministers denounce threats to maritime navigation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662542/saudi-arabia/saudi-egyptian-and-qatari-foreign-ministers-denounce-threats-to-maritime-navigation-in-phone-call",
+      "published_date": "2026-06-27T18:26:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia deports 11,297 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662541/saudi-arabia/saudi-arabia-deports-11297-illegal-residents-in-a-week",
+      "published_date": "2026-06-27T17:54:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Commerce warns against fake websites impersonating it",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662539/saudi-arabia/ministry-of-commerce-warns-against-fake-websites-impersonating-it",
+      "published_date": "2026-06-27T17:34:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns Iranian drone attacks on Bahrain",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662538/saudi-arabia/saudi-arabia-strongly-condemns-iranian-drone-attacks-on-bahrain",
+      "published_date": "2026-06-27T16:21:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses over phone latest regional developments with Jordanian, Omani counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662531/saudi-arabia/saudi-fm-discusses-over-phone-latest-regional-developments-with-jordanian-omani-counterparts",
+      "published_date": "2026-06-27T14:16:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reaffirms support for Sudan’s unity and political solution to end crisis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662526/saudi-arabia/saudi-arabia-reaffirms-support-for-sudans-unity-and-political-solution-to-end-crisis",
+      "published_date": "2026-06-27T13:51:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia urges urgent action to protect Gaza&#039;s children",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia wins UN Public Service Award for SDAIA&#039;s National Data Bank, Estishraf",
+      "title": "Islamic Military Counter Terrorism Coalition emphasizes keenness on counter-terrorist financing",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662463/saudi-arabia/saudi-arabia-wins-un-public-service-award-for-sdaia-data-and-ai-platforms",
-      "published_date": "2026-06-24T14:31:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Qatari panel discusses joint security and military initiatives",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662458/saudi-arabia/saudi-qatari-panel-discusses-joint-security-and-military-initiatives",
-      "published_date": "2026-06-24T13:01:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince offer condolences to Qatari Emir over victims of Ras Laffan explosion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662436/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-qatari-emir-over-victims-of-ras-laffan-explosion",
-      "published_date": "2026-06-23T21:15:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman to host 1,000 Umrah pilgrims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662435/saudi-arabia/king-salman-to-host-1000-umrah-pilgrims",
-      "published_date": "2026-06-23T20:58:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince receive messages from UK King Charles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662434/saudi-arabia/king-salman-and-crown-prince-receive-messages-from-uk-king-charles",
-      "published_date": "2026-06-23T20:48:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM attends Arab Consultative Meeting and meets counterparts of Syria, Sudan and Mauritania in Amman",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662431/saudi-arabia/saudi-fm-attends-arab-consultative-meeting-and-meets-counterparts-of-syria-sudan-and-mauritania-in-amman",
-      "published_date": "2026-06-23T15:44:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662536/saudi-arabia/islamic-military-counter-terrorism-coalition-emphasizes-keenness-on-counter-terrorist-financing",
+      "published_date": "2026-06-27T14:44:37+00:00",
+      "category": "Military"
     },
     {
       "title": "US conducts strikes on Iran after attack on cargo ship",
@@ -214,62 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T21:57:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T21:57:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T21:11:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T18:36:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T18:36:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T17:40:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At UN, Saudi Arabia reaffirms two-state solution only path to peace in Mideast",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662334/saudi-arabia/at-un-saudi-arabia-reaffirms-two-state-solution-only-path-to-peace-in-mideast",
-      "published_date": "2026-06-20T15:43:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia condemns terrorist attack on Niamey airport in Niger",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662328/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-niamey-airport-in-niger",
-      "published_date": "2026-06-20T13:55:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "NCM issues dust alert for Saudi Arabia’s west coast until July 1",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662426/saudi-arabia/ncm-issues-dust-alert-for-saudi-arabias-west-coast-until-july-1",
@@ -291,11 +242,11 @@
       "category": "Energy"
     },
     {
-      "title": "Sunday marks astronomical start of summer, lasting for 93 days",
+      "title": "Saudi Customs ports record 1,162 contraband seizures last week",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662336/saudi-arabia/sunday-marks-astronomical-start-of-summer-lasting-for-93-days",
-      "published_date": "2026-06-20T17:44:35+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662540/saudi-arabia/saudi-customs-ports-record-1162-contraband-seizures-last-week",
+      "published_date": "2026-06-27T17:40:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs foil smuggling of 25 million pills, over 1 ton of drugs in one year",
@@ -361,18 +312,11 @@
       "category": "Economy"
     },
     {
-      "title": "92% of Saudi regions are well prepared to face health risks",
+      "title": "Saudi Arabia lowers mandatory declaration threshold for cash, valuables at borders",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662339/saudi-arabia/92-of-saudi-regions-are-well-prepared-to-face-health-risks",
-      "published_date": "2026-06-20T19:06:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia chairs IMF AML/CFT Thematic Fund Steering Committee Meeting in Paris",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662333/saudi-arabia/saudi-arabia-chairs-imf-amlcft-thematic-fund-steering-committee-meeting-in-paris",
-      "published_date": "2026-06-20T15:30:18+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662543/saudi-arabia/saudi-arabia-lowers-declaration-threshold-for-cash-and-valuables-at-borders",
+      "published_date": "2026-06-27T20:51:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "4 people arrested for smuggling 1.4 million amphetamine pills hidden inside rock crusher",
@@ -505,13 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662385/saudi-arabia/watermelon-leads-saudi-fruit-production-exceeding-620000-tons-annually",
       "published_date": "2026-06-22T11:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two citizens rescued after their vessel broke down at sea",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662372/saudi-arabia/two-citizens-rescued-after-their-vessel-broke-down-at-sea",
-      "published_date": "2026-06-21T21:21:30+00:00",
       "category": "Local Events"
     }
   ]
