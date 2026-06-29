@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-28T12:14:38.433383+00:00",
+  "last_updated": "2026-06-29T00:10:37.141041+00:00",
   "story_count": 64,
   "stories": [
+    {
+      "title": "Several Gulf and Arab countries offer condolences to Saudi Arabia over the victims of helicopter crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662572/saudi-arabia/several-gulf-and-arab-countries-offer-condolences-to-saudi-arabia-over-the-victims-of-helicopter-crash",
+      "published_date": "2026-06-28T22:05:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alkhorayef attends extraordinary GCC Trade and Industry Ministers Meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662570/saudi-arabia/alkhorayef-attends-extraordinary-gcc-trade-and-industry-ministers-meeting",
+      "published_date": "2026-06-28T20:59:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, French President support diplomatic efforts for regional de-escalation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662569/saudi-arabia/crown-prince-french-president-support-diplomatic-efforts-for-regional-de-escalation-in-phone-call",
+      "published_date": "2026-06-28T17:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Qasabi stresses strengthening Gulf integration during GCC commerce ministers’ meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662567/saudi-arabia/al-qasabi-stresses-strengthening-gulf-integration-during-gcc-commerce-ministers-meeting",
+      "published_date": "2026-06-28T16:10:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Mauritanian FMs discuss latest regional developments",
       "source": "Saudi Gazette",
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Marco Rubio: Regional allies’ security interests central to Iran negotiations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662496/saudi-arabia/marco-rubio-regional-allies-security-interests-central-to-iran-negotiations",
-      "published_date": "2026-06-25T14:30:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia launches Electronic Travel Authorization for British visitors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662486/saudi-arabia/saudi-arabia-launches-electronic-travel-authorization-for-british-visitors",
-      "published_date": "2026-06-25T13:15:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia extends condolences to Venezuela following deadly earthquake",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662481/saudi-arabia/saudi-arabia-extends-condolences-to-venezuela-following-deadly-earthquake",
-      "published_date": "2026-06-25T11:58:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional developments with Turkish, Kyrgyz counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662469/saudi-arabia/saudi-fm-discusses-regional-developments-with-turkish-kyrgyz-counterparts",
-      "published_date": "2026-06-24T19:56:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Islamic Military Counter Terrorism Coalition emphasizes keenness on counter-terrorist financing",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662536/saudi-arabia/islamic-military-counter-terrorism-coalition-emphasizes-keenness-on-counter-terrorist-financing",
@@ -221,6 +221,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662557/saudi-arabia/saudi-aramco-helicopter-crash-kills-14-in-ras-tanura",
+      "published_date": "2026-06-28T12:39:24+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "NCM issues dust alert for Saudi Arabia’s west coast until July 1",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662426/saudi-arabia/ncm-issues-dust-alert-for-saudi-arabias-west-coast-until-july-1",
@@ -240,6 +247,20 @@
       "url": "https://saudigazette.com.sa/article/662384/saudi-arabia/saudi-industrial-production-returns-to-growth-rising-51-in-2025",
       "published_date": "2026-06-22T11:07:57+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "AI Tourism Vision launched to position Saudi Arabia as a global hub for tourism innovation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662571/saudi-arabia/ai-tourism-vision-launched-to-position-saudi-arabia-as-a-global-hub-for-tourism-innovation",
+      "published_date": "2026-06-28T21:12:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s trade surplus surges 60% to over SR90 billion in Q1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662566/saudi-arabia/saudi-arabias-trade-surplus-surges-60-to-over-sr90-billion-in-q1-2026",
+      "published_date": "2026-06-28T15:31:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs ports record 1,162 contraband seizures last week",
@@ -291,25 +312,32 @@
       "category": "Economy"
     },
     {
-      "title": "Asir targets more than 3 million visitors during this season",
+      "title": "Saudi AI team wins 6 awards at Asia-Pacific AI Olympiad",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662370/saudi-arabia/asir-targets-more-than-3-million-visitors-during-this-season",
-      "published_date": "2026-06-21T20:50:24+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662568/saudi-arabia/saudi-ai-team-wins-6-awards-at-asia-pacific-ai-olympiad",
+      "published_date": "2026-06-28T17:10:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia&#039;s short-term business operating revenues jump10.6% in April",
+      "title": "Qiwa to remove workers from establishment records starting July 1 if work permits expired for over 3 months",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662366/saudi-arabia/saudi-arabias-short-term-business-operating-revenues-jump106-in-april",
-      "published_date": "2026-06-21T15:22:30+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662564/saudi-arabia/qiwa-to-remove-workers-from-establishment-records-starting-july-1-if-work-permits-expired-for-over-3-months",
+      "published_date": "2026-06-28T14:12:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Federation of Chambers’ Paris visit instrumental in further bolstering Saudi-French trade and investment ties",
+      "title": "Representatives from 60 entities take part in sessions reviewing early preparations for Hajj 2027",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662361/saudi-arabia/federation-of-chambers-paris-visit-instrumental-in-further-bolstering-saudi-french-trade-and-investment-ties",
-      "published_date": "2026-06-21T13:06:28+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662563/saudi-arabia/representatives-from-60-entities-take-part-in-sessions-reviewing-early-preparations-for-hajj-2027",
+      "published_date": "2026-06-28T13:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rain forecast to persist across Jazan, Asir, and Al Baha until Thursday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662562/saudi-arabia/rain-forecast-to-persist-across-jazan-asir-and-al-baha-until-thursday",
+      "published_date": "2026-06-28T13:31:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia lowers mandatory declaration threshold for cash, valuables at borders",
@@ -421,34 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662399/saudi-arabia/riyadh-starts-implementing-design-guidelines-in-central-commercial-corridor",
       "published_date": "2026-06-22T15:33:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA grants marketing authorization for AI-powered medical app to measure vital signs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662397/saudi-arabia/sfda-grants-marketing-authorization-for-ai-powered-medical-app-to-measure-vital-signs",
-      "published_date": "2026-06-22T14:48:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1.2 million mango trees supply local markets over 105,000 tons of mangoes annually",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662395/saudi-arabia/12-million-mango-trees-supply-local-markets-over-105000-tons-of-mangoes-annually",
-      "published_date": "2026-06-22T13:57:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, strong winds and extreme heat forecast across Kingdom",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662392/saudi-arabia/thunderstorms-strong-winds-and-extreme-heat-forecast-across-kingdom",
-      "published_date": "2026-06-22T13:11:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watermelon leads Saudi fruit production, exceeding 620,000 tons annually",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662385/saudi-arabia/watermelon-leads-saudi-fruit-production-exceeding-620000-tons-annually",
-      "published_date": "2026-06-22T11:30:04+00:00",
       "category": "Local Events"
     }
   ]
