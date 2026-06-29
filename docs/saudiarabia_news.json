@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-29T00:10:37.141041+00:00",
-  "story_count": 64,
+  "last_updated": "2026-06-29T14:46:14.972513+00:00",
+  "story_count": 65,
   "stories": [
+    {
+      "title": "Saudi Arabia ranked safest among G20 countries in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662594/saudi-arabia/saudi-arabia-ranked-safest-among-g20-countries-in-2025",
+      "published_date": "2026-06-29T13:31:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Israeli incursions into Syria, targeting of Quneitra and Daraa",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662590/saudi-arabia/saudi-arabia-condemns-israeli-incursions-into-syria-targeting-of-quneitra-and-daraa",
+      "published_date": "2026-06-29T12:43:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Pakistani Foreign Ministers discuss regional developments, US-Iran MOU",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662588/saudi-arabia/saudi-pakistani-foreign-ministers-discuss-regional-developments-us-iran-mou",
+      "published_date": "2026-06-29T11:14:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Several Gulf and Arab countries offer condolences to Saudi Arabia over the victims of helicopter crash",
       "source": "Saudi Gazette",
@@ -123,27 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM meets with Qatari, Oman counterparts to discuss implications of US-Iran deal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662500/saudi-arabia/saudi-fm-meets-with-qatari-oman-counterparts-to-discuss-implications-of-us-iran-deal",
-      "published_date": "2026-06-25T17:17:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marco Rubio, Prince Faisal meet to review progress in negotiations with Iran",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662498/saudi-arabia/marco-rubio-prince-faisal-meet-to-review-progress-in-negotiations-with-iran",
-      "published_date": "2026-06-25T15:35:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC states seek US-Iran deal must guarantee Gulf security and freedom of navigation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662497/saudi-arabia/gcc-states-seek-us-iran-de-escalation-deal-must-guarantee-gulf-security-and-freedom-of-navigation",
-      "published_date": "2026-06-25T15:17:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Islamic Military Counter Terrorism Coalition emphasizes keenness on counter-terrorist financing",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662536/saudi-arabia/islamic-military-counter-terrorism-coalition-emphasizes-keenness-on-counter-terrorist-financing",
@@ -221,6 +221,13 @@
       "category": "Military"
     },
     {
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T15:42:01+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662557/saudi-arabia/saudi-aramco-helicopter-crash-kills-14-in-ras-tanura",
@@ -242,11 +249,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Industrial Production returns to growth, rising 5.1% in 2025",
+      "title": "Saudi services exports rise 7.9% to SR71.3 billion in Q1 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662384/saudi-arabia/saudi-industrial-production-returns-to-growth-rising-51-in-2025",
-      "published_date": "2026-06-22T11:07:57+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662589/saudi-arabia/saudi-services-exports-rise-79-to-sr713-billion-in-q1-2026",
+      "published_date": "2026-06-29T12:28:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "AI Tourism Vision launched to position Saudi Arabia as a global hub for tourism innovation",
@@ -310,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/662401/saudi-arabia/saudi-arabia-unveils-plan-to-allow-12-commercial-activities-in-public-parks",
       "published_date": "2026-06-22T16:44:23+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "15-year jail and SR1 million fine for assisting border security violators",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662595/saudi-arabia/maximum-15-year-jail-and-sr1-million-fine-for-assisting-border-security-violators",
+      "published_date": "2026-06-29T13:45:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi AI team wins 6 awards at Asia-Pacific AI Olympiad",
@@ -442,13 +456,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662403/saudi-arabia/22-saudi-universities-secure-a-place-in-qs-world-university-rankings-2027",
       "published_date": "2026-06-22T19:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh begins implementing design guidelines in central commercial corridor",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662399/saudi-arabia/riyadh-starts-implementing-design-guidelines-in-central-commercial-corridor",
-      "published_date": "2026-06-22T15:33:09+00:00",
       "category": "Local Events"
     }
   ]
