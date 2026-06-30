@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-29T14:46:14.972513+00:00",
-  "story_count": 65,
+  "last_updated": "2026-06-30T00:05:03.814519+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Saudi Arabia offers condolences to Qatar over death of its citizen in military operations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662602/saudi-arabia/saudi-arabia-offers-condolences-to-qatar-over-death-of-its-citizen-in-military-operations",
+      "published_date": "2026-06-29T19:23:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Passports Directorate’s advisory to citizens to safeguard passports, check validity before travel",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662599/saudi-arabia/passports-directorates-advisory-to-citizens-to-safeguard-passports-check-validity-before-travel",
+      "published_date": "2026-06-29T15:34:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egyptian President and Pakistan PM offer condolences to King and Crown Prince over helicopter crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662597/saudi-arabia/egyptian-president-and-pakistan-pm-offer-condolences-to-king-and-crown-prince-over-helicopter-crash",
+      "published_date": "2026-06-29T14:55:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Move to impose SR1,000 fine for failure to issue an invoice",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662596/saudi-arabia/move-to-impose-sr1000-fine-for-failure-to-issue-an-invoice",
+      "published_date": "2026-06-29T14:17:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia ranked safest among G20 countries in 2025",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia calls for inclusive regional security at Mediterranean-Gulf Summit",
+      "title": "Kaaba to be washed on Tuesday in centuries-old tradition of reverence and care",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662510/saudi-arabia/saudi-arabia-urges-inclusive-regional-security-at-mediterranean-gulf-summit-in-rome",
-      "published_date": "2026-06-26T11:22:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ministry suspends healthcare practitioner&#039;s license over unauthorized exosome promotion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662509/saudi-arabia/saudi-arabia-suspends-healthcare-practitioners-license-over-exosome-promotion",
-      "published_date": "2026-06-26T10:25:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia bans citizens from traveling to 3 African countries over outbreak of Ebola",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662503/saudi-arabia/saudi-arabia-bans-citizens-from-traveling-to-3-african-countries-over-outbreak-of-ebola",
-      "published_date": "2026-06-25T22:14:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister attends Manama meeting that explores further bolstering strategic Gulf-US ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662502/saudi-arabia/saudi-foreign-minister-attends-manama-meeting-that-explores-further-bolstering-strategic-gulf-us-ties",
-      "published_date": "2026-06-25T21:25:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662600/saudi-arabia/kaaba-to-be-washed-on-tuesday-in-centuries-old-tradition-of-reverence-and-care",
+      "published_date": "2026-06-29T16:14:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Islamic Military Counter Terrorism Coalition emphasizes keenness on counter-terrorist financing",
@@ -221,6 +228,20 @@
       "category": "Military"
     },
     {
+      "title": "Funeral prayer offered for those killed in Aramco helicopter crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662601/saudi-arabia/funeral-prayer-offered-for-those-killed-in-aramco-helicopter-crash",
+      "published_date": "2026-06-29T19:04:17+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aramco helicopter crash martyr was 50 days away from his wedding",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662598/saudi-arabia/aramco-helicopter-crash-martyr-was-50-days-away-from-his-wedding",
+      "published_date": "2026-06-29T15:00:34+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
@@ -242,11 +263,18 @@
       "category": "Energy"
     },
     {
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T15:15:42+00:00",
-      "category": "Energy"
+      "title": "Saudi Arabia extends tax penalty waiver initiative until December 31, 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662604/saudi-arabia/saudi-arabia-extends-tax-penalty-waiver-initiative-until-december-31-2026",
+      "published_date": "2026-06-29T21:22:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Abdullah Kamel calls for private sector’s greater empowerment to boost economic growth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662603/saudi-arabia/abdullah-kamel-calls-for-private-sectors-greater-empowerment-to-boost-economic-growth",
+      "published_date": "2026-06-29T20:40:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi services exports rise 7.9% to SR71.3 billion in Q1 2026",
@@ -309,13 +337,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662415/saudi-arabia/saudi-industrial-establishments-rise-to-13660-as-322-new-licenses-issued",
       "published_date": "2026-06-23T11:10:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia unveils plan to allow 12 commercial activities in public parks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662401/saudi-arabia/saudi-arabia-unveils-plan-to-allow-12-commercial-activities-in-public-parks",
-      "published_date": "2026-06-22T16:44:23+00:00",
       "category": "Economy"
     },
     {
@@ -449,13 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662428/saudi-arabia/cabinet-approves-executive-regulation-of-the-law-of-real-estate-ownership-by-non-saudis",
       "published_date": "2026-06-23T14:40:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "22 Saudi universities secure a place in QS World University Rankings 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662403/saudi-arabia/22-saudi-universities-secure-a-place-in-qs-world-university-rankings-2027",
-      "published_date": "2026-06-22T19:25:06+00:00",
       "category": "Local Events"
     }
   ]
