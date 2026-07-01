@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-06-30T13:08:22.916479+00:00",
-  "story_count": 66,
+  "last_updated": "2026-07-01T00:05:34.215695+00:00",
+  "story_count": 65,
   "stories": [
+    {
+      "title": "Kuwait Emir and Crown Prince meet Saudi Minister Prince Turki bin Mohammed",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662630/saudi-arabia/kuwait-emir-and-crown-prince-meet-saudi-minister-prince-turki-bin-mohammed",
+      "published_date": "2026-06-30T21:14:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Chinese foreign ministers discuss strengthening partnership in vital sectors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662628/saudi-arabia/saudi-chinese-foreign-ministers-discuss-strengthening-partnership-in-vital-sectors",
+      "published_date": "2026-06-30T20:43:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns threats to maritime security and ongoing Iranian attacks on Kuwait and Bahrain",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662623/saudi-arabia/saudi-arabia-condemns-threats-to-maritime-security-and-ongoing-iranian-attacks-on-kuwait-and-bahrain",
+      "published_date": "2026-06-30T15:06:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Makkah Deputy Emir leads ceremony of washing Holy Kaaba",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662620/saudi-arabia/makkah-deputy-emir-leads-ceremony-of-washing-holy-kaaba",
+      "published_date": "2026-06-30T14:09:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia extends deadline to rectify expired work permits until end of 2026",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Egyptian and Qatari foreign ministers denounce threats to maritime navigation in phone call",
+      "title": "IMCTC’s participation in UN conference highlights its key role in combating terrorism",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662542/saudi-arabia/saudi-egyptian-and-qatari-foreign-ministers-denounce-threats-to-maritime-navigation-in-phone-call",
-      "published_date": "2026-06-27T18:26:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 11,297 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662541/saudi-arabia/saudi-arabia-deports-11297-illegal-residents-in-a-week",
-      "published_date": "2026-06-27T17:54:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ministry of Commerce warns against fake websites impersonating it",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662539/saudi-arabia/ministry-of-commerce-warns-against-fake-websites-impersonating-it",
-      "published_date": "2026-06-27T17:34:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns Iranian drone attacks on Bahrain",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662538/saudi-arabia/saudi-arabia-strongly-condemns-iranian-drone-attacks-on-bahrain",
-      "published_date": "2026-06-27T16:21:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662625/saudi-arabia/imctcs-participation-in-un-conference-highlights-its-key-role-in-combating-terrorism",
+      "published_date": "2026-06-30T16:04:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Kaaba to be washed on Tuesday in centuries-old tradition of reverence and care",
@@ -200,34 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T16:47:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T14:55:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Haram authority sets Hijr Ismail entry times for male and female worshipers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662429/saudi-arabia/haram-authority-sets-hijr-ismail-entry-times-for-male-and-female-worshipers",
-      "published_date": "2026-06-23T14:50:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At UN, Saudi Arabia affirms support for Syria&#039;s sovereignty and territorial integrity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662425/saudi-arabia/at-un-saudi-arabia-affirms-support-for-syrias-sovereignty-and-territorial-integrity",
-      "published_date": "2026-06-23T13:29:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Funeral prayer offered for those killed in Aramco helicopter crash",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662601/saudi-arabia/funeral-prayer-offered-for-those-killed-in-aramco-helicopter-crash",
@@ -256,11 +235,18 @@
       "category": "Energy"
     },
     {
-      "title": "NCM issues dust alert for Saudi Arabia’s west coast until July 1",
+      "title": "Public Investment Fund’s profits soar 152% to SR65 billion in 2025",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662426/saudi-arabia/ncm-issues-dust-alert-for-saudi-arabias-west-coast-until-july-1",
-      "published_date": "2026-06-23T13:29:47+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662627/saudi-arabia/public-investment-funds-profits-soar-152-to-sr65-billion-in-2025",
+      "published_date": "2026-06-30T17:26:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Net FDI inflows drop 2.4% to SR23 billion in Q1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662626/saudi-arabia/net-fdi-inflows-drop-24-to-sr23-billion-in-q1-2026",
+      "published_date": "2026-06-30T17:19:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia extends tax penalty waiver initiative until December 31, 2026",
@@ -331,6 +317,41 @@
       "url": "https://saudigazette.com.sa/article/662466/saudi-arabia/at-opec-forum-al-jadaan-highlights-building-economies-more-resilient-to-global-shocks",
       "published_date": "2026-06-24T15:51:14+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ministry of Hajj announces conclusion of 2026 Hajj Season with seamless pilgrim services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662631/saudi-arabia/ministry-of-hajj-announces-conclusion-of-2026-hajj-season-with-seamless-pilgrim-services",
+      "published_date": "2026-06-30T21:27:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi defense minister discusses defense cooperation with counterpart of Maldives",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662629/saudi-arabia/defense-minister-meets-maldivian-counterpart",
+      "published_date": "2026-06-30T20:59:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "30% Saudization in 46 engineering professions takes effect from Tuesday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662624/saudi-arabia/30-saudization-in-46-engineering-professions-takes-effect-from-tuesday",
+      "published_date": "2026-06-30T15:35:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Specialized tools elevate the sacred tradition of Kaaba Washing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662622/saudi-arabia/specialized-tools-elevate-the-sacred-tradition-of-kaaba-washing",
+      "published_date": "2026-06-30T14:15:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dust-raising winds to reduce visibility across several Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662621/saudi-arabia/dust-raising-winds-to-reduce-visibility-across-several-saudi-regions",
+      "published_date": "2026-06-30T14:13:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "15-year jail and SR1 million fine for assisting border security violators",
@@ -435,34 +456,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662452/saudi-arabia/expo-2030-riyadh-partners-with-expo-2027-belgrade-ahead-of-saudi-arabias-first-world-expo",
       "published_date": "2026-06-24T11:40:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia launches maritime sustainability project for 14 Caribbean countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662451/saudi-arabia/saudi-arabia-launches-maritime-sustainability-project-for-14-caribbean-countries",
-      "published_date": "2026-06-24T11:02:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA warns of penalizing delivery apps that ship their products through unlicensed carriers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662433/saudi-arabia/tga-warns-of-penalizing-delivery-apps-that-ship-their-products-through-unlicensed-carriers",
-      "published_date": "2026-06-23T17:23:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madinah region ranks 3rd in Saudi date production with 344,000 tons annually",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662432/saudi-arabia/madinah-region-ranks-3rd-in-saudi-date-production-with-344000-tons-annually",
-      "published_date": "2026-06-23T16:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabinet approves Executive Regulation of the Law of Real Estate Ownership by Non-Saudis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662428/saudi-arabia/cabinet-approves-executive-regulation-of-the-law-of-real-estate-ownership-by-non-saudis",
-      "published_date": "2026-06-23T14:40:43+00:00",
       "category": "Local Events"
     }
   ]
