@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-01T00:05:34.215695+00:00",
-  "story_count": 65,
+  "last_updated": "2026-07-01T13:32:27.063134+00:00",
+  "story_count": 63,
   "stories": [
     {
       "title": "Kuwait Emir and Crown Prince meet Saudi Minister Prince Turki bin Mohammed",
@@ -200,11 +200,11 @@
       "category": "Military"
     },
     {
-      "title": "Here's how Rubio's Mideast trip could affect the Iran deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-24T13:15:14+00:00",
-      "category": "Military"
+      "title": "July night skies to showcase the Milky Way and rare celestial sights",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662643/saudi-arabia/july-night-skies-to-showcase-the-milky-way-and-rare-celestial-sights",
+      "published_date": "2026-07-01T12:33:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Funeral prayer offered for those killed in Aramco helicopter crash",
@@ -233,6 +233,13 @@
       "url": "https://saudigazette.com.sa/article/662557/saudi-arabia/saudi-aramco-helicopter-crash-kills-14-in-ras-tanura",
       "published_date": "2026-06-28T12:39:24+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Shoura council calls for social media restrictions for children under 16",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662644/saudi-arabia/shoura-calls-for-age-verification-rules-for-social-media-users-under-16",
+      "published_date": "2026-07-01T12:36:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Public Investment Fund’s profits soar 152% to SR65 billion in 2025",
@@ -317,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/662466/saudi-arabia/at-opec-forum-al-jadaan-highlights-building-economies-more-resilient-to-global-shocks",
       "published_date": "2026-06-24T15:51:14+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "AI helps Saudi mango farm boost flowering rate to 98%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662641/saudi-arabia/ai-helps-saudi-mango-farm-boost-flowering-rate-to-98",
+      "published_date": "2026-07-01T12:04:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ministry of Hajj announces conclusion of 2026 Hajj Season with seamless pilgrim services",
@@ -428,34 +442,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662462/saudi-arabia/passports-directorate-takes-12371-decisions-to-impose-penalties-on-violators-in-a-month",
       "published_date": "2026-06-24T13:51:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "July is Saudi Arabia&#039;s hottest month: What 40 years of climate data reveals",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662461/saudi-arabia/july-is-saudi-arabias-hottest-month-what-40-years-of-climate-data-reveals",
-      "published_date": "2026-06-24T13:32:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 500 global companies eye participation in Riyadh’s FOMEX 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662456/saudi-arabia/over-500-global-companies-eye-participation-in-riyadhs-fomex-2027",
-      "published_date": "2026-06-24T12:33:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh begins fourth phase of Road Axes Program serving 950,000 vehicles a day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662454/saudi-arabia/riyadh-begins-fourth-phase-of-road-axes-program-serving-950000-vehicles-a-day",
-      "published_date": "2026-06-24T12:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Expo 2030 Riyadh partners with Expo 2027 Belgrade ahead of Saudi Arabia’s first World Expo",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662452/saudi-arabia/expo-2030-riyadh-partners-with-expo-2027-belgrade-ahead-of-saudi-arabias-first-world-expo",
-      "published_date": "2026-06-24T11:40:31+00:00",
       "category": "Local Events"
     }
   ]
