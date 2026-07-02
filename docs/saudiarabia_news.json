@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-01T13:32:27.063134+00:00",
-  "story_count": 63,
+  "last_updated": "2026-07-02T00:08:37.036046+00:00",
+  "story_count": 64,
   "stories": [
+    {
+      "title": "Saudi Arabia, Pakistan sign MoU to strengthen security cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662661/saudi-arabia/saudi-arabia-pakistan-sign-security-cooperation-mou",
+      "published_date": "2026-07-01T18:15:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM visits Imperial Palace Museum during China trip",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662658/saudi-arabia/saudi-fm-visits-imperial-palace-museum-during-official-china-visit",
+      "published_date": "2026-07-01T15:06:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia says UNRWA remains irreplaceable lifeline for Palestinian refugees",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662646/saudi-arabia/saudi-arabia-says-unrwa-remains-irreplaceable-for-palestinian-refugees",
+      "published_date": "2026-07-01T12:53:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kuwait Emir and Crown Prince meet Saudi Minister Prince Turki bin Mohammed",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Al-Qasabi stresses strengthening Gulf integration during GCC commerce ministers’ meeting",
+      "title": "Nazaha investigates 385 suspects, arrests 130 in June anti-corruption cases",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662567/saudi-arabia/al-qasabi-stresses-strengthening-gulf-integration-during-gcc-commerce-ministers-meeting",
-      "published_date": "2026-06-28T16:10:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Mauritanian FMs discuss latest regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662548/saudi-arabia/saudi-mauritanian-fms-discuss-latest-regional-developments",
-      "published_date": "2026-06-28T11:16:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns Iran&#039;s attacks on Kuwait, Bahrain, Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662545/saudi-arabia/saudi-arabia-condemns-irans-attacks-on-kuwait-bahrain-strait-of-hormuz",
-      "published_date": "2026-06-28T11:01:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662648/saudi-arabia/nazaha-investigates-385-suspects-arrests-130-in-saudi-anti-corruption-campaign",
+      "published_date": "2026-07-01T12:59:03+00:00",
+      "category": "Military"
     },
     {
       "title": "IMCTC’s participation in UN conference highlights its key role in combating terrorism",
@@ -193,11 +200,11 @@
       "category": "Military"
     },
     {
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-24T17:31:48+00:00",
-      "category": "Military"
+      "title": "Gasco announces new LPG refill prices across Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662650/saudi-arabia/gasco-raises-lpg-refill-prices-across-saudi-arabia-from-july-1",
+      "published_date": "2026-07-01T13:10:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "July night skies to showcase the Milky Way and rare celestial sights",
@@ -233,6 +240,20 @@
       "url": "https://saudigazette.com.sa/article/662557/saudi-arabia/saudi-aramco-helicopter-crash-kills-14-in-ras-tanura",
       "published_date": "2026-06-28T12:39:24+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Foreign investment in Saudi private markets hits SR20 billion in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662656/saudi-arabia/foreign-investment-in-saudi-private-markets-hits-sr20-billion-in-2025",
+      "published_date": "2026-07-01T14:02:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia ranks first globally in 2026 ICT Development Index",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662651/saudi-arabia/saudi-arabia-ranks-first-globally-in-2026-ict-development-index",
+      "published_date": "2026-07-01T13:30:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Shoura council calls for social media restrictions for children under 16",
@@ -312,18 +333,18 @@
       "category": "Economy"
     },
     {
-      "title": "12 unlicensed water bottling plants shut in Jeddah",
+      "title": "Saudi Arabia arrests 22 in Riyadh drug trafficking network",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662467/saudi-arabia/12-unlicensed-water-bottling-plants-shut-in-jeddah",
-      "published_date": "2026-06-24T16:48:11+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662660/saudi-arabia/saudi-arabia-arrests-22-suspects-in-riyadh-drug-trafficking-network",
+      "published_date": "2026-07-01T16:30:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "At OPEC Forum, Al-Jadaan highlights building economies more resilient to global shocks",
+      "title": "51,072 Saudi families move into first homes in first five months of 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662466/saudi-arabia/at-opec-forum-al-jadaan-highlights-building-economies-more-resilient-to-global-shocks",
-      "published_date": "2026-06-24T15:51:14+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662647/saudi-arabia/51072-saudi-families-move-into-first-homes-in-first-five-months-of-2026",
+      "published_date": "2026-07-01T12:56:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AI helps Saudi mango farm boost flowering rate to 98%",
@@ -428,20 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662491/saudi-arabia/sfda-launches-saudi-food-composition-tables-to-document-culinary-heritage-and-enhance-nutritional-data",
       "published_date": "2026-06-25T13:29:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh mayor, Tokyo governor discuss cooperation in digital transformation, smart cities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662470/saudi-arabia/riyadh-mayor-tokyo-governor-discuss-cooperation-in-digital-transformation-smart-cities",
-      "published_date": "2026-06-24T20:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passports Directorate takes 12,371 decisions to impose penalties on violators in a month",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662462/saudi-arabia/passports-directorate-takes-12371-decisions-to-impose-penalties-on-violators-in-a-month",
-      "published_date": "2026-06-24T13:51:11+00:00",
       "category": "Local Events"
     }
   ]
