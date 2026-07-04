@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-03T12:54:29.063530+00:00",
-  "story_count": 63,
+  "last_updated": "2026-07-04T00:05:12.923992+00:00",
+  "story_count": 65,
   "stories": [
+    {
+      "title": "Saudi deputy FM attends Khamenei funeral in Tehran, conveys leadership&#039;s condolences",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662709/saudi-arabia/saudi-deputy-fm-attends-khameneis-funeral-in-tehran-conveys-saudi-leaderships-condolences",
+      "published_date": "2026-07-03T22:25:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Labor inspections uncover 80,000 Saudization violations",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Israeli incursions into Syria, targeting of Quneitra and Daraa",
+      "title": "Saudi Arabia condemns deadly bombing at Damascus café",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662590/saudi-arabia/saudi-arabia-condemns-israeli-incursions-into-syria-targeting-of-quneitra-and-daraa",
-      "published_date": "2026-06-29T12:43:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662701/saudi-arabia/saudi-arabia-condemns-deadly-cafe-bombing-in-damascus",
+      "published_date": "2026-07-03T13:57:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
@@ -183,20 +190,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662536/saudi-arabia/islamic-military-counter-terrorism-coalition-emphasizes-keenness-on-counter-terrorist-financing",
       "published_date": "2026-06-27T14:44:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T22:57:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T18:03:32+00:00",
       "category": "Military"
     },
     {
@@ -326,11 +319,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi customs foil smuggling of 25 million pills, over 1 ton of drugs in one year",
+      "title": "Saudi Arabia unveils detailed rules for foreign property ownership",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662512/saudi-arabia/saudi-customs-seize-25-million-pills-and-over-1-ton-of-drugs-in-one-year",
-      "published_date": "2026-06-26T13:49:51+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662706/saudi-arabia/saudi-arabia-issues-executive-regulations-for-foreign-property-ownership",
+      "published_date": "2026-07-03T18:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Investigation underway after amusement ride accident in Abha",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662705/saudi-arabia/investigation-underway-after-amusement-ride-accident-in-abha",
+      "published_date": "2026-07-03T16:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ZATCA foils attempt to smuggle over 208,000 amphetamine pills",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662704/saudi-arabia/zatca-foils-bid-to-smuggle-over-208000-amphetamine-pills-into-saudi-arabia",
+      "published_date": "2026-07-03T15:05:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCRC begins building three bridges at Prince Turki Road–Northern Ring interchange",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662702/saudi-arabia/rcrc-begins-building-three-bridges-at-prince-turki-roadnorthern-ring-interchange",
+      "published_date": "2026-07-03T14:05:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "911 emergency centers handle 2.6 million calls in June",
