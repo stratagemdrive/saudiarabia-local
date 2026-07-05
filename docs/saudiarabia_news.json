@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-05T00:02:08.872319+00:00",
-  "story_count": 65,
+  "last_updated": "2026-07-05T12:13:57.878625+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "ZATCA foils 1,198 smuggling attempts in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662738/saudi-arabia/zatca-foils-1198-smuggling-attempts-in-one-week",
+      "published_date": "2026-07-05T12:02:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi leadership congratulates Trump on US Independence Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662737/saudi-arabia/saudi-leadership-congratulates-trump-on-us-independence-day",
+      "published_date": "2026-07-05T11:38:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudia rejects claims over sale of Boeing 777 aircraft to a sanctioned entity",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Passports Directorate’s advisory to citizens to safeguard passports, check validity before travel",
+      "title": "Saudi interior minister reaffirms support for Syria after Damascus attack",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662599/saudi-arabia/passports-directorates-advisory-to-citizens-to-safeguard-passports-check-validity-before-travel",
-      "published_date": "2026-06-29T15:34:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Egyptian President and Pakistan PM offer condolences to King and Crown Prince over helicopter crash",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662597/saudi-arabia/egyptian-president-and-pakistan-pm-offer-condolences-to-king-and-crown-prince-over-helicopter-crash",
-      "published_date": "2026-06-29T14:55:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662728/saudi-arabia/saudi-interior-minister-condemns-damascus-attack-reaffirms-support-for-syria",
+      "published_date": "2026-07-05T01:16:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Coalition vows forceful response to any Houthi attempt targeting Saudi Arabia",
@@ -319,6 +326,27 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia to showcase Vision 2030 progress at UN High-Level Sustainability Forum",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662731/saudi-arabia/saudi-arabia-to-showcase-vision-2030-progress-at-un-high-level-sustainability-forum",
+      "published_date": "2026-07-05T11:16:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia exempts select businesses from 24-hour operating fee",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662730/saudi-arabia/saudi-arabia-exempts-select-businesses-from-24-hour-operating-fee",
+      "published_date": "2026-07-05T06:40:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labor court orders barber to pay SR40,866 for breaching employment contract",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662729/saudi-arabia/saudi-labor-court-orders-barber-to-pay-sr40866-for-contract-breach",
+      "published_date": "2026-07-05T04:19:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi Arabia arrests over 15,500 residency, labor, border security violators in one week",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662724/saudi-arabia/saudi-arabia-arrests-over-15500-residency-labor-border-security-violators-in-one-week",
@@ -435,27 +463,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662568/saudi-arabia/saudi-ai-team-wins-6-awards-at-asia-pacific-ai-olympiad",
       "published_date": "2026-06-28T17:10:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qiwa to remove workers from establishment records starting July 1 if work permits expired for over 3 months",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662564/saudi-arabia/qiwa-to-remove-workers-from-establishment-records-starting-july-1-if-work-permits-expired-for-over-3-months",
-      "published_date": "2026-06-28T14:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Representatives from 60 entities take part in sessions reviewing early preparations for Hajj 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662563/saudi-arabia/representatives-from-60-entities-take-part-in-sessions-reviewing-early-preparations-for-hajj-2027",
-      "published_date": "2026-06-28T13:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain forecast to persist across Jazan, Asir, and Al Baha until Thursday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662562/saudi-arabia/rain-forecast-to-persist-across-jazan-asir-and-al-baha-until-thursday",
-      "published_date": "2026-06-28T13:31:09+00:00",
       "category": "Local Events"
     }
   ]
