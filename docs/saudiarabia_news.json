@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-04T12:05:15.172899+00:00",
-  "story_count": 66,
+  "last_updated": "2026-07-05T00:02:08.872319+00:00",
+  "story_count": 65,
   "stories": [
+    {
+      "title": "Saudia rejects claims over sale of Boeing 777 aircraft to a sanctioned entity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662713/saudi-arabia/saudia-denies-links-to-boeing-777-aircraft-after-2023-sale",
+      "published_date": "2026-07-04T12:50:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Tajikistan Shura leaders discuss stronger parliamentary ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662711/saudi-arabia/saudi-tajikistan-shura-leaders-discuss-stronger-parliamentary-ties",
+      "published_date": "2026-07-04T11:43:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi deputy FM attends Khamenei funeral in Tehran, conveys leadership&#039;s condolences",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Move to impose SR1,000 fine for failure to issue an invoice",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662596/saudi-arabia/move-to-impose-sr1000-fine-for-failure-to-issue-an-invoice",
-      "published_date": "2026-06-29T14:17:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia ranked safest among G20 countries in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662594/saudi-arabia/saudi-arabia-ranked-safest-among-g20-countries-in-2025",
-      "published_date": "2026-06-29T13:31:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Coalition vows forceful response to any Houthi attempt targeting Saudi Arabia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662710/saudi-arabia/coalition-vows-unprecedented-response-to-any-attempt-targeting-saudi-arabia",
@@ -193,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "Islamic Military Counter Terrorism Coalition emphasizes keenness on counter-terrorist financing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662536/saudi-arabia/islamic-military-counter-terrorism-coalition-emphasizes-keenness-on-counter-terrorist-financing",
-      "published_date": "2026-06-27T14:44:37+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gasco announces new LPG refill prices across Saudi Arabia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662650/saudi-arabia/gasco-raises-lpg-refill-prices-across-saudi-arabia-from-july-1",
@@ -240,6 +233,13 @@
       "url": "https://saudigazette.com.sa/article/662557/saudi-arabia/saudi-aramco-helicopter-crash-kills-14-in-ras-tanura",
       "published_date": "2026-06-28T12:39:24+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tawakkalna adds 160 new services in June through 40 public and private entities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662725/saudi-arabia/tawakkalna-adds-160-new-services-in-june-through-40-public-and-private-entities",
+      "published_date": "2026-07-04T16:32:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi, Pakistan cricket bodies sign deal to develop cricket stadium in Jeddah",
@@ -319,11 +319,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs ports record 1,162 contraband seizures last week",
+      "title": "Saudi Arabia arrests over 15,500 residency, labor, border security violators in one week",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662540/saudi-arabia/saudi-customs-ports-record-1162-contraband-seizures-last-week",
-      "published_date": "2026-06-27T17:40:39+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662724/saudi-arabia/saudi-arabia-arrests-over-15500-residency-labor-border-security-violators-in-one-week",
+      "published_date": "2026-07-04T15:57:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia unveils detailed rules for foreign property ownership",
@@ -456,13 +456,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662562/saudi-arabia/rain-forecast-to-persist-across-jazan-asir-and-al-baha-until-thursday",
       "published_date": "2026-06-28T13:31:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia lowers mandatory declaration threshold for cash, valuables at borders",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662543/saudi-arabia/saudi-arabia-lowers-declaration-threshold-for-cash-and-valuables-at-borders",
-      "published_date": "2026-06-27T20:51:03+00:00",
       "category": "Local Events"
     }
   ]
