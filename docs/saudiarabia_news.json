@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-06T00:07:27.154030+00:00",
-  "story_count": 65,
+  "last_updated": "2026-07-06T14:22:35.288040+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Saudi Arabia, Kenya sign domestic worker recruitment agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662775/saudi-arabia/saudi-arabia-kenya-sign-new-domestic-worker-recruitment-agreement",
+      "published_date": "2026-07-06T12:49:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia provides $3.21 billion in aid to Sudan through 359 projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662767/saudi-arabia/saudi-arabia-provides-321-billion-in-aid-to-sudan-through-359-projects",
+      "published_date": "2026-07-06T10:44:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "KSrelief aid tops $8.53 billion, reaches 114 countries",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns threats to maritime security and ongoing Iranian attacks on Kuwait and Bahrain",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662623/saudi-arabia/saudi-arabia-condemns-threats-to-maritime-security-and-ongoing-iranian-attacks-on-kuwait-and-bahrain",
-      "published_date": "2026-06-30T15:06:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Makkah Deputy Emir leads ceremony of washing Holy Kaaba",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662620/saudi-arabia/makkah-deputy-emir-leads-ceremony-of-washing-holy-kaaba",
-      "published_date": "2026-06-30T14:09:32+00:00",
-      "category": "Diplomacy"
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T12:07:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi anti-concealment program uncovers 104 suspected violations in June",
@@ -176,6 +183,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662701/saudi-arabia/saudi-arabia-condemns-deadly-cafe-bombing-in-damascus",
       "published_date": "2026-07-03T13:57:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran nuclear and military damage revealed after restricted satellite images released",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T11:02:55+00:00",
       "category": "Military"
     },
     {
@@ -249,6 +263,13 @@
       "category": "Energy"
     },
     {
+      "title": "GASTAT launches survey to measure Saudi Arabia’s digital economy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662768/saudi-arabia/gastat-launches-survey-to-measure-saudi-arabias-digital-economy",
+      "published_date": "2026-07-06T11:13:06+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Tawakkalna adds 160 new services in June through 40 public and private entities",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662725/saudi-arabia/tawakkalna-adds-160-new-services-in-june-through-40-public-and-private-entities",
@@ -312,11 +333,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi services exports rise 7.9% to SR71.3 billion in Q1 2026",
+      "title": "Rain, thunderstorms to persist across southwest Saudi Arabia through Saturday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662589/saudi-arabia/saudi-services-exports-rise-79-to-sr713-billion-in-q1-2026",
-      "published_date": "2026-06-29T12:28:56+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662773/saudi-arabia/rain-thunderstorms-to-persist-across-southwest-saudi-arabia-through-saturday",
+      "published_date": "2026-07-06T12:46:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hot temperatures up to 48°C forecast across parts of Saudi Arabia",
@@ -389,6 +410,13 @@
       "category": "Local Events"
     },
     {
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T23:15:22+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "911 emergency centers handle 2.6 million calls in June",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662686/saudi-arabia/saudi-911-emergency-centers-handle-26-million-calls-in-june",
@@ -442,20 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662624/saudi-arabia/30-saudization-in-46-engineering-professions-takes-effect-from-tuesday",
       "published_date": "2026-06-30T15:35:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Specialized tools elevate the sacred tradition of Kaaba Washing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662622/saudi-arabia/specialized-tools-elevate-the-sacred-tradition-of-kaaba-washing",
-      "published_date": "2026-06-30T14:15:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-raising winds to reduce visibility across several Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662621/saudi-arabia/dust-raising-winds-to-reduce-visibility-across-several-saudi-regions",
-      "published_date": "2026-06-30T14:13:29+00:00",
       "category": "Local Events"
     }
   ]
