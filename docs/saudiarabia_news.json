@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-05T12:13:57.878625+00:00",
-  "story_count": 66,
+  "last_updated": "2026-07-06T00:07:27.154030+00:00",
+  "story_count": 65,
   "stories": [
+    {
+      "title": "KSrelief aid tops $8.53 billion, reaches 114 countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662752/saudi-arabia/ksrelief-humanitarian-aid-exceeds-853-billion-across-114-countries",
+      "published_date": "2026-07-05T15:12:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Kenya sign three MoUs at inaugural political consultations meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662751/saudi-arabia/saudi-arabia-kenya-sign-three-mous-at-inaugural-political-consultations-meeting",
+      "published_date": "2026-07-05T14:18:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPEC+ to raise oil production by 188,000 bpd in August",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662747/saudi-arabia/opec-to-increase-oil-production-by-188000-bpd-in-august-2026",
+      "published_date": "2026-07-05T13:52:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s licensed tourism hospitality facilities rise 22.7% in Q1",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662740/saudi-arabia/saudi-arabias-licensed-tourism-hospitality-facilities-rise-227-in-q1",
+      "published_date": "2026-07-05T12:35:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "ZATCA foils 1,198 smuggling attempts in one week",
       "source": "Saudi Gazette",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia extends deadline to rectify expired work permits until end of 2026",
+      "title": "Saudi anti-concealment program uncovers 104 suspected violations in June",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662616/saudi-arabia/saudi-arabia-extends-deadline-to-rectify-expired-work-permits-until-end-of-2026",
-      "published_date": "2026-06-30T12:47:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662753/saudi-arabia/saudi-anti-concealment-program-detects-104-suspected-violations-in-june",
+      "published_date": "2026-07-05T19:50:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi unemployment falls to 6.4% as women&#039;s jobless rate drops to 9%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662614/saudi-arabia/saudi-unemployment-falls-to-64-as-womens-jobless-rate-drops-to-9",
-      "published_date": "2026-06-30T12:22:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, China reaffirm commitment to deepen economic and investment ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662612/saudi-arabia/saudi-china-reaffirm-commitment-to-deepen-economic-and-investment-ties",
-      "published_date": "2026-06-30T11:48:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia offers condolences to Qatar over death of its citizen in military operations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662602/saudi-arabia/saudi-arabia-offers-condolences-to-qatar-over-death-of-its-citizen-in-military-operations",
-      "published_date": "2026-06-29T19:23:53+00:00",
-      "category": "Diplomacy"
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-05T17:58:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi interior minister reaffirms support for Syria after Damascus attack",
@@ -200,6 +214,13 @@
       "category": "Military"
     },
     {
+      "title": "Foreign direct investment inflows to Saudi Arabia rise 2.4% to SR26.6bn in Q1",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662754/saudi-arabia/foreign-direct-investment-inflows-to-saudi-arabia-rise-24-to-sr266bn-in-q1",
+      "published_date": "2026-07-05T20:24:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Gasco announces new LPG refill prices across Saudi Arabia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662650/saudi-arabia/gasco-raises-lpg-refill-prices-across-saudi-arabia-from-july-1",
@@ -225,20 +246,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662598/saudi-arabia/aramco-helicopter-crash-martyr-was-50-days-away-from-his-wedding",
       "published_date": "2026-06-29T15:00:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fourteen killed in Saudi Arabia helicopter crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-28T15:42:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662557/saudi-arabia/saudi-aramco-helicopter-crash-kills-14-in-ras-tanura",
-      "published_date": "2026-06-28T12:39:24+00:00",
       "category": "Energy"
     },
     {
@@ -312,18 +319,18 @@
       "category": "Economy"
     },
     {
-      "title": "AI Tourism Vision launched to position Saudi Arabia as a global hub for tourism innovation",
+      "title": "Hot temperatures up to 48°C forecast across parts of Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662571/saudi-arabia/ai-tourism-vision-launched-to-position-saudi-arabia-as-a-global-hub-for-tourism-innovation",
-      "published_date": "2026-06-28T21:12:05+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662748/saudi-arabia/hot-temperatures-up-to-48c-forecast-across-parts-of-saudi-arabia",
+      "published_date": "2026-07-05T13:54:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia&#039;s trade surplus surges 60% to over SR90 billion in Q1 2026",
+      "title": "Dust-raising winds to reduce visibility across Saudi Arabia through Saturday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662566/saudi-arabia/saudi-arabias-trade-surplus-surges-60-to-over-sr90-billion-in-q1-2026",
-      "published_date": "2026-06-28T15:31:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662745/saudi-arabia/dust-raising-winds-to-reduce-visibility-across-saudi-arabia-through-saturday",
+      "published_date": "2026-07-05T13:23:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia to showcase Vision 2030 progress at UN High-Level Sustainability Forum",
@@ -449,20 +456,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662621/saudi-arabia/dust-raising-winds-to-reduce-visibility-across-several-saudi-regions",
       "published_date": "2026-06-30T14:13:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "15-year jail and SR1 million fine for assisting border security violators",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662595/saudi-arabia/maximum-15-year-jail-and-sr1-million-fine-for-assisting-border-security-violators",
-      "published_date": "2026-06-29T13:45:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi AI team wins 6 awards at Asia-Pacific AI Olympiad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662568/saudi-arabia/saudi-ai-team-wins-6-awards-at-asia-pacific-ai-olympiad",
-      "published_date": "2026-06-28T17:10:58+00:00",
       "category": "Local Events"
     }
   ]
