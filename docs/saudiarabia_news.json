@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-06T14:22:35.288040+00:00",
-  "story_count": 67,
+  "last_updated": "2026-07-07T00:08:43.174610+00:00",
+  "story_count": 68,
   "stories": [
     {
       "title": "Saudi Arabia, Kenya sign domestic worker recruitment agreement",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T17:44:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T17:22:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Defense Ministry relaunches overseas military scholarship program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662782/saudi-arabia/saudi-defense-ministry-relaunches-overseas-military-scholarship-program",
+      "published_date": "2026-07-06T14:30:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Grand Mosque cooling system keeps temperatures at 22–24°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662781/saudi-arabia/grand-mosque-cooling-system-maintains-2224c-for-worshippers",
+      "published_date": "2026-07-06T14:24:55+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
@@ -221,11 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Kaaba to be washed on Tuesday in centuries-old tradition of reverence and care",
+      "title": "Earth reaches farthest point from Sun Monday night",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662600/saudi-arabia/kaaba-to-be-washed-on-tuesday-in-centuries-old-tradition-of-reverence-and-care",
-      "published_date": "2026-06-29T16:14:03+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662783/saudi-arabia/earth-reaches-farthest-point-from-sun-monday-night",
+      "published_date": "2026-07-06T15:19:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Foreign direct investment inflows to Saudi Arabia rise 2.4% to SR26.6bn in Q1",
@@ -249,18 +277,11 @@
       "category": "Energy"
     },
     {
-      "title": "Funeral prayer offered for those killed in Aramco helicopter crash",
+      "title": "Saudi Arabia launches Package Visa pilot to simplify travel",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662601/saudi-arabia/funeral-prayer-offered-for-those-killed-in-aramco-helicopter-crash",
-      "published_date": "2026-06-29T19:04:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Aramco helicopter crash martyr was 50 days away from his wedding",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662598/saudi-arabia/aramco-helicopter-crash-martyr-was-50-days-away-from-his-wedding",
-      "published_date": "2026-06-29T15:00:34+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662784/saudi-arabia/saudi-arabia-launches-package-visa-pilot-through-travel-providers",
+      "published_date": "2026-07-06T21:39:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "GASTAT launches survey to measure Saudi Arabia’s digital economy",
@@ -319,18 +340,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia extends tax penalty waiver initiative until December 31, 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662604/saudi-arabia/saudi-arabia-extends-tax-penalty-waiver-initiative-until-december-31-2026",
-      "published_date": "2026-06-29T21:22:08+00:00",
-      "category": "Economy"
+      "title": "Israeli police officer filmed throwing stun grenade into car in West Bank",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T18:52:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Abdullah Kamel calls for private sector’s greater empowerment to boost economic growth",
+      "title": "Saudi Arabia updates regulations for 24-hour business operations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662603/saudi-arabia/abdullah-kamel-calls-for-private-sectors-greater-empowerment-to-boost-economic-growth",
-      "published_date": "2026-06-29T20:40:45+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662779/saudi-arabia/saudi-arabia-issues-regulations-for-24-hour-commercial-operations",
+      "published_date": "2026-07-06T13:54:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rain, thunderstorms to persist across southwest Saudi Arabia through Saturday",
@@ -456,20 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662631/saudi-arabia/ministry-of-hajj-announces-conclusion-of-2026-hajj-season-with-seamless-pilgrim-services",
       "published_date": "2026-06-30T21:27:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi defense minister discusses defense cooperation with counterpart of Maldives",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662629/saudi-arabia/defense-minister-meets-maldivian-counterpart",
-      "published_date": "2026-06-30T20:59:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "30% Saudization in 46 engineering professions takes effect from Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662624/saudi-arabia/30-saudization-in-46-engineering-professions-takes-effect-from-tuesday",
-      "published_date": "2026-06-30T15:35:17+00:00",
       "category": "Local Events"
     }
   ]
