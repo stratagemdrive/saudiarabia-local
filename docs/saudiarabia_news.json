@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-07T13:17:28.230343+00:00",
-  "story_count": 68,
+  "last_updated": "2026-07-07T23:58:23.505105+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Cabinet approves unified national visa platform",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662816/saudi-arabia/saudi-cabinet-approves-unified-national-visa-platform-at-foreign-ministry",
+      "published_date": "2026-07-07T19:25:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Human Rights Council adopts Saudi-led resolution on women in cybersecurity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662814/saudi-arabia/un-human-rights-council-adopts-saudi-led-resolution-on-women-in-cybersecurity",
+      "published_date": "2026-07-07T19:09:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Irish FMs met to discuss regional stability and bilateral ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662803/saudi-arabia/saudi-irish-fms-met-to-discuss-regional-stability-and-bilateral-ties",
+      "published_date": "2026-07-07T13:04:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia condemns terrorist attack in Damascus",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Labor inspections uncover 80,000 Saudization violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662685/saudi-arabia/saudi-labor-inspections-uncover-80000-saudization-violations",
-      "published_date": "2026-07-02T14:41:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for stronger global cooperation to secure major sporting events",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662678/saudi-arabia/saudi-arabia-calls-for-stronger-global-cooperation-to-secure-major-sporting-events",
-      "published_date": "2026-07-02T12:17:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Embassy in US warns against fraudsters impersonating staff",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662676/saudi-arabia/saudi-embassy-in-us-warns-against-fraudsters-impersonating-staff",
-      "published_date": "2026-07-02T11:51:54+00:00",
-      "category": "Diplomacy"
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-07T18:03:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
@@ -242,11 +249,18 @@
       "category": "Military"
     },
     {
-      "title": "IMCTC’s participation in UN conference highlights its key role in combating terrorism",
+      "title": "Saudi Arabia holds Iran fully responsible for attacks on Saudi, Qatari vessels in Hormuz",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662625/saudi-arabia/imctcs-participation-in-un-conference-highlights-its-key-role-in-combating-terrorism",
-      "published_date": "2026-06-30T16:04:00+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662815/saudi-arabia/saudi-arabia-condemns-iranian-attack-on-saudi-and-qatari-vessels",
+      "published_date": "2026-07-07T19:17:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi government grants Acwa exclusive green hydrogen export mandate",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662812/saudi-arabia/saudi-government-grants-acwa-exclusive-green-hydrogen-export-mandate",
+      "published_date": "2026-07-07T17:01:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Earth reaches farthest point from Sun Monday night",
@@ -275,6 +289,20 @@
       "url": "https://saudigazette.com.sa/article/662643/saudi-arabia/july-night-skies-to-showcase-the-milky-way-and-rare-celestial-sights",
       "published_date": "2026-07-01T12:33:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia clarifies property transaction tax for foreign buyers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662810/saudi-arabia/saudi-arabia-clarifies-property-transaction-tax-for-foreign-real-estate-buyers",
+      "published_date": "2026-07-07T15:46:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi government performance improves in first quarter of 2026: Economic council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662808/saudi-arabia/saudi-government-performance-improves-in-q1-2026-economic-council-says",
+      "published_date": "2026-07-07T13:38:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia launches Package Visa pilot to simplify travel",
@@ -326,18 +354,25 @@
       "category": "Economy"
     },
     {
-      "title": "Public Investment Fund’s profits soar 152% to SR65 billion in 2025",
+      "title": "Riyadh Metro Red Line extension reaches tunneling milestone",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662627/saudi-arabia/public-investment-funds-profits-soar-152-to-sr65-billion-in-2025",
-      "published_date": "2026-06-30T17:26:55+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662813/saudi-arabia/riyadh-metro-red-line-extension-reaches-key-tunneling-milestone",
+      "published_date": "2026-07-07T19:09:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Net FDI inflows drop 2.4% to SR23 billion in Q1 2026",
+      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-07T16:10:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asir Emir visits injured in amusement ride accident, vows accountability",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662626/saudi-arabia/net-fdi-inflows-drop-24-to-sr23-billion-in-q1-2026",
-      "published_date": "2026-06-30T17:19:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662807/saudi-arabia/asir-emir-visits-amusement-ride-accident-victims-vows-accountability",
+      "published_date": "2026-07-07T13:27:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli police officer filmed throwing stun grenade into car in West Bank",
@@ -456,27 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662660/saudi-arabia/saudi-arabia-arrests-22-suspects-in-riyadh-drug-trafficking-network",
       "published_date": "2026-07-01T16:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "51,072 Saudi families move into first homes in first five months of 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662647/saudi-arabia/51072-saudi-families-move-into-first-homes-in-first-five-months-of-2026",
-      "published_date": "2026-07-01T12:56:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI helps Saudi mango farm boost flowering rate to 98%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662641/saudi-arabia/ai-helps-saudi-mango-farm-boost-flowering-rate-to-98",
-      "published_date": "2026-07-01T12:04:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Hajj announces conclusion of 2026 Hajj Season with seamless pilgrim services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662631/saudi-arabia/ministry-of-hajj-announces-conclusion-of-2026-hajj-season-with-seamless-pilgrim-services",
-      "published_date": "2026-06-30T21:27:20+00:00",
       "category": "Local Events"
     }
   ]
