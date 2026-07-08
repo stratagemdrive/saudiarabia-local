@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-07T23:58:23.505105+00:00",
-  "story_count": 70,
+  "last_updated": "2026-07-08T12:18:51.057920+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Regional condemnation mounts over Iranian attack on Saudi, Qatari tankers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662827/saudi-arabia/regional-condemnation-mounts-over-iranian-attack-on-saudi-qatari-tankers",
+      "published_date": "2026-07-08T11:25:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cabinet approves unified national visa platform",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi deputy FM attends Khamenei funeral in Tehran, conveys leadership&#039;s condolences",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662709/saudi-arabia/saudi-deputy-fm-attends-khameneis-funeral-in-tehran-conveys-saudi-leaderships-condolences",
-      "published_date": "2026-07-03T22:25:36+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T08:11:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US strikes target Iranian military boats",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T05:42:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
