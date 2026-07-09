@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-08T12:18:51.057920+00:00",
-  "story_count": 72,
+  "last_updated": "2026-07-09T00:11:17.337672+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Canadian Prime Minister Mark Carney arrives in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662844/saudi-arabia/canadian-prime-minister-mark-carney-arrives-in-saudi-arabia-for-official-visit",
+      "published_date": "2026-07-08T20:32:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia announces success of global e-waste initiative in three countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662840/saudi-arabia/saudi-arabia-announces-success-of-global-e-waste-initiative-with-itu",
+      "published_date": "2026-07-08T16:39:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Omani foreign ministers discuss Hormuz navigation security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662837/saudi-arabia/saudi-omani-foreign-ministers-discuss-hormuz-navigation-security",
+      "published_date": "2026-07-08T13:51:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi public health authority issues summer travel health advisory",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662835/saudi-arabia/saudi-public-health-authority-issues-summer-travel-health-advisory",
+      "published_date": "2026-07-08T12:39:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alswaha: Saudi Arabia is global AI hub connecting East and West",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662834/saudi-arabia/alswaha-saudi-arabia-is-global-ai-hub-connecting-east-and-west",
+      "published_date": "2026-07-08T12:27:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Regional condemnation mounts over Iranian attack on Saudi, Qatari tankers",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia&#039;s licensed tourism hospitality facilities rise 22.7% in Q1",
+      "title": "Saudi Arabia condemns deadly attacks on security forces in Pakistan",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662740/saudi-arabia/saudi-arabias-licensed-tourism-hospitality-facilities-rise-227-in-q1",
-      "published_date": "2026-07-05T12:35:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ZATCA foils 1,198 smuggling attempts in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662738/saudi-arabia/zatca-foils-1198-smuggling-attempts-in-one-week",
-      "published_date": "2026-07-05T12:02:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi leadership congratulates Trump on US Independence Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662737/saudi-arabia/saudi-leadership-congratulates-trump-on-us-independence-day",
-      "published_date": "2026-07-05T11:38:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudia rejects claims over sale of Boeing 777 aircraft to a sanctioned entity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662713/saudi-arabia/saudia-denies-links-to-boeing-777-aircraft-after-2023-sale",
-      "published_date": "2026-07-04T12:50:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Tajikistan Shura leaders discuss stronger parliamentary ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662711/saudi-arabia/saudi-tajikistan-shura-leaders-discuss-stronger-parliamentary-ties",
-      "published_date": "2026-07-04T11:43:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662843/saudi-arabia/saudi-arabia-condemns-deadly-attacks-on-security-forces-in-pakistan",
+      "published_date": "2026-07-08T20:19:34+00:00",
+      "category": "Military"
     },
     {
       "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
@@ -256,11 +263,11 @@
       "category": "Military"
     },
     {
-      "title": "Nazaha investigates 385 suspects, arrests 130 in June anti-corruption cases",
+      "title": "Bahri says Wadiyan tanker safe after Hormuz attack",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662648/saudi-arabia/nazaha-investigates-385-suspects-arrests-130-in-saudi-anti-corruption-campaign",
-      "published_date": "2026-07-01T12:59:03+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662830/saudi-arabia/bahri-says-wadiyan-tanker-safe-after-hormuz-incident",
+      "published_date": "2026-07-08T11:58:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia holds Iran fully responsible for attacks on Saudi, Qatari vessels in Hormuz",
@@ -291,18 +298,18 @@
       "category": "Energy"
     },
     {
-      "title": "Gasco announces new LPG refill prices across Saudi Arabia",
+      "title": "Saudi bankruptcy filings do not necessarily mean businesses close, committee says",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662650/saudi-arabia/gasco-raises-lpg-refill-prices-across-saudi-arabia-from-july-1",
-      "published_date": "2026-07-01T13:10:03+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662836/saudi-arabia/saudi-bankruptcy-committee-says-filings-do-not-necessarily-mean-business-closure",
+      "published_date": "2026-07-08T12:58:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "July night skies to showcase the Milky Way and rare celestial sights",
+      "title": "ZATCA sets July 10 deadline for June withholding tax returns",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662643/saudi-arabia/july-night-skies-to-showcase-the-milky-way-and-rare-celestial-sights",
-      "published_date": "2026-07-01T12:33:01+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662829/saudi-arabia/zatca-sets-july-10-deadline-for-june-withholding-tax-returns",
+      "published_date": "2026-07-08T11:47:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia clarifies property transaction tax for foreign buyers",
@@ -344,27 +351,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662680/saudi-arabia/saudi-pakistan-cricket-bodies-sign-mou-to-develop-jeddah-stadium",
       "published_date": "2026-07-02T12:40:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Foreign investment in Saudi private markets hits SR20 billion in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662656/saudi-arabia/foreign-investment-in-saudi-private-markets-hits-sr20-billion-in-2025",
-      "published_date": "2026-07-01T14:02:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia ranks first globally in 2026 ICT Development Index",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662651/saudi-arabia/saudi-arabia-ranks-first-globally-in-2026-ict-development-index",
-      "published_date": "2026-07-01T13:30:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Shoura council calls for social media restrictions for children under 16",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662644/saudi-arabia/shoura-calls-for-age-verification-rules-for-social-media-users-under-16",
-      "published_date": "2026-07-01T12:36:09+00:00",
       "category": "Economy"
     },
     {
@@ -498,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662683/saudi-arabia/six-arrested-for-illegal-fishing-off-saudi-coast-in-al-laith",
       "published_date": "2026-07-02T13:06:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia arrests 22 in Riyadh drug trafficking network",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662660/saudi-arabia/saudi-arabia-arrests-22-suspects-in-riyadh-drug-trafficking-network",
-      "published_date": "2026-07-01T16:30:04+00:00",
       "category": "Local Events"
     }
   ]
