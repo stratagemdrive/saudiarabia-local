@@ -1,13 +1,55 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-09T00:11:17.337672+00:00",
-  "story_count": 69,
+  "last_updated": "2026-07-09T13:47:25.459060+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Arabia, Hong Kong deepen AI and tech partnerships at LEAP East",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662857/saudi-arabia/saudi-arabia-hong-kong-deepen-ai-and-tech-partnerships-at-leap-east",
+      "published_date": "2026-07-09T12:36:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, South Sudan discuss bilateral ties and regional issues",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662856/saudi-arabia/saudi-arabia-south-sudan-discuss-bilateral-ties-and-regional-issues",
+      "published_date": "2026-07-09T12:16:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 22 Boon baby bottles over choking risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662855/saudi-arabia/saudi-arabia-recalls-22-boon-baby-bottles-over-choking-risk",
+      "published_date": "2026-07-09T12:05:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia re-elected as Vice-Chair of global food standards body CODEX",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662854/saudi-arabia/saudi-arabia-re-elected-as-vice-chair-of-global-food-standards-body-codex",
+      "published_date": "2026-07-09T11:40:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Iran&#039;s repeated attacks on Kuwait and Bahrain",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662853/saudi-arabia/saudi-arabia-condemns-irans-repeated-attacks-on-kuwait-and-bahrain",
+      "published_date": "2026-07-09T11:14:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canadian Prime Minister Mark Carney arrives in Saudi Arabia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662844/saudi-arabia/canadian-prime-minister-mark-carney-arrives-in-saudi-arabia-for-official-visit",
       "published_date": "2026-07-08T20:32:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T18:05:31+00:00",
       "category": "Diplomacy"
     },
     {
@@ -99,48 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662798/saudi-arabia/saudi-french-foreign-ministers-discuss-regional-security-in-phone-call",
       "published_date": "2026-07-07T11:30:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns terror plot, reaffirms solidarity with Morocco",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662797/saudi-arabia/saudi-arabia-condemns-terror-plot-reaffirms-solidarity-with-morocco",
-      "published_date": "2026-07-07T11:09:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Kenya sign domestic worker recruitment agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662775/saudi-arabia/saudi-arabia-kenya-sign-new-domestic-worker-recruitment-agreement",
-      "published_date": "2026-07-06T12:49:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia provides $3.21 billion in aid to Sudan through 359 projects",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662767/saudi-arabia/saudi-arabia-provides-321-billion-in-aid-to-sudan-through-359-projects",
-      "published_date": "2026-07-06T10:44:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KSrelief aid tops $8.53 billion, reaches 114 countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662752/saudi-arabia/ksrelief-humanitarian-aid-exceeds-853-billion-across-114-countries",
-      "published_date": "2026-07-05T15:12:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Kenya sign three MoUs at inaugural political consultations meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662751/saudi-arabia/saudi-arabia-kenya-sign-three-mous-at-inaugural-political-consultations-meeting",
-      "published_date": "2026-07-05T14:18:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OPEC+ to raise oil production by 188,000 bpd in August",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662747/saudi-arabia/opec-to-increase-oil-production-by-188000-bpd-in-august-2026",
-      "published_date": "2026-07-05T13:52:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -256,11 +256,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia secures ACAO Executive Council seat as GACA chief wins second term",
+      "title": "Saudi, Turkish ministers discuss climate cooperation ahead of COP31",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662681/saudi-arabia/saudi-arabia-secures-acao-executive-council-seat-as-gaca-chief-wins-second-term",
-      "published_date": "2026-07-02T12:42:06+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/662858/saudi-arabia/saudi-turkish-ministers-discuss-climate-cooperation-ahead-of-cop31",
+      "published_date": "2026-07-09T12:47:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Bahri says Wadiyan tanker safe after Hormuz attack",
@@ -347,11 +347,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi, Pakistan cricket bodies sign deal to develop cricket stadium in Jeddah",
+      "title": "Riyadh construction projects fined over SR16 million for dust control violations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662680/saudi-arabia/saudi-pakistan-cricket-bodies-sign-mou-to-develop-jeddah-stadium",
-      "published_date": "2026-07-02T12:40:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662845/saudi-arabia/riyadh-construction-projects-fined-over-sr16-million-for-dust-control-violations",
+      "published_date": "2026-07-09T01:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh Metro Red Line extension reaches tunneling milestone",
@@ -477,13 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662686/saudi-arabia/saudi-911-emergency-centers-handle-26-million-calls-in-june",
       "published_date": "2026-07-02T15:01:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six Bangladeshi residents arrested for illegal fishing off Saudi coast",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662683/saudi-arabia/six-arrested-for-illegal-fishing-off-saudi-coast-in-al-laith",
-      "published_date": "2026-07-02T13:06:53+00:00",
       "category": "Local Events"
     }
   ]
