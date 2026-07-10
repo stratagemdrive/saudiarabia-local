@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-10T13:09:29.931165+00:00",
-  "story_count": 73,
+  "last_updated": "2026-07-10T23:58:41.857110+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "SOCPA refers unlicensed practitioners to Public Prosecution",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662893/saudi-arabia/saudi-accounting-authority-refers-unlicensed-accounting-practitioners-to-public-prosecution",
+      "published_date": "2026-07-10T15:44:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Public prosecutor meets citizens, residents to review cases",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662890/saudi-arabia/saudi-public-prosecutor-meets-citizens-and-residents-to-review-requests-and-legal-cases",
+      "published_date": "2026-07-10T13:56:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Six countries eligible for Saudi Arabia’s new Visa Package",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Regional condemnation mounts over Iranian attack on Saudi, Qatari tankers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662827/saudi-arabia/regional-condemnation-mounts-over-iranian-attack-on-saudi-qatari-tankers",
-      "published_date": "2026-07-08T11:25:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cabinet approves unified national visa platform",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662816/saudi-arabia/saudi-cabinet-approves-unified-national-visa-platform-at-foreign-ministry",
-      "published_date": "2026-07-07T19:25:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi, Canadian defense ministers discuss military cooperation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662876/saudi-arabia/saudi-canadian-defense-ministers-discuss-military-cooperation-and-regional-developments",
@@ -249,13 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia condemns deadly bombing at Damascus café",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662701/saudi-arabia/saudi-arabia-condemns-deadly-cafe-bombing-in-damascus",
-      "published_date": "2026-07-03T13:57:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
@@ -303,6 +296,20 @@
       "url": "https://saudigazette.com.sa/article/662754/saudi-arabia/foreign-direct-investment-inflows-to-saudi-arabia-rise-24-to-sr266bn-in-q1",
       "published_date": "2026-07-05T20:24:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi ICT minister explores AI, robotics partnerships during Shenzhen visit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662894/saudi-arabia/saudi-ict-minister-explores-ai-and-robotics-partnerships-during-shenzhen-visit",
+      "published_date": "2026-07-10T17:56:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Hogail launches SR1.67 billion municipal, housing projects in Al-Baha",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662891/saudi-arabia/al-hogail-launches-sr167-billion-municipal-and-housing-projects-in-al-baha",
+      "published_date": "2026-07-10T14:03:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi investment minister says ties with Canada entering new partnership phase",
@@ -484,34 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662724/saudi-arabia/saudi-arabia-arrests-over-15500-residency-labor-border-security-violators-in-one-week",
       "published_date": "2026-07-04T15:57:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia unveils detailed rules for foreign property ownership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662706/saudi-arabia/saudi-arabia-issues-executive-regulations-for-foreign-property-ownership",
-      "published_date": "2026-07-03T18:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation underway after amusement ride accident in Abha",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662705/saudi-arabia/investigation-underway-after-amusement-ride-accident-in-abha",
-      "published_date": "2026-07-03T16:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ZATCA foils attempt to smuggle over 208,000 amphetamine pills",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662704/saudi-arabia/zatca-foils-bid-to-smuggle-over-208000-amphetamine-pills-into-saudi-arabia",
-      "published_date": "2026-07-03T15:05:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCRC begins building three bridges at Prince Turki Road–Northern Ring interchange",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662702/saudi-arabia/rcrc-begins-building-three-bridges-at-prince-turki-roadnorthern-ring-interchange",
-      "published_date": "2026-07-03T14:05:21+00:00",
       "category": "Local Events"
     }
   ]
