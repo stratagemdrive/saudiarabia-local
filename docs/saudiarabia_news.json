@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-09T13:47:25.459060+00:00",
-  "story_count": 68,
+  "last_updated": "2026-07-10T00:05:17.637943+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Arabia welcomes US move to remove Syria from terrorism list",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662875/saudi-arabia/saudi-arabia-welcomes-us-move-to-remove-syria-from-state-sponsor-of-terrorism-list",
+      "published_date": "2026-07-09T22:24:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Canada establish coordination council to guide next phase of bilateral relations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662873/saudi-arabia/saudi-arabia-and-canada-sign-three-mous-during-crown-prince-mark-carney-talks",
+      "published_date": "2026-07-09T18:44:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti FMs discuss regional security, condemn Iran attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662864/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-regional-security-condemn-iran-attacks",
+      "published_date": "2026-07-09T13:35:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for accountability over sexual violence in conflicts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662861/saudi-arabia/saudi-arabia-calls-for-accountability-over-conflict-related-sexual-violence-at-un",
+      "published_date": "2026-07-09T13:14:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Canadian foreign ministers condemn Iranian attacks in Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662860/saudi-arabia/saudi-canadian-foreign-ministers-condemn-iranian-attacks-in-strait-of-hormuz",
+      "published_date": "2026-07-09T12:57:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, Hong Kong deepen AI and tech partnerships at LEAP East",
       "source": "Saudi Gazette",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns terrorist attack in Damascus",
+      "title": "Saudi, Canadian defense ministers discuss military cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662802/saudi-arabia/saudi-arabia-condemns-terrorist-attack-in-damascus-reaffirms-support-for-syria",
-      "published_date": "2026-07-07T12:41:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662876/saudi-arabia/saudi-canadian-defense-ministers-discuss-military-cooperation-and-regional-developments",
+      "published_date": "2026-07-09T23:04:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, UNESCO discuss stronger cooperation on AI ethics",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662801/saudi-arabia/saudi-arabia-unesco-discuss-stronger-cooperation-on-ai-ethics",
-      "published_date": "2026-07-07T12:31:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA chief leads Saudi delegation at Codex Commission session in Geneva",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662800/saudi-arabia/sfda-ceo-leads-saudi-delegation-at-49th-codex-alimentarius-commission",
-      "published_date": "2026-07-07T12:16:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Najran to Get 100,000-square-meter entertainment destination in 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662799/saudi-arabia/najran-to-get-100000-square-meter-entertainment-destination-in-2027",
-      "published_date": "2026-07-07T11:58:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, French Foreign Ministers discuss regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662798/saudi-arabia/saudi-french-foreign-ministers-discuss-regional-security-in-phone-call",
-      "published_date": "2026-07-07T11:30:23+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T21:04:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia condemns deadly attacks on security forces in Pakistan",
@@ -249,11 +263,11 @@
       "category": "Military"
     },
     {
-      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T17:56:18+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T14:41:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi, Turkish ministers discuss climate cooperation ahead of COP31",
@@ -296,6 +310,34 @@
       "url": "https://saudigazette.com.sa/article/662754/saudi-arabia/foreign-direct-investment-inflows-to-saudi-arabia-rise-24-to-sr266bn-in-q1",
       "published_date": "2026-07-05T20:24:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi investment minister says ties with Canada entering new partnership phase",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662874/saudi-arabia/saudi-investment-minister-says-saudi-canada-ties-entering-new-economic-partnership",
+      "published_date": "2026-07-09T18:56:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Crown Prince, Canadian PM discuss regional developments, expanding ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662872/saudi-arabia/saudi-crown-prince-canadian-pm-discuss-regional-developments-and-bilateral-cooperation",
+      "published_date": "2026-07-09T15:53:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadian PM meets Saudi energy, industry ministers in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662863/saudi-arabia/canadian-prime-minister-mark-carney-meets-saudi-energy-and-industry-ministers",
+      "published_date": "2026-07-09T13:30:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi commercial registrations reach 1.9 million as AI, tourism sectors drive growth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662862/saudi-arabia/saudi-commercial-registrations-reach-19-million-as-ai-tourism-sectors-drive-growth",
+      "published_date": "2026-07-09T13:18:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi bankruptcy filings do not necessarily mean businesses close, committee says",
@@ -345,6 +387,20 @@
       "url": "https://saudigazette.com.sa/article/662725/saudi-arabia/tawakkalna-adds-160-new-services-in-june-through-40-public-and-private-entities",
       "published_date": "2026-07-04T16:32:44+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Health Ministry denies claims about &#039;Asia Medical City&#039; project",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662867/saudi-arabia/saudi-health-ministry-denies-claims-about-asia-medical-city-project",
+      "published_date": "2026-07-09T14:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia welcomes first group of Custodian of the Two Holy Mosques&#039; Umrah guests",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662859/saudi-arabia/saudi-arabia-welcomes-first-group-of-custodian-of-the-two-holy-mosques-umrah-guests",
+      "published_date": "2026-07-09T12:57:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh construction projects fined over SR16 million for dust control violations",
@@ -463,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662702/saudi-arabia/rcrc-begins-building-three-bridges-at-prince-turki-roadnorthern-ring-interchange",
       "published_date": "2026-07-03T14:05:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T23:15:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "911 emergency centers handle 2.6 million calls in June",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662686/saudi-arabia/saudi-911-emergency-centers-handle-26-million-calls-in-june",
-      "published_date": "2026-07-02T15:01:12+00:00",
       "category": "Local Events"
     }
   ]
