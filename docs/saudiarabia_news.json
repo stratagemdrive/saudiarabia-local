@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-11T11:50:10.914598+00:00",
-  "story_count": 70,
+  "last_updated": "2026-07-11T23:55:59.025885+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi, Pakistani foreign ministers discuss regional escalation, back US-Iran talks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662909/saudi-arabia/saudi-pakistani-foreign-ministers-support-us-iran-talks-to-ease-regional-tensions",
+      "published_date": "2026-07-11T22:06:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM, US Secretary of State discuss regional security, coordination",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662897/saudi-arabia/saudi-fm-us-secretary-of-state-discuss-regional-security-coordination",
+      "published_date": "2026-07-11T12:28:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince, Trump discuss US-Iran talks and regional developments",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Omani foreign ministers discuss Hormuz navigation security",
+      "title": "King issues royal orders, appoints Prince Abdulaziz bin Salman industry minister",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662837/saudi-arabia/saudi-omani-foreign-ministers-discuss-hormuz-navigation-security",
-      "published_date": "2026-07-08T13:51:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi public health authority issues summer travel health advisory",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662835/saudi-arabia/saudi-public-health-authority-issues-summer-travel-health-advisory",
-      "published_date": "2026-07-08T12:39:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/662900/saudi-arabia/saudi-king-issues-royal-orders-reshuffling-cabinet-and-senior-government-posts",
+      "published_date": "2026-07-11T13:39:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Canadian defense ministers discuss military cooperation",
@@ -291,6 +298,13 @@
       "category": "Energy"
     },
     {
+      "title": "AlUla launches new agricultural season backed by 130,000-ton annual date harvest",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662904/saudi-arabia/alula-launches-new-agricultural-season-backed-by-130000-ton-annual-date-harvest",
+      "published_date": "2026-07-11T15:46:18+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Fitch affirms Saudi Arabia&#039;s A+ rating with stable outlook",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662896/saudi-arabia/fitch-affirms-saudi-arabias-a-credit-rating-with-stable-outlook",
@@ -382,11 +396,11 @@
       "category": "Economy"
     },
     {
-      "title": "Tawakkalna adds 160 new services in June through 40 public and private entities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662725/saudi-arabia/tawakkalna-adds-160-new-services-in-june-through-40-public-and-private-entities",
-      "published_date": "2026-07-04T16:32:44+00:00",
-      "category": "Economy"
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-11T18:00:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Health Ministry denies claims about &#039;Asia Medical City&#039; project",
@@ -484,13 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662729/saudi-arabia/saudi-labor-court-orders-barber-to-pay-sr40866-for-contract-breach",
       "published_date": "2026-07-05T04:19:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia arrests over 15,500 residency, labor, border security violators in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662724/saudi-arabia/saudi-arabia-arrests-over-15500-residency-labor-border-security-violators-in-one-week",
-      "published_date": "2026-07-04T15:57:59+00:00",
       "category": "Local Events"
     }
   ]
