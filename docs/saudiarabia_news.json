@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-10T23:58:41.857110+00:00",
+  "last_updated": "2026-07-11T11:50:10.914598+00:00",
   "story_count": 70,
   "stories": [
+    {
+      "title": "Crown Prince, Trump discuss US-Iran talks and regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662895/saudi-arabia/crown-prince-mohammed-bin-salman-trump-discuss-us-iran-talks-and-regional-security",
+      "published_date": "2026-07-11T03:06:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SOCPA refers unlicensed practitioners to Public Prosecution",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Alswaha: Saudi Arabia is global AI hub connecting East and West",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662834/saudi-arabia/alswaha-saudi-arabia-is-global-ai-hub-connecting-east-and-west",
-      "published_date": "2026-07-08T12:27:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi, Canadian defense ministers discuss military cooperation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662876/saudi-arabia/saudi-canadian-defense-ministers-discuss-military-cooperation-and-regional-developments",
@@ -242,13 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Coalition vows forceful response to any Houthi attempt targeting Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662710/saudi-arabia/coalition-vows-unprecedented-response-to-any-attempt-targeting-saudi-arabia",
-      "published_date": "2026-07-04T00:12:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
@@ -296,6 +289,13 @@
       "url": "https://saudigazette.com.sa/article/662754/saudi-arabia/foreign-direct-investment-inflows-to-saudi-arabia-rise-24-to-sr266bn-in-q1",
       "published_date": "2026-07-05T20:24:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Fitch affirms Saudi Arabia&#039;s A+ rating with stable outlook",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662896/saudi-arabia/fitch-affirms-saudi-arabias-a-credit-rating-with-stable-outlook",
+      "published_date": "2026-07-11T07:00:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi ICT minister explores AI, robotics partnerships during Shenzhen visit",
