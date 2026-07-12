@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-12T11:57:04.577930+00:00",
-  "story_count": 68,
+  "last_updated": "2026-07-12T23:55:40.493581+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "King Salman, Crown Prince offer condolences to Qatar&#039;s Emir over death of Sheikh Hamad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662933/saudi-arabia/king-salman-crown-prince-offer-condolences-over-death-of-former-qatari-emir-sheikh-hamad",
+      "published_date": "2026-07-12T19:36:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses Hormuz security, regional tensions with Gulf, Jordanian counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662932/saudi-arabia/saudi-foreign-minister-discusses-hormuz-security-with-gulf-and-jordanian-counterparts",
+      "published_date": "2026-07-12T19:33:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HRSD suspends 5 recruitment offices, revokes licenses of 7 others",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662930/saudi-arabia/saudi-arabia-suspends-five-recruitment-offices-revokes-licenses-of-seven-over-violations",
+      "published_date": "2026-07-12T16:20:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq vows not to allow attacks on Saudi Arabia from its territory",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662928/saudi-arabia/iraq-reaffirms-it-will-not-allow-attacks-on-saudi-arabia-from-its-territory",
+      "published_date": "2026-07-12T15:10:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia strengthens global maritime cooperation at 137th IMO Council",
       "source": "Saudi Gazette",
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia recalls 22 Boon baby bottles over choking risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662855/saudi-arabia/saudi-arabia-recalls-22-boon-baby-bottles-over-choking-risk",
-      "published_date": "2026-07-09T12:05:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia re-elected as Vice-Chair of global food standards body CODEX",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662854/saudi-arabia/saudi-arabia-re-elected-as-vice-chair-of-global-food-standards-body-codex",
-      "published_date": "2026-07-09T11:40:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns Iran&#039;s repeated attacks on Kuwait and Bahrain",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662853/saudi-arabia/saudi-arabia-condemns-irans-repeated-attacks-on-kuwait-and-bahrain",
-      "published_date": "2026-07-09T11:14:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canadian Prime Minister Mark Carney arrives in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662844/saudi-arabia/canadian-prime-minister-mark-carney-arrives-in-saudi-arabia-for-official-visit",
-      "published_date": "2026-07-08T20:32:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
@@ -235,20 +235,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi anti-concealment program uncovers 104 suspected violations in June",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662753/saudi-arabia/saudi-anti-concealment-program-detects-104-suspected-violations-in-june",
-      "published_date": "2026-07-05T19:50:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-05T17:58:01+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
@@ -288,13 +274,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662783/saudi-arabia/earth-reaches-farthest-point-from-sun-monday-night",
       "published_date": "2026-07-06T15:19:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Foreign direct investment inflows to Saudi Arabia rise 2.4% to SR26.6bn in Q1",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662754/saudi-arabia/foreign-direct-investment-inflows-to-saudi-arabia-rise-24-to-sr266bn-in-q1",
-      "published_date": "2026-07-05T20:24:00+00:00",
       "category": "Energy"
     },
     {
@@ -396,6 +375,34 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia records lowest dust storm levels in more than 25 years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662931/saudi-arabia/saudi-arabia-records-lowest-dust-storm-levels-in-over-25-years-ncm-says",
+      "published_date": "2026-07-12T18:21:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah deputy emir receives newly appointed Jeddah mayor",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662929/saudi-arabia/makkah-deputy-emir-receives-newly-appointed-jeddah-mayor-ehsan-bafaqeeh",
+      "published_date": "2026-07-12T16:17:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia arrests 3 for promoting hashish, over 31,500 regulated pills",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662923/saudi-arabia/saudi-arabia-arrests-3-for-promoting-hashish-over-31500-regulated-pills",
+      "published_date": "2026-07-12T13:04:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 15,400 violators of Saudi Arabia&#039;s residency, labor, and border laws arrested in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662916/saudi-arabia/over-15400-violators-of-saudi-arabias-residency-labor-and-border-laws-arrested-in-one-week",
+      "published_date": "2026-07-12T12:06:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
@@ -463,20 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662773/saudi-arabia/rain-thunderstorms-to-persist-across-southwest-saudi-arabia-through-saturday",
       "published_date": "2026-07-06T12:46:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hot temperatures up to 48°C forecast across parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662748/saudi-arabia/hot-temperatures-up-to-48c-forecast-across-parts-of-saudi-arabia",
-      "published_date": "2026-07-05T13:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-raising winds to reduce visibility across Saudi Arabia through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662745/saudi-arabia/dust-raising-winds-to-reduce-visibility-across-saudi-arabia-through-saturday",
-      "published_date": "2026-07-05T13:23:14+00:00",
       "category": "Local Events"
     }
   ]
