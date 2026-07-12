@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-11T23:55:59.025885+00:00",
-  "story_count": 71,
+  "last_updated": "2026-07-12T11:57:04.577930+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Arabia strengthens global maritime cooperation at 137th IMO Council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662912/saudi-arabia/saudi-arabia-strengthens-global-maritime-cooperation-at-137th-imo-council",
+      "published_date": "2026-07-12T11:07:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Iran&#039;s continued attacks on Gulf States, commercial shipping",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662911/saudi-arabia/saudi-arabia-condemns-irans-continued-attacks-on-gulf-states-commercial-shipping",
+      "published_date": "2026-07-12T10:46:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Pakistani foreign ministers discuss regional escalation, back US-Iran talks",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T18:05:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia announces success of global e-waste initiative in three countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662840/saudi-arabia/saudi-arabia-announces-success-of-global-e-waste-initiative-with-itu",
-      "published_date": "2026-07-08T16:39:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T06:49:46+00:00",
+      "category": "Military"
     },
     {
       "title": "King issues royal orders, appoints Prince Abdulaziz bin Salman industry minister",
@@ -239,13 +246,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-05T17:58:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi interior minister reaffirms support for Syria after Damascus attack",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662728/saudi-arabia/saudi-interior-minister-condemns-damascus-attack-reaffirms-support-for-syria",
-      "published_date": "2026-07-05T01:16:37+00:00",
       "category": "Military"
     },
     {
@@ -477,27 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662745/saudi-arabia/dust-raising-winds-to-reduce-visibility-across-saudi-arabia-through-saturday",
       "published_date": "2026-07-05T13:23:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia to showcase Vision 2030 progress at UN High-Level Sustainability Forum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662731/saudi-arabia/saudi-arabia-to-showcase-vision-2030-progress-at-un-high-level-sustainability-forum",
-      "published_date": "2026-07-05T11:16:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia exempts select businesses from 24-hour operating fee",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662730/saudi-arabia/saudi-arabia-exempts-select-businesses-from-24-hour-operating-fee",
-      "published_date": "2026-07-05T06:40:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labor court orders barber to pay SR40,866 for breaching employment contract",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662729/saudi-arabia/saudi-labor-court-orders-barber-to-pay-sr40866-for-contract-breach",
-      "published_date": "2026-07-05T04:19:04+00:00",
       "category": "Local Events"
     }
   ]
