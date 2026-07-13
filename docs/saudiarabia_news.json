@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-12T23:55:40.493581+00:00",
-  "story_count": 67,
+  "last_updated": "2026-07-13T13:21:07.044593+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi Crown Prince offers condolences to Qatar emir over death of Sheikh Hamad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662944/saudi-arabia/saudi-crown-prince-offers-condolences-to-qatar-emir-following-sheikh-hamads-death",
+      "published_date": "2026-07-13T12:27:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman, Crown Prince offer condolences to Qatar&#039;s Emir over death of Sheikh Hamad",
       "source": "Saudi Gazette",
@@ -137,17 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, South Sudan discuss bilateral ties and regional issues",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662856/saudi-arabia/saudi-arabia-south-sudan-discuss-bilateral-ties-and-regional-issues",
-      "published_date": "2026-07-09T12:16:25+00:00",
-      "category": "Diplomacy"
+      "title": "US releases footage of strikes on Iran",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T07:07:50+00:00",
+      "category": "Military"
     },
     {
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-12T06:49:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-11T16:55:57+00:00",
       "category": "Military"
     },
     {
@@ -228,11 +242,11 @@
       "category": "Military"
     },
     {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T12:07:44+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T16:35:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
@@ -277,6 +291,13 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Biology Team competes at world&#039;s leading Biology Olympiad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662942/saudi-arabia/saudi-biology-team-competes-at-worlds-leading-biology-olympiad",
+      "published_date": "2026-07-13T12:00:08+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "AlUla launches new agricultural season backed by 130,000-ton annual date harvest",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662904/saudi-arabia/alula-launches-new-agricultural-season-backed-by-130000-ton-annual-date-harvest",
@@ -302,6 +323,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662891/saudi-arabia/al-hogail-launches-sr167-billion-municipal-and-housing-projects-in-al-baha",
       "published_date": "2026-07-10T14:03:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US and Iran trade attacks as Khamenei is buried",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-10T04:18:14+00:00",
       "category": "Economy"
     },
     {
@@ -368,11 +396,32 @@
       "category": "Economy"
     },
     {
-      "title": "GASTAT launches survey to measure Saudi Arabia’s digital economy",
+      "title": "Saudi Mathematics Team competes at world&#039;s most prestigious Mathematical Olympiad",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662768/saudi-arabia/gastat-launches-survey-to-measure-saudi-arabias-digital-economy",
-      "published_date": "2026-07-06T11:13:06+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662945/saudi-arabia/saudi-mathematics-team-competes-at-worlds-most-prestigious-mathematical-olympiad",
+      "published_date": "2026-07-13T12:28:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia wins bid to host 2027 Physics Olympiad as team earns 5 awards",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662941/saudi-arabia/saudi-arabia-wins-bid-to-host-2027-physics-olympiad-as-team-earns-5-awards",
+      "published_date": "2026-07-13T11:41:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T11:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM warns of continued thunderstorms across Jazan, Asir, Al Baha, and Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662940/saudi-arabia/ncm-warns-of-continued-thunderstorms-across-jazan-asir-al-baha-and-makkah",
+      "published_date": "2026-07-13T11:08:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia records lowest dust storm levels in more than 25 years",
@@ -463,13 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662779/saudi-arabia/saudi-arabia-issues-regulations-for-24-hour-commercial-operations",
       "published_date": "2026-07-06T13:54:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain, thunderstorms to persist across southwest Saudi Arabia through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662773/saudi-arabia/rain-thunderstorms-to-persist-across-southwest-saudi-arabia-through-saturday",
-      "published_date": "2026-07-06T12:46:23+00:00",
       "category": "Local Events"
     }
   ]
