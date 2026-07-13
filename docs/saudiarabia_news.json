@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-13T13:21:07.044593+00:00",
-  "story_count": 73,
+  "last_updated": "2026-07-13T23:54:54.220501+00:00",
+  "story_count": 71,
   "stories": [
     {
       "title": "Saudi Crown Prince offers condolences to Qatar emir over death of Sheikh Hamad",
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T23:42:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi air defenses intercept Houthi ballistic missile threat targeting southern region",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662960/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-southern-region",
+      "published_date": "2026-07-13T20:16:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T15:16:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US releases footage of strikes on Iran",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
@@ -214,34 +235,6 @@
       "category": "Military"
     },
     {
-      "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T17:44:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T17:22:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Defense Ministry relaunches overseas military scholarship program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662782/saudi-arabia/saudi-defense-ministry-relaunches-overseas-military-scholarship-program",
-      "published_date": "2026-07-06T14:30:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Grand Mosque cooling system keeps temperatures at 22–24°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662781/saudi-arabia/grand-mosque-cooling-system-maintains-2224c-for-worshippers",
-      "published_date": "2026-07-06T14:24:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
@@ -284,11 +277,18 @@
       "category": "Energy"
     },
     {
-      "title": "Earth reaches farthest point from Sun Monday night",
+      "title": "Qiwa: Firms cannot change activity if nationality diversity rules are breached",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662783/saudi-arabia/earth-reaches-farthest-point-from-sun-monday-night",
-      "published_date": "2026-07-06T15:19:55+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662959/saudi-arabia/qiwa-says-firms-cannot-change-business-activity-if-workforce-diversity-rules-are-exceeded",
+      "published_date": "2026-07-13T19:13:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ZATCA detects e-invoicing, VAT violations in 61,000 inspections",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662958/saudi-arabia/zatca-detects-tax-violations-unstamped-tobacco-products-in-q2-inspections",
+      "published_date": "2026-07-13T15:28:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Biology Team competes at world&#039;s leading Biology Olympiad",
@@ -389,11 +389,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia launches Package Visa pilot to simplify travel",
+      "title": "Saudi Arabia warns of SR50,000 fine, jail for overstaying entry visas",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662784/saudi-arabia/saudi-arabia-launches-package-visa-pilot-through-travel-providers",
-      "published_date": "2026-07-06T21:39:54+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/662948/saudi-arabia/saudi-arabia-warns-overstayers-face-sr50000-fine-jail-and-deportation",
+      "published_date": "2026-07-13T13:02:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Mathematics Team competes at world&#039;s most prestigious Mathematical Olympiad",
@@ -498,20 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662807/saudi-arabia/asir-emir-visits-amusement-ride-accident-victims-vows-accountability",
       "published_date": "2026-07-07T13:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police officer filmed throwing stun grenade into car in West Bank",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T18:52:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia updates regulations for 24-hour business operations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662779/saudi-arabia/saudi-arabia-issues-regulations-for-24-hour-commercial-operations",
-      "published_date": "2026-07-06T13:54:04+00:00",
       "category": "Local Events"
     }
   ]
