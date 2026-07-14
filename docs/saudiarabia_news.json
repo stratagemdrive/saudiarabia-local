@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-13T23:54:54.220501+00:00",
-  "story_count": 71,
+  "last_updated": "2026-07-14T12:08:44.801186+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Arabia joins third high-level GCC-EU talks on regional security and cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662975/saudi-arabia/saudi-arabia-joins-third-high-level-gcc-eu-talks-on-regional-security-and-cooperation",
+      "published_date": "2026-07-14T11:23:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Italian FMs discuss two-state solution and regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662973/saudi-arabia/saudi-italian-fms-discuss-two-state-solution-and-regional-security",
+      "published_date": "2026-07-14T11:07:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince offers condolences to Qatar emir over death of Sheikh Hamad",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Canadian foreign ministers condemn Iranian attacks in Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662860/saudi-arabia/saudi-canadian-foreign-ministers-condemn-iranian-attacks-in-strait-of-hormuz",
-      "published_date": "2026-07-09T12:57:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Hong Kong deepen AI and tech partnerships at LEAP East",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662857/saudi-arabia/saudi-arabia-hong-kong-deepen-ai-and-tech-partnerships-at-leap-east",
-      "published_date": "2026-07-09T12:36:44+00:00",
-      "category": "Diplomacy"
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-14T10:02:43+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
@@ -277,6 +284,13 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Arabia strengthens AI, space sector partnerships in China",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662978/saudi-arabia/saudi-arabia-strengthens-ai-space-sector-partnerships-in-china",
+      "published_date": "2026-07-14T11:58:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Qiwa: Firms cannot change activity if nationality diversity rules are breached",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662959/saudi-arabia/qiwa-says-firms-cannot-change-business-activity-if-workforce-diversity-rules-are-exceeded",
@@ -387,6 +401,13 @@
       "url": "https://saudigazette.com.sa/article/662808/saudi-arabia/saudi-government-performance-improves-in-q1-2026-economic-council-says",
       "published_date": "2026-07-07T13:38:21+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "New Jeddah mayor begins duties, reviews priority projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662963/saudi-arabia/new-jeddah-mayor-ehsan-bafaqih-begins-duties-reviews-key-municipal-projects",
+      "published_date": "2026-07-14T00:31:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia warns of SR50,000 fine, jail for overstaying entry visas",
