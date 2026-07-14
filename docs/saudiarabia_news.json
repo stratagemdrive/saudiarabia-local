@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-14T12:08:44.801186+00:00",
-  "story_count": 74,
+  "last_updated": "2026-07-14T23:53:45.062374+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Saudi Arabia reaffirms support for Palestinian state at donor meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662989/saudi-arabia/saudi-arabia-reaffirms-support-for-palestinian-state-at-brussels-donor-meeting",
+      "published_date": "2026-07-14T21:36:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Spain sign Interior Ministry training agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662986/saudi-arabia/saudi-arabia-and-spain-sign-interior-ministry-training-agreement-in-madrid",
+      "published_date": "2026-07-14T18:44:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Iranian attacks on Kuwait, UAE and Gulf states",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662984/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-kuwait-uae-and-gulf-states",
+      "published_date": "2026-07-14T15:40:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cabinet approves State Revenues Law, new training visa for international trainees",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662982/saudi-arabia/saudi-cabinet-approves-state-revenues-law-and-new-training-visa",
+      "published_date": "2026-07-14T13:40:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Vice FM holds high-level talks with European officials on regional security and bilateral ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/662980/saudi-arabia/saudi-vice-fm-holds-high-level-talks-with-european-officials-on-regional-security-and-bilateral-ties",
+      "published_date": "2026-07-14T13:17:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia joins third high-level GCC-EU talks on regional security and cooperation",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Canada launch investment pact talks, deepen mining partnership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662877/saudi-arabia/saudi-arabia-canada-launch-tax-treaty-talks-deepen-strategic-partnership",
-      "published_date": "2026-07-10T00:10:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia welcomes US move to remove Syria from terrorism list",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662875/saudi-arabia/saudi-arabia-welcomes-us-move-to-remove-syria-from-state-sponsor-of-terrorism-list",
-      "published_date": "2026-07-09T22:24:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Canada establish coordination council to guide next phase of bilateral relations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662873/saudi-arabia/saudi-arabia-and-canada-sign-three-mous-during-crown-prince-mark-carney-talks",
-      "published_date": "2026-07-09T18:44:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Kuwaiti FMs discuss regional security, condemn Iran attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662864/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-regional-security-condemn-iran-attacks",
-      "published_date": "2026-07-09T13:35:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for accountability over sexual violence in conflicts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662861/saudi-arabia/saudi-arabia-calls-for-accountability-over-conflict-related-sexual-violence-at-un",
-      "published_date": "2026-07-09T13:14:04+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-14T17:13:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
@@ -235,13 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T18:03:56+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
@@ -270,18 +270,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia holds Iran fully responsible for attacks on Saudi, Qatari vessels in Hormuz",
+      "title": "Saudi Arabia presents third voluntary review on sustainable development goals at UN",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662815/saudi-arabia/saudi-arabia-condemns-iranian-attack-on-saudi-and-qatari-vessels",
-      "published_date": "2026-07-07T19:17:45+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662983/saudi-arabia/saudi-arabia-presents-third-voluntary-review-on-sustainable-development-goals-at-un",
+      "published_date": "2026-07-14T14:20:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi government grants Acwa exclusive green hydrogen export mandate",
+      "title": "Saudi Arabia, Pakistan strengthen planning cooperation at UN forum",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662812/saudi-arabia/saudi-government-grants-acwa-exclusive-green-hydrogen-export-mandate",
-      "published_date": "2026-07-07T17:01:15+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/662981/saudi-arabia/saudi-arabia-pakistan-strengthen-planning-cooperation-at-un-forum",
+      "published_date": "2026-07-14T13:30:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia strengthens AI, space sector partnerships in China",
@@ -389,20 +389,6 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia clarifies property transaction tax for foreign buyers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662810/saudi-arabia/saudi-arabia-clarifies-property-transaction-tax-for-foreign-real-estate-buyers",
-      "published_date": "2026-07-07T15:46:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi government performance improves in first quarter of 2026: Economic council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662808/saudi-arabia/saudi-government-performance-improves-in-q1-2026-economic-council-says",
-      "published_date": "2026-07-07T13:38:21+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "New Jeddah mayor begins duties, reviews priority projects",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662963/saudi-arabia/new-jeddah-mayor-ehsan-bafaqih-begins-duties-reviews-key-municipal-projects",
@@ -498,27 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662845/saudi-arabia/riyadh-construction-projects-fined-over-sr16-million-for-dust-control-violations",
       "published_date": "2026-07-09T01:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh Metro Red Line extension reaches tunneling milestone",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662813/saudi-arabia/riyadh-metro-red-line-extension-reaches-key-tunneling-milestone",
-      "published_date": "2026-07-07T19:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T16:10:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asir Emir visits injured in amusement ride accident, vows accountability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662807/saudi-arabia/asir-emir-visits-amusement-ride-accident-victims-vows-accountability",
-      "published_date": "2026-07-07T13:27:43+00:00",
       "category": "Local Events"
     }
   ]
