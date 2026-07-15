@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-14T23:53:45.062374+00:00",
+  "last_updated": "2026-07-15T12:12:25.442040+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "Commerce ministry recalls 339 Suzuki Grand Vitara vehicles over fuel gauge defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663003/saudi-arabia/commerce-ministry-recalls-339-suzuki-grand-vitara-vehicles-over-fuel-gauge-defect",
+      "published_date": "2026-07-15T11:23:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt reaffirms full Support for Saudi Arabia following Houthi missile attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663001/saudi-arabia/egypt-reaffirms-full-support-for-saudi-arabia-following-houthi-missile-attacks",
+      "published_date": "2026-07-15T11:13:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia reaffirms support for Palestinian state at donor meeting",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Public prosecutor meets citizens, residents to review cases",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662890/saudi-arabia/saudi-public-prosecutor-meets-citizens-and-residents-to-review-requests-and-legal-cases",
-      "published_date": "2026-07-10T13:56:53+00:00",
-      "category": "Diplomacy"
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T09:06:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Six countries eligible for Saudi Arabia’s new Visa Package",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662884/saudi-arabia/saudi-arabia-announces-visa-package-for-visitors-from-six-countries",
-      "published_date": "2026-07-10T08:00:01+00:00",
-      "category": "Diplomacy"
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-14T23:17:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike on police post in north Gaza kills seven, officials say",
@@ -228,20 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T08:11:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes target Iranian military boats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T05:42:37+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
@@ -260,13 +260,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662858/saudi-arabia/saudi-turkish-ministers-discuss-climate-cooperation-ahead-of-cop31",
       "published_date": "2026-07-09T12:47:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bahri says Wadiyan tanker safe after Hormuz attack",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662830/saudi-arabia/bahri-says-wadiyan-tanker-safe-after-hormuz-incident",
-      "published_date": "2026-07-08T11:58:27+00:00",
       "category": "Energy"
     },
     {
@@ -382,11 +375,18 @@
       "category": "Economy"
     },
     {
-      "title": "ZATCA sets July 10 deadline for June withholding tax returns",
+      "title": "Dust-stirring winds to affect Saudi Arabia’s western coast through July 25",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662829/saudi-arabia/zatca-sets-july-10-deadline-for-june-withholding-tax-returns",
-      "published_date": "2026-07-08T11:47:49+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663007/saudi-arabia/dust-stirring-winds-to-affect-saudi-arabias-western-coast-through-july-25",
+      "published_date": "2026-07-15T12:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi inflation reaches 1.8% in June, driven by housing costs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663005/saudi-arabia/saudi-inflation-reaches-18-in-june-driven-by-housing-costs",
+      "published_date": "2026-07-15T11:47:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New Jeddah mayor begins duties, reviews priority projects",
