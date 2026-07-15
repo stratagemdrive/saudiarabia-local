@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-15T12:12:25.442040+00:00",
-  "story_count": 69,
+  "last_updated": "2026-07-15T23:59:07.056486+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi, Syrian foreign ministers discuss bilateral ties and regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663018/saudi-arabia/saudi-syrian-foreign-ministers-discuss-bilateral-ties-and-regional-developments",
+      "published_date": "2026-07-15T15:54:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Public prosecutor urges faster case handling at meeting with regional prosecutors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663011/saudi-arabia/saudi-public-prosecutor-urges-faster-case-handling-in-meeting-with-newly-appointed-regional-prosecutors",
+      "published_date": "2026-07-15T12:57:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FII10 to celebrate a decade of global impact at Riyadh summit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663008/saudi-arabia/fii10-to-celebrate-a-decade-of-global-impact-at-riyadh-summit",
+      "published_date": "2026-07-15T12:35:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Commerce ministry recalls 339 Suzuki Grand Vitara vehicles over fuel gauge defect",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM, US Secretary of State discuss regional security, coordination",
+      "title": "Saudi, US military chiefs discuss expanding defense cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662897/saudi-arabia/saudi-fm-us-secretary-of-state-discuss-regional-security-coordination",
-      "published_date": "2026-07-11T12:28:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, Trump discuss US-Iran talks and regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662895/saudi-arabia/crown-prince-mohammed-bin-salman-trump-discuss-us-iran-talks-and-regional-security",
-      "published_date": "2026-07-11T03:06:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SOCPA refers unlicensed practitioners to Public Prosecution",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662893/saudi-arabia/saudi-accounting-authority-refers-unlicensed-accounting-practitioners-to-public-prosecution",
-      "published_date": "2026-07-10T15:44:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663013/saudi-arabia/saudi-and-us-military-leaders-discuss-expanding-defense-cooperation",
+      "published_date": "2026-07-15T13:12:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
@@ -235,11 +242,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia condemns deadly attacks on security forces in Pakistan",
+      "title": "Saudi Producer Prices rise 7.5% in May on higher manufacturing costs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662843/saudi-arabia/saudi-arabia-condemns-deadly-attacks-on-security-forces-in-pakistan",
-      "published_date": "2026-07-08T20:19:34+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
+      "published_date": "2026-07-15T13:05:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
@@ -261,6 +268,20 @@
       "url": "https://saudigazette.com.sa/article/662858/saudi-arabia/saudi-turkish-ministers-discuss-climate-cooperation-ahead-of-cop31",
       "published_date": "2026-07-09T12:47:04+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia approves updated State Revenues Law to strengthen fiscal governance",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663014/saudi-arabia/saudi-arabia-approves-updated-state-revenues-law-to-strengthen-fiscal-governance",
+      "published_date": "2026-07-15T13:59:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia approves early lease extensions for major municipal investment projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663010/saudi-arabia/saudi-arabia-approves-early-lease-extensions-for-major-municipal-investment-projects",
+      "published_date": "2026-07-15T12:48:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia presents third voluntary review on sustainable development goals at UN",
@@ -368,11 +389,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi bankruptcy filings do not necessarily mean businesses close, committee says",
+      "title": "Al Ahsa tops Saudi Arabia&#039;s hottest locations at 49°C",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662836/saudi-arabia/saudi-bankruptcy-committee-says-filings-do-not-necessarily-mean-business-closure",
-      "published_date": "2026-07-08T12:58:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663019/saudi-arabia/al-ahsa-tops-saudi-arabias-hottest-locations-at-49c",
+      "published_date": "2026-07-15T17:27:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dust-stirring winds to affect Saudi Arabia’s western coast through July 25",
