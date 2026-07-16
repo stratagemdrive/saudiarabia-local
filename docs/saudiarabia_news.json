@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-15T23:59:07.056486+00:00",
-  "story_count": 72,
+  "last_updated": "2026-07-16T12:18:39.593172+00:00",
+  "story_count": 73,
   "stories": [
     {
       "title": "Saudi, Syrian foreign ministers discuss bilateral ties and regional developments",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T11:48:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi, US military chiefs discuss expanding defense cooperation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663013/saudi-arabia/saudi-and-us-military-leaders-discuss-expanding-defense-cooperation",
@@ -268,6 +275,13 @@
       "url": "https://saudigazette.com.sa/article/662858/saudi-arabia/saudi-turkish-ministers-discuss-climate-cooperation-ahead-of-cop31",
       "published_date": "2026-07-09T12:47:04+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia expands AI, semiconductor partnerships in South Korea",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663030/saudi-arabia/saudi-arabia-expands-ai-semiconductor-partnerships-in-south-korea",
+      "published_date": "2026-07-16T11:35:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia approves updated State Revenues Law to strengthen fiscal governance",
@@ -498,13 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662859/saudi-arabia/saudi-arabia-welcomes-first-group-of-custodian-of-the-two-holy-mosques-umrah-guests",
       "published_date": "2026-07-09T12:57:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh construction projects fined over SR16 million for dust control violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662845/saudi-arabia/riyadh-construction-projects-fined-over-sr16-million-for-dust-control-violations",
-      "published_date": "2026-07-09T01:19:00+00:00",
       "category": "Local Events"
     }
   ]
