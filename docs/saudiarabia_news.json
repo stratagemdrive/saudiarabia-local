@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-17T00:00:26.473736+00:00",
-  "story_count": 67,
+  "last_updated": "2026-07-17T12:06:55.469675+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Saudi Arabia enters annual peak of summer heat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663042/saudi-arabia/saudi-arabia-enters-hottest-summer-period-as-jamrat-al-qaydh-begins",
+      "published_date": "2026-07-17T02:53:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia condemns continued Iranian attacks on Kuwait, Bahrain and Jordan",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662928/saudi-arabia/iraq-reaffirms-it-will-not-allow-attacks-on-saudi-arabia-from-its-territory",
       "published_date": "2026-07-12T15:10:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strengthens global maritime cooperation at 137th IMO Council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662912/saudi-arabia/saudi-arabia-strengthens-global-maritime-cooperation-at-137th-imo-council",
-      "published_date": "2026-07-12T11:07:19+00:00",
       "category": "Diplomacy"
     },
     {
@@ -344,13 +344,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662891/saudi-arabia/al-hogail-launches-sr167-billion-municipal-and-housing-projects-in-al-baha",
       "published_date": "2026-07-10T14:03:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US and Iran trade attacks as Khamenei is buried",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-10T04:18:14+00:00",
       "category": "Economy"
     },
     {
