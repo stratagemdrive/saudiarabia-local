@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-16T12:18:39.593172+00:00",
-  "story_count": 73,
+  "last_updated": "2026-07-17T00:00:26.473736+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Saudi Arabia condemns continued Iranian attacks on Kuwait, Bahrain and Jordan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663036/saudi-arabia/saudi-arabia-condemns-continued-iranian-attacks-on-kuwait-bahrain-and-jordan",
+      "published_date": "2026-07-16T14:29:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry conducts 151,000 inspections in Q2",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663032/saudi-arabia/saudi-commerce-ministry-conducts-151000-inspections-and-processes-137000-consumer-reports-in-q2",
+      "published_date": "2026-07-16T12:54:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Syrian foreign ministers discuss bilateral ties and regional developments",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Iran&#039;s continued attacks on Gulf States, commercial shipping",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662911/saudi-arabia/saudi-arabia-condemns-irans-continued-attacks-on-gulf-states-commercial-shipping",
-      "published_date": "2026-07-12T10:46:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Pakistani foreign ministers discuss regional escalation, back US-Iran talks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662909/saudi-arabia/saudi-pakistani-foreign-ministers-support-us-iran-talks-to-ease-regional-tensions",
-      "published_date": "2026-07-11T22:06:57+00:00",
-      "category": "Diplomacy"
+      "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T12:09:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran targets military bases as US launches wave of strikes",
@@ -235,20 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi, Canadian defense ministers discuss military cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662876/saudi-arabia/saudi-canadian-defense-ministers-discuss-military-cooperation-and-regional-developments",
-      "published_date": "2026-07-09T23:04:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T21:04:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Producer Prices rise 7.5% in May on higher manufacturing costs",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
@@ -260,20 +253,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-12T16:35:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T14:41:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi, Turkish ministers discuss climate cooperation ahead of COP31",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662858/saudi-arabia/saudi-turkish-ministers-discuss-climate-cooperation-ahead-of-cop31",
-      "published_date": "2026-07-09T12:47:04+00:00",
       "category": "Energy"
     },
     {
@@ -375,32 +354,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi investment minister says ties with Canada entering new partnership phase",
+      "title": "Two Yemeni expatriates arrested over 27 kg of hashish",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662874/saudi-arabia/saudi-investment-minister-says-saudi-canada-ties-entering-new-economic-partnership",
-      "published_date": "2026-07-09T18:56:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663035/saudi-arabia/two-yemeni-expatriates-arrested-over-27-kg-of-hashish",
+      "published_date": "2026-07-16T13:44:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Crown Prince, Canadian PM discuss regional developments, expanding ties",
+      "title": "More than SR640 million invested in Saudi ports amid Strait of Hormuz crisis",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662872/saudi-arabia/saudi-crown-prince-canadian-pm-discuss-regional-developments-and-bilateral-cooperation",
-      "published_date": "2026-07-09T15:53:21+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663034/saudi-arabia/more-than-sr640-million-invested-in-saudi-ports-amid-strait-of-hormuz-crisis",
+      "published_date": "2026-07-16T13:22:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canadian PM meets Saudi energy, industry ministers in Jeddah",
+      "title": "Saudi Arabia to witness rare total solar eclipse after more than 75 years",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662863/saudi-arabia/canadian-prime-minister-mark-carney-meets-saudi-energy-and-industry-ministers",
-      "published_date": "2026-07-09T13:30:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi commercial registrations reach 1.9 million as AI, tourism sectors drive growth",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662862/saudi-arabia/saudi-commercial-registrations-reach-19-million-as-ai-tourism-sectors-drive-growth",
-      "published_date": "2026-07-09T13:18:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663031/features/saudi-arabia-to-witness-rare-total-solar-eclipse-after-more-than-75-years",
+      "published_date": "2026-07-16T12:36:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Al Ahsa tops Saudi Arabia&#039;s hottest locations at 49°C",
@@ -498,20 +470,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-11T18:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Ministry denies claims about &#039;Asia Medical City&#039; project",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662867/saudi-arabia/saudi-health-ministry-denies-claims-about-asia-medical-city-project",
-      "published_date": "2026-07-09T14:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia welcomes first group of Custodian of the Two Holy Mosques&#039; Umrah guests",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662859/saudi-arabia/saudi-arabia-welcomes-first-group-of-custodian-of-the-two-holy-mosques-umrah-guests",
-      "published_date": "2026-07-09T12:57:02+00:00",
       "category": "Local Events"
     }
   ]
