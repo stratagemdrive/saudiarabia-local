@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-17T12:06:55.469675+00:00",
-  "story_count": 66,
+  "last_updated": "2026-07-17T23:53:46.580402+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "King, Crown Prince offer condolences over Bangladesh floods and landslides",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663058/saudi-arabia/saudi-king-crown-prince-offer-condolences-over-deadly-bangladesh-floods-and-landslidesa",
+      "published_date": "2026-07-17T14:02:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia enters annual peak of summer heat",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq vows not to allow attacks on Saudi Arabia from its territory",
+      "title": "Grand Mosque offers real-time crowd monitoring for Mataf and Masa&#039;a",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662928/saudi-arabia/iraq-reaffirms-it-will-not-allow-attacks-on-saudi-arabia-from-its-territory",
-      "published_date": "2026-07-12T15:10:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663060/saudi-arabia/grand-mosque-offers-real-time-crowd-monitoring-for-mataf-and-masaa",
+      "published_date": "2026-07-17T16:20:02+00:00",
+      "category": "Military"
     },
     {
       "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
@@ -242,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
+      "published_date": "2026-07-17T14:41:03+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi Producer Prices rise 7.5% in May on higher manufacturing costs",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
@@ -333,18 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi ICT minister explores AI, robotics partnerships during Shenzhen visit",
+      "title": "Traffic authorities cite 2,135 vehicles for illegally using disability parking spaces",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662894/saudi-arabia/saudi-ict-minister-explores-ai-and-robotics-partnerships-during-shenzhen-visit",
-      "published_date": "2026-07-10T17:56:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663057/saudi-arabia/saudi-traffic-authorities-cite-2135-vehicles-for-disability-parking-violations",
+      "published_date": "2026-07-17T13:20:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Al-Hogail launches SR1.67 billion municipal, housing projects in Al-Baha",
+      "title": "Saudi organ transplants save 12 patients, including four children",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662891/saudi-arabia/al-hogail-launches-sr167-billion-municipal-and-housing-projects-in-al-baha",
-      "published_date": "2026-07-10T14:03:35+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663056/saudi-arabia/saudi-organ-transplants-save-12-patients-including-four-children-after-five-donor-operations",
+      "published_date": "2026-07-17T13:13:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two Yemeni expatriates arrested over 27 kg of hashish",
