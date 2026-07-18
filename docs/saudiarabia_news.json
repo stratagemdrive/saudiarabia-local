@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-18T11:51:17.366804+00:00",
+  "last_updated": "2026-07-18T23:54:49.637040+00:00",
   "story_count": 69,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T21:12:28+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
@@ -242,20 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T16:55:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King issues royal orders, appoints Prince Abdulaziz bin Salman industry minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662900/saudi-arabia/saudi-king-issues-royal-orders-reshuffling-cabinet-and-senior-government-posts",
-      "published_date": "2026-07-11T13:39:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
@@ -275,6 +268,20 @@
       "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-12T16:35:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia climbs to 13th globally in FDI inflows",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663078/saudi-arabia/saudi-arabia-ranks-13th-globally-for-foreign-direct-investment-inflows-in-2025",
+      "published_date": "2026-07-18T20:07:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Umrah visa arrivals rise 22.5% to 931,500 at start of new season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663077/saudi-arabia/saudi-arabia-records-225-rise-in-umrah-visa-arrivals-at-start-of-1448h-season",
+      "published_date": "2026-07-18T16:59:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia expands AI, semiconductor partnerships in South Korea",
@@ -340,11 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "AlUla launches new agricultural season backed by 130,000-ton annual date harvest",
+      "title": "Saudi rejects Iranian attacks on civilian, vital infrastructure",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662904/saudi-arabia/alula-launches-new-agricultural-season-backed-by-130000-ton-annual-date-harvest",
-      "published_date": "2026-07-11T15:46:18+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663076/saudi-arabia/saudi-renews-rejection-of-iranian-attacks-on-critical-infrastructure",
+      "published_date": "2026-07-18T16:42:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia arrests over 15,800 residency, labor, and border law violators in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663064/saudi-arabia/saudi-arabia-arrests-over-15800-residency-labor-and-border-law-violators-in-one-week",
+      "published_date": "2026-07-18T11:58:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US strikes hit Iran for seventh consecutive night",
@@ -470,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662929/saudi-arabia/makkah-deputy-emir-receives-newly-appointed-jeddah-mayor-ehsan-bafaqeeh",
       "published_date": "2026-07-12T16:17:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia arrests 3 for promoting hashish, over 31,500 regulated pills",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662923/saudi-arabia/saudi-arabia-arrests-3-for-promoting-hashish-over-31500-regulated-pills",
-      "published_date": "2026-07-12T13:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 15,400 violators of Saudi Arabia&#039;s residency, labor, and border laws arrested in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662916/saudi-arabia/over-15400-violators-of-saudi-arabias-residency-labor-and-border-laws-arrested-in-one-week",
-      "published_date": "2026-07-12T12:06:32+00:00",
       "category": "Local Events"
     }
   ]
