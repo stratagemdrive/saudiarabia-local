@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-17T23:53:46.580402+00:00",
-  "story_count": 68,
+  "last_updated": "2026-07-18T11:51:17.366804+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "King Salman appoints, promotes 87 Public Prosecution members in Royal Order",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663062/saudi-arabia/king-salman-appoints-promotes-87-public-prosecution-members-in-royal-order",
+      "published_date": "2026-07-18T10:42:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes Jordan&#039;s initiative to launch Amman-Sanaa commercial flights",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663061/saudi-arabia/saudi-arabia-welcomes-jordans-initiative-for-regular-commercial-flights-between-amman-and-sanaa",
+      "published_date": "2026-07-18T00:15:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King, Crown Prince offer condolences over Bangladesh floods and landslides",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses Hormuz security, regional tensions with Gulf, Jordanian counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662932/saudi-arabia/saudi-foreign-minister-discusses-hormuz-security-with-gulf-and-jordanian-counterparts",
-      "published_date": "2026-07-12T19:33:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HRSD suspends 5 recruitment offices, revokes licenses of 7 others",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662930/saudi-arabia/saudi-arabia-suspends-five-recruitment-offices-revokes-licenses-of-seven-over-violations",
-      "published_date": "2026-07-12T16:20:26+00:00",
-      "category": "Diplomacy"
+      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T17:01:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Grand Mosque offers real-time crowd monitoring for Mataf and Masa&#039;a",
@@ -340,11 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "Fitch affirms Saudi Arabia&#039;s A+ rating with stable outlook",
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T11:48:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Border Guard foils bid to smuggle 17 kg of hashish, 7,500 amphetamine tablets in Asir",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662896/saudi-arabia/fitch-affirms-saudi-arabias-a-credit-rating-with-stable-outlook",
-      "published_date": "2026-07-11T07:00:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663063/saudi-arabia/saudi-border-guard-foils-bid-to-smuggle-17-kg-of-hashish-7500-amphetamine-tablets-in-asir",
+      "published_date": "2026-07-18T10:56:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Traffic authorities cite 2,135 vehicles for illegally using disability parking spaces",
@@ -470,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662916/saudi-arabia/over-15400-violators-of-saudi-arabias-residency-labor-and-border-laws-arrested-in-one-week",
       "published_date": "2026-07-12T12:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T18:00:09+00:00",
       "category": "Local Events"
     }
   ]
