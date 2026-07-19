@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-18T23:54:49.637040+00:00",
-  "story_count": 69,
+  "last_updated": "2026-07-19T11:55:20.470833+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi leadership congratulates UAE president on Union Day anniversary",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663081/saudi-arabia/saudi-leadership-congratulates-uae-president-on-union-day-anniversary",
+      "published_date": "2026-07-19T09:16:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman appoints, promotes 87 Public Prosecution members in Royal Order",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman, Crown Prince offer condolences to Qatar&#039;s Emir over death of Sheikh Hamad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662933/saudi-arabia/king-salman-crown-prince-offer-condolences-over-death-of-former-qatari-emir-sheikh-hamad",
-      "published_date": "2026-07-12T19:36:23+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T11:10:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
@@ -242,13 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-12T06:49:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
@@ -268,6 +268,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-12T16:35:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi customs foil 1,131 smuggling attempts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663079/saudi-arabia/saudi-customs-foil-1131-smuggling-attempts-at-land-sea-and-air-ports",
+      "published_date": "2026-07-19T00:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia climbs to 13th globally in FDI inflows",
@@ -345,6 +352,13 @@
       "url": "https://saudigazette.com.sa/article/662942/saudi-arabia/saudi-biology-team-competes-at-worlds-leading-biology-olympiad",
       "published_date": "2026-07-13T12:00:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Real Estate Registry opens registration for 1,491 properties across three regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663085/saudi-arabia/real-estate-registry-opens-registration-for-1491-properties-across-three-regions",
+      "published_date": "2026-07-19T10:45:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi rejects Iranian attacks on civilian, vital infrastructure",
@@ -477,13 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662931/saudi-arabia/saudi-arabia-records-lowest-dust-storm-levels-in-over-25-years-ncm-says",
       "published_date": "2026-07-12T18:21:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah deputy emir receives newly appointed Jeddah mayor",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662929/saudi-arabia/makkah-deputy-emir-receives-newly-appointed-jeddah-mayor-ehsan-bafaqeeh",
-      "published_date": "2026-07-12T16:17:31+00:00",
       "category": "Local Events"
     }
   ]
