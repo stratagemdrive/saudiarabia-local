@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-19T11:55:20.470833+00:00",
+  "last_updated": "2026-07-19T23:58:31.212903+00:00",
   "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi FM discusses regional escalation with Arab counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663100/saudi-arabia/saudi-foreign-minister-discusses-regional-developments-with-qatar-jordan-and-egypt-counterparts",
+      "published_date": "2026-07-19T20:12:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia introduces flexible residency renewal for domestic workers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663099/saudi-arabia/saudi-arabia-allows-3-month-residency-renewals-for-domestic-workers-through-absher",
+      "published_date": "2026-07-19T14:41:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AI adoption among Saudi internet users reaches 45.2%, CST report finds",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663089/saudi-arabia/ai-adoption-among-saudi-internet-users-reaches-452-cst-report-finds",
+      "published_date": "2026-07-19T12:12:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti foreign ministers discuss Iranian attacks, regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663088/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-iranian-attacks-regional-security",
+      "published_date": "2026-07-19T11:54:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi leadership congratulates UAE president on Union Day anniversary",
       "source": "Saudi Gazette",
@@ -113,34 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662982/saudi-arabia/saudi-cabinet-approves-state-revenues-law-and-new-training-visa",
       "published_date": "2026-07-14T13:40:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Vice FM holds high-level talks with European officials on regional security and bilateral ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662980/saudi-arabia/saudi-vice-fm-holds-high-level-talks-with-european-officials-on-regional-security-and-bilateral-ties",
-      "published_date": "2026-07-14T13:17:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia joins third high-level GCC-EU talks on regional security and cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662975/saudi-arabia/saudi-arabia-joins-third-high-level-gcc-eu-talks-on-regional-security-and-cooperation",
-      "published_date": "2026-07-14T11:23:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Italian FMs discuss two-state solution and regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662973/saudi-arabia/saudi-italian-fms-discuss-two-state-solution-and-regional-security",
-      "published_date": "2026-07-14T11:07:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince offers condolences to Qatar emir over death of Sheikh Hamad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662944/saudi-arabia/saudi-crown-prince-offers-condolences-to-qatar-emir-following-sheikh-hamads-death",
-      "published_date": "2026-07-13T12:27:15+00:00",
       "category": "Diplomacy"
     },
     {
@@ -263,11 +263,11 @@
       "category": "Energy"
     },
     {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-12T16:35:50+00:00",
-      "category": "Energy"
+      "title": "U.S. Chamber report highlights Vision 2030 achievements and U.S. business contributions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663086/saudi-arabia/us-chamber-report-highlights-vision-2030-achievements-and-us-business-contributions",
+      "published_date": "2026-07-19T11:11:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs foil 1,131 smuggling attempts",
@@ -352,6 +352,34 @@
       "url": "https://saudigazette.com.sa/article/662942/saudi-arabia/saudi-biology-team-competes-at-worlds-leading-biology-olympiad",
       "published_date": "2026-07-13T12:00:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "NCM warns of continued thunderstorms across several regions through Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663098/saudi-arabia/ncm-warns-of-continued-thunderstorms-across-several-regions-through-saturday",
+      "published_date": "2026-07-19T13:43:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM forecasts temperatures up to 49°C across parts of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663091/saudi-arabia/ncm-forecasts-temperatures-up-to-49c-across-parts-of-saudi-arabia",
+      "published_date": "2026-07-19T12:48:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Border Guard foils attempt to smuggle 240 kg of khat in Asir",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663090/saudi-arabia/saudi-border-guard-foils-attempt-to-smuggle-240-kg-of-khat-in-asir",
+      "published_date": "2026-07-19T12:23:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Chemistry Team wins four awards at 58th International Chemistry Olympiad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663087/saudi-arabia/saudi-chemistry-team-wins-four-awards-at-58th-international-chemistry-olympiad",
+      "published_date": "2026-07-19T11:37:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Real Estate Registry opens registration for 1,491 properties across three regions",
@@ -463,34 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662945/saudi-arabia/saudi-mathematics-team-competes-at-worlds-most-prestigious-mathematical-olympiad",
       "published_date": "2026-07-13T12:28:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia wins bid to host 2027 Physics Olympiad as team earns 5 awards",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662941/saudi-arabia/saudi-arabia-wins-bid-to-host-2027-physics-olympiad-as-team-earns-5-awards",
-      "published_date": "2026-07-13T11:41:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T11:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM warns of continued thunderstorms across Jazan, Asir, Al Baha, and Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662940/saudi-arabia/ncm-warns-of-continued-thunderstorms-across-jazan-asir-al-baha-and-makkah",
-      "published_date": "2026-07-13T11:08:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia records lowest dust storm levels in more than 25 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662931/saudi-arabia/saudi-arabia-records-lowest-dust-storm-levels-in-over-25-years-ncm-says",
-      "published_date": "2026-07-12T18:21:03+00:00",
       "category": "Local Events"
     }
   ]
