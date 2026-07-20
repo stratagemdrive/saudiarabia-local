@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-20T13:03:05.158140+00:00",
+  "last_updated": "2026-07-20T23:56:12.490101+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "Coalition vows to protect Bab Al-Mandab shipping, warns of firm response to Houthi threats",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663128/saudi-arabia/coalition-vows-firm-response-to-houthi-threats",
+      "published_date": "2026-07-20T20:55:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Industry Ministry processes 853 chemical clearance requests in June",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663126/saudi-arabia/saudi-arabia-processes-853-chemical-clearance-requests-in-june-2026",
+      "published_date": "2026-07-20T20:38:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM, India&#039;s national security adviser discuss maritime security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663124/saudi-arabia/saudi-fm-prince-faisal-bin-farhan-receives-indian-national-security-adviser-ajit-doval",
+      "published_date": "2026-07-20T16:40:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses Gaza developments with Palestinian vice president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663123/saudi-arabia/saudi-fm-prince-faisal-bin-farhan-discusses-gaza-developments-with-palestinian-vice-president-hussein-al-sheikh",
+      "published_date": "2026-07-20T16:35:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince, Lebanese President discuss regional security and stability",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Egypt reaffirms full Support for Saudi Arabia following Houthi missile attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663001/saudi-arabia/egypt-reaffirms-full-support-for-saudi-arabia-following-houthi-missile-attacks",
-      "published_date": "2026-07-15T11:13:00+00:00",
-      "category": "Diplomacy"
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-20T21:30:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia reaffirms support for Palestinian state at donor meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662989/saudi-arabia/saudi-arabia-reaffirms-support-for-palestinian-state-at-brussels-donor-meeting",
-      "published_date": "2026-07-14T21:36:57+00:00",
-      "category": "Diplomacy"
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-20T21:09:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Spain sign Interior Ministry training agreement",
+      "title": "Saudi Arabia rejects Houthi allegations, vows to protect maritime navigation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662986/saudi-arabia/saudi-arabia-and-spain-sign-interior-ministry-training-agreement-in-madrid",
-      "published_date": "2026-07-14T18:44:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns Iranian attacks on Kuwait, UAE and Gulf states",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662984/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-kuwait-uae-and-gulf-states",
-      "published_date": "2026-07-14T15:40:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663127/saudi-arabia/saudi-arabia-rejects-houthi-allegations-vows-to-protect-its-vessels-under-international-law",
+      "published_date": "2026-07-20T20:42:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Interior Ministry launches AI, Cybersecurity military training programs",
@@ -228,27 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T23:42:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi air defenses intercept Houthi ballistic missile threat targeting southern region",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662960/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-southern-region",
-      "published_date": "2026-07-13T20:16:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T15:16:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
@@ -261,6 +261,13 @@
       "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
       "published_date": "2026-07-15T13:05:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia issues, renews over 274,000 commercial licenses in H1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663122/saudi-arabia/saudi-arabia-issues-and-renews-more-than-274000-commercial-licenses-in-first-half-of-2026",
+      "published_date": "2026-07-20T15:43:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Operating Revenues Index rises 11.4% in May",
@@ -340,18 +347,25 @@
       "category": "Economy"
     },
     {
-      "title": "Qiwa: Firms cannot change activity if nationality diversity rules are breached",
+      "title": "Jeddah seizes 3,699 counterfeit branded items in crackdown",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662959/saudi-arabia/qiwa-says-firms-cannot-change-business-activity-if-workforce-diversity-rules-are-exceeded",
-      "published_date": "2026-07-13T19:13:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663125/saudi-arabia/jeddah-municipality-seizes-3699-counterfeit-branded-items-in-inspection-campaigns",
+      "published_date": "2026-07-20T18:19:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ZATCA detects e-invoicing, VAT violations in 61,000 inspections",
+      "title": "Prince Mashari Park reopens as premier tourism destination in Al-Baha",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662958/saudi-arabia/zatca-detects-tax-violations-unstamped-tobacco-products-in-q2-inspections",
-      "published_date": "2026-07-13T15:28:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663118/saudi-arabia/prince-mashari-park-reopens-as-premier-tourism-destination-in-al-baha",
+      "published_date": "2026-07-20T13:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Border Guard foils attempt to smuggle 34 kg of hashish in Asir",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663116/saudi-arabia/saudi-border-guard-foils-attempt-to-smuggle-34-kg-of-hashish-in-asir",
+      "published_date": "2026-07-20T12:52:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia introduces one-year multiple-entry Umrah visa",
@@ -470,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663007/saudi-arabia/dust-stirring-winds-to-affect-saudi-arabias-western-coast-through-july-25",
       "published_date": "2026-07-15T12:07:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi inflation reaches 1.8% in June, driven by housing costs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663005/saudi-arabia/saudi-inflation-reaches-18-in-june-driven-by-housing-costs",
-      "published_date": "2026-07-15T11:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Jeddah mayor begins duties, reviews priority projects",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662963/saudi-arabia/new-jeddah-mayor-ehsan-bafaqih-begins-duties-reviews-key-municipal-projects",
-      "published_date": "2026-07-14T00:31:03+00:00",
       "category": "Local Events"
     }
   ]
