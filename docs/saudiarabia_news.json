@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-19T23:58:31.212903+00:00",
-  "story_count": 70,
+  "last_updated": "2026-07-20T13:03:05.158140+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Crown Prince, Lebanese President discuss regional security and stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663109/saudi-arabia/crown-prince-lebanese-president-discuss-regional-security-and-stability",
+      "published_date": "2026-07-20T11:24:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional escalation with Arab counterparts",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cabinet approves State Revenues Law, new training visa for international trainees",
+      "title": "Saudi Interior Ministry launches AI, Cybersecurity military training programs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662982/saudi-arabia/saudi-cabinet-approves-state-revenues-law-and-new-training-visa",
-      "published_date": "2026-07-14T13:40:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663114/saudi-arabia/saudi-interior-ministry-launches-ai-cybersecurity-military-training-programs",
+      "published_date": "2026-07-20T12:14:06+00:00",
+      "category": "Military"
     },
     {
       "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
@@ -242,13 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "US releases footage of strikes on Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T07:07:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
@@ -261,6 +261,13 @@
       "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
       "published_date": "2026-07-15T13:05:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Operating Revenues Index rises 11.4% in May",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663111/saudi-arabia/saudi-operating-revenues-index-rises-114-in-may",
+      "published_date": "2026-07-20T11:48:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "U.S. Chamber report highlights Vision 2030 achievements and U.S. business contributions",
@@ -347,11 +354,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Biology Team competes at world&#039;s leading Biology Olympiad",
+      "title": "Saudi Arabia introduces one-year multiple-entry Umrah visa",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662942/saudi-arabia/saudi-biology-team-competes-at-worlds-leading-biology-olympiad",
-      "published_date": "2026-07-13T12:00:08+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663115/saudi-arabia/saudi-arabia-introduces-one-year-multiple-entry-umrah-visa",
+      "published_date": "2026-07-20T12:35:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NCM warns of continued thunderstorms across several regions through Saturday",
@@ -477,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/662963/saudi-arabia/new-jeddah-mayor-ehsan-bafaqih-begins-duties-reviews-key-municipal-projects",
       "published_date": "2026-07-14T00:31:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia warns of SR50,000 fine, jail for overstaying entry visas",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662948/saudi-arabia/saudi-arabia-warns-overstayers-face-sr50000-fine-jail-and-deportation",
-      "published_date": "2026-07-13T13:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Mathematics Team competes at world&#039;s most prestigious Mathematical Olympiad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662945/saudi-arabia/saudi-mathematics-team-competes-at-worlds-most-prestigious-mathematical-olympiad",
-      "published_date": "2026-07-13T12:28:06+00:00",
       "category": "Local Events"
     }
   ]
