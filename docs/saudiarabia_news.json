@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-21T12:21:55.868599+00:00",
+  "last_updated": "2026-07-21T23:55:59.872086+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "SDAIA issues AI bias reference guide with over 100 bias types",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663164/saudi-arabia/sdaia-issues-ai-bias-reference-guide-with-more-than-100-bias-types",
+      "published_date": "2026-07-21T20:14:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince congratulates UK&#039;s new prime minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663163/saudi-arabia/crown-prince-mohammed-bin-salman-congratulates-uks-new-prime-minister-andy-burnham",
+      "published_date": "2026-07-21T16:39:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Absher processes nearly 49 million digital transactions in June",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663162/saudi-arabia/absher-processes-nearly-49-million-digital-transactions-in-june",
+      "published_date": "2026-07-21T16:23:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cabinet condemns Houthi allegations, vows firm action to protect Saudi security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663160/saudi-arabia/saudi-cabinet-condemns-houthi-allegations-approves-un-space-cooperation-pact",
+      "published_date": "2026-07-21T15:12:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi ambassador arrives in Paris to assume post in France, Monaco",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663159/saudi-arabia/saudi-ambassador-faisal-al-mujfel-arrives-in-paris-to-assume-post-in-france-and-monaco",
+      "published_date": "2026-07-21T14:53:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Indian officials discuss energy cooperation, supply security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663156/saudi-arabia/saudi-indian-officials-discuss-energy-cooperation-and-energy-supply-security",
+      "published_date": "2026-07-21T13:38:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ministry of Commerce recalls 14,470 Land Rover vehicles over airbag defect",
       "source": "Saudi Gazette",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia welcomes Jordan&#039;s initiative to launch Amman-Sanaa commercial flights",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663061/saudi-arabia/saudi-arabia-welcomes-jordans-initiative-for-regular-commercial-flights-between-amman-and-sanaa",
-      "published_date": "2026-07-18T00:15:37+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-21T15:54:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "King, Crown Prince offer condolences over Bangladesh floods and landslides",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663058/saudi-arabia/saudi-king-crown-prince-offer-condolences-over-deadly-bangladesh-floods-and-landslidesa",
-      "published_date": "2026-07-17T14:02:50+00:00",
-      "category": "Diplomacy"
+      "title": "Why Iran is risking so much over the Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-21T14:36:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia enters annual peak of summer heat",
+      "title": "GCC, Arab states condemn Houthi allegations against Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663042/saudi-arabia/saudi-arabia-enters-hottest-summer-period-as-jamrat-al-qaydh-begins",
-      "published_date": "2026-07-17T02:53:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia condemns continued Iranian attacks on Kuwait, Bahrain and Jordan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663036/saudi-arabia/saudi-arabia-condemns-continued-iranian-attacks-on-kuwait-bahrain-and-jordan",
-      "published_date": "2026-07-16T14:29:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce Ministry conducts 151,000 inspections in Q2",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663032/saudi-arabia/saudi-commerce-ministry-conducts-151000-inspections-and-processes-137000-consumer-reports-in-q2",
-      "published_date": "2026-07-16T12:54:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Syrian foreign ministers discuss bilateral ties and regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663018/saudi-arabia/saudi-syrian-foreign-ministers-discuss-bilateral-ties-and-regional-developments",
-      "published_date": "2026-07-15T15:54:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663157/saudi-arabia/gcc-jordan-kuwait-qatar-condemn-houthi-allegations-against-saudi-arabia",
+      "published_date": "2026-07-21T13:42:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
@@ -235,20 +256,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T23:17:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T17:13:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
@@ -261,6 +268,13 @@
       "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
       "published_date": "2026-07-15T13:05:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia redeems SR17.1bn in sukuk, issues SR17.2bn in new debt",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663155/saudi-arabia/saudi-arabia-redeems-sr171bn-in-sukuk-issues-sr172bn-in-new-debt",
+      "published_date": "2026-07-21T13:18:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia ranks first globally in tourism revenue growth: Quality of Life Report",
@@ -333,18 +347,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia presents third voluntary review on sustainable development goals at UN",
+      "title": "Saudi Border Guard seizes 276 kg of narcotics, 97,034 pills in Jazan and Asir",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662983/saudi-arabia/saudi-arabia-presents-third-voluntary-review-on-sustainable-development-goals-at-un",
-      "published_date": "2026-07-14T14:20:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan strengthen planning cooperation at UN forum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662981/saudi-arabia/saudi-arabia-pakistan-strengthen-planning-cooperation-at-un-forum",
-      "published_date": "2026-07-14T13:30:11+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663152/saudi-arabia/saudi-border-guard-seizes-276-kg-of-narcotics-97034-pills-in-jazan-and-asir",
+      "published_date": "2026-07-21T12:53:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Math Team wins six medals at International Mathematical Olympiad",
@@ -477,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663034/saudi-arabia/more-than-sr640-million-invested-in-saudi-ports-amid-strait-of-hormuz-crisis",
       "published_date": "2026-07-16T13:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia to witness rare total solar eclipse after more than 75 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663031/features/saudi-arabia-to-witness-rare-total-solar-eclipse-after-more-than-75-years",
-      "published_date": "2026-07-16T12:36:24+00:00",
       "category": "Local Events"
     }
   ]
