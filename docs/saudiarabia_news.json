@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-20T23:56:12.490101+00:00",
+  "last_updated": "2026-07-21T12:21:55.868599+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "Ministry of Commerce recalls 14,470 Land Rover vehicles over airbag defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663146/saudi-arabia/ministry-of-commerce-recalls-14470-land-rover-vehicles-over-airbag-defect",
+      "published_date": "2026-07-21T10:54:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM holds talks with Bahrain, Egypt and Türkiye on regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663144/saudi-arabia/saudi-fm-holds-talks-with-bahrain-egypt-and-turkiye-on-regional-security",
+      "published_date": "2026-07-21T10:29:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry launches three-month exceptional discount season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663134/saudi-arabia/saudi-arabia-launches-exceptional-three-month-discount-season-from-aug-1",
+      "published_date": "2026-07-21T06:07:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Coalition vows to protect Bab Al-Mandab shipping, warns of firm response to Houthi threats",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Public prosecutor urges faster case handling at meeting with regional prosecutors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663011/saudi-arabia/saudi-public-prosecutor-urges-faster-case-handling-in-meeting-with-newly-appointed-regional-prosecutors",
-      "published_date": "2026-07-15T12:57:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FII10 to celebrate a decade of global impact at Riyadh summit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663008/saudi-arabia/fii10-to-celebrate-a-decade-of-global-impact-at-riyadh-summit",
-      "published_date": "2026-07-15T12:35:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce ministry recalls 339 Suzuki Grand Vitara vehicles over fuel gauge defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663003/saudi-arabia/commerce-ministry-recalls-339-suzuki-grand-vitara-vehicles-over-fuel-gauge-defect",
-      "published_date": "2026-07-15T11:23:12+00:00",
-      "category": "Diplomacy"
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-21T10:43:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
@@ -242,13 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T10:02:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
@@ -261,6 +261,13 @@
       "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
       "published_date": "2026-07-15T13:05:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia ranks first globally in tourism revenue growth: Quality of Life Report",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663150/saudi-arabia/saudi-arabia-ranks-first-globally-in-tourism-revenue-growth-quality-of-life-report",
+      "published_date": "2026-07-21T12:08:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia issues, renews over 274,000 commercial licenses in H1 2026",
@@ -340,11 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia strengthens AI, space sector partnerships in China",
+      "title": "Saudi Math Team wins six medals at International Mathematical Olympiad",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/662978/saudi-arabia/saudi-arabia-strengthens-ai-space-sector-partnerships-in-china",
-      "published_date": "2026-07-14T11:58:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663148/saudi-arabia/saudi-math-team-wins-six-medals-at-international-mathematical-olympiad",
+      "published_date": "2026-07-21T11:41:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inmates at Buraidah Prison complete vocational diploma program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663130/saudi-arabia/inmates-at-buraidah-prison-complete-vocational-diploma-program-through-qassim-university-partnership",
+      "published_date": "2026-07-21T01:05:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jeddah seizes 3,699 counterfeit branded items in crackdown",
@@ -470,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663031/features/saudi-arabia-to-witness-rare-total-solar-eclipse-after-more-than-75-years",
       "published_date": "2026-07-16T12:36:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al Ahsa tops Saudi Arabia&#039;s hottest locations at 49°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663019/saudi-arabia/al-ahsa-tops-saudi-arabias-hottest-locations-at-49c",
-      "published_date": "2026-07-15T17:27:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-stirring winds to affect Saudi Arabia’s western coast through July 25",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663007/saudi-arabia/dust-stirring-winds-to-affect-saudi-arabias-western-coast-through-july-25",
-      "published_date": "2026-07-15T12:07:57+00:00",
       "category": "Local Events"
     }
   ]
