@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-21T23:55:59.872086+00:00",
-  "story_count": 69,
+  "last_updated": "2026-07-22T12:23:31.883169+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi Crown Prince reaffirms support for Kuwait, condemns Iran’s attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663179/saudi-arabia/saudi-crown-prince-reaffirms-support-for-kuwait-condemns-irans-attacks",
+      "published_date": "2026-07-22T11:17:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM: Diplomacy remains the only path to lasting regional stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663174/saudi-arabia/saudi-fm-diplomacy-remains-the-only-path-to-lasting-regional-stability",
+      "published_date": "2026-07-22T09:36:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italian, Spanish FMs condmend Houthi attack in calls with Saudi FM",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663168/saudi-arabia/italian-spanish-fms-condemn-houthi-attack-in-calls-with-saudi-fm",
+      "published_date": "2026-07-22T07:37:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SDAIA issues AI bias reference guide with over 100 bias types",
       "source": "Saudi Gazette",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Kuwaiti foreign ministers discuss Iranian attacks, regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663088/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-iranian-attacks-regional-security",
-      "published_date": "2026-07-19T11:54:29+00:00",
-      "category": "Diplomacy"
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T10:15:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi leadership congratulates UAE president on Union Day anniversary",
+      "title": "OIC, Arab Parliament denounce Houthi threats, reaffirm support for Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663081/saudi-arabia/saudi-leadership-congratulates-uae-president-on-union-day-anniversary",
-      "published_date": "2026-07-19T09:16:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663177/saudi-arabia/oic-arab-parliament-denounce-houthi-threats-reaffirm-support-for-saudi-arabia",
+      "published_date": "2026-07-22T10:09:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman appoints, promotes 87 Public Prosecution members in Royal Order",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663062/saudi-arabia/king-salman-appoints-promotes-87-public-prosecution-members-in-royal-order",
-      "published_date": "2026-07-18T10:42:54+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T02:15:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
@@ -246,13 +267,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663013/saudi-arabia/saudi-and-us-military-leaders-discuss-expanding-defense-cooperation",
       "published_date": "2026-07-15T13:12:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T09:06:52+00:00",
       "category": "Military"
     },
     {
