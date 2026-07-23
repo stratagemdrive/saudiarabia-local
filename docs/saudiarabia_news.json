@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-22T12:23:31.883169+00:00",
-  "story_count": 71,
+  "last_updated": "2026-07-23T00:00:48.504131+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Arabia, US sign historic nuclear cooperation agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663191/saudi-arabia/us-saudi-arabia-sign-123-civilian-nuclear-cooperation-agreement",
+      "published_date": "2026-07-22T21:01:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA warns against abruptly stopping certain medications",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663190/saudi-arabia/sfda-warns-against-abruptly-stopping-certain-medications",
+      "published_date": "2026-07-22T20:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Media Forum 2027 to be held under King&#039;s patronage",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663188/saudi-arabia/saudi-media-forum-2027-to-be-held-under-king-salmans-patronage",
+      "published_date": "2026-07-22T18:08:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, UAE officials reaffirm strong bilateral ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663187/saudi-arabia/saudi-uae-officials-reaffirm-strong-bilateral-ties-after-leaders-meeting",
+      "published_date": "2026-07-22T15:42:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump approves 30-year US-Saudi civilian nuclear pact: Report",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663186/saudi-arabia/trump-approves-30-year-us-saudi-civilian-nuclear-pact-reports-say",
+      "published_date": "2026-07-22T15:35:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince reaffirms support for Kuwait, condemns Iran’s attacks",
       "source": "Saudi Gazette",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses Gaza developments with Palestinian vice president",
+      "title": "Civil Defense declares Dammam safe after emergency alert lifted",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663123/saudi-arabia/saudi-fm-prince-faisal-bin-farhan-discusses-gaza-developments-with-palestinian-vice-president-hussein-al-sheikh",
-      "published_date": "2026-07-20T16:35:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663185/saudi-arabia/saudi-civil-defense-lifts-emergency-alert-in-dammam-declares-danger-over",
+      "published_date": "2026-07-22T15:10:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crown Prince, Lebanese President discuss regional security and stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663109/saudi-arabia/crown-prince-lebanese-president-discuss-regional-security-and-stability",
-      "published_date": "2026-07-20T11:24:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional escalation with Arab counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663100/saudi-arabia/saudi-foreign-minister-discusses-regional-developments-with-qatar-jordan-and-egypt-counterparts",
-      "published_date": "2026-07-19T20:12:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia introduces flexible residency renewal for domestic workers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663099/saudi-arabia/saudi-arabia-allows-3-month-residency-renewals-for-domestic-workers-through-absher",
-      "published_date": "2026-07-19T14:41:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AI adoption among Saudi internet users reaches 45.2%, CST report finds",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663089/saudi-arabia/ai-adoption-among-saudi-internet-users-reaches-452-cst-report-finds",
-      "published_date": "2026-07-19T12:12:17+00:00",
-      "category": "Diplomacy"
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T14:42:49+00:00",
+      "category": "Military"
     },
     {
       "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
@@ -263,24 +277,17 @@
       "category": "Military"
     },
     {
-      "title": "Saudi, US military chiefs discuss expanding defense cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663013/saudi-arabia/saudi-and-us-military-leaders-discuss-expanding-defense-cooperation",
-      "published_date": "2026-07-15T13:12:58+00:00",
-      "category": "Military"
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T23:21:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
       "published_date": "2026-07-17T14:41:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Producer Prices rise 7.5% in May on higher manufacturing costs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663012/saudi-arabia/saudi-producer-prices-rise-75-in-may-on-higher-manufacturing-costs",
-      "published_date": "2026-07-15T13:05:08+00:00",
       "category": "Energy"
     },
     {
@@ -347,18 +354,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia approves updated State Revenues Law to strengthen fiscal governance",
+      "title": "Nazaha arrests businessman, public officials in 15 corruption cases",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663014/saudi-arabia/saudi-arabia-approves-updated-state-revenues-law-to-strengthen-fiscal-governance",
-      "published_date": "2026-07-15T13:59:59+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663189/saudi-arabia/nazaha-arrests-businessman-officials-in-15-corruption-cases-across-saudi-arabia",
+      "published_date": "2026-07-22T18:16:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia approves early lease extensions for major municipal investment projects",
+      "title": "Two Sudanese arrested in Asir with 106 kg of hashish concealed in vehicle",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663010/saudi-arabia/saudi-arabia-approves-early-lease-extensions-for-major-municipal-investment-projects",
-      "published_date": "2026-07-15T12:48:33+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663184/saudi-arabia/two-arrested-in-asir-with-106-kg-of-hashish-concealed-in-vehicle",
+      "published_date": "2026-07-22T13:49:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Border Guard seizes 276 kg of narcotics, 97,034 pills in Jazan and Asir",
@@ -484,20 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663056/saudi-arabia/saudi-organ-transplants-save-12-patients-including-four-children-after-five-donor-operations",
       "published_date": "2026-07-17T13:13:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Yemeni expatriates arrested over 27 kg of hashish",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663035/saudi-arabia/two-yemeni-expatriates-arrested-over-27-kg-of-hashish",
-      "published_date": "2026-07-16T13:44:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than SR640 million invested in Saudi ports amid Strait of Hormuz crisis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663034/saudi-arabia/more-than-sr640-million-invested-in-saudi-ports-amid-strait-of-hormuz-crisis",
-      "published_date": "2026-07-16T13:22:04+00:00",
       "category": "Local Events"
     }
   ]
