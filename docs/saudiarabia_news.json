@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-23T12:22:30.198376+00:00",
-  "story_count": 70,
+  "last_updated": "2026-07-24T00:00:52.927789+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-23T17:58:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti FMs discuss latest regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663209/saudi-arabia/saudi-kuwaiti-fms-discuss-latest-regional-developments",
+      "published_date": "2026-07-23T12:43:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA blocks more than 300 tons of contaminated food in Q2 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663208/saudi-arabia/sfda-blocks-more-than-300-tons-of-contaminated-food-in-q2-2026",
+      "published_date": "2026-07-23T12:30:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan PM condemns Houthi attack in call with Saudi Crown Prince",
       "source": "Saudi Gazette",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM holds talks with Bahrain, Egypt and Türkiye on regional security",
+      "title": "UK, GCC states, Jordan condemn Houthi attack on Saudi vessel",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663144/saudi-arabia/saudi-fm-holds-talks-with-bahrain-egypt-and-turkiye-on-regional-security",
-      "published_date": "2026-07-21T10:29:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663216/saudi-arabia/uk-gcc-states-jordan-and-uae-condemn-houthi-attack-on-saudi-vessel",
+      "published_date": "2026-07-23T17:07:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Commerce Ministry launches three-month exceptional discount season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663134/saudi-arabia/saudi-arabia-launches-exceptional-three-month-discount-season-from-aug-1",
-      "published_date": "2026-07-21T06:07:03+00:00",
-      "category": "Diplomacy"
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-23T17:06:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Coalition vows to protect Bab Al-Mandab shipping, warns of firm response to Houthi threats",
+      "title": "Masam destroys nearly 6,000 items of unexploded ordnance in Bab Al-Mandab",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663128/saudi-arabia/coalition-vows-firm-response-to-houthi-threats",
-      "published_date": "2026-07-20T20:55:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663214/saudi-arabia/masam-destroys-nearly-6000-unexploded-ordnance-items-in-bab-al-mandab",
+      "published_date": "2026-07-23T14:11:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
@@ -263,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Grand Mosque offers real-time crowd monitoring for Mataf and Masa&#039;a",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663060/saudi-arabia/grand-mosque-offers-real-time-crowd-monitoring-for-mataf-and-masaa",
-      "published_date": "2026-07-17T16:20:02+00:00",
-      "category": "Military"
+      "title": "Oil prices hit $100 for the first time since May",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-23T15:31:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi ministry highlights tree planting to combat summer heat",
@@ -352,6 +373,20 @@
       "url": "https://saudigazette.com.sa/article/663077/saudi-arabia/saudi-arabia-records-225-rise-in-umrah-visa-arrivals-at-start-of-1448h-season",
       "published_date": "2026-07-18T16:59:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi man dies in drowning incident in Türkiye",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663217/saudi-arabia/saudi-man-dies-after-drowning-in-northern-turkiye",
+      "published_date": "2026-07-23T18:07:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Temperatures soar across Saudi Arabia, reaching up to 50°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663210/saudi-arabia/temperatures-soar-across-saudi-arabia-reaching-up-to-50c",
+      "published_date": "2026-07-23T12:58:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jazan Border Guard foils attempt to smuggle 68,100 regulated medical tablets",
@@ -477,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663087/saudi-arabia/saudi-chemistry-team-wins-four-awards-at-58th-international-chemistry-olympiad",
       "published_date": "2026-07-19T11:37:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Estate Registry opens registration for 1,491 properties across three regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663085/saudi-arabia/real-estate-registry-opens-registration-for-1491-properties-across-three-regions",
-      "published_date": "2026-07-19T10:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi rejects Iranian attacks on civilian, vital infrastructure",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663076/saudi-arabia/saudi-renews-rejection-of-iranian-attacks-on-critical-infrastructure",
-      "published_date": "2026-07-18T16:42:02+00:00",
       "category": "Local Events"
     }
   ]
