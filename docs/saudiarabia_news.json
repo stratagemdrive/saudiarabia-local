@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-24T12:16:45.266623+00:00",
-  "story_count": 73,
+  "last_updated": "2026-07-25T00:04:15.186341+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Arabia reaffirms support for diplomacy at ASEAN conference",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663232/saudi-arabia/saudi-arabia-reaffirms-commitment-to-diplomacy-at-asean-conference",
+      "published_date": "2026-07-24T17:53:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia approves new General Education Law",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663228/saudi-arabia/saudi-arabia-approves-new-general-education-law",
+      "published_date": "2026-07-24T13:49:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudis must recognise Israel for nuclear deal, says Trump",
       "source": "BBC News",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Indian officials discuss energy cooperation, supply security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663156/saudi-arabia/saudi-indian-officials-discuss-energy-cooperation-and-energy-supply-security",
-      "published_date": "2026-07-21T13:38:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ministry of Commerce recalls 14,470 Land Rover vehicles over airbag defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663146/saudi-arabia/ministry-of-commerce-recalls-14470-land-rover-vehicles-over-airbag-defect",
-      "published_date": "2026-07-21T10:54:01+00:00",
-      "category": "Diplomacy"
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-24T22:49:59+00:00",
+      "category": "Military"
     },
     {
       "title": "UK, GCC states, Jordan condemn Houthi attack on Saudi vessel",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T17:01:16+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices hit $100 for the first time since May",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
@@ -305,11 +305,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi homeownership rises to 66.24% as Kingdom advances sustainable urban development",
+      "title": "PIF signs financing deals worth up to $24.5 billion with US EXIM, World Bank arms",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663059/saudi-arabia/saudi-homeownership-reaches-6624-amid-sustainable-urban-transformation",
-      "published_date": "2026-07-17T14:41:03+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663233/saudi-arabia/pif-signs-245-billion-financing-agreements-with-us-exim-ifc-and-miga",
+      "published_date": "2026-07-24T20:02:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Finance minister approves seven new government procurement regulations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663231/saudi-arabia/saudi-finance-minister-approves-seven-government-procurement-regulations",
+      "published_date": "2026-07-24T16:48:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia ranks first in MENA for digital government for fourth consecutive year",
@@ -373,6 +380,20 @@
       "url": "https://saudigazette.com.sa/article/663077/saudi-arabia/saudi-arabia-records-225-rise-in-umrah-visa-arrivals-at-start-of-1448h-season",
       "published_date": "2026-07-18T16:59:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Nobel laureate Omar Yaghi inspires young researchers at KACST",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663230/saudi-arabia/saudi-nobel-laureate-omar-yaghi-meets-mawhiba-students-at-kacst",
+      "published_date": "2026-07-24T15:47:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight nations, including Saudi Arabia, condemn Israeli escalation at Al-Aqsa Mosque",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663229/saudi-arabia/eight-nations-condemn-israeli-escalation-at-al-aqsa-mosque",
+      "published_date": "2026-07-24T15:14:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi man dies in drowning incident in Türkiye",
@@ -498,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663091/saudi-arabia/ncm-forecasts-temperatures-up-to-49c-across-parts-of-saudi-arabia",
       "published_date": "2026-07-19T12:48:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Border Guard foils attempt to smuggle 240 kg of khat in Asir",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663090/saudi-arabia/saudi-border-guard-foils-attempt-to-smuggle-240-kg-of-khat-in-asir",
-      "published_date": "2026-07-19T12:23:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Chemistry Team wins four awards at 58th International Chemistry Olympiad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663087/saudi-arabia/saudi-chemistry-team-wins-four-awards-at-58th-international-chemistry-olympiad",
-      "published_date": "2026-07-19T11:37:50+00:00",
       "category": "Local Events"
     }
   ]
