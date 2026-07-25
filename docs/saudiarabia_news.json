@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-25T00:04:15.186341+00:00",
+  "last_updated": "2026-07-25T12:02:04.966282+00:00",
   "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi-owned vessel targeted in Red Sea, continues voyage after minor damage",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663234/saudi-arabia/saudi-owned-vessel-targeted-in-red-sea-official-says",
+      "published_date": "2026-07-25T00:37:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia reaffirms support for diplomacy at ASEAN conference",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi ambassador arrives in Paris to assume post in France, Monaco",
+      "title": "Saudi Arabia condemns deadly terrorist bombing in Pakistan",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663159/saudi-arabia/saudi-ambassador-faisal-al-mujfel-arrives-in-paris-to-assume-post-in-france-and-monaco",
-      "published_date": "2026-07-21T14:53:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663236/saudi-arabia/saudi-arabia-condemns-deadly-terrorist-bombing-in-pakistan",
+      "published_date": "2026-07-25T08:17:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition carries out proportionate strikes on Houthi military targets",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663235/saudi-arabia/coalition-says-it-carried-out-proportionate-strikes-on-houthi-military-targets-in-hodeidah",
+      "published_date": "2026-07-25T00:41:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-19T11:10:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T21:12:28+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices hit $100 for the first time since May",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
@@ -380,6 +380,27 @@
       "url": "https://saudigazette.com.sa/article/663077/saudi-arabia/saudi-arabia-records-225-rise-in-umrah-visa-arrivals-at-start-of-1448h-season",
       "published_date": "2026-07-18T16:59:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi authorities seize 260 kg of khat, arrest 17 in separate anti-drug operations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663239/saudi-arabia/saudi-authorities-seize-260-kg-of-khat-arrest-17-in-separate-anti-drug-operations",
+      "published_date": "2026-07-25T10:05:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dust-stirring winds, rain forecast across parts of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663238/saudi-arabia/dust-stirring-winds-rain-forecast-across-parts-of-saudi-arabia",
+      "published_date": "2026-07-25T09:10:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia&#039;s new education law explained: Key changes for schools, teachers and students",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663237/saudi-arabia/saudi-arabias-new-education-law-explained-key-changes",
+      "published_date": "2026-07-25T08:28:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Nobel laureate Omar Yaghi inspires young researchers at KACST",
@@ -498,27 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663116/saudi-arabia/saudi-border-guard-foils-attempt-to-smuggle-34-kg-of-hashish-in-asir",
       "published_date": "2026-07-20T12:52:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia introduces one-year multiple-entry Umrah visa",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663115/saudi-arabia/saudi-arabia-introduces-one-year-multiple-entry-umrah-visa",
-      "published_date": "2026-07-20T12:35:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM warns of continued thunderstorms across several regions through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663098/saudi-arabia/ncm-warns-of-continued-thunderstorms-across-several-regions-through-saturday",
-      "published_date": "2026-07-19T13:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts temperatures up to 49°C across parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663091/saudi-arabia/ncm-forecasts-temperatures-up-to-49c-across-parts-of-saudi-arabia",
-      "published_date": "2026-07-19T12:48:15+00:00",
       "category": "Local Events"
     }
   ]
