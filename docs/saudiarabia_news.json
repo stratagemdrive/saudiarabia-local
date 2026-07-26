@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-26T00:01:51.973029+00:00",
+  "last_updated": "2026-07-26T12:00:41.673342+00:00",
   "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi FM holds talks with Qatar, Egypt on Gulf, Red Sea security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663251/saudi-arabia/saudi-fm-holds-talks-with-qatar-egypt-on-gulf-red-sea-security",
+      "published_date": "2026-07-26T08:05:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Pakistani FMs discuss regional security, maritime navigation in phone call",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Absher processes nearly 49 million digital transactions in June",
+      "title": "Saudi defense minister holds military, security talks with Turkish, South African counterparts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663162/saudi-arabia/absher-processes-nearly-49-million-digital-transactions-in-june",
-      "published_date": "2026-07-21T16:23:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663250/saudi-arabia/saudi-defense-minister-holds-military-security-talks-with-turkish-south-african-counterparts-defense-minister-prince-khalid-bin-salman-middle-east-gcc-arabian-gulf-red-sea",
+      "published_date": "2026-07-26T05:46:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Civil Defense lifts alerts for Yanbu, Jazan",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia rejects Houthi allegations, vows to protect maritime navigation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663127/saudi-arabia/saudi-arabia-rejects-houthi-allegations-vows-to-protect-its-vessels-under-international-law",
-      "published_date": "2026-07-20T20:42:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices hit $100 for the first time since May",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
@@ -303,6 +303,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-22T23:21:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi merchandise exports rise 3.9% as trade surplus surges 328.8%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663252/saudi-arabia/saudi-trade-surplus-surges-329-as-oil-exports-offset-non-oil-decline",
+      "published_date": "2026-07-26T09:35:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "PIF signs financing deals worth up to $24.5 billion with US EXIM, World Bank arms",
@@ -354,11 +361,11 @@
       "category": "Economy"
     },
     {
-      "title": "U.S. Chamber report highlights Vision 2030 achievements and U.S. business contributions",
+      "title": "Thunderstorms, hail forecast for western Saudi Arabia as dust-stirring winds reduce visibility",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663086/saudi-arabia/us-chamber-report-highlights-vision-2030-achievements-and-us-business-contributions",
-      "published_date": "2026-07-19T11:11:59+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663253/saudi-arabia/thunderstorms-hail-forecast-for-western-saudi-arabia-as-dust-stirring-winds-reduce-visibility",
+      "published_date": "2026-07-26T11:01:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia ranks among G20&#039;s fastest for mobile internet speeds",
@@ -491,13 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663130/saudi-arabia/inmates-at-buraidah-prison-complete-vocational-diploma-program-through-qassim-university-partnership",
       "published_date": "2026-07-21T01:05:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah seizes 3,699 counterfeit branded items in crackdown",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663125/saudi-arabia/jeddah-municipality-seizes-3699-counterfeit-branded-items-in-inspection-campaigns",
-      "published_date": "2026-07-20T18:19:02+00:00",
       "category": "Local Events"
     }
   ]
