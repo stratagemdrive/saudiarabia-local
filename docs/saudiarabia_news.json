@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-26T12:00:41.673342+00:00",
-  "story_count": 71,
+  "last_updated": "2026-07-27T00:00:03.564042+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Najla Al-Tuwaijri appointed as president of Princess Nourah University",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663263/saudi-arabia/royal-approval-appoints-najla-al-tuwaijri-president-of-princess-nourah-university",
+      "published_date": "2026-07-26T13:23:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM holds talks with Qatar, Egypt on Gulf, Red Sea security",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663164/saudi-arabia/sdaia-issues-ai-bias-reference-guide-with-more-than-100-bias-types",
       "published_date": "2026-07-21T20:14:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince congratulates UK&#039;s new prime minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663163/saudi-arabia/crown-prince-mohammed-bin-salman-congratulates-uks-new-prime-minister-andy-burnham",
-      "published_date": "2026-07-21T16:39:19+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "NCM warns El Niño likely to persist through early 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663256/saudi-arabia/ncm-warns-el-nino-likely-to-persist-through-early-2027",
+      "published_date": "2026-07-26T12:04:28+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Oil prices hit $100 for the first time since May",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
@@ -359,6 +366,20 @@
       "url": "https://saudigazette.com.sa/article/663111/saudi-arabia/saudi-operating-revenues-index-rises-114-in-may",
       "published_date": "2026-07-20T11:48:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia to lead global ISO committee on wound care standards",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663264/saudi-arabia/saudi-arabia-to-lead-global-iso-committee-on-wound-care-standards",
+      "published_date": "2026-07-26T13:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia helps over 63,000 families move into first homes in H1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663255/saudi-arabia/more-than-63000-saudi-families-move-into-first-homes-in-h1-2026",
+      "published_date": "2026-07-26T11:32:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thunderstorms, hail forecast for western Saudi Arabia as dust-stirring winds reduce visibility",
@@ -484,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663152/saudi-arabia/saudi-border-guard-seizes-276-kg-of-narcotics-97034-pills-in-jazan-and-asir",
       "published_date": "2026-07-21T12:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Math Team wins six medals at International Mathematical Olympiad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663148/saudi-arabia/saudi-math-team-wins-six-medals-at-international-mathematical-olympiad",
-      "published_date": "2026-07-21T11:41:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inmates at Buraidah Prison complete vocational diploma program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663130/saudi-arabia/inmates-at-buraidah-prison-complete-vocational-diploma-program-through-qassim-university-partnership",
-      "published_date": "2026-07-21T01:05:03+00:00",
       "category": "Local Events"
     }
   ]
