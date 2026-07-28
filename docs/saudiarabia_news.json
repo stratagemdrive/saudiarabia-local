@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-28T12:50:57.480687+00:00",
-  "story_count": 72,
+  "last_updated": "2026-07-28T23:57:53.021895+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Cabinet vows decisive response to attacks on oil facilities",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663317/saudi-arabia/saudi-cabinet-vows-firm-response-to-attacks-declares-2027-year-of-water",
+      "published_date": "2026-07-28T16:57:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Japan reaffirm strategic partnership, call for Hormuz de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663315/saudi-arabia/saudi-arabia-japan-reaffirm-strategic-partnership-urge-de-escalation-in-hormuz",
+      "published_date": "2026-07-28T14:40:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC foreign ministers discuss regional developments, Hormuz security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663312/saudi-arabia/gcc-foreign-ministers-discuss-regional-developments-and-strait-of-hormuz-security",
+      "published_date": "2026-07-28T14:11:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Jordan FMs discuss regional security, maritime navigation",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia reaffirms support for diplomacy at ASEAN conference",
+      "title": "Arab countries, regional organizations condemn attempted attacks on Saudi oil facilities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663232/saudi-arabia/saudi-arabia-reaffirms-commitment-to-diplomacy-at-asean-conference",
-      "published_date": "2026-07-24T17:53:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia approves new General Education Law",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663228/saudi-arabia/saudi-arabia-approves-new-general-education-law",
-      "published_date": "2026-07-24T13:49:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T17:58:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663311/saudi-arabia/arab-countries-regional-organizations-condemn-attempted-attacks-on-saudi-oil-facilities",
+      "published_date": "2026-07-28T12:50:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says Iran war talks taking place during lull in strikes",
@@ -270,20 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-21T15:54:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-21T14:36:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil price dives as US and Iran pause attacks",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
@@ -361,11 +354,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia redeems SR17.1bn in sukuk, issues SR17.2bn in new debt",
+      "title": "Saudi Arabia unveils 2026 National Day identity",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663155/saudi-arabia/saudi-arabia-redeems-sr171bn-in-sukuk-issues-sr172bn-in-new-debt",
-      "published_date": "2026-07-21T13:18:17+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663316/saudi-arabia/saudi-arabia-unveils-2026-national-day-identity-under-our-pride-is-in-our-nature",
+      "published_date": "2026-07-28T15:03:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dust-stirring winds to sweep across western Saudi Arabia through Aug. 8",
@@ -498,13 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663230/saudi-arabia/saudi-nobel-laureate-omar-yaghi-meets-mawhiba-students-at-kacst",
       "published_date": "2026-07-24T15:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight nations, including Saudi Arabia, condemn Israeli escalation at Al-Aqsa Mosque",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663229/saudi-arabia/eight-nations-condemn-israeli-escalation-at-al-aqsa-mosque",
-      "published_date": "2026-07-24T15:14:22+00:00",
       "category": "Local Events"
     }
   ]
