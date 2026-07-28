@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-28T00:03:08.658099+00:00",
+  "last_updated": "2026-07-28T12:50:57.480687+00:00",
   "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi, Jordan FMs discuss regional security, maritime navigation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663309/saudi-arabia/saudi-jordan-fms-discuss-regional-security-maritime-navigation",
+      "published_date": "2026-07-28T11:49:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM holds talks with Qatar, Kuwait, UK on regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663299/saudi-arabia/saudi-fm-holds-talks-with-qatar-kuwait-uk-on-regional-security",
+      "published_date": "2026-07-28T08:26:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "source": "BBC News",
@@ -130,24 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Kuwaiti FMs discuss latest regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663209/saudi-arabia/saudi-kuwaiti-fms-discuss-latest-regional-developments",
-      "published_date": "2026-07-23T12:43:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA blocks more than 300 tons of contaminated food in Q2 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663208/saudi-arabia/sfda-blocks-more-than-300-tons-of-contaminated-food-in-q2-2026",
-      "published_date": "2026-07-23T12:30:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Trump says Iran war talks taking place during lull in strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-27T21:10:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-27T21:06:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 600 US military service members injured since Iran War began in February",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-27T13:31:57+00:00",
       "category": "Military"
     },
     {
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "GCC, Arab states condemn Houthi allegations against Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663157/saudi-arabia/gcc-jordan-kuwait-qatar-condemn-houthi-allegations-against-saudi-arabia",
-      "published_date": "2026-07-21T13:42:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-21T10:43:48+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil price dives as US and Iran pause attacks",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
@@ -317,6 +317,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-22T23:21:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Municipalities Ministry issues over 34,000 building permits in first half of 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663295/saudi-arabia/saudi-arabia-issues-more-than-34000-building-permits-in-h1-2026",
+      "published_date": "2026-07-28T01:58:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia, Uzbekistan discuss expanding healthcare cooperation",
@@ -361,11 +368,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia ranks first globally in tourism revenue growth: Quality of Life Report",
+      "title": "Dust-stirring winds to sweep across western Saudi Arabia through Aug. 8",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663150/saudi-arabia/saudi-arabia-ranks-first-globally-in-tourism-revenue-growth-quality-of-life-report",
-      "published_date": "2026-07-21T12:08:59+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663308/saudi-arabia/dust-stirring-winds-to-sweep-across-western-saudi-arabia-through-aug-8",
+      "published_date": "2026-07-28T11:38:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission uncovers 55 violations targeting Saudi archaeological sites",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663306/saudi-arabia/heritage-commission-uncovers-55-violations-targeting-saudi-archaeological-sites",
+      "published_date": "2026-07-28T11:04:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms, hail, gusty winds forecast across most regions of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663300/saudi-arabia/thunderstorms-hail-gusty-winds-forecast-across-most-regions-of-saudi-arabia",
+      "published_date": "2026-07-28T08:50:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T00:30:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Makkah deputy emir reviews Umrah season, steps up Hajj 1448 preparations",
@@ -477,34 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663229/saudi-arabia/eight-nations-condemn-israeli-escalation-at-al-aqsa-mosque",
       "published_date": "2026-07-24T15:14:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi man dies in drowning incident in Türkiye",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663217/saudi-arabia/saudi-man-dies-after-drowning-in-northern-turkiye",
-      "published_date": "2026-07-23T18:07:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperatures soar across Saudi Arabia, reaching up to 50°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663210/saudi-arabia/temperatures-soar-across-saudi-arabia-reaching-up-to-50c",
-      "published_date": "2026-07-23T12:58:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jazan Border Guard foils attempt to smuggle 68,100 regulated medical tablets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663206/saudi-arabia/jazan-border-guard-foils-attempt-to-smuggle-68100-regulated-medical-tablets",
-      "published_date": "2026-07-23T11:46:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East Green Initiative targets 35.4 billion trees, 99.4 million hectares of land restoration",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663198/saudi-arabia/middle-east-green-initiative-targets-354-billion-trees-994-million-hectares-of-land-restoration",
-      "published_date": "2026-07-23T09:17:09+00:00",
       "category": "Local Events"
     }
   ]
