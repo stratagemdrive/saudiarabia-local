@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-27T13:37:12.196119+00:00",
+  "last_updated": "2026-07-28T00:03:08.658099+00:00",
   "story_count": 72,
   "stories": [
+    {
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-27T16:33:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia launches digital &#039;New Muslim&#039; card service",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663291/saudi-arabia/saudi-arabia-launches-digital-new-muslim-card-through-tawakkalna",
+      "published_date": "2026-07-27T14:03:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi deputy FM, Japanese peace envoy discuss regional and international developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663290/saudi-arabia/saudi-deputy-fm-japanese-peace-envoy-discuss-regional-and-international-developments",
+      "published_date": "2026-07-27T13:45:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia intercepts drones targeting oil facilities, blames Iran-backed militias in Iraq",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan PM condemns Houthi attack in call with Saudi Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663201/saudi-arabia/pakistan-pm-condemns-houthi-attack-in-call-with-saudi-crown-prince",
-      "published_date": "2026-07-23T10:38:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM holds regional, international talks on Red Sea, Arabian Gulf security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663194/saudi-arabia/saudi-fm-holds-regional-international-talks-on-red-sea-arabian-gulf-security",
-      "published_date": "2026-07-23T05:50:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, US sign historic nuclear cooperation agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663191/saudi-arabia/us-saudi-arabia-sign-123-civilian-nuclear-cooperation-agreement",
-      "published_date": "2026-07-22T21:01:20+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-27T21:10:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi defense minister holds military, security talks with Turkish, South African counterparts",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-20T21:30:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil price dives as US and Iran pause attacks",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
@@ -317,6 +317,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-22T23:21:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia, Uzbekistan discuss expanding healthcare cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663294/saudi-arabia/saudi-arabia-uzbekistan-discuss-expanding-healthcare-and-investment-cooperation",
+      "published_date": "2026-07-27T19:52:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi merchandise exports rise 3.9% as trade surplus surges 328.8%",
@@ -361,11 +368,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia issues, renews over 274,000 commercial licenses in H1 2026",
+      "title": "Makkah deputy emir reviews Umrah season, steps up Hajj 1448 preparations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663122/saudi-arabia/saudi-arabia-issues-and-renews-more-than-274000-commercial-licenses-in-first-half-of-2026",
-      "published_date": "2026-07-20T15:43:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663293/saudi-arabia/makkah-reviews-umrah-season-steps-up-preparations-for-hajj-1448",
+      "published_date": "2026-07-27T17:50:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia forecasts hotter-than-normal August across most regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663292/saudi-arabia/saudi-arabia-forecasts-hotter-than-normal-august-with-stronger-winds",
+      "published_date": "2026-07-27T15:13:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
@@ -491,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663198/saudi-arabia/middle-east-green-initiative-targets-354-billion-trees-994-million-hectares-of-land-restoration",
       "published_date": "2026-07-23T09:17:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, Turkish justice ministers discuss expanding legal cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663196/saudi-arabia/saudi-turkish-justice-ministers-discuss-expanding-judicial-cooperation",
-      "published_date": "2026-07-23T08:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi-operated vessel targeted in Red Sea, crew safe",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663195/saudi-arabia/saudi-operated-vessel-targeted-in-red-sea-crew-safe",
-      "published_date": "2026-07-23T06:52:44+00:00",
       "category": "Local Events"
     }
   ]
