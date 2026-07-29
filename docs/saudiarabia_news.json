@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-28T23:57:53.021895+00:00",
-  "story_count": 70,
+  "last_updated": "2026-07-29T12:57:53.474412+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi FM discusses Hormuz, Bab al-Mandab security with Gulf counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663326/saudi-arabia/saudi-fm-discusses-hormuz-bab-al-mandab-security-with-gulf-counterparts",
+      "published_date": "2026-07-29T07:27:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Spanish PM discuss ties, regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663319/saudi-arabia/saudi-crown-prince-spains-pm-discuss-cooperation-red-sea-security",
+      "published_date": "2026-07-28T23:42:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Saudi ambassadors take oath before Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663318/saudi-arabia/new-saudi-ambassadors-take-oath-before-crown-prince-mohammed-bin-salman",
+      "published_date": "2026-07-28T23:40:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Cabinet vows decisive response to attacks on oil facilities",
       "source": "Saudi Gazette",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM holds talks with Qatar, Egypt on Gulf, Red Sea security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663251/saudi-arabia/saudi-fm-holds-talks-with-qatar-egypt-on-gulf-red-sea-security",
-      "published_date": "2026-07-26T08:05:35+00:00",
-      "category": "Diplomacy"
+      "title": "BBC reports from Palestinian village under weekly attack by Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/programmes/p0p1f8wj?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T10:40:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Pakistani FMs discuss regional security, maritime navigation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663248/saudi-arabia/saudi-pakistani-fms-discuss-regional-security-maritime-navigation-in-phone-call",
-      "published_date": "2026-07-25T17:20:04+00:00",
-      "category": "Diplomacy"
+      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T05:01:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi-owned vessel targeted in Red Sea, continues voyage after minor damage",
+      "title": "Saudi Arabia launches strikes on Iran-backed militia targets in Iraq",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663234/saudi-arabia/saudi-owned-vessel-targeted-in-red-sea-official-says",
-      "published_date": "2026-07-25T00:37:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663321/saudi-arabia/saudi-arabia-launches-strikes-on-iran-backed-militia-targets-in-iraq",
+      "published_date": "2026-07-29T00:43:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia intercepts drones targeting oil facilities in Eastern Province",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663320/saudi-arabia/saudi-arabia-intercepts-drones-targeting-oil-facilities-blames-iran-backed-militias",
+      "published_date": "2026-07-28T23:48:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Arab countries, regional organizations condemn attempted attacks on Saudi oil facilities",
@@ -256,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T10:15:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OIC, Arab Parliament denounce Houthi threats, reaffirm support for Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663177/saudi-arabia/oic-arab-parliament-denounce-houthi-threats-reaffirm-support-for-saudi-arabia",
-      "published_date": "2026-07-22T10:09:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T02:15:05+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T09:39:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil price dives as US and Iran pause attacks",
@@ -352,6 +366,13 @@
       "url": "https://saudigazette.com.sa/article/663203/saudi-arabia/saudi-arabia-ranks-first-in-mena-for-digital-government-for-fourth-consecutive-year",
       "published_date": "2026-07-23T11:01:56+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Heavy thunderstorms, flash flood risk forecast across parts of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663327/saudi-arabia/heavy-thunderstorms-flash-flood-risk-forecast-across-parts-of-saudi-arabia",
+      "published_date": "2026-07-29T07:56:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia unveils 2026 National Day identity",
@@ -484,13 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663237/saudi-arabia/saudi-arabias-new-education-law-explained-key-changes",
       "published_date": "2026-07-25T08:28:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Nobel laureate Omar Yaghi inspires young researchers at KACST",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663230/saudi-arabia/saudi-nobel-laureate-omar-yaghi-meets-mawhiba-students-at-kacst",
-      "published_date": "2026-07-24T15:47:14+00:00",
       "category": "Local Events"
     }
   ]
