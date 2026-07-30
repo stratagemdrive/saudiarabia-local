@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-29T12:57:53.474412+00:00",
+  "last_updated": "2026-07-30T00:00:20.518229+00:00",
   "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi FM calls for immediate end to settler violence against Palestinians",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663349/saudi-arabia/saudi-fm-calls-for-immediate-end-to-settler-violence-against-palestinians",
+      "published_date": "2026-07-29T18:16:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Uzbek president receives Saudi health minister, discusses expanding healthcare cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663344/saudi-arabia/uzbek-president-saudi-health-minister-discuss-expanding-healthcare-cooperation",
+      "published_date": "2026-07-29T14:36:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is Aseil Al-Shehail? Saudi Arabia&#039;s new ambassador to Sweden",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663342/saudi-arabia/who-is-aseil-al-shehail-saudi-ambassador-to-sweden",
+      "published_date": "2026-07-29T14:17:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Italy reaffirm support for two-state solution, maritime security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663336/saudi-arabia/saudi-arabia-italy-reaffirm-support-for-two-state-solution-and-maritime-security",
+      "published_date": "2026-07-29T12:40:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia says lasting peace requires Palestinian state",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663335/saudi-arabia/saudi-arabia-says-palestinian-state-is-key-to-lasting-middle-east-peace",
+      "published_date": "2026-07-29T12:35:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses Hormuz, Bab al-Mandab security with Gulf counterparts",
       "source": "Saudi Gazette",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi recalls 109 Aston Martin SUVs over suspension defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663277/saudi-arabia/saudi-recalls-109-aston-martin-suvs-over-suspension-defect",
-      "published_date": "2026-07-27T10:53:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Omani FMs discuss Strait of Hormuz security, regional stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663271/saudi-arabia/saudi-omani-fms-discuss-strait-of-hormuz-security-regional-stability",
-      "published_date": "2026-07-27T09:23:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, UK PM discuss Red Sea security, bilateral ties in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663270/saudi-arabia/saudi-crown-prince-uk-pm-discuss-red-sea-security-bilateral-ties-in-phone-call",
-      "published_date": "2026-07-27T08:25:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T08:14:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T18:41:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Najla Al-Tuwaijri appointed as president of Princess Nourah University",
+      "title": "Arab nations, regional organizations condemn attempted drone attack on Saudi oil facilities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663263/saudi-arabia/royal-approval-appoints-najla-al-tuwaijri-president-of-princess-nourah-university",
-      "published_date": "2026-07-26T13:23:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663347/saudi-arabia/arab-nations-regional-organizations-condemn-attempted-drone-attack-on-saudi-oil-facilities",
+      "published_date": "2026-07-29T17:33:27+00:00",
+      "category": "Military"
     },
     {
       "title": "BBC reports from Palestinian village under weekly attack by Israeli settlers",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Civil Defense declares Dammam safe after emergency alert lifted",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663185/saudi-arabia/saudi-civil-defense-lifts-emergency-alert-in-dammam-declares-danger-over",
-      "published_date": "2026-07-22T15:10:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tankers make sharp U-turns after Houthi shipping threat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T14:42:49+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -319,11 +319,11 @@
       "category": "Energy"
     },
     {
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T23:21:31+00:00",
-      "category": "Energy"
+      "title": "IMF says Saudi economy remains resilient amid regional geopolitical tensions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663348/saudi-arabia/imf-says-saudi-economy-remains-resilient-amid-regional-tensions",
+      "published_date": "2026-07-29T17:45:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Municipalities Ministry issues over 34,000 building permits in first half of 2026",
@@ -366,6 +366,41 @@
       "url": "https://saudigazette.com.sa/article/663203/saudi-arabia/saudi-arabia-ranks-first-in-mena-for-digital-government-for-fourth-consecutive-year",
       "published_date": "2026-07-23T11:01:56+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ministry urges compliance with safety rules for shared housing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663351/saudi-arabia/saudi-ministry-urges-compliance-with-updated-safety-rules-for-shared-housing",
+      "published_date": "2026-07-29T19:54:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia to host 2026 International Nuclear Science Olympiad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663350/saudi-arabia/saudi-arabia-to-host-2026-international-nuclear-science-olympiad",
+      "published_date": "2026-07-29T18:24:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj, Umrah service companies face SR100,000 fine for failing to report overstayers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663346/saudi-arabia/hajj-umrah-service-companies-face-sr100000-fine-for-failing-to-report-overstayers",
+      "published_date": "2026-07-29T15:47:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Border Guard seizes 140 kg of khat, nearly 140,000 tablets",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663345/saudi-arabia/saudi-border-guard-seizes-140-kg-of-khat-nearly-140000-tablets",
+      "published_date": "2026-07-29T15:22:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delta Aquariids meteor shower to peak over Arab world before dawn Thursday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663343/saudi-arabia/delta-aquariids-meteor-shower-to-peak-over-arab-world-before-dawn-thursday",
+      "published_date": "2026-07-29T14:26:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Heavy thunderstorms, flash flood risk forecast across parts of Saudi Arabia",
@@ -470,41 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663253/saudi-arabia/thunderstorms-hail-forecast-for-western-saudi-arabia-as-dust-stirring-winds-reduce-visibility",
       "published_date": "2026-07-26T11:01:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia ranks among G20&#039;s fastest for mobile internet speeds",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663249/saudi-arabia/saudi-arabia-ranks-among-g20s-fastest-for-mobile-internet-speeds",
-      "published_date": "2026-07-25T17:40:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia arrests nearly 15,000 residency, labor, border law violators in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663240/saudi-arabia/saudi-arabia-arrests-nearly-15000-residency-labor-border-law-violators-in-one-week",
-      "published_date": "2026-07-25T12:26:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi authorities seize 260 kg of khat, arrest 17 in separate anti-drug operations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663239/saudi-arabia/saudi-authorities-seize-260-kg-of-khat-arrest-17-in-separate-anti-drug-operations",
-      "published_date": "2026-07-25T10:05:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-stirring winds, rain forecast across parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663238/saudi-arabia/dust-stirring-winds-rain-forecast-across-parts-of-saudi-arabia",
-      "published_date": "2026-07-25T09:10:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia&#039;s new education law explained: Key changes for schools, teachers and students",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663237/saudi-arabia/saudi-arabias-new-education-law-explained-key-changes",
-      "published_date": "2026-07-25T08:28:01+00:00",
       "category": "Local Events"
     }
   ]
