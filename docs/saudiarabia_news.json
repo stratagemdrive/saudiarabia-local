@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-30T00:00:20.518229+00:00",
-  "story_count": 72,
+  "last_updated": "2026-07-30T12:27:22.247815+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi Arabia condemns continued Iranian attacks on Jordan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663358/saudi-arabia/saudi-arabia-condemns-continued-iranian-attacks-on-jordan",
+      "published_date": "2026-07-30T10:07:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM calls for immediate end to settler violence against Palestinians",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "RCRC completes 456 sq. km master plan for Northeast Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663279/saudi-arabia/rcrc-completes-456-sq-km-master-plan-for-northeast-riyadh",
-      "published_date": "2026-07-27T11:46:19+00:00",
-      "category": "Diplomacy"
+      "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T11:35:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T10:49:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Masam destroys nearly 6,000 items of unexploded ordnance in Bab Al-Mandab",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663214/saudi-arabia/masam-destroys-nearly-6000-unexploded-ordnance-items-in-bab-al-mandab",
-      "published_date": "2026-07-23T14:11:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T03:48:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -312,11 +312,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi ministry highlights tree planting to combat summer heat",
+      "title": "Saudi GDP reflects lower oil activity as non-oil sector continues to grow",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663192/saudi-arabia/saudi-environment-ministry-highlights-tree-planting-to-reduce-summer-heat",
-      "published_date": "2026-07-23T03:23:00+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663359/saudi-arabia/saudi-gdp-reflects-lower-oil-activity-as-non-oil-sector-continues-to-grow",
+      "published_date": "2026-07-30T10:36:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "IMF says Saudi economy remains resilient amid regional geopolitical tensions",
@@ -361,11 +361,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia ranks first in MENA for digital government for fourth consecutive year",
+      "title": "Extreme heat to grip parts of Saudi Arabia as temperatures near 50°C",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663203/saudi-arabia/saudi-arabia-ranks-first-in-mena-for-digital-government-for-fourth-consecutive-year",
-      "published_date": "2026-07-23T11:01:56+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663360/saudi-arabia/extreme-heat-to-grip-parts-of-saudi-arabia-as-temperatures-near-50c-national-center-for-meteorology-weather-forecast",
+      "published_date": "2026-07-30T11:05:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ministry urges compliance with safety rules for shared housing",
@@ -498,13 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663255/saudi-arabia/more-than-63000-saudi-families-move-into-first-homes-in-h1-2026",
       "published_date": "2026-07-26T11:32:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, hail forecast for western Saudi Arabia as dust-stirring winds reduce visibility",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663253/saudi-arabia/thunderstorms-hail-forecast-for-western-saudi-arabia-as-dust-stirring-winds-reduce-visibility",
-      "published_date": "2026-07-26T11:01:48+00:00",
       "category": "Local Events"
     }
   ]
