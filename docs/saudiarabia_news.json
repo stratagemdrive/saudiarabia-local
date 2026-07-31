@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-31T00:02:41.524619+00:00",
-  "story_count": 70,
+  "last_updated": "2026-07-31T12:53:18.251617+00:00",
+  "story_count": 71,
   "stories": [
     {
       "title": "Saudi leadership extends condolences to Japan over deadly Kumamoto earthquake",
@@ -144,10 +144,31 @@
       "category": "Diplomacy"
     },
     {
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T04:25:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Founding members approve Saudi-led maritime defense alliance to safeguard Red Sea, Bab al-Mandab and Gulf of Aden",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663373/saudi-arabia/saudi-arabia-to-lead-new-multinational-maritime-defense-alliance",
+      "published_date": "2026-07-30T23:39:46+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi Arabia advances multinational maritime defense alliance initiative",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663372/saudi-arabia/saudi-arabia-advances-multinational-maritime-defense-alliance-initiative",
       "published_date": "2026-07-30T19:27:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T17:26:01+00:00",
       "category": "Military"
     },
     {
@@ -260,20 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-25T06:34:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition carries out proportionate strikes on Houthi military targets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663235/saudi-arabia/coalition-says-it-carried-out-proportionate-strikes-on-houthi-military-targets-in-hodeidah",
-      "published_date": "2026-07-25T00:41:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T22:49:59+00:00",
       "category": "Military"
     },
     {
