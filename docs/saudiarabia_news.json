@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-30T12:27:22.247815+00:00",
-  "story_count": 71,
+  "last_updated": "2026-07-31T00:02:41.524619+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi leadership extends condolences to Japan over deadly Kumamoto earthquake",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663369/saudi-arabia/saudi-leadership-extends-condolences-to-japan-over-deadly-kumamoto-earthquake",
+      "published_date": "2026-07-30T14:02:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia condemns continued Iranian attacks on Jordan",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prince Mansour represents Saudi Crown Prince at Maldives Independence Day celebration",
+      "title": "Saudi Arabia advances multinational maritime defense alliance initiative",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663281/saudi-arabia/prince-mansour-represents-saudi-crown-prince-at-maldives-independence-day-celebration",
-      "published_date": "2026-07-27T12:04:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663372/saudi-arabia/saudi-arabia-advances-multinational-maritime-defense-alliance-initiative",
+      "published_date": "2026-07-30T19:27:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
@@ -270,20 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "UK, GCC states, Jordan condemn Houthi attack on Saudi vessel",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663216/saudi-arabia/uk-gcc-states-jordan-and-uae-condemn-houthi-attack-on-saudi-vessel",
-      "published_date": "2026-07-23T17:07:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T17:06:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -305,11 +298,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices hit $100 for the first time since May",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T15:31:00+00:00",
-      "category": "Energy"
+      "title": "Saudi budget posts SR34.3bn deficit in Q2 as revenues rise 12%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663370/saudi-arabia/saudi-budget-posts-sr343-billion-deficit-in-second-quarter-of-2026",
+      "published_date": "2026-07-30T14:41:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi GDP reflects lower oil activity as non-oil sector continues to grow",
@@ -359,6 +352,27 @@
       "url": "https://saudigazette.com.sa/article/663231/saudi-arabia/saudi-finance-minister-approves-seven-government-procurement-regulations",
       "published_date": "2026-07-24T16:48:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia recalls more than 6,500 BMW vehicles over fire risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663365/saudi-arabia/saudi-arabia-recalls-more-than-6500-bmw-vehicles-over-fire-risk",
+      "published_date": "2026-07-30T12:46:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia forecasts above-normal temperatures from August through October",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663363/saudi-arabia/saudi-arabia-forecasts-above-normal-temperatures-from-august-through-october",
+      "published_date": "2026-07-30T12:29:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi ministry conducts 120,000 inspections to combat human trafficking",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663362/saudi-arabia/saudi-ministry-conducts-120000-inspections-to-combat-human-trafficking",
+      "published_date": "2026-07-30T12:21:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Extreme heat to grip parts of Saudi Arabia as temperatures near 50°C",
@@ -477,27 +491,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-26T21:23:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC speaks to Palestinians targeted by Israeli settlers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T20:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia to lead global ISO committee on wound care standards",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663264/saudi-arabia/saudi-arabia-to-lead-global-iso-committee-on-wound-care-standards",
-      "published_date": "2026-07-26T13:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia helps over 63,000 families move into first homes in H1 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663255/saudi-arabia/more-than-63000-saudi-families-move-into-first-homes-in-h1-2026",
-      "published_date": "2026-07-26T11:32:53+00:00",
       "category": "Local Events"
     }
   ]
