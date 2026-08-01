@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-01T12:00:15.178743+00:00",
+  "last_updated": "2026-08-01T23:57:53.302414+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "Saudi Arabia extends condolences to Algeria over deadly Boumerdès traffic accident",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663403/saudi-arabia/saudi-arabia-extends-condolences-to-algeria-over-deadly-boumerdes-traffic-accident",
+      "published_date": "2026-08-01T17:52:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses regional de-escalation with Turkish and Kuwaiti counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663402/saudi-arabia/saudi-fm-discusses-regional-de-escalation-with-turkish-and-kuwaiti-counterparts",
+      "published_date": "2026-08-01T14:43:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia receives conjoined Fijian twins for possible separation surgery",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Jordan FMs discuss regional security, maritime navigation",
+      "title": "Saudi defense official visits US to expand military and defense industry cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663309/saudi-arabia/saudi-jordan-fms-discuss-regional-security-maritime-navigation",
-      "published_date": "2026-07-28T11:49:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM holds talks with Qatar, Kuwait, UK on regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663299/saudi-arabia/saudi-fm-holds-talks-with-qatar-kuwait-uk-on-regional-security",
-      "published_date": "2026-07-28T08:26:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663401/saudi-arabia/saudi-defense-official-visits-us-to-strengthen-military-cooperation",
+      "published_date": "2026-08-01T14:37:43+00:00",
+      "category": "Military"
     },
     {
       "title": "What's in the Gaza peace deal roadmap?",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi defense minister holds military, security talks with Turkish, South African counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663250/saudi-arabia/saudi-defense-minister-holds-military-security-talks-with-turkish-south-african-counterparts-defense-minister-prince-khalid-bin-salman-middle-east-gcc-arabian-gulf-red-sea",
-      "published_date": "2026-07-26T05:46:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -345,6 +345,13 @@
       "url": "https://saudigazette.com.sa/article/663252/saudi-arabia/saudi-trade-surplus-surges-329-as-oil-exports-offset-non-oil-decline",
       "published_date": "2026-07-26T09:35:21+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi anti-corruption authority investigates 430 suspects, arrests 131 in July crackdown",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663404/saudi-arabia/saudi-anti-corruption-authority-investigates-430-suspects-arrests-131-in-july",
+      "published_date": "2026-08-01T19:48:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia arrests more than 14,000 residency, labor, border law violators in one week",
@@ -477,13 +484,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-28T00:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah deputy emir reviews Umrah season, steps up Hajj 1448 preparations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663293/saudi-arabia/makkah-reviews-umrah-season-steps-up-preparations-for-hajj-1448",
-      "published_date": "2026-07-27T17:50:02+00:00",
       "category": "Local Events"
     }
   ]
