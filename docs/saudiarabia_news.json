@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-01T00:02:10.599239+00:00",
+  "last_updated": "2026-08-01T12:00:15.178743+00:00",
   "story_count": 69,
   "stories": [
     {
@@ -347,6 +347,20 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia arrests more than 14,000 residency, labor, border law violators in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663395/saudi-arabia/saudi-arabia-arrests-more-than-14000-residency-labor-border-law-violators-in-one-week",
+      "published_date": "2026-08-01T10:42:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dust-stirring winds, rain and rising temperatures forecast across Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663394/saudi-arabia/dust-stirring-winds-rain-and-rising-temperatures-forecast-across-saudi-arabia",
+      "published_date": "2026-08-01T10:33:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Riyadh launches new phase of Taif Road expansion project",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663388/saudi-arabia/riyadh-launches-new-phase-of-taif-road-expansion-project",
@@ -470,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663293/saudi-arabia/makkah-reviews-umrah-season-steps-up-preparations-for-hajj-1448",
       "published_date": "2026-07-27T17:50:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts hotter-than-normal August across most regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663292/saudi-arabia/saudi-arabia-forecasts-hotter-than-normal-august-with-stronger-winds",
-      "published_date": "2026-07-27T15:13:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T09:59:15+00:00",
       "category": "Local Events"
     }
   ]
