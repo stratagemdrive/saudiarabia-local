@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-07-31T12:53:18.251617+00:00",
-  "story_count": 71,
+  "last_updated": "2026-08-01T00:02:10.599239+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Saudi Arabia receives conjoined Fijian twins for possible separation surgery",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663393/saudi-arabia/saudi-arabia-receives-conjoined-fijian-twins-for-possible-separation-surgery",
+      "published_date": "2026-07-31T18:31:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes Trump-announced Gaza disarmament agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663392/saudi-arabia/saudi-arabia-welcomes-trump-announced-gaza-disarmament-agreement",
+      "published_date": "2026-07-31T17:11:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bahrain King congratulates Saudi Arabia on leading multinational maritime defense alliance",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663390/saudi-arabia/bahrain-king-congratulates-saudi-arabia-on-leading-multinational-maritime-defense-alliance",
+      "published_date": "2026-07-31T13:45:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi customs foils attempt to smuggle 36,773 amphetamine pills",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663389/saudi-arabia/saudi-customs-foils-attempt-to-smuggle-36773-amphetamine-pills-at-al-hadithah",
+      "published_date": "2026-07-31T13:44:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian president reaffirms support for Saudi Arabia in call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663386/saudi-arabia/syrian-president-reaffirms-support-for-saudi-arabia-in-call-with-crown-prince",
+      "published_date": "2026-07-31T13:34:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi leadership extends condolences to Japan over deadly Kumamoto earthquake",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "title": "What's in the Gaza peace deal roadmap?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T16:33:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T16:00:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia launches digital &#039;New Muslim&#039; card service",
+      "title": "Saudi source says Iraq strikes targeted Iran-backed militias, not Iraqi state",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663291/saudi-arabia/saudi-arabia-launches-digital-new-muslim-card-through-tawakkalna",
-      "published_date": "2026-07-27T14:03:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663391/saudi-arabia/saudi-source-says-iraq-strikes-targeted-iran-backed-militias-not-iraqi-state",
+      "published_date": "2026-07-31T15:27:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi deputy FM, Japanese peace envoy discuss regional and international developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663290/saudi-arabia/saudi-deputy-fm-japanese-peace-envoy-discuss-regional-and-international-developments",
-      "published_date": "2026-07-27T13:45:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia intercepts drones targeting oil facilities, blames Iran-backed militias in Iraq",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663286/saudi-arabia/saudi-arabia-intercepts-drones-targeting-oil-facilities-blames-iran-backed-militias-in-iraq",
-      "published_date": "2026-07-27T12:45:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alomairi&#039;s bronze delivers Saudi Arabia&#039;s first fencing world championship medal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663285/saudi-arabia/alomairis-bronze-delivers-saudi-arabias-first-fencing-world-medal",
-      "published_date": "2026-07-27T12:37:03+00:00",
-      "category": "Diplomacy"
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T15:18:31+00:00",
+      "category": "Military"
     },
     {
       "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Civil Defense lifts alerts for Yanbu, Jazan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663246/saudi-arabia/saudi-civil-defense-lifts-alerts-for-yanbu-and-jazan",
-      "published_date": "2026-07-25T13:30:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia condemns deadly terrorist bombing in Pakistan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663236/saudi-arabia/saudi-arabia-condemns-deadly-terrorist-bombing-in-pakistan",
-      "published_date": "2026-07-25T08:17:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T06:34:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -347,18 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "PIF signs financing deals worth up to $24.5 billion with US EXIM, World Bank arms",
+      "title": "Riyadh launches new phase of Taif Road expansion project",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663233/saudi-arabia/pif-signs-245-billion-financing-agreements-with-us-exim-ifc-and-miga",
-      "published_date": "2026-07-24T20:02:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663388/saudi-arabia/riyadh-launches-new-phase-of-taif-road-expansion-project",
+      "published_date": "2026-07-31T13:42:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Finance minister approves seven new government procurement regulations",
+      "title": "Saudi Arabia condemns drone attack on ships at Egypt&#039;s Damietta port",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663231/saudi-arabia/saudi-finance-minister-approves-seven-government-procurement-regulations",
-      "published_date": "2026-07-24T16:48:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663387/saudi-arabia/saudi-arabia-condemns-drone-attack-on-ships-at-egypts-damietta-port",
+      "published_date": "2026-07-31T13:39:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia recalls more than 6,500 BMW vehicles over fire risk",
@@ -484,20 +484,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-27T09:59:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a family holiday uncovered Saudi Arabia&#039;s youngest rising motorsport star",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663266/saudi-arabia/how-a-family-holiday-uncovered-saudi-arabias-youngest-rising-motorsport-star",
-      "published_date": "2026-07-27T06:39:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T21:23:53+00:00",
       "category": "Local Events"
     }
   ]
