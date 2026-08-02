@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-01T23:57:53.302414+00:00",
+  "last_updated": "2026-08-02T11:59:56.534302+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "What Saudi Arabia&#039;s latest global achievements reveal about its transformation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663410/saudi-arabia/what-saudi-arabias-latest-global-achievements-reveal-about-its-transformation",
+      "published_date": "2026-08-02T11:06:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Team Falcons reclaim top spot in Esports World Cup Club Championship",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663409/saudi-arabia/team-falcons-reclaim-top-spot-in-esports-world-cup-club-championship",
+      "published_date": "2026-08-02T08:40:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Trump discuss regional developments, stress de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663408/saudi-arabia/saudi-crown-prince-trump-discuss-regional-developments-stress-de-escalation",
+      "published_date": "2026-08-02T07:47:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia extends condolences to Algeria over deadly Boumerdès traffic accident",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Cabinet vows decisive response to attacks on oil facilities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663317/saudi-arabia/saudi-cabinet-vows-firm-response-to-attacks-declares-2027-year-of-water",
-      "published_date": "2026-07-28T16:57:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Japan reaffirm strategic partnership, call for Hormuz de-escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663315/saudi-arabia/saudi-arabia-japan-reaffirm-strategic-partnership-urge-de-escalation-in-hormuz",
-      "published_date": "2026-07-28T14:40:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC foreign ministers discuss regional developments, Hormuz security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663312/saudi-arabia/gcc-foreign-ministers-discuss-regional-developments-and-strait-of-hormuz-security",
-      "published_date": "2026-07-28T14:11:12+00:00",
-      "category": "Diplomacy"
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T11:12:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi defense official visits US to expand military and defense industry cooperation",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T13:31:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/663256/saudi-arabia/ncm-warns-el-nino-likely-to-persist-through-early-2027",
       "published_date": "2026-07-26T12:04:28+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi customs seize 1,210 prohibited items in one week across border crossings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663405/saudi-arabia/saudi-customs-seize-1210-prohibited-items-in-one-week",
+      "published_date": "2026-08-02T00:51:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi budget posts SR34.3bn deficit in Q2 as revenues rise 12%",
@@ -340,11 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi merchandise exports rise 3.9% as trade surplus surges 328.8%",
+      "title": "High temperatures, dust-stirring winds to affect several parts of Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663252/saudi-arabia/saudi-trade-surplus-surges-329-as-oil-exports-offset-non-oil-decline",
-      "published_date": "2026-07-26T09:35:21+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663407/saudi-arabia/high-temperatures-dust-stirring-winds-to-affect-several-parts-of-saudi-arabia",
+      "published_date": "2026-08-02T07:18:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia forecasts above-average October rainfall, hotter-than-normal temperatures through autumn",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663406/saudi-arabia/saudi-arabia-forecasts-above-average-october-rainfall-hotter-temperatures",
+      "published_date": "2026-08-02T05:55:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi anti-corruption authority investigates 430 suspects, arrests 131 in July crackdown",
@@ -470,20 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663306/saudi-arabia/heritage-commission-uncovers-55-violations-targeting-saudi-archaeological-sites",
       "published_date": "2026-07-28T11:04:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, hail, gusty winds forecast across most regions of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663300/saudi-arabia/thunderstorms-hail-gusty-winds-forecast-across-most-regions-of-saudi-arabia",
-      "published_date": "2026-07-28T08:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T00:30:11+00:00",
       "category": "Local Events"
     }
   ]
