@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-02T11:59:56.534302+00:00",
-  "story_count": 69,
+  "last_updated": "2026-08-02T23:58:58.385746+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Arabia tells Iran it remains committed to regional security, stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663425/saudi-arabia/saudi-arabia-tells-iran-it-remains-committed-to-regional-security-and-stability",
+      "published_date": "2026-08-02T20:16:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi deputy FM receives outgoing Irish ambassador, lauds efforts to strengthen ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663422/saudi-arabia/saudi-deputy-fm-receives-outgoing-irish-ambassador-lauds-efforts-to-strengthen-ties",
+      "published_date": "2026-08-02T15:20:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What Saudi Arabia&#039;s latest global achievements reveal about its transformation",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Crown Prince, Spanish PM discuss ties, regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663319/saudi-arabia/saudi-crown-prince-spains-pm-discuss-cooperation-red-sea-security",
-      "published_date": "2026-07-28T23:42:21+00:00",
-      "category": "Diplomacy"
+      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T16:37:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Saudi ambassadors take oath before Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663318/saudi-arabia/new-saudi-ambassadors-take-oath-before-crown-prince-mohammed-bin-salman",
-      "published_date": "2026-07-28T23:40:18+00:00",
-      "category": "Diplomacy"
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T15:50:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -155,6 +169,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663401/saudi-arabia/saudi-defense-official-visits-us-to-strengthen-military-cooperation",
       "published_date": "2026-08-01T14:37:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T20:58:27+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Arab countries, regional organizations condemn attempted attacks on Saudi oil facilities",
+      "title": "OPEC+ to raise oil production by 188,000 bpd in September",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663311/saudi-arabia/arab-countries-regional-organizations-condemn-attempted-attacks-on-saudi-oil-facilities",
-      "published_date": "2026-07-28T12:50:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T21:10:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T21:06:42+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
+      "published_date": "2026-08-02T13:59:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
@@ -298,11 +305,11 @@
       "category": "Energy"
     },
     {
-      "title": "NCM warns El Niño likely to persist through early 2027",
+      "title": "Buraidah International Dates Carnival opens with 75-day season",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663256/saudi-arabia/ncm-warns-el-nino-likely-to-persist-through-early-2027",
-      "published_date": "2026-07-26T12:04:28+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663423/saudi-arabia/buraidah-international-dates-carnival-opens-for-75-day-season",
+      "published_date": "2026-08-02T16:29:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs seize 1,210 prohibited items in one week across border crossings",
@@ -345,6 +352,34 @@
       "url": "https://saudigazette.com.sa/article/663294/saudi-arabia/saudi-arabia-uzbekistan-discuss-expanding-healthcare-and-investment-cooperation",
       "published_date": "2026-07-27T19:52:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Al Baha cycling tour completes third stage across mountain routes",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663424/saudi-arabia/al-baha-cycling-tour-completes-third-stage-with-130-riders",
+      "published_date": "2026-08-02T19:32:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipalities ministry inspect 97% of food establishments in first half of 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663418/saudi-arabia/saudi-municipalities-inspect-97-of-food-establishments-in-h1-2026",
+      "published_date": "2026-08-02T13:28:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh launches four-bridge Jeddah Road development project",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663413/saudi-arabia/riyadh-launches-four-bridge-jeddah-road-development-project",
+      "published_date": "2026-08-02T12:50:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM forecasts continued thundery rain across several Saudi regions through week&#039;s end",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663411/saudi-arabia/ncm-forecasts-continued-thundery-rain-across-several-saudi-regions-through-weeks-end",
+      "published_date": "2026-08-02T12:24:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "High temperatures, dust-stirring winds to affect several parts of Saudi Arabia",
@@ -456,34 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663343/saudi-arabia/delta-aquariids-meteor-shower-to-peak-over-arab-world-before-dawn-thursday",
       "published_date": "2026-07-29T14:26:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy thunderstorms, flash flood risk forecast across parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663327/saudi-arabia/heavy-thunderstorms-flash-flood-risk-forecast-across-parts-of-saudi-arabia",
-      "published_date": "2026-07-29T07:56:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia unveils 2026 National Day identity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663316/saudi-arabia/saudi-arabia-unveils-2026-national-day-identity-under-our-pride-is-in-our-nature",
-      "published_date": "2026-07-28T15:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-stirring winds to sweep across western Saudi Arabia through Aug. 8",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663308/saudi-arabia/dust-stirring-winds-to-sweep-across-western-saudi-arabia-through-aug-8",
-      "published_date": "2026-07-28T11:38:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Commission uncovers 55 violations targeting Saudi archaeological sites",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663306/saudi-arabia/heritage-commission-uncovers-55-violations-targeting-saudi-archaeological-sites",
-      "published_date": "2026-07-28T11:04:49+00:00",
       "category": "Local Events"
     }
   ]
