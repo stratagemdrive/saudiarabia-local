@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-02T23:58:58.385746+00:00",
-  "story_count": 70,
+  "last_updated": "2026-08-03T13:38:42.010642+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Commerce Ministry recalls 96 Audi Q5 vehicles over seat belt tensioner defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663437/saudi-arabia/commerce-ministry-recalls-96-audi-q5-vehicles-over-seat-belt-tensioner-defect",
+      "published_date": "2026-08-03T08:42:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA approves first daily oral weight-loss drug for adults with obesity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663426/saudi-arabia/saudi-fda-approves-first-daily-oral-weight-loss-drug-foundaio",
+      "published_date": "2026-08-03T00:23:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia tells Iran it remains committed to regional security, stability",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia says lasting peace requires Palestinian state",
+      "title": "Saudi defense official discusses military ties with Canadian counterpart",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663335/saudi-arabia/saudi-arabia-says-palestinian-state-is-key-to-lasting-middle-east-peace",
-      "published_date": "2026-07-29T12:35:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses Hormuz, Bab al-Mandab security with Gulf counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663326/saudi-arabia/saudi-fm-discusses-hormuz-bab-al-mandab-security-with-gulf-counterparts",
-      "published_date": "2026-07-29T07:27:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663428/saudi-arabia/saudi-defense-official-discusses-military-cooperation-during-canada-visit",
+      "published_date": "2026-08-03T03:20:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
@@ -169,6 +176,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663401/saudi-arabia/saudi-defense-official-visits-us-to-strengthen-military-cooperation",
       "published_date": "2026-08-01T14:37:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T05:01:19+00:00",
       "category": "Military"
     },
     {
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia launches strikes on Iran-backed militia targets in Iraq",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663321/saudi-arabia/saudi-arabia-launches-strikes-on-iran-backed-militia-targets-in-iraq",
-      "published_date": "2026-07-29T00:43:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia intercepts drones targeting oil facilities in Eastern Province",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663320/saudi-arabia/saudi-arabia-intercepts-drones-targeting-oil-facilities-blames-iran-backed-militias",
-      "published_date": "2026-07-28T23:48:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "OPEC+ to raise oil production by 188,000 bpd in September",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
@@ -295,13 +295,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-29T09:39:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil price dives as US and Iran pause attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T11:50:23+00:00",
       "category": "Energy"
     },
     {
@@ -352,6 +345,34 @@
       "url": "https://saudigazette.com.sa/article/663294/saudi-arabia/saudi-arabia-uzbekistan-discuss-expanding-healthcare-and-investment-cooperation",
       "published_date": "2026-07-27T19:52:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia adds 1,173 archaeological sites to National Register",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663445/saudi-arabia/saudi-arabia-adds-1173-archaeological-sites-to-national-register",
+      "published_date": "2026-08-03T12:54:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh marks key milestones in Expo 2030 preparations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663443/saudi-arabia/riyadh-marks-key-milestones-in-expo-2030-preparations",
+      "published_date": "2026-08-03T12:15:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Culture Minister appoints Dr. Mohammed Alwan President of Riyadh University of the Arts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663439/saudi-arabia/culture-minister-appoints-dr-mohammed-alwan-president-of-riyadh-university-of-the-arts",
+      "published_date": "2026-08-03T11:19:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hot weather, dust and chance of thunderstorms forecast across parts of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663438/saudi-arabia/hot-weather-dust-and-chance-of-thunderstorms-forecast-across-parts-of-saudi-arabia",
+      "published_date": "2026-08-03T09:47:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Al Baha cycling tour completes third stage across mountain routes",
@@ -463,34 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663351/saudi-arabia/saudi-ministry-urges-compliance-with-updated-safety-rules-for-shared-housing",
       "published_date": "2026-07-29T19:54:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia to host 2026 International Nuclear Science Olympiad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663350/saudi-arabia/saudi-arabia-to-host-2026-international-nuclear-science-olympiad",
-      "published_date": "2026-07-29T18:24:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj, Umrah service companies face SR100,000 fine for failing to report overstayers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663346/saudi-arabia/hajj-umrah-service-companies-face-sr100000-fine-for-failing-to-report-overstayers",
-      "published_date": "2026-07-29T15:47:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Border Guard seizes 140 kg of khat, nearly 140,000 tablets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663345/saudi-arabia/saudi-border-guard-seizes-140-kg-of-khat-nearly-140000-tablets",
-      "published_date": "2026-07-29T15:22:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delta Aquariids meteor shower to peak over Arab world before dawn Thursday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663343/saudi-arabia/delta-aquariids-meteor-shower-to-peak-over-arab-world-before-dawn-thursday",
-      "published_date": "2026-07-29T14:26:20+00:00",
       "category": "Local Events"
     }
   ]
