@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-04T00:09:33.679064+00:00",
-  "story_count": 69,
+  "last_updated": "2026-08-04T12:59:18.488423+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi Deputy FM, Bangladeshi PM discuss stronger bilateral ties and regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663473/saudi-arabia/saudi-deputy-fm-bangladeshi-pm-discuss-stronger-bilateral-ties-and-regional-developments",
+      "published_date": "2026-08-04T12:34:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are DarkSky resorts? How Red Sea Global is helping protect the world&#039;s natural night skies",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663456/saudi-arabia/what-are-darksky-resorts-red-sea-global-explains",
+      "published_date": "2026-08-04T01:12:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Erdogan welcomes Saudi-led maritime coalition in call with Crown Prince",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663358/saudi-arabia/saudi-arabia-condemns-continued-iranian-attacks-on-jordan",
       "published_date": "2026-07-30T10:07:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM calls for immediate end to settler violence against Palestinians",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663349/saudi-arabia/saudi-fm-calls-for-immediate-end-to-settler-violence-against-palestinians",
-      "published_date": "2026-07-29T18:16:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Uzbek president receives Saudi health minister, discusses expanding healthcare cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663344/saudi-arabia/uzbek-president-saudi-health-minister-discuss-expanding-healthcare-cooperation",
-      "published_date": "2026-07-29T14:36:03+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Aramco posts $33.4 billion Q2 profit, reports strong first-half results",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663468/saudi-arabia/aramco-posts-334-billion-q2-profit-rworking-capital-build-economy-eports-strong-first-half-results",
+      "published_date": "2026-08-04T10:19:54+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "OPEC+ to raise oil production by 188,000 bpd in September",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
@@ -296,6 +303,27 @@
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-29T09:39:56+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Najran&#039;s 4,400 greenhouses produce more than 37,000 tons of crops",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663475/saudi-arabia/najrans-4400-greenhouses-produce-more-than-37000-tons-of-crops",
+      "published_date": "2026-08-04T12:58:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia imposes final anti-dumping duties on Indian ductile iron pipe imports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663471/saudi-arabia/saudi-arabia-imposes-final-anti-dumping-duties-on-indian-ductile-iron-pipe-imports",
+      "published_date": "2026-08-04T11:32:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-03T23:13:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "45.7 million visitors fuel Saudi entertainment boom, with 96% satisfaction rate in H1 2026",
@@ -340,11 +368,18 @@
       "category": "Economy"
     },
     {
-      "title": "Municipalities Ministry issues over 34,000 building permits in first half of 2026",
+      "title": "Saudi Authorities arrest 18 Border Security Law violators, seize 244 kg of khat and 149,400 tablets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663295/saudi-arabia/saudi-arabia-issues-more-than-34000-building-permits-in-h1-2026",
-      "published_date": "2026-07-28T01:58:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663472/saudi-arabia/saudi-authorities-arrest-18-border-security-law-violators-seize-244-kg-of-khat-and-149400-tablets",
+      "published_date": "2026-08-04T12:08:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Green Riyadh plants 15,000 trees, cuts temperatures by 5°C at Shayb Ghudwanah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663470/saudi-arabia/green-riyadh-plants-15000-trees-cuts-temperatures-by-5c-at-shayb-ghudwanah",
+      "published_date": "2026-08-04T10:59:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NCM forecast: Heatwave to hit parts of Riyadh region on Tuesday",
@@ -470,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663395/saudi-arabia/saudi-arabia-arrests-more-than-14000-residency-labor-border-law-violators-in-one-week",
       "published_date": "2026-08-01T10:42:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-stirring winds, rain and rising temperatures forecast across Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663394/saudi-arabia/dust-stirring-winds-rain-and-rising-temperatures-forecast-across-saudi-arabia",
-      "published_date": "2026-08-01T10:33:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh launches new phase of Taif Road expansion project",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663388/saudi-arabia/riyadh-launches-new-phase-of-taif-road-expansion-project",
-      "published_date": "2026-07-31T13:42:07+00:00",
       "category": "Local Events"
     }
   ]
