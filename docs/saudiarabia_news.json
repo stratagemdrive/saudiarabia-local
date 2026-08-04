@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-03T13:38:42.010642+00:00",
+  "last_updated": "2026-08-04T00:09:33.679064+00:00",
   "story_count": 69,
   "stories": [
+    {
+      "title": "Erdogan welcomes Saudi-led maritime coalition in call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663453/saudi-arabia/erdogan-welcomes-saudi-led-maritime-coalition-in-call-with-crown-prince",
+      "published_date": "2026-08-03T20:11:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince congratulates Armenian PM Pashinyan on his reappointment",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663450/saudi-arabia/saudi-crown-prince-congratulates-armenian-pm-pashinyan-on-his-reappointment",
+      "published_date": "2026-08-03T16:02:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Commerce Ministry recalls 96 Audi Q5 vehicles over seat belt tensioner defect",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Who is Aseil Al-Shehail? Saudi Arabia&#039;s new ambassador to Sweden",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663342/saudi-arabia/who-is-aseil-al-shehail-saudi-ambassador-to-sweden",
-      "published_date": "2026-07-29T14:17:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Italy reaffirm support for two-state solution, maritime security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663336/saudi-arabia/saudi-arabia-italy-reaffirm-support-for-two-state-solution-and-maritime-security",
-      "published_date": "2026-07-29T12:40:01+00:00",
-      "category": "Diplomacy"
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-03T15:57:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi defense official discusses military ties with Canadian counterpart",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T05:01:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "OPEC+ to raise oil production by 188,000 bpd in September",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
@@ -296,6 +296,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-29T09:39:56+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "45.7 million visitors fuel Saudi entertainment boom, with 96% satisfaction rate in H1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663448/saudi-arabia/457-million-visitors-fuel-saudi-entertainment-boom-with-96-satisfaction-rate-in-h1-2026",
+      "published_date": "2026-08-03T14:35:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Buraidah International Dates Carnival opens with 75-day season",
@@ -340,11 +347,46 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia, Uzbekistan discuss expanding healthcare cooperation",
+      "title": "NCM forecast: Heatwave to hit parts of Riyadh region on Tuesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663294/saudi-arabia/saudi-arabia-uzbekistan-discuss-expanding-healthcare-and-investment-cooperation",
-      "published_date": "2026-07-27T19:52:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663455/saudi-arabia/ncm-forecast-heatwave-to-hit-parts-of-riyadh-region-on-tuesday",
+      "published_date": "2026-08-03T21:04:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nusuk Marhaba greets pilgrims at over 25 Saudi entry points",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663454/saudi-arabia/nusuk-marhaba-greets-pilgrims-at-over-25-saudi-entry-points",
+      "published_date": "2026-08-03T20:37:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local retailers account for 95.3% of online purchases in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663452/saudi-arabia/local-retailers-account-for-953-of-online-purchases-in-saudi-arabia",
+      "published_date": "2026-08-03T17:16:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh breaks into Global Quality of Life Index",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663449/saudi-arabia/riyadh-breaks-into-global-quality-of-life-index",
+      "published_date": "2026-08-03T15:22:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "11 Ethiopians arrested in Jazan for attempting to smuggle 220 kg of khat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663447/saudi-arabia/11-ethiopians-arrested-in-jazan-for-attempting-to-smuggle-220-kg-of-khat",
+      "published_date": "2026-08-03T13:51:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah ranks 5th, Madinah 7th among world’s top cities for international visitors in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663446/saudi-arabia/makkah-ranks-5th-madinah-7th-among-worlds-top-cities-for-international-visitors-in-2025",
+      "published_date": "2026-08-03T13:12:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia adds 1,173 archaeological sites to National Register",
@@ -442,48 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663388/saudi-arabia/riyadh-launches-new-phase-of-taif-road-expansion-project",
       "published_date": "2026-07-31T13:42:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia condemns drone attack on ships at Egypt&#039;s Damietta port",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663387/saudi-arabia/saudi-arabia-condemns-drone-attack-on-ships-at-egypts-damietta-port",
-      "published_date": "2026-07-31T13:39:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia recalls more than 6,500 BMW vehicles over fire risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663365/saudi-arabia/saudi-arabia-recalls-more-than-6500-bmw-vehicles-over-fire-risk",
-      "published_date": "2026-07-30T12:46:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts above-normal temperatures from August through October",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663363/saudi-arabia/saudi-arabia-forecasts-above-normal-temperatures-from-august-through-october",
-      "published_date": "2026-07-30T12:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi ministry conducts 120,000 inspections to combat human trafficking",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663362/saudi-arabia/saudi-ministry-conducts-120000-inspections-to-combat-human-trafficking",
-      "published_date": "2026-07-30T12:21:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extreme heat to grip parts of Saudi Arabia as temperatures near 50°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663360/saudi-arabia/extreme-heat-to-grip-parts-of-saudi-arabia-as-temperatures-near-50c-national-center-for-meteorology-weather-forecast",
-      "published_date": "2026-07-30T11:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry urges compliance with safety rules for shared housing",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663351/saudi-arabia/saudi-ministry-urges-compliance-with-updated-safety-rules-for-shared-housing",
-      "published_date": "2026-07-29T19:54:02+00:00",
       "category": "Local Events"
     }
   ]
