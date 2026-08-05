@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-05T12:49:57.231570+00:00",
+  "last_updated": "2026-08-05T23:59:54.430561+00:00",
   "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi foreign minister meets with Egyptian counterpart in Amman",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663511/saudi-arabia/saudi-foreign-minister-meets-with-egyptian-counterpart-in-amman",
+      "published_date": "2026-08-05T21:04:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Islamic quartet affirms diplomatic solutions to address regional challenges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663509/saudi-arabia/the-islamic-quartet-affirms-diplomatic-solutions-to-address-regional-challenges",
+      "published_date": "2026-08-05T20:48:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Amman Ministerial Meeting: Israeli attacks against Jerusalem provoke sentiments of 2 billion Muslims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663508/saudi-arabia/amman-ministerial-meeting-israeli-attacks-against-jerusalem-provoke-sentiments-of-2-billion-muslims",
+      "published_date": "2026-08-05T17:25:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Hogail: Cabinet decision boosts provision of housing units for eligible families",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663506/saudi-arabia/al-hogail-cabinet-decision-boosts-provision-of-housing-units-for-eligible-families",
+      "published_date": "2026-08-05T15:27:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Iraqi FMs stress preventing Iraq from being used to attack neighbors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663503/saudi-arabia/prince-faisal-discusses-regional-developments-during-meeting-with-jordanian-iraqi-counterparts",
+      "published_date": "2026-08-05T13:48:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM: Protecting Jerusalem is a cornerstone for lasting peace in the region",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663500/saudi-arabia/saudi-fm-protecting-jerusalem-is-a-cornerstone-for-lasting-peace-in-the-region",
+      "published_date": "2026-08-05T13:15:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Bangladesh discuss ways to strengthen bilateral ties",
       "source": "Saudi Gazette",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia receives conjoined Fijian twins for possible separation surgery",
+      "title": "Saudi, US military commanders discuss enhancing defense cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663393/saudi-arabia/saudi-arabia-receives-conjoined-fijian-twins-for-possible-separation-surgery",
-      "published_date": "2026-07-31T18:31:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663510/saudi-arabia/saudius-military-commanders-discuss-enhancing-defense-cooperation",
+      "published_date": "2026-08-05T21:00:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia welcomes Trump-announced Gaza disarmament agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663392/saudi-arabia/saudi-arabia-welcomes-trump-announced-gaza-disarmament-agreement",
-      "published_date": "2026-07-31T17:11:30+00:00",
-      "category": "Diplomacy"
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T20:03:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bahrain King congratulates Saudi Arabia on leading multinational maritime defense alliance",
+      "title": "New digital services help Prophet&#039;s Mosque visitors plan ahead",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663390/saudi-arabia/bahrain-king-congratulates-saudi-arabia-on-leading-multinational-maritime-defense-alliance",
-      "published_date": "2026-07-31T13:45:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi customs foils attempt to smuggle 36,773 amphetamine pills",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663389/saudi-arabia/saudi-customs-foils-attempt-to-smuggle-36773-amphetamine-pills-at-al-hadithah",
-      "published_date": "2026-07-31T13:44:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian president reaffirms support for Saudi Arabia in call with Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663386/saudi-arabia/syrian-president-reaffirms-support-for-saudi-arabia-in-call-with-crown-prince",
-      "published_date": "2026-07-31T13:34:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi leadership extends condolences to Japan over deadly Kumamoto earthquake",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663369/saudi-arabia/saudi-leadership-extends-condolences-to-japan-over-deadly-kumamoto-earthquake",
-      "published_date": "2026-07-30T14:02:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663498/saudi-arabia/new-digital-services-help-prophets-mosque-visitors-plan-ahead",
+      "published_date": "2026-08-05T12:49:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Projectile sinks Indian-flagged ship off Yemen coast",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T11:35:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T10:49:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T18:41:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
       "published_date": "2026-08-02T13:59:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan: New procurement law would strengthen transparency, promote fairness in competition",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663504/saudi-arabia/al-jadaan-new-procurement-law-would-strengthen-transparency-promote-fairness-in-competition",
+      "published_date": "2026-08-05T14:12:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Vision 2030 Is transforming Saudi Arabia into a global investment destination",
@@ -375,11 +382,25 @@
       "category": "Economy"
     },
     {
-      "title": "IMF says Saudi economy remains resilient amid regional geopolitical tensions",
+      "title": "40 new services added to Tawakkalna App in July to facilitate access to government services",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663348/saudi-arabia/imf-says-saudi-economy-remains-resilient-amid-regional-tensions",
-      "published_date": "2026-07-29T17:45:17+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663507/saudi-arabia/40-new-services-added-to-tawakkalna-app-in-july-to-facilitate-access-to-government-services",
+      "published_date": "2026-08-05T15:56:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia introduces service to transfer domestic workers from establishments to individuals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663505/saudi-arabia/saudi-arabia-introduces-service-to-transfer-domestic-workers-from-establishments-to-individuals",
+      "published_date": "2026-08-05T14:50:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heritage Commission documents more than 100 archaeological sites in Riyadh&#039;s Al-Dawadmi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663499/saudi-arabia/heritage-commission-documents-more-than-100-archaeological-sites-in-riyadhs-al-dawadmi",
+      "published_date": "2026-08-05T12:59:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dust-raising winds, high waves forecast along Saudi Red Sea coast",
@@ -498,27 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663447/saudi-arabia/11-ethiopians-arrested-in-jazan-for-attempting-to-smuggle-220-kg-of-khat",
       "published_date": "2026-08-03T13:51:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah ranks 5th, Madinah 7th among world’s top cities for international visitors in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663446/saudi-arabia/makkah-ranks-5th-madinah-7th-among-worlds-top-cities-for-international-visitors-in-2025",
-      "published_date": "2026-08-03T13:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia adds 1,173 archaeological sites to National Register",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663445/saudi-arabia/saudi-arabia-adds-1173-archaeological-sites-to-national-register",
-      "published_date": "2026-08-03T12:54:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh marks key milestones in Expo 2030 preparations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663443/saudi-arabia/riyadh-marks-key-milestones-in-expo-2030-preparations",
-      "published_date": "2026-08-03T12:15:50+00:00",
       "category": "Local Events"
     }
   ]
