@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-04T12:59:18.488423+00:00",
-  "story_count": 72,
+  "last_updated": "2026-08-05T12:49:57.231570+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi, Bangladesh discuss ways to strengthen bilateral ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663492/saudi-arabia/saudi-bangladesh-discuss-ways-to-strengthen-bilateral-ties",
+      "published_date": "2026-08-05T10:30:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Deputy FM, Bangladeshi PM discuss stronger bilateral ties and regional developments",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns continued Iranian attacks on Jordan",
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T21:24:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "18 illegal warehouses shut in Jeddah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663358/saudi-arabia/saudi-arabia-condemns-continued-iranian-attacks-on-jordan",
-      "published_date": "2026-07-30T10:07:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663481/saudi-arabia/18-illegal-warehouses-shut-in-jeddah",
+      "published_date": "2026-08-04T17:25:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Arab nations, regional organizations condemn attempted drone attack on Saudi oil facilities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663347/saudi-arabia/arab-nations-regional-organizations-condemn-attempted-drone-attack-on-saudi-oil-facilities",
-      "published_date": "2026-07-29T17:33:27+00:00",
-      "category": "Military"
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T03:44:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "BBC reports from Palestinian village under weekly attack by Israeli settlers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/programmes/p0p1f8wj?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T10:40:35+00:00",
-      "category": "Military"
+      "title": "Aramco Chief: Impact of Strait of Hormuz crisis extends to global food security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663477/saudi-arabia/aramco-chief-impact-of-strait-of-hormuz-crisis-extends-to-global-food-security",
+      "published_date": "2026-08-04T14:51:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco posts $33.4 billion Q2 profit, reports strong first-half results",
@@ -298,11 +312,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T09:39:56+00:00",
-      "category": "Energy"
+      "title": "How Vision 2030 Is transforming Saudi Arabia into a global investment destination",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663495/saudi-arabia/how-vision-2030-is-transforming-saudi-arabia-into-a-global-investment-destination",
+      "published_date": "2026-08-05T11:20:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Najran&#039;s 4,400 greenhouses produce more than 37,000 tons of crops",
@@ -366,6 +380,76 @@
       "url": "https://saudigazette.com.sa/article/663348/saudi-arabia/imf-says-saudi-economy-remains-resilient-amid-regional-tensions",
       "published_date": "2026-07-29T17:45:17+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Dust-raising winds, high waves forecast along Saudi Red Sea coast",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663497/saudi-arabia/dust-raising-winds-high-waves-forecast-along-saudi-red-sea-coast",
+      "published_date": "2026-08-05T12:19:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi POS spending surges 33% to SR16.3 billion in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663491/saudi-arabia/saudi-pos-spending-surges-33-to-sr163-billion-in-one-week",
+      "published_date": "2026-08-05T10:13:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms, extreme heat grip parts of Saudi Arabia as dust and strong winds persist",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663488/saudi-arabia/thunderstorms-extreme-heat-grip-parts-of-saudi-arabia-as-dust-and-strong-winds-persist",
+      "published_date": "2026-08-05T07:41:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia allows investors to build housing projects for partial land ownership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663482/saudi-arabia/saudi-arabia-allows-investors-to-build-housing-projects-for-partial-land-ownership",
+      "published_date": "2026-08-04T22:50:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrests in Egypt after people allegedly impersonate judges",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T19:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry approves evaluation results of international pilgrim service providers for 2026 Hajj season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663480/saudi-arabia/hajj-ministry-approves-evaluation-results-of-international-pilgrim-service-providers-for-2026-hajj-season",
+      "published_date": "2026-08-04T16:47:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Salman approves awarding medal of merit to 25 blood donors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663479/saudi-arabia/king-salman-approves-awarding-medal-of-merit-to-25-blood-donors",
+      "published_date": "2026-08-04T16:07:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guard urges beachgoers to avoid swimming in unauthorized areas",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663478/saudi-arabia/border-guard-urges-beachgoers-to-avoid-swimming-in-unauthorized-areas",
+      "published_date": "2026-08-04T15:18:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T15:07:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia reconstitutes Regional Councils with new four-year mandate",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663476/saudi-arabia/saudi-arabia-reconstitutes-regional-councils-with-new-four-year-mandate",
+      "published_date": "2026-08-04T14:24:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Authorities arrest 18 Border Security Law violators, seize 244 kg of khat and 149,400 tablets",
@@ -435,76 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663443/saudi-arabia/riyadh-marks-key-milestones-in-expo-2030-preparations",
       "published_date": "2026-08-03T12:15:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Culture Minister appoints Dr. Mohammed Alwan President of Riyadh University of the Arts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663439/saudi-arabia/culture-minister-appoints-dr-mohammed-alwan-president-of-riyadh-university-of-the-arts",
-      "published_date": "2026-08-03T11:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hot weather, dust and chance of thunderstorms forecast across parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663438/saudi-arabia/hot-weather-dust-and-chance-of-thunderstorms-forecast-across-parts-of-saudi-arabia",
-      "published_date": "2026-08-03T09:47:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al Baha cycling tour completes third stage across mountain routes",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663424/saudi-arabia/al-baha-cycling-tour-completes-third-stage-with-130-riders",
-      "published_date": "2026-08-02T19:32:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipalities ministry inspect 97% of food establishments in first half of 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663418/saudi-arabia/saudi-municipalities-inspect-97-of-food-establishments-in-h1-2026",
-      "published_date": "2026-08-02T13:28:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh launches four-bridge Jeddah Road development project",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663413/saudi-arabia/riyadh-launches-four-bridge-jeddah-road-development-project",
-      "published_date": "2026-08-02T12:50:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts continued thundery rain across several Saudi regions through week&#039;s end",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663411/saudi-arabia/ncm-forecasts-continued-thundery-rain-across-several-saudi-regions-through-weeks-end",
-      "published_date": "2026-08-02T12:24:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High temperatures, dust-stirring winds to affect several parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663407/saudi-arabia/high-temperatures-dust-stirring-winds-to-affect-several-parts-of-saudi-arabia",
-      "published_date": "2026-08-02T07:18:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts above-average October rainfall, hotter-than-normal temperatures through autumn",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663406/saudi-arabia/saudi-arabia-forecasts-above-average-october-rainfall-hotter-temperatures",
-      "published_date": "2026-08-02T05:55:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi anti-corruption authority investigates 430 suspects, arrests 131 in July crackdown",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663404/saudi-arabia/saudi-anti-corruption-authority-investigates-430-suspects-arrests-131-in-july",
-      "published_date": "2026-08-01T19:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia arrests more than 14,000 residency, labor, border law violators in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663395/saudi-arabia/saudi-arabia-arrests-more-than-14000-residency-labor-border-law-violators-in-one-week",
-      "published_date": "2026-08-01T10:42:35+00:00",
       "category": "Local Events"
     }
   ]
