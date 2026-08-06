@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-05T23:59:54.430561+00:00",
-  "story_count": 74,
+  "last_updated": "2026-08-06T12:54:05.000776+00:00",
+  "story_count": 76,
   "stories": [
     {
       "title": "Saudi foreign minister meets with Egyptian counterpart in Amman",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi Arabia appoints commander of multinational maritime defense coalition",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663523/saudi-arabia/saudi-arabia-appoints-commander-of-multinational-maritime-defense-coalition",
+      "published_date": "2026-08-06T11:52:13+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi, US military commanders discuss enhancing defense cooperation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663510/saudi-arabia/saudius-military-commanders-discuss-enhancing-defense-cooperation",
@@ -277,11 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T17:26:01+00:00",
-      "category": "Military"
+      "title": "Saudi crude oil production rises 5.6% to 3.46 billion barrels in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663521/saudi-arabia/saudi-crude-oil-production-rises-56-to-346-billion-barrels-in-2025",
+      "published_date": "2026-08-06T11:44:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Major wind turbine shipment arrives at Yanbu port for Saudi renewable energy projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663520/saudi-arabia/major-wind-turbine-shipment-arrives-at-yanbu-port-for-saudi-renewable-energy-projects",
+      "published_date": "2026-08-06T11:16:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi’s Al Henakiyah 1 solar plant to power 190,000 homes annually",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663519/saudi-arabia/saudis-al-henakiyah-1-solar-plant-to-power-190000-homes-annually",
+      "published_date": "2026-08-06T10:44:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
@@ -375,11 +396,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi GDP reflects lower oil activity as non-oil sector continues to grow",
+      "title": "Thunderstorms forecast across parts of Kingdom as heat peaks at 49°C",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663359/saudi-arabia/saudi-gdp-reflects-lower-oil-activity-as-non-oil-sector-continues-to-grow",
-      "published_date": "2026-07-30T10:36:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663517/saudi-arabia/thunderstorms-forecast-across-parts-of-kingdom-as-heat-peaks-at-49c",
+      "published_date": "2026-08-06T07:55:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "40 new services added to Tawakkalna App in July to facilitate access to government services",
@@ -512,13 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663449/saudi-arabia/riyadh-breaks-into-global-quality-of-life-index",
       "published_date": "2026-08-03T15:22:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "11 Ethiopians arrested in Jazan for attempting to smuggle 220 kg of khat",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663447/saudi-arabia/11-ethiopians-arrested-in-jazan-for-attempting-to-smuggle-220-kg-of-khat",
-      "published_date": "2026-08-03T13:51:44+00:00",
       "category": "Local Events"
     }
   ]
