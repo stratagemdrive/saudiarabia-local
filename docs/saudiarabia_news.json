@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-06T12:54:05.000776+00:00",
-  "story_count": 76,
+  "last_updated": "2026-08-07T01:41:21.031243+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "SFDA warns against consuming certain ginseng coffee and chocolate products",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663541/saudi-arabia/sfda-warns-against-consuming-certain-ginseng-coffee-and-chocolate-products",
+      "published_date": "2026-08-06T20:49:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Abdulaziz International Qur’an Competition opens in Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663540/saudi-arabia/king-abdulaziz-international-quran-competition-opens-in-makkah",
+      "published_date": "2026-08-06T17:36:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan PM Sharif arrives in Jeddah for talks with Saudi Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663538/saudi-arabia/pakistan-pm-sharif-arrives-in-jeddah-for-talks-with-saudi-crown-prince",
+      "published_date": "2026-08-06T17:10:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Shehri: Multinational Maritime Defense Coalition is purely defensive and not targeting anybody",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663536/saudi-arabia/al-shehri-multinational-maritime-defense-coalition-is-purely-defensive-and-not-targeting-anybody",
+      "published_date": "2026-08-06T15:44:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Insurance Authority instructs companies to adhere to beneficial ownership guidelines within 30 days",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663534/saudi-arabia/insurance-authority-instructs-companies-to-adhere-to-beneficial-ownership-guidelines-within-30-days",
+      "published_date": "2026-08-06T15:00:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King receives message from president of Zimbabwe",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663529/saudi-arabia/king-receives-message-from-president-of-zimbabwe",
+      "published_date": "2026-08-06T13:16:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia and seven Islamic nations condemn ongoing Israeli violations in Gaza",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663527/saudi-arabia/saudi-arabia-and-seven-islamic-nations-condemn-ongoing-israeli-violations-in-gaza",
+      "published_date": "2026-08-06T13:00:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi foreign minister meets with Egyptian counterpart in Amman",
       "source": "Saudi Gazette",
@@ -95,53 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia tells Iran it remains committed to regional security, stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663425/saudi-arabia/saudi-arabia-tells-iran-it-remains-committed-to-regional-security-and-stability",
-      "published_date": "2026-08-02T20:16:41+00:00",
-      "category": "Diplomacy"
+      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T22:41:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi deputy FM receives outgoing Irish ambassador, lauds efforts to strengthen ties",
+      "title": "Al-Maliki: Maritime Coalition protects sea lanes and global economy",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663422/saudi-arabia/saudi-deputy-fm-receives-outgoing-irish-ambassador-lauds-efforts-to-strengthen-ties",
-      "published_date": "2026-08-02T15:20:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663542/saudi-arabia/al-maliki-maritime-coalition-protects-sea-lanes-and-global-economy",
+      "published_date": "2026-08-06T20:54:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "What Saudi Arabia&#039;s latest global achievements reveal about its transformation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663410/saudi-arabia/what-saudi-arabias-latest-global-achievements-reveal-about-its-transformation",
-      "published_date": "2026-08-02T11:06:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Team Falcons reclaim top spot in Esports World Cup Club Championship",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663409/saudi-arabia/team-falcons-reclaim-top-spot-in-esports-world-cup-club-championship",
-      "published_date": "2026-08-02T08:40:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Trump discuss regional developments, stress de-escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663408/saudi-arabia/saudi-crown-prince-trump-discuss-regional-developments-stress-de-escalation",
-      "published_date": "2026-08-02T07:47:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia extends condolences to Algeria over deadly Boumerdès traffic accident",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663403/saudi-arabia/saudi-arabia-extends-condolences-to-algeria-over-deadly-boumerdes-traffic-accident",
-      "published_date": "2026-08-01T17:52:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional de-escalation with Turkish and Kuwaiti counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663402/saudi-arabia/saudi-fm-discusses-regional-de-escalation-with-turkish-and-kuwaiti-counterparts",
-      "published_date": "2026-08-01T14:43:15+00:00",
-      "category": "Diplomacy"
+      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T14:20:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia appoints commander of multinational maritime defense coalition",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T04:25:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Founding members approve Saudi-led maritime defense alliance to safeguard Red Sea, Bab al-Mandab and Gulf of Aden",
+      "title": "Saudi renewable energy capacity jumps 88% to 12,313 MW in 2025",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663373/saudi-arabia/saudi-arabia-to-lead-new-multinational-maritime-defense-alliance",
-      "published_date": "2026-07-30T23:39:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia advances multinational maritime defense alliance initiative",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663372/saudi-arabia/saudi-arabia-advances-multinational-maritime-defense-alliance-initiative",
-      "published_date": "2026-07-30T19:27:15+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/663525/saudi-arabia/saudi-renewable-energy-capacity-jumps-88-to-12313-mw-in-2025",
+      "published_date": "2026-08-06T12:25:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi crude oil production rises 5.6% to 3.46 billion barrels in 2025",
@@ -331,6 +338,20 @@
       "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
       "published_date": "2026-08-02T13:59:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "130 cover-up cases detected during 5,270 inspection visits in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663537/saudi-arabia/130-cover-up-cases-detected-during-5270-inspection-visits-in-july",
+      "published_date": "2026-08-06T16:14:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CEDA reviews Q2 budget performance, global economic outlook",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663532/saudi-arabia/ceda-affirms-saudi-arabias-exceptional-fiscal-efficiency-and-flexibility",
+      "published_date": "2026-08-06T14:00:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Jadaan: New procurement law would strengthen transparency, promote fairness in competition",
@@ -389,11 +410,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi budget posts SR34.3bn deficit in Q2 as revenues rise 12%",
+      "title": "Thunderstorms, heavy rain to affect parts of Saudi Arabia through next week",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663370/saudi-arabia/saudi-budget-posts-sr343-billion-deficit-in-second-quarter-of-2026",
-      "published_date": "2026-07-30T14:41:13+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663531/saudi-arabia/thunderstorms-heavy-rain-to-affect-parts-of-saudi-arabia-through-next-week",
+      "published_date": "2026-08-06T13:34:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egyptian Nightjar breeding confirmed for first time at King Abdulaziz Royal Reserve",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663526/saudi-arabia/egyptian-nightjar-breeding-confirmed-for-first-time-at-king-abdulaziz-royal-reserve",
+      "published_date": "2026-08-06T12:47:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thunderstorms forecast across parts of Kingdom as heat peaks at 49°C",
@@ -519,20 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663454/saudi-arabia/nusuk-marhaba-greets-pilgrims-at-over-25-saudi-entry-points",
       "published_date": "2026-08-03T20:37:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local retailers account for 95.3% of online purchases in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663452/saudi-arabia/local-retailers-account-for-953-of-online-purchases-in-saudi-arabia",
-      "published_date": "2026-08-03T17:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh breaks into Global Quality of Life Index",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663449/saudi-arabia/riyadh-breaks-into-global-quality-of-life-index",
-      "published_date": "2026-08-03T15:22:30+00:00",
       "category": "Local Events"
     }
   ]
