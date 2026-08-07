@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-07T11:42:24.281570+00:00",
-  "story_count": 79,
+  "last_updated": "2026-08-07T23:34:18.712416+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Makkah Joint Defense Agreement not a military axis or sectarian bloc, Saudi official says",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663557/saudi-arabia/makkah-defense-pact-not-a-military-axis-or-sectarian-bloc-saudi-official-says",
+      "published_date": "2026-08-07T13:05:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Türkiye and Pakistan sign Makkah Joint Defense Agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663556/saudi-arabia/saudi-arabia-turkiye-and-pakistan-sign-makkah-joint-defense-agreement",
+      "published_date": "2026-08-07T11:22:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia to host trilateral summit with Türkiye, Pakistan in Jeddah",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Erdogan welcomes Saudi-led maritime coalition in call with Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663453/saudi-arabia/erdogan-welcomes-saudi-led-maritime-coalition-in-call-with-crown-prince",
-      "published_date": "2026-08-03T20:11:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince congratulates Armenian PM Pashinyan on his reappointment",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663450/saudi-arabia/saudi-crown-prince-congratulates-armenian-pm-pashinyan-on-his-reappointment",
-      "published_date": "2026-08-03T16:02:19+00:00",
-      "category": "Diplomacy"
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-07T17:42:54+00:00",
+      "category": "Military"
     },
     {
       "title": "11 civilians injured in Houthi attacks on Najran",
@@ -260,27 +267,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-01T05:01:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T20:58:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What's in the Gaza peace deal roadmap?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T16:00:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi source says Iraq strikes targeted Iran-backed militias, not Iraqi state",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663391/saudi-arabia/saudi-source-says-iraq-strikes-targeted-iran-backed-militias-not-iraqi-state",
-      "published_date": "2026-07-31T15:27:48+00:00",
       "category": "Military"
     },
     {
@@ -417,6 +403,13 @@
       "category": "Economy"
     },
     {
+      "title": "911 centers receive 2.7 million calls in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663558/saudi-arabia/saudi-911-centers-receive-27-million-calls-in-july",
+      "published_date": "2026-08-07T22:24:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Thunderstorms, heavy rain to affect parts of Saudi Arabia through next week",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663531/saudi-arabia/thunderstorms-heavy-rain-to-affect-parts-of-saudi-arabia-through-next-week",
@@ -547,13 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663455/saudi-arabia/ncm-forecast-heatwave-to-hit-parts-of-riyadh-region-on-tuesday",
       "published_date": "2026-08-03T21:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nusuk Marhaba greets pilgrims at over 25 Saudi entry points",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663454/saudi-arabia/nusuk-marhaba-greets-pilgrims-at-over-25-saudi-entry-points",
-      "published_date": "2026-08-03T20:37:17+00:00",
       "category": "Local Events"
     }
   ]
