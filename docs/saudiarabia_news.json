@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-07T01:41:21.031243+00:00",
-  "story_count": 78,
+  "last_updated": "2026-08-07T11:42:24.281570+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Saudi Arabia to host trilateral summit with Türkiye, Pakistan in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663544/saudi-arabia/saudi-arabia-to-host-trilateral-summit-with-turkiye-pakistan-in-jeddah",
+      "published_date": "2026-08-07T02:32:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince and Macron discuss regional security, freedom of navigation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663543/saudi-arabia/saudi-crown-prince-macron-discuss-regional-security-and-maritime-navigation",
+      "published_date": "2026-08-07T02:31:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SFDA warns against consuming certain ginseng coffee and chocolate products",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Commerce Ministry recalls 96 Audi Q5 vehicles over seat belt tensioner defect",
+      "title": "11 civilians injured in Houthi attacks on Najran",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663437/saudi-arabia/commerce-ministry-recalls-96-audi-q5-vehicles-over-seat-belt-tensioner-defect",
-      "published_date": "2026-08-03T08:42:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA approves first daily oral weight-loss drug for adults with obesity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663426/saudi-arabia/saudi-fda-approves-first-daily-oral-weight-loss-drug-foundaio",
-      "published_date": "2026-08-03T00:23:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663545/saudi-arabia/11-civilians-injured-in-houthi-attacks-on-saudi-arabias-najran",
+      "published_date": "2026-08-07T02:34:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T15:18:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi renewable energy capacity jumps 88% to 12,313 MW in 2025",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663525/saudi-arabia/saudi-renewable-energy-capacity-jumps-88-to-12313-mw-in-2025",
@@ -338,6 +338,13 @@
       "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
       "published_date": "2026-08-02T13:59:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "PIF-led consortium completes acquisition of EA in landmark gaming deal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663546/saudi-arabia/pif-completes-electronic-arts-acquisition-ea-gaming-deal",
+      "published_date": "2026-08-07T04:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "130 cover-up cases detected during 5,270 inspection visits in July",
