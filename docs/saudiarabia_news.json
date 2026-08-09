@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-08T23:29:10.892806+00:00",
-  "story_count": 77,
+  "last_updated": "2026-08-09T11:25:40.301384+00:00",
+  "story_count": 76,
   "stories": [
     {
       "title": "Makkah Pact wins wide Islamic and Arab acclaim",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi Arabia welcomes UN condemnation of Houthi attacks, backs Yemen peace efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663572/saudi-arabia/saudi-arabia-welcomes-un-security-council-condemnation-of-houthi-attacks-on-kingdom-commercial-vessels",
+      "published_date": "2026-08-09T08:00:01+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi landmarks shine in Saudi, Türkish and Pakistani colors to celebrate Makkah pact",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663565/saudi-arabia/saudi-landmarks-shine-in-saudi-turkish-and-pakistani-colors-to-celebrate-makkah-pact",
@@ -260,13 +267,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-02T15:50:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T11:12:00+00:00",
       "category": "Military"
     },
     {
@@ -396,11 +396,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi customs seize 1,210 prohibited items in one week across border crossings",
+      "title": "Saudi Arabia highlights AI, global cooperation in geospatial information management at UN meeting",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663405/saudi-arabia/saudi-customs-seize-1210-prohibited-items-in-one-week",
-      "published_date": "2026-08-02T00:51:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663574/saudi-arabia/saudi-arabia-highlights-ai-global-cooperation-in-geospatial-information-management-at-un-meeting",
+      "published_date": "2026-08-09T10:04:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms, flash flood risk forecast across parts of Kingdom as temperatures hit 47°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663573/saudi-arabia/thunderstorms-flash-flood-risk-forecast-across-parts-of-kingdom-as-temperatures-hit-47c",
+      "published_date": "2026-08-09T08:31:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "911 centers receive 2.7 million calls in July",
@@ -526,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663472/saudi-arabia/saudi-authorities-arrest-18-border-security-law-violators-seize-244-kg-of-khat-and-149400-tablets",
       "published_date": "2026-08-04T12:08:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green Riyadh plants 15,000 trees, cuts temperatures by 5°C at Shayb Ghudwanah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663470/saudi-arabia/green-riyadh-plants-15000-trees-cuts-temperatures-by-5c-at-shayb-ghudwanah",
-      "published_date": "2026-08-04T10:59:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecast: Heatwave to hit parts of Riyadh region on Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663455/saudi-arabia/ncm-forecast-heatwave-to-hit-parts-of-riyadh-region-on-tuesday",
-      "published_date": "2026-08-03T21:04:39+00:00",
       "category": "Local Events"
     }
   ]
