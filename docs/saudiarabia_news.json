@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-09T11:25:40.301384+00:00",
-  "story_count": 76,
+  "last_updated": "2026-08-09T23:31:48.762862+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi, Kuwaiti FMs review efforts for regional de-escalation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663598/saudi-arabia/saudi-kuwaiti-fms-review-efforts-for-regional-de-escalation-in-phone-call",
+      "published_date": "2026-08-09T20:37:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Badr: UNESCO forum reinforces Saudi Arabia’s global leadership in ethical AI",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663596/saudi-arabia/prince-badr-unesco-forum-reinforces-saudi-arabias-global-leadership-in-ethical-ai",
+      "published_date": "2026-08-09T17:27:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab countries, MWL welcome UN statement condemning Houthi attacks against Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663580/saudi-arabia/arab-countries-mwl-welcome-un-statement-condemning-houthi-attacks-against-saudi-arabia",
+      "published_date": "2026-08-09T12:17:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Makkah Pact wins wide Islamic and Arab acclaim",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Al-Hogail: Cabinet decision boosts provision of housing units for eligible families",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663506/saudi-arabia/al-hogail-cabinet-decision-boosts-provision-of-housing-units-for-eligible-families",
-      "published_date": "2026-08-05T15:27:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Iraqi FMs stress preventing Iraq from being used to attack neighbors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663503/saudi-arabia/prince-faisal-discusses-regional-developments-during-meeting-with-jordanian-iraqi-counterparts",
-      "published_date": "2026-08-05T13:48:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM: Protecting Jerusalem is a cornerstone for lasting peace in the region",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663500/saudi-arabia/saudi-fm-protecting-jerusalem-is-a-cornerstone-for-lasting-peace-in-the-region",
-      "published_date": "2026-08-05T13:15:15+00:00",
-      "category": "Diplomacy"
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T21:25:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia welcomes UN condemnation of Houthi attacks, backs Yemen peace efforts",
@@ -256,18 +263,18 @@
       "category": "Military"
     },
     {
-      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T16:37:02+00:00",
-      "category": "Military"
+      "title": "Milky Way visible to naked eye across Arab skies during August",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663587/saudi-arabia/milky-way-visible-to-naked-eye-across-arab-skies-this-august",
+      "published_date": "2026-08-09T13:51:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T15:50:59+00:00",
-      "category": "Military"
+      "title": "No injuries as fire breaks out at Aramco facility in Jazan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663585/saudi-arabia/no-injuries-as-fire-breaks-out-at-aramco-facility-in-jazan",
+      "published_date": "2026-08-09T13:17:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi renewable energy capacity jumps 88% to 12,313 MW in 2025",
@@ -319,11 +326,25 @@
       "category": "Energy"
     },
     {
-      "title": "OPEC+ to raise oil production by 188,000 bpd in September",
+      "title": "WTTC report:  Saudi Arabia emerges Mideast tourism leader as sector represents 14.1% of GDP",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
-      "published_date": "2026-08-02T13:59:40+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663597/saudi-arabia/wttc-report-saudi-arabia-emerges-as-mideast-tourism-leader-as-sector-represents-141-of-gdp",
+      "published_date": "2026-08-09T19:08:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi business sector surges with 46,900 new companies in 1H 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663595/saudi-arabia/saudi-business-sector-surges-with-46900-new-companies-in-1h-2026",
+      "published_date": "2026-08-09T15:50:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tourism Ministry proposes mandatory staffing ratios, requiring up to 3 employees per hotel room",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663589/saudi-arabia/tourism-ministry-proposes-mandatory-staffing-ratios-requiring-up-to-3-employees-per-hotel-room",
+      "published_date": "2026-08-09T14:26:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "PIF-led consortium completes acquisition of EA in landmark gaming deal",
@@ -389,11 +410,39 @@
       "category": "Economy"
     },
     {
-      "title": "Buraidah International Dates Carnival opens with 75-day season",
+      "title": "Erring car dealer’s import license suspended; SR8 million fine imposed",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663423/saudi-arabia/buraidah-international-dates-carnival-opens-for-75-day-season",
-      "published_date": "2026-08-02T16:29:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663599/saudi-arabia/erring-car-dealers-import-license-suspended-sr8-million-fine-imposed",
+      "published_date": "2026-08-09T20:42:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI adoption more than doubles in Saudi Arabia, reaching 45.2% of internet users",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663586/saudi-arabia/ai-adoption-more-than-doubles-in-saudi-arabia-reaching-452-of-internet-users",
+      "published_date": "2026-08-09T13:25:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi informatics team competes against nearly 100 countries at international Olympiad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663577/saudi-arabia/saudi-informatics-team-competes-against-nearly-100-countries-at-international-olympiad",
+      "published_date": "2026-08-09T11:45:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia ranks first at International Nuclear Science Olympiad as students claim gold medals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663576/saudi-arabia/saudi-arabia-ranks-first-at-international-nuclear-science-olympiad-as-students-claim-gold-medals",
+      "published_date": "2026-08-09T11:28:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi authorities seize 293 kg of khat, 16 kg of hashish in anti-drug operations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663575/saudi-arabia/saudi-authorities-seize-293-kg-of-khat-16-kg-of-hashish-in-anti-drug-operations",
+      "published_date": "2026-08-09T11:06:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia highlights AI, global cooperation in geospatial information management at UN meeting",
@@ -498,41 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663480/saudi-arabia/hajj-ministry-approves-evaluation-results-of-international-pilgrim-service-providers-for-2026-hajj-season",
       "published_date": "2026-08-04T16:47:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Salman approves awarding medal of merit to 25 blood donors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663479/saudi-arabia/king-salman-approves-awarding-medal-of-merit-to-25-blood-donors",
-      "published_date": "2026-08-04T16:07:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard urges beachgoers to avoid swimming in unauthorized areas",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663478/saudi-arabia/border-guard-urges-beachgoers-to-avoid-swimming-in-unauthorized-areas",
-      "published_date": "2026-08-04T15:18:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T15:07:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia reconstitutes Regional Councils with new four-year mandate",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663476/saudi-arabia/saudi-arabia-reconstitutes-regional-councils-with-new-four-year-mandate",
-      "published_date": "2026-08-04T14:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Authorities arrest 18 Border Security Law violators, seize 244 kg of khat and 149,400 tablets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663472/saudi-arabia/saudi-authorities-arrest-18-border-security-law-violators-seize-244-kg-of-khat-and-149400-tablets",
-      "published_date": "2026-08-04T12:08:38+00:00",
       "category": "Local Events"
     }
   ]
