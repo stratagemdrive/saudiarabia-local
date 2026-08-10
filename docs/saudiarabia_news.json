@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-09T23:31:48.762862+00:00",
+  "last_updated": "2026-08-10T11:43:57.446296+00:00",
   "story_count": 78,
   "stories": [
     {
@@ -256,11 +256,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi defense official discusses military ties with Canadian counterpart",
+      "title": "Saudi industrial production rises 4.3% month-on-month in June despite 16.3% annual decline",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663428/saudi-arabia/saudi-defense-official-discusses-military-cooperation-during-canada-visit",
-      "published_date": "2026-08-03T03:20:03+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/663609/saudi-arabia/saudi-industrial-production-rises-43-month-on-month-in-june-despite-163-annual-decline",
+      "published_date": "2026-08-10T11:02:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Milky Way visible to naked eye across Arab skies during August",
@@ -410,6 +410,13 @@
       "category": "Economy"
     },
     {
+      "title": "Ministry recalls 20 Hollis diving regulators over potential drowning risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663606/saudi-arabia/ministry-recalls-20-hollis-diving-regulators-over-potential-drowning-risk",
+      "published_date": "2026-08-10T09:36:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Erring car dealer’s import license suspended; SR8 million fine imposed",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663599/saudi-arabia/erring-car-dealers-import-license-suspended-sr8-million-fine-imposed",
@@ -540,13 +547,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-04T19:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry approves evaluation results of international pilgrim service providers for 2026 Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663480/saudi-arabia/hajj-ministry-approves-evaluation-results-of-international-pilgrim-service-providers-for-2026-hajj-season",
-      "published_date": "2026-08-04T16:47:19+00:00",
       "category": "Local Events"
     }
   ]
