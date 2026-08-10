@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-10T11:43:57.446296+00:00",
-  "story_count": 78,
+  "last_updated": "2026-08-10T23:35:38.784296+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Zelenskyy backs Makkah pact for regional stability in call with Saudi Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663623/saudi-arabia/zelenskyy-backs-makkah-pact-for-regional-stability-in-call-with-saudi-crown-prince",
+      "published_date": "2026-08-10T19:11:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA bans cosmetic products packaged as syringes, ampoules, and vials",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663619/saudi-arabia/sfda-bans-cosmetic-products-packaged-as-syringes-ampoules-and-vials",
+      "published_date": "2026-08-10T14:34:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East Green Initiative to showcase regional desertification efforts at UNCCD COP17",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663618/saudi-arabia/middle-east-green-initiative-to-showcase-regional-desertification-efforts-at-unccd-cop17",
+      "published_date": "2026-08-10T13:39:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh to host 10th Future Investment Initiative Conference in October",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663616/saudi-arabia/riyadh-to-host-10th-future-investment-initiative-conference-in-october",
+      "published_date": "2026-08-10T13:24:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Commerce Ministry recalls 27,360 Chevrolet vehicles over airbag defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663613/saudi-arabia/saudi-commerce-ministry-recalls-27360-chevrolet-vehicles-over-airbag-defect",
+      "published_date": "2026-08-10T12:48:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dust-stirring winds, high waves forecast along Saudi Arabia’s western coast",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663611/saudi-arabia/dust-stirring-winds-high-waves-forecast-along-saudi-arabias-western-coast",
+      "published_date": "2026-08-10T11:52:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Kuwaiti FMs review efforts for regional de-escalation in phone call",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Insurance Authority instructs companies to adhere to beneficial ownership guidelines within 30 days",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663534/saudi-arabia/insurance-authority-instructs-companies-to-adhere-to-beneficial-ownership-guidelines-within-30-days",
-      "published_date": "2026-08-06T15:00:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King receives message from president of Zimbabwe",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663529/saudi-arabia/king-receives-message-from-president-of-zimbabwe",
-      "published_date": "2026-08-06T13:16:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia and seven Islamic nations condemn ongoing Israeli violations in Gaza",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663527/saudi-arabia/saudi-arabia-and-seven-islamic-nations-condemn-ongoing-israeli-violations-in-gaza",
-      "published_date": "2026-08-06T13:00:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister meets with Egyptian counterpart in Amman",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663511/saudi-arabia/saudi-foreign-minister-meets-with-egyptian-counterpart-in-amman",
-      "published_date": "2026-08-05T21:04:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Islamic quartet affirms diplomatic solutions to address regional challenges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663509/saudi-arabia/the-islamic-quartet-affirms-diplomatic-solutions-to-address-regional-challenges",
-      "published_date": "2026-08-05T20:48:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Amman Ministerial Meeting: Israeli attacks against Jerusalem provoke sentiments of 2 billion Muslims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663508/saudi-arabia/amman-ministerial-meeting-israeli-attacks-against-jerusalem-provoke-sentiments-of-2-billion-muslims",
-      "published_date": "2026-08-05T17:25:11+00:00",
-      "category": "Diplomacy"
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T14:43:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -249,13 +256,6 @@
       "category": "Military"
     },
     {
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T15:57:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi industrial production rises 4.3% month-on-month in June despite 16.3% annual decline",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663609/saudi-arabia/saudi-industrial-production-rises-43-month-on-month-in-june-despite-163-annual-decline",
@@ -324,6 +324,27 @@
       "url": "https://saudigazette.com.sa/article/663468/saudi-arabia/aramco-posts-334-billion-q2-profit-rworking-capital-build-economy-eports-strong-first-half-results",
       "published_date": "2026-08-04T10:19:54+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "SDAIA launches Ibram platform for digital signatures, document verification",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663624/saudi-arabia/sdaia-launches-ibram-platform-for-digital-signatures-document-verification",
+      "published_date": "2026-08-10T20:45:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Value of instant money transfers in Saudi Arabia jumps 26% to SR7 trillion in 30 days",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663621/saudi-arabia/value-of-instant-money-transfers-in-saudi-arabia-jumps-26-to-sr7-trillion-in-30-days",
+      "published_date": "2026-08-10T17:01:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi FDI surges 12% to SR1.123 trillion by end of Q1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663620/saudi-arabia/saudi-fdi-surges-12-to-sr1123-trillion-by-end-of-q1-2026",
+      "published_date": "2026-08-10T15:29:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "WTTC report:  Saudi Arabia emerges Mideast tourism leader as sector represents 14.1% of GDP",
@@ -396,18 +417,32 @@
       "category": "Economy"
     },
     {
-      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T23:13:03+00:00",
-      "category": "Economy"
+      "title": "Saudi trains carry 38 million passengers, 3.7 million tons of goods in Q2 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663625/saudi-arabia/saudi-trains-carry-38-million-passengers-37-million-tons-of-goods-in-q2-2026",
+      "published_date": "2026-08-10T20:54:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "45.7 million visitors fuel Saudi entertainment boom, with 96% satisfaction rate in H1 2026",
+      "title": "After weeks of silence, schools come alive again on Tuesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663448/saudi-arabia/457-million-visitors-fuel-saudi-entertainment-boom-with-96-satisfaction-rate-in-h1-2026",
-      "published_date": "2026-08-03T14:35:18+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663622/saudi-arabia/after-weeks-of-silence-schools-come-alive-again-on-tuesday",
+      "published_date": "2026-08-10T18:06:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guards seize 80.6 kg of khat, 31,500 tablets in Asir, Jazan operations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663612/saudi-arabia/border-guards-seizes-806-kg-of-khat-31500-tablets-in-asir-jazan-operations",
+      "published_date": "2026-08-10T12:23:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia registers 9,586 new urban heritage assets, bringing total to 59,586",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663610/saudi-arabia/saudi-arabia-registers-9586-new-urban-heritage-assets-bringing-total-to-59586",
+      "published_date": "2026-08-10T11:24:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ministry recalls 20 Hollis diving regulators over potential drowning risk",
@@ -519,34 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663497/saudi-arabia/dust-raising-winds-high-waves-forecast-along-saudi-red-sea-coast",
       "published_date": "2026-08-05T12:19:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi POS spending surges 33% to SR16.3 billion in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663491/saudi-arabia/saudi-pos-spending-surges-33-to-sr163-billion-in-one-week",
-      "published_date": "2026-08-05T10:13:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, extreme heat grip parts of Saudi Arabia as dust and strong winds persist",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663488/saudi-arabia/thunderstorms-extreme-heat-grip-parts-of-saudi-arabia-as-dust-and-strong-winds-persist",
-      "published_date": "2026-08-05T07:41:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia allows investors to build housing projects for partial land ownership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663482/saudi-arabia/saudi-arabia-allows-investors-to-build-housing-projects-for-partial-land-ownership",
-      "published_date": "2026-08-04T22:50:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrests in Egypt after people allegedly impersonate judges",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T19:25:00+00:00",
       "category": "Local Events"
     }
   ]
