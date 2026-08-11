@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-10T23:35:38.784296+00:00",
+  "last_updated": "2026-08-11T11:41:21.879747+00:00",
   "story_count": 79,
   "stories": [
     {
@@ -142,6 +142,20 @@
       "url": "https://saudigazette.com.sa/article/663536/saudi-arabia/al-shehri-multinational-maritime-defense-coalition-is-purely-defensive-and-not-targeting-anybody",
       "published_date": "2026-08-06T15:44:18+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T10:43:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NCM inaugurates new operations hub to boost Saudi cloud-seeding efficiency",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663633/saudi-arabia/ncm-inaugurates-new-operations-hub-to-boost-saudi-cloud-seeding-efficiency",
+      "published_date": "2026-08-11T10:19:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
@@ -319,13 +333,6 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco posts $33.4 billion Q2 profit, reports strong first-half results",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663468/saudi-arabia/aramco-posts-334-billion-q2-profit-rworking-capital-build-economy-eports-strong-first-half-results",
-      "published_date": "2026-08-04T10:19:54+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "SDAIA launches Ibram platform for digital signatures, document verification",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663624/saudi-arabia/sdaia-launches-ibram-platform-for-digital-signatures-document-verification",
@@ -410,11 +417,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia imposes final anti-dumping duties on Indian ductile iron pipe imports",
+      "title": "Prince Mohammed bin Salman Royal Reserve plans historic return of endangered Asiatic lion",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663471/saudi-arabia/saudi-arabia-imposes-final-anti-dumping-duties-on-indian-ductile-iron-pipe-imports",
-      "published_date": "2026-08-04T11:32:34+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663635/saudi-arabia/prince-mohammed-bin-salman-royal-reserve-plans-historic-return-of-endangered-asiatic-lion",
+      "published_date": "2026-08-11T10:36:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms forecast across parts of Kingdom as temperatures reach 47°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663632/saudi-arabia/thunderstorms-forecast-across-parts-of-kingdom-as-temperatures-reach-47c",
+      "published_date": "2026-08-11T07:56:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi trains carry 38 million passengers, 3.7 million tons of goods in Q2 2026",
@@ -540,20 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663505/saudi-arabia/saudi-arabia-introduces-service-to-transfer-domestic-workers-from-establishments-to-individuals",
       "published_date": "2026-08-05T14:50:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Commission documents more than 100 archaeological sites in Riyadh&#039;s Al-Dawadmi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663499/saudi-arabia/heritage-commission-documents-more-than-100-archaeological-sites-in-riyadhs-al-dawadmi",
-      "published_date": "2026-08-05T12:59:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust-raising winds, high waves forecast along Saudi Red Sea coast",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663497/saudi-arabia/dust-raising-winds-high-waves-forecast-along-saudi-red-sea-coast",
-      "published_date": "2026-08-05T12:19:26+00:00",
       "category": "Local Events"
     }
   ]
