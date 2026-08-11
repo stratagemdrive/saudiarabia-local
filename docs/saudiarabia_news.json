@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-11T11:41:21.879747+00:00",
-  "story_count": 79,
+  "last_updated": "2026-08-11T23:40:39.183042+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Saudi, Turkish FMs discuss regional de-escalation and security of waterways in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663651/saudi-arabia/saudi-turkish-fms-discuss-regional-de-escalation-and-security-of-waterways-in-phone-call",
+      "published_date": "2026-08-11T20:51:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "31700 Saudi male and female engineers work in contracting sector",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663649/saudi-arabia/31700-saudi-male-and-female-engineers-work-in-contracting-sector",
+      "published_date": "2026-08-11T17:05:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tabuk Emir chairs first Regional Council session",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663647/saudi-arabia/tabuk-emir-chairs-first-regional-council-session-thanks-saudi-leadership",
+      "published_date": "2026-08-11T15:19:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman hails Makkah summit, long-term defense partnership with Türkiye, Pakistan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663646/saudi-arabia/cabinet-underscores-saudi-arabias-intensive-push-for-regional-de-escalation",
+      "published_date": "2026-08-11T15:13:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Colombia’s recognition of Israel’s sovereignty over Occupied Syrian Golan Heights",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663644/saudi-arabia/saudi-arabia-condemns-colombias-recognition-of-israels-sovereignty-over-occupied-syrian-golan-heights",
+      "published_date": "2026-08-11T13:53:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh to host global logistics, supply chain forums in November",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663641/saudi-arabia/riyadh-to-host-global-logistics-supply-chain-forums-in-november",
+      "published_date": "2026-08-11T13:12:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelenskyy backs Makkah pact for regional stability in call with Saudi Crown Prince",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia to host trilateral summit with Türkiye, Pakistan in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663544/saudi-arabia/saudi-arabia-to-host-trilateral-summit-with-turkiye-pakistan-in-jeddah",
-      "published_date": "2026-08-07T02:32:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince and Macron discuss regional security, freedom of navigation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663543/saudi-arabia/saudi-crown-prince-macron-discuss-regional-security-and-maritime-navigation",
-      "published_date": "2026-08-07T02:31:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA warns against consuming certain ginseng coffee and chocolate products",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663541/saudi-arabia/sfda-warns-against-consuming-certain-ginseng-coffee-and-chocolate-products",
-      "published_date": "2026-08-06T20:49:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Abdulaziz International Qur’an Competition opens in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663540/saudi-arabia/king-abdulaziz-international-quran-competition-opens-in-makkah",
-      "published_date": "2026-08-06T17:36:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan PM Sharif arrives in Jeddah for talks with Saudi Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663538/saudi-arabia/pakistan-pm-sharif-arrives-in-jeddah-for-talks-with-saudi-crown-prince",
-      "published_date": "2026-08-06T17:10:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Shehri: Multinational Maritime Defense Coalition is purely defensive and not targeting anybody",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663536/saudi-arabia/al-shehri-multinational-maritime-defense-coalition-is-purely-defensive-and-not-targeting-anybody",
-      "published_date": "2026-08-06T15:44:18+00:00",
-      "category": "Diplomacy"
+      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T19:27:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
@@ -256,18 +263,18 @@
       "category": "Military"
     },
     {
-      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T21:24:50+00:00",
-      "category": "Military"
+      "title": "Ministry of Energy records 964 violations during more than 9,263 inspection visits",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663643/saudi-arabia/ministry-of-energy-records-964-violations-during-more-than-9263-inspection-visits",
+      "published_date": "2026-08-11T13:29:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "18 illegal warehouses shut in Jeddah",
+      "title": "Total solar eclipse to bypass Saudi Arabia as Perseid meteor shower lights up Kingdom’s skies",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663481/saudi-arabia/18-illegal-warehouses-shut-in-jeddah",
-      "published_date": "2026-08-04T17:25:33+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/663640/saudi-arabia/total-solar-eclipse-to-bypass-saudi-arabia-as-perseid-meteor-shower-lights-up-kingdoms-skies",
+      "published_date": "2026-08-11T12:45:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi industrial production rises 4.3% month-on-month in June despite 16.3% annual decline",
@@ -326,11 +333,18 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco Chief: Impact of Strait of Hormuz crisis extends to global food security",
+      "title": "SFDA becomes first regulatory authority globally to approve registration of &#039;ZENBEXUS&#039; to treat multiple myeloma in adults",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663477/saudi-arabia/aramco-chief-impact-of-strait-of-hormuz-crisis-extends-to-global-food-security",
-      "published_date": "2026-08-04T14:51:55+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663653/saudi-arabia/sfda-becomes-first-regulatory-authority-globally-to-approve-registration-of-zenbexus-to-treat-multiple-myeloma-in-adults",
+      "published_date": "2026-08-11T21:10:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia launches AI incentives offering up to SR500,000 for cultural projects",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663650/saudi-arabia/saudi-arabia-launches-ai-incentives-offering-up-to-sr500000-for-cultural-projects",
+      "published_date": "2026-08-11T19:40:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "SDAIA launches Ibram platform for digital signatures, document verification",
@@ -410,11 +424,32 @@
       "category": "Economy"
     },
     {
-      "title": "Najran&#039;s 4,400 greenhouses produce more than 37,000 tons of crops",
+      "title": "NCM warns of thunderstorms hitting Riyadh region Wednesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663475/saudi-arabia/najrans-4400-greenhouses-produce-more-than-37000-tons-of-crops",
-      "published_date": "2026-08-04T12:58:45+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663652/saudi-arabia/ncm-warns-of-thunderstorms-hitting-riyadh-region-wednesday",
+      "published_date": "2026-08-11T20:59:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portable cameras to document restaurant violations and food safety breaches",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663648/saudi-arabia/portable-cameras-to-document-restaurant-violations-and-food-safety-breaches",
+      "published_date": "2026-08-11T15:48:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T15:24:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi citizen arrested for transporting six violators in Jazan region",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663645/saudi-arabia/saudi-citizen-arrested-for-transporting-six-violators-in-jazan-region",
+      "published_date": "2026-08-11T14:15:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Prince Mohammed bin Salman Royal Reserve plans historic return of endangered Asiatic lion",
@@ -526,34 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663531/saudi-arabia/thunderstorms-heavy-rain-to-affect-parts-of-saudi-arabia-through-next-week",
       "published_date": "2026-08-06T13:34:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian Nightjar breeding confirmed for first time at King Abdulaziz Royal Reserve",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663526/saudi-arabia/egyptian-nightjar-breeding-confirmed-for-first-time-at-king-abdulaziz-royal-reserve",
-      "published_date": "2026-08-06T12:47:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms forecast across parts of Kingdom as heat peaks at 49°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663517/saudi-arabia/thunderstorms-forecast-across-parts-of-kingdom-as-heat-peaks-at-49c",
-      "published_date": "2026-08-06T07:55:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "40 new services added to Tawakkalna App in July to facilitate access to government services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663507/saudi-arabia/40-new-services-added-to-tawakkalna-app-in-july-to-facilitate-access-to-government-services",
-      "published_date": "2026-08-05T15:56:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia introduces service to transfer domestic workers from establishments to individuals",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663505/saudi-arabia/saudi-arabia-introduces-service-to-transfer-domestic-workers-from-establishments-to-individuals",
-      "published_date": "2026-08-05T14:50:24+00:00",
       "category": "Local Events"
     }
   ]
