@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-12T11:42:23.416490+00:00",
-  "story_count": 78,
+  "last_updated": "2026-08-12T23:41:58.860941+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "King Salman and Crown Prince congratulate András Baka on swearing-in as president of Hungary",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663680/saudi-arabia/king-salman-and-crown-prince-congratulate-andras-baka-on-swearing-in-as-president-of-hungary",
+      "published_date": "2026-08-12T17:34:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Egyptian foreign ministers discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663678/saudi-arabia/saudi-egyptian-foreign-ministers-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-08-12T15:59:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia’s digital experience maturity rises to 87%, Absher tops platform rankings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663669/saudi-arabia/saudi-arabias-digital-experience-maturity-rises-to-87-absher-tops-platform-rankings",
+      "published_date": "2026-08-12T12:33:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh opens applications for up to 40,000 residential plots annually under Real Estate Balance Program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663664/saudi-arabia/riyadh-opens-applications-for-up-to-40000-residential-plots-annually-under-real-estate-balance-program",
+      "published_date": "2026-08-12T11:11:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Riyadh to host global leaders for UNESCO AI Ethics Forum 2026",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Makkah Pact wins wide Islamic and Arab acclaim",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663570/saudi-arabia/makkah-pact-wins-wide-islamic-and-arab-acclaim",
-      "published_date": "2026-08-08T17:12:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 10,827 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663569/saudi-arabia/saudi-arabia-deports-10827-illegal-residents-in-a-week",
-      "published_date": "2026-08-08T17:04:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns Iranian attack on UAE tanker in Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663564/saudi-arabia/saudi-arabia-strongly-condemns-iranian-attack-on-uae-tanker-in-strait-of-hormuz",
-      "published_date": "2026-08-08T15:10:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Makkah Joint Defense Agreement not a military axis or sectarian bloc, Saudi official says",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663557/saudi-arabia/makkah-defense-pact-not-a-military-axis-or-sectarian-bloc-saudi-official-says",
-      "published_date": "2026-08-07T13:05:44+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-12T16:14:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
@@ -242,27 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi, US military commanders discuss enhancing defense cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663510/saudi-arabia/saudius-military-commanders-discuss-enhancing-defense-cooperation",
-      "published_date": "2026-08-05T21:00:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-05T20:03:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New digital services help Prophet&#039;s Mosque visitors plan ahead",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663498/saudi-arabia/new-digital-services-help-prophets-mosque-visitors-plan-ahead",
-      "published_date": "2026-08-05T12:49:26+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ministry of Energy records 964 violations during more than 9,263 inspection visits",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663643/saudi-arabia/ministry-of-energy-records-964-violations-during-more-than-9263-inspection-visits",
@@ -324,6 +310,34 @@
       "url": "https://saudigazette.com.sa/article/663519/saudi-arabia/saudis-al-henakiyah-1-solar-plant-to-power-190000-homes-annually",
       "published_date": "2026-08-06T10:44:38+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia reinforces its position as global hub for data and AI",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663682/saudi-arabia/world-bank-report-saudi-arabia-breaks-into-worlds-top-10-for-private-ai-investment",
+      "published_date": "2026-08-12T21:25:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Imam Turki bin Abdullah Royal Nature Reserve records 3 Arabian gazelle births",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663681/saudi-arabia/imam-turki-bin-abdullah-royal-nature-reserve-records-3-arabian-gazelle-births",
+      "published_date": "2026-08-12T17:39:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi POS transactions reach SR14.6 billion last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663675/saudi-arabia/saudi-pos-transactions-reach-sr146-billion-last-week",
+      "published_date": "2026-08-12T14:08:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi university students spend nearly 3.5 hours daily on social media: Study",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663672/saudi-arabia/saudi-university-students-spend-35-hours-daily-on-social-media-study-reveals",
+      "published_date": "2026-08-12T13:40:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "SFDA becomes first regulatory authority globally to approve registration of &#039;ZENBEXUS&#039; to treat multiple myeloma in adults",
@@ -403,11 +417,32 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan: New procurement law would strengthen transparency, promote fairness in competition",
+      "title": "TGA: Passenger transport app trips surge 20% to 38.3 million in Q2 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663504/saudi-arabia/al-jadaan-new-procurement-law-would-strengthen-transparency-promote-fairness-in-competition",
-      "published_date": "2026-08-05T14:12:40+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663679/saudi-arabia/tga-passenger-transport-app-trips-surge-20-to-383-million-in-q2-2026",
+      "published_date": "2026-08-12T16:52:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ban on use of children in fundraising campaigns",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663677/saudi-arabia/ban-on-use-of-children-in-fundraising-campaigns",
+      "published_date": "2026-08-12T15:15:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain, thunderstorms forecast across southwestern Saudi Arabia through Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663673/saudi-arabia/heavy-rain-thunderstorms-forecast-across-southwestern-saudi-arabia-through-saturday",
+      "published_date": "2026-08-12T13:48:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "12 Saudi students represent Kingdom at International Standards Olympiad in South Korea",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663668/saudi-arabia/12-saudi-students-represent-kingdom-at-international-standards-olympiad-in-south-korea",
+      "published_date": "2026-08-12T11:45:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Border Guard arrests 8 in Asir, Jazan, seizes 280 kg of khat and 52 kg of hashish",
@@ -519,34 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663576/saudi-arabia/saudi-arabia-ranks-first-at-international-nuclear-science-olympiad-as-students-claim-gold-medals",
       "published_date": "2026-08-09T11:28:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi authorities seize 293 kg of khat, 16 kg of hashish in anti-drug operations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663575/saudi-arabia/saudi-authorities-seize-293-kg-of-khat-16-kg-of-hashish-in-anti-drug-operations",
-      "published_date": "2026-08-09T11:06:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia highlights AI, global cooperation in geospatial information management at UN meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663574/saudi-arabia/saudi-arabia-highlights-ai-global-cooperation-in-geospatial-information-management-at-un-meeting",
-      "published_date": "2026-08-09T10:04:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, flash flood risk forecast across parts of Kingdom as temperatures hit 47°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663573/saudi-arabia/thunderstorms-flash-flood-risk-forecast-across-parts-of-kingdom-as-temperatures-hit-47c",
-      "published_date": "2026-08-09T08:31:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "911 centers receive 2.7 million calls in July",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663558/saudi-arabia/saudi-911-centers-receive-27-million-calls-in-july",
-      "published_date": "2026-08-07T22:24:35+00:00",
       "category": "Local Events"
     }
   ]
