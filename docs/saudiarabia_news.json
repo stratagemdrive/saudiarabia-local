@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-11T23:40:39.183042+00:00",
-  "story_count": 80,
+  "last_updated": "2026-08-12T11:42:23.416490+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Riyadh to host global leaders for UNESCO AI Ethics Forum 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663661/saudi-arabia/riyadh-to-host-global-leaders-for-unesco-ai-ethics-forum-2026",
+      "published_date": "2026-08-12T10:41:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Turkish FMs discuss regional de-escalation and security of waterways in phone call",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663557/saudi-arabia/makkah-defense-pact-not-a-military-axis-or-sectarian-bloc-saudi-official-says",
       "published_date": "2026-08-07T13:05:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Türkiye and Pakistan sign Makkah Joint Defense Agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663556/saudi-arabia/saudi-arabia-turkiye-and-pakistan-sign-makkah-joint-defense-agreement",
-      "published_date": "2026-08-07T11:22:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -326,13 +326,6 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-05T03:44:30+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "SFDA becomes first regulatory authority globally to approve registration of &#039;ZENBEXUS&#039; to treat multiple myeloma in adults",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663653/saudi-arabia/sfda-becomes-first-regulatory-authority-globally-to-approve-registration-of-zenbexus-to-treat-multiple-myeloma-in-adults",
@@ -417,11 +410,11 @@
       "category": "Economy"
     },
     {
-      "title": "How Vision 2030 Is transforming Saudi Arabia into a global investment destination",
+      "title": "Border Guard arrests 8 in Asir, Jazan, seizes 280 kg of khat and 52 kg of hashish",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663495/saudi-arabia/how-vision-2030-is-transforming-saudi-arabia-into-a-global-investment-destination",
-      "published_date": "2026-08-05T11:20:32+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663657/saudi-arabia/border-guard-arrests-8-in-asir-jazan-seizes-280-kg-of-khat-and-52-kg-of-hashish",
+      "published_date": "2026-08-12T08:12:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NCM warns of thunderstorms hitting Riyadh region Wednesday",
@@ -554,13 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663558/saudi-arabia/saudi-911-centers-receive-27-million-calls-in-july",
       "published_date": "2026-08-07T22:24:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, heavy rain to affect parts of Saudi Arabia through next week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663531/saudi-arabia/thunderstorms-heavy-rain-to-affect-parts-of-saudi-arabia-through-next-week",
-      "published_date": "2026-08-06T13:34:20+00:00",
       "category": "Local Events"
     }
   ]
