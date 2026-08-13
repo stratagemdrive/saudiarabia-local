@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-12T23:41:58.860941+00:00",
-  "story_count": 79,
+  "last_updated": "2026-08-13T11:42:50.900024+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Saudi SFDA launches NADR program to accelerate rare disease drug development",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663697/saudi-arabia/sfda-launches-nadr-program-to-accelerate-rare-disease-drug-development",
+      "published_date": "2026-08-13T11:06:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman and Crown Prince congratulate András Baka on swearing-in as president of Hungary",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Arab countries, MWL welcome UN statement condemning Houthi attacks against Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663580/saudi-arabia/arab-countries-mwl-welcome-un-statement-condemning-houthi-attacks-against-saudi-arabia",
-      "published_date": "2026-08-09T12:17:39+00:00",
-      "category": "Diplomacy"
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-13T08:12:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -235,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T14:51:47+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
@@ -247,6 +261,13 @@
       "url": "https://saudigazette.com.sa/article/663523/saudi-arabia/saudi-arabia-appoints-commander-of-multinational-maritime-defense-coalition",
       "published_date": "2026-08-06T11:52:13+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Saudi PPI rises 8.5% in June as manufacturing prices climb 9%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663690/saudi-arabia/saudi-ppi-rises-85-in-june-as-manufacturing-prices-climb-9",
+      "published_date": "2026-08-13T08:09:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ministry of Energy records 964 violations during more than 9,263 inspection visits",
@@ -295,20 +316,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663521/saudi-arabia/saudi-crude-oil-production-rises-56-to-346-billion-barrels-in-2025",
       "published_date": "2026-08-06T11:44:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Major wind turbine shipment arrives at Yanbu port for Saudi renewable energy projects",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663520/saudi-arabia/major-wind-turbine-shipment-arrives-at-yanbu-port-for-saudi-renewable-energy-projects",
-      "published_date": "2026-08-06T11:16:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi’s Al Henakiyah 1 solar plant to power 190,000 homes annually",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663519/saudi-arabia/saudis-al-henakiyah-1-solar-plant-to-power-190000-homes-annually",
-      "published_date": "2026-08-06T10:44:38+00:00",
       "category": "Energy"
     },
     {
@@ -415,6 +422,13 @@
       "url": "https://saudigazette.com.sa/article/663532/saudi-arabia/ceda-affirms-saudi-arabias-exceptional-fiscal-efficiency-and-flexibility",
       "published_date": "2026-08-06T14:00:35+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi inflation reaches 1.8% in July, driven by 4.2% rise in housing costs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663687/saudi-arabia/saudi-inflation-reaches-18-in-july-driven-by-42-rise-in-housing-costs",
+      "published_date": "2026-08-13T07:28:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "TGA: Passenger transport app trips surge 20% to 38.3 million in Q2 2026",
@@ -547,13 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663577/saudi-arabia/saudi-informatics-team-competes-against-nearly-100-countries-at-international-olympiad",
       "published_date": "2026-08-09T11:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia ranks first at International Nuclear Science Olympiad as students claim gold medals",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663576/saudi-arabia/saudi-arabia-ranks-first-at-international-nuclear-science-olympiad-as-students-claim-gold-medals",
-      "published_date": "2026-08-09T11:28:46+00:00",
       "category": "Local Events"
     }
   ]
