@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-14T11:41:41.451245+00:00",
-  "story_count": 72,
+  "last_updated": "2026-08-14T23:21:40.492253+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "SOCPA refers unlicensed professional services firm to Public Prosecution",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663732/saudi-arabia/saudi-accounting-authority-refers-unlicensed-firm-to-public-prosecution",
+      "published_date": "2026-08-14T14:51:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman, Crown Prince congratulate Pakistan on Independence Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663731/saudi-arabia/king-salman-crown-prince-congratulate-pakistan-on-independence-day",
+      "published_date": "2026-08-14T14:11:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Iranian attacks on two UAE tankers in Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663729/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-uae-tankers-in-strait-of-hormuz",
+      "published_date": "2026-08-14T13:35:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, US CENTCOM chief discuss defense cooperation and regional de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663727/saudi-arabia/crown-prince-us-centcom-chief-discuss-defense-cooperation-and-regional-de-escalation",
+      "published_date": "2026-08-14T13:09:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia offers condolences to Egypt over victims of traffic accident",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Colombia’s recognition of Israel’s sovereignty over Occupied Syrian Golan Heights",
+      "title": "13 countries formally join multinational maritime defense coalition",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663644/saudi-arabia/saudi-arabia-condemns-colombias-recognition-of-israels-sovereignty-over-occupied-syrian-golan-heights",
-      "published_date": "2026-08-11T13:53:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh to host global logistics, supply chain forums in November",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663641/saudi-arabia/riyadh-to-host-global-logistics-supply-chain-forums-in-november",
-      "published_date": "2026-08-11T13:12:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy backs Makkah pact for regional stability in call with Saudi Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663623/saudi-arabia/zelenskyy-backs-makkah-pact-for-regional-stability-in-call-with-saudi-crown-prince",
-      "published_date": "2026-08-10T19:11:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA bans cosmetic products packaged as syringes, ampoules, and vials",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663619/saudi-arabia/sfda-bans-cosmetic-products-packaged-as-syringes-ampoules-and-vials",
-      "published_date": "2026-08-10T14:34:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663730/saudi-arabia/13-countries-formally-join-multinational-maritime-defense-coalition",
+      "published_date": "2026-08-14T13:40:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi defense minister discusses defense ties with Iraqi military official",
@@ -235,13 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T17:42:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi PPI rises 8.5% in June as manufacturing prices climb 9%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663690/saudi-arabia/saudi-ppi-rises-85-in-june-as-manufacturing-prices-climb-9",
@@ -282,6 +282,13 @@
       "url": "https://saudigazette.com.sa/article/663585/saudi-arabia/no-injuries-as-fire-breaks-out-at-aramco-facility-in-jazan",
       "published_date": "2026-08-09T13:17:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Customs foil attempt to smuggle 58.6 kg of meth hidden in shoes at Jeddah port",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663734/saudi-arabia/saudi-customs-seize-586-kg-of-meth-hidden-in-shoes-at-jeddah-port",
+      "published_date": "2026-08-14T20:28:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia reinforces its position as global hub for data and AI",
