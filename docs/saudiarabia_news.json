@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-15T11:16:49.055147+00:00",
-  "story_count": 73,
+  "last_updated": "2026-08-15T23:20:44.636282+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "14,542 violators of residency, labor and border security laws arrested in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663760/saudi-arabia/14542-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
+      "published_date": "2026-08-15T18:11:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SR10,000 fine for using non-efficient sanitary ware",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663759/saudi-arabia/sr10000-fine-for-using-non-efficient-sanitary-ware",
+      "published_date": "2026-08-15T18:07:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince congratulate president of India and Korea on Independence Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663738/saudi-arabia/king-salman-and-crown-prince-congratulate-president-of-india-and-korea-on-independence-day",
+      "published_date": "2026-08-15T13:53:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SOCPA refers unlicensed professional services firm to Public Prosecution",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "31700 Saudi male and female engineers work in contracting sector",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663649/saudi-arabia/31700-saudi-male-and-female-engineers-work-in-contracting-sector",
-      "published_date": "2026-08-11T17:05:13+00:00",
-      "category": "Diplomacy"
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T21:03:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tabuk Emir chairs first Regional Council session",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663647/saudi-arabia/tabuk-emir-chairs-first-regional-council-session-thanks-saudi-leadership",
-      "published_date": "2026-08-11T15:19:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman hails Makkah summit, long-term defense partnership with Türkiye, Pakistan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663646/saudi-arabia/cabinet-underscores-saudi-arabias-intensive-push-for-regional-de-escalation",
-      "published_date": "2026-08-11T15:13:08+00:00",
-      "category": "Diplomacy"
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T20:21:14+00:00",
+      "category": "Military"
     },
     {
       "title": "13 countries formally join multinational maritime defense coalition",
@@ -228,20 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi landmarks shine in Saudi, Türkish and Pakistani colors to celebrate Makkah pact",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663565/saudi-arabia/saudi-landmarks-shine-in-saudi-turkish-and-pakistani-colors-to-celebrate-makkah-pact",
-      "published_date": "2026-08-08T15:14:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN Security Council and European Union condemn Houthi attacks against Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663559/saudi-arabia/un-security-council-and-european-union-condemn-houthi-attacks-against-saudi-arabia",
-      "published_date": "2026-08-08T13:23:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi PPI rises 8.5% in June as manufacturing prices climb 9%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663690/saudi-arabia/saudi-ppi-rises-85-in-june-as-manufacturing-prices-climb-9",
@@ -282,6 +282,13 @@
       "url": "https://saudigazette.com.sa/article/663585/saudi-arabia/no-injuries-as-fire-breaks-out-at-aramco-facility-in-jazan",
       "published_date": "2026-08-09T13:17:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tourism Ministry updates Hajj season accommodation regulations and standards to enhance service quality",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663739/saudi-arabia/tourism-ministry-updates-hajj-season-accommodation-regulations-and-standards-to-enhance-service-quality",
+      "published_date": "2026-08-15T14:47:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Customs foil attempt to smuggle 58.6 kg of meth hidden in shoes at Jeddah port",
@@ -373,6 +380,27 @@
       "url": "https://saudigazette.com.sa/article/663589/saudi-arabia/tourism-ministry-proposes-mandatory-staffing-ratios-requiring-up-to-3-employees-per-hotel-room",
       "published_date": "2026-08-09T14:26:43+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Heat wave to hit parts of Saudi Arabia from Sunday through Wednesday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663758/saudi-arabia/heat-wave-to-hit-parts-of-saudi-arabia-from-sunday-through-wednesday",
+      "published_date": "2026-08-15T17:18:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Multiple-entry Umrah pilgrims must fulfill service package requirements",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663757/saudi-arabia/multiple-entry-umrah-pilgrims-must-fulfill-service-package-requirements",
+      "published_date": "2026-08-15T17:14:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SR750000 fine and closure of tourist facility in Madinah for violations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663754/saudi-arabia/sr750000-fine-and-closure-of-tourist-facility-in-madinah-for-violations",
+      "published_date": "2026-08-15T16:14:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Asir police arrest a man for hunting endangered ibex",
@@ -491,27 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663625/saudi-arabia/saudi-trains-carry-38-million-passengers-37-million-tons-of-goods-in-q2-2026",
       "published_date": "2026-08-10T20:54:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After weeks of silence, schools come alive again on Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663622/saudi-arabia/after-weeks-of-silence-schools-come-alive-again-on-tuesday",
-      "published_date": "2026-08-10T18:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guards seize 80.6 kg of khat, 31,500 tablets in Asir, Jazan operations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663612/saudi-arabia/border-guards-seizes-806-kg-of-khat-31500-tablets-in-asir-jazan-operations",
-      "published_date": "2026-08-10T12:23:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia registers 9,586 new urban heritage assets, bringing total to 59,586",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663610/saudi-arabia/saudi-arabia-registers-9586-new-urban-heritage-assets-bringing-total-to-59586",
-      "published_date": "2026-08-10T11:24:41+00:00",
       "category": "Local Events"
     }
   ]
