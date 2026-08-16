@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-15T23:20:44.636282+00:00",
+  "last_updated": "2026-08-16T11:17:17.388268+00:00",
   "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Arabia records 89% improvement in gaming latency as IoT subscriptions hit 13.85 million",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663763/saudi-arabia/saudi-arabia-records-89-improvement-in-gaming-latency-as-iot-subscriptions-hit-1385-million",
+      "published_date": "2026-08-16T08:15:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "14,542 violators of residency, labor and border security laws arrested in a week",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Turkish FMs discuss regional de-escalation and security of waterways in phone call",
+      "title": "Saudi, Yemeni, US officials discuss Houthi maritime threats, regional security",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663651/saudi-arabia/saudi-turkish-fms-discuss-regional-de-escalation-and-security-of-waterways-in-phone-call",
-      "published_date": "2026-08-11T20:51:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663762/saudi-arabia/saudi-yemeni-us-officials-discuss-houthi-maritime-threats-regional-security",
+      "published_date": "2026-08-16T07:41:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
@@ -232,13 +239,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-09T21:25:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia welcomes UN condemnation of Houthi attacks, backs Yemen peace efforts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663572/saudi-arabia/saudi-arabia-welcomes-un-security-council-condemnation-of-houthi-attacks-on-kingdom-commercial-vessels",
-      "published_date": "2026-08-09T08:00:01+00:00",
       "category": "Military"
     },
     {
@@ -382,6 +382,13 @@
       "category": "Economy"
     },
     {
+      "title": "Thunderstorms, flash floods forecast across parts of Saudi Arabia as temperatures hit 49°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663761/saudi-arabia/thunderstorms-flash-floods-forecast-across-parts-of-saudi-arabia-as-temperatures-hit-49c",
+      "published_date": "2026-08-16T07:18:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Heat wave to hit parts of Saudi Arabia from Sunday through Wednesday",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663758/saudi-arabia/heat-wave-to-hit-parts-of-saudi-arabia-from-sunday-through-wednesday",
@@ -512,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663632/saudi-arabia/thunderstorms-forecast-across-parts-of-kingdom-as-temperatures-reach-47c",
       "published_date": "2026-08-11T07:56:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi trains carry 38 million passengers, 3.7 million tons of goods in Q2 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663625/saudi-arabia/saudi-trains-carry-38-million-passengers-37-million-tons-of-goods-in-q2-2026",
-      "published_date": "2026-08-10T20:54:27+00:00",
       "category": "Local Events"
     }
   ]
