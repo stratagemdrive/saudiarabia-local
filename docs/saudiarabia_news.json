@@ -1,8 +1,64 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-16T11:17:17.388268+00:00",
-  "story_count": 74,
+  "last_updated": "2026-08-16T23:19:44.233845+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi FM discusses regional developments in call with Qatari and Omani counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663797/saudi-arabia/saudi-fm-discusses-regional-developments-in-call-with-qatari-and-omani-counterparts",
+      "published_date": "2026-08-16T21:17:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "2 new Saudi consuls general take oath in front of foreign minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663796/saudi-arabia/2-new-saudi-consuls-general-take-oath-in-front-of-foreign-minister",
+      "published_date": "2026-08-16T21:11:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T19:58:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign minister pledges full support during meeting with Yemeni counterpart in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663793/saudi-arabia/foreign-minister-pledges-full-support-during-meeting-with-yemeni-counterpart-in-riyadh",
+      "published_date": "2026-08-16T19:54:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GACA orders airlines to verify required transit documents before boarding",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663792/saudi-arabia/gaca-orders-airlines-to-verify-required-transit-documents-before-boarding",
+      "published_date": "2026-08-16T17:39:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia and 7 other Islamic countries condemn Israeli rejection of Road Map for Gaza peace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663790/saudi-arabia/saudi-arabia-and-7-other-islamic-countries-condemn-israeli-rejection-of-road-map-for-gaza-peace",
+      "published_date": "2026-08-16T17:19:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince offer condolences to Indonesian president over earthquake victims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663787/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-indonesian-president-over-earthquake-victims",
+      "published_date": "2026-08-16T16:05:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Grand Mufti highlights Saudi Arabia’s security and prosperity during meeting of Council of Senior Scholars",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663781/saudi-arabia/grand-mufti-highlights-saudi-arabias-security-and-prosperity-during-meeting-of-council-of-senior-scholars",
+      "published_date": "2026-08-16T14:21:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia records 89% improvement in gaming latency as IoT subscriptions hit 13.85 million",
       "source": "Saudi Gazette",
@@ -88,60 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King orders Cabinet reshuffle under Crown Prince, retains current ministers",
+      "title": "Civil Defense announces all-clear in Jazan after earlier warning",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663702/saudi-arabia/king-orders-cabinet-reshuffle-under-crown-prince-retains-current-ministers",
-      "published_date": "2026-08-13T13:58:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia to hand over COP presidency to Mongolia at COP17",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663701/saudi-arabia/saudi-arabia-to-hand-over-cop-presidency-to-mongolia-at-cop17",
-      "published_date": "2026-08-13T12:47:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi SFDA launches NADR program to accelerate rare disease drug development",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663697/saudi-arabia/sfda-launches-nadr-program-to-accelerate-rare-disease-drug-development",
-      "published_date": "2026-08-13T11:06:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince congratulate András Baka on swearing-in as president of Hungary",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663680/saudi-arabia/king-salman-and-crown-prince-congratulate-andras-baka-on-swearing-in-as-president-of-hungary",
-      "published_date": "2026-08-12T17:34:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Egyptian foreign ministers discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663678/saudi-arabia/saudi-egyptian-foreign-ministers-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-08-12T15:59:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia’s digital experience maturity rises to 87%, Absher tops platform rankings",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663669/saudi-arabia/saudi-arabias-digital-experience-maturity-rises-to-87-absher-tops-platform-rankings",
-      "published_date": "2026-08-12T12:33:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh opens applications for up to 40,000 residential plots annually under Real Estate Balance Program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663664/saudi-arabia/riyadh-opens-applications-for-up-to-40000-residential-plots-annually-under-real-estate-balance-program",
-      "published_date": "2026-08-12T11:11:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh to host global leaders for UNESCO AI Ethics Forum 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663661/saudi-arabia/riyadh-to-host-global-leaders-for-unesco-ai-ethics-forum-2026",
-      "published_date": "2026-08-12T10:41:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663782/saudi-arabia/saudi-civil-defense-announces-all-clear-in-jazan-after-earlier-emergency-alert",
+      "published_date": "2026-08-16T14:40:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Yemeni, US officials discuss Houthi maritime threats, regional security",
@@ -235,13 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T21:25:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi PPI rises 8.5% in June as manufacturing prices climb 9%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663690/saudi-arabia/saudi-ppi-rises-85-in-june-as-manufacturing-prices-climb-9",
@@ -270,18 +270,18 @@
       "category": "Energy"
     },
     {
-      "title": "Milky Way visible to naked eye across Arab skies during August",
+      "title": "Saudi Arabia launches third-party insurance policy for crowded venues, high-risk activities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663587/saudi-arabia/milky-way-visible-to-naked-eye-across-arab-skies-this-august",
-      "published_date": "2026-08-09T13:51:03+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663791/saudi-arabia/saudi-arabia-launches-third-party-insurance-policy-for-crowded-venues-high-risk-activities",
+      "published_date": "2026-08-16T17:35:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "No injuries as fire breaks out at Aramco facility in Jazan",
+      "title": "New CMA chief vows to advance Saudi capital market development",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663585/saudi-arabia/no-injuries-as-fire-breaks-out-at-aramco-facility-in-jazan",
-      "published_date": "2026-08-09T13:17:32+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663788/saudi-arabia/new-cma-chief-mazen-al-sudairi-vows-to-advance-saudi-capital-market-development",
+      "published_date": "2026-08-16T16:34:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tourism Ministry updates Hajj season accommodation regulations and standards to enhance service quality",
@@ -361,25 +361,81 @@
       "category": "Economy"
     },
     {
-      "title": "WTTC report:  Saudi Arabia emerges Mideast tourism leader as sector represents 14.1% of GDP",
+      "title": "Border Guard in Madinah rescues 5 citizens after their boat breaks down at sea",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663597/saudi-arabia/wttc-report-saudi-arabia-emerges-as-mideast-tourism-leader-as-sector-represents-141-of-gdp",
-      "published_date": "2026-08-09T19:08:13+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663795/saudi-arabia/border-guard-in-madinah-rescues-5-citizens-after-their-boat-breaks-down-at-sea",
+      "published_date": "2026-08-16T20:23:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi business sector surges with 46,900 new companies in 1H 2026",
+      "title": "Hajj Ministry begins preparatory meetings for Hajj 2027 with over 75 countries",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663595/saudi-arabia/saudi-business-sector-surges-with-46900-new-companies-in-1h-2026",
-      "published_date": "2026-08-09T15:50:52+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663794/saudi-arabia/hajj-ministry-begins-preparatory-meetings-for-hajj-2027-with-over-75-countries",
+      "published_date": "2026-08-16T20:20:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tourism Ministry proposes mandatory staffing ratios, requiring up to 3 employees per hotel room",
+      "title": "Passports Directorate takes 24,417 penal actions against violators in a month",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663589/saudi-arabia/tourism-ministry-proposes-mandatory-staffing-ratios-requiring-up-to-3-employees-per-hotel-room",
-      "published_date": "2026-08-09T14:26:43+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663789/saudi-arabia/passports-directorate-takes-24417-penal-actions-against-violators-in-a-month",
+      "published_date": "2026-08-16T16:39:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Runaway truck crashes into several vehicles in Abha, no injuries reported",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663784/saudi-arabia/runaway-truck-crashes-into-several-vehicles-in-abha-no-injuries-reported",
+      "published_date": "2026-08-16T15:18:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TGA: Electronic car rental contracts jump 4% to1.6 million in Q2 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663783/saudi-arabia/tga-electronic-car-rental-contracts-jump-4-to16-million-in-q2-2026",
+      "published_date": "2026-08-16T14:50:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy thunderstorms forecast across parts of Saudi Arabia through Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663780/saudi-arabia/heavy-thunderstorms-forecast-across-parts-of-saudi-arabia-through-saturday",
+      "published_date": "2026-08-16T13:32:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "70% Saudization mandated for project management professions from Feb. 14, 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663778/saudi-arabia/70-saudization-mandated-for-project-management-professions-from-feb-14-2027",
+      "published_date": "2026-08-16T13:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipalities Ministry bans mobile vendors from selling in 9 locations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663776/saudi-arabia/municipalities-ministry-bans-mobile-vendors-from-selling-in-9-locations",
+      "published_date": "2026-08-16T12:52:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Border Guard arrests four, seizes 102 kg of khat in Asir, Jazan operations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663767/saudi-arabia/saudi-border-guard-arrests-four-seizes-102-kg-of-khat-in-asir-jazan-operations",
+      "published_date": "2026-08-16T12:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suhail star set to rise August 26, signaling gradual end of summer heat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663766/saudi-arabia/suhail-star-set-to-rise-august-26-signaling-gradual-end-of-summer-heat",
+      "published_date": "2026-08-16T11:53:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia wins historic first IOI silver as team secures three international awards",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663764/saudi-arabia/saudi-arabia-wins-historic-first-ioi-silver-as-team-secures-three-international-awards",
+      "published_date": "2026-08-16T11:26:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thunderstorms, flash floods forecast across parts of Saudi Arabia as temperatures hit 49°C",
@@ -442,83 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663687/saudi-arabia/saudi-inflation-reaches-18-in-july-driven-by-42-rise-in-housing-costs",
       "published_date": "2026-08-13T07:28:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA: Passenger transport app trips surge 20% to 38.3 million in Q2 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663679/saudi-arabia/tga-passenger-transport-app-trips-surge-20-to-383-million-in-q2-2026",
-      "published_date": "2026-08-12T16:52:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ban on use of children in fundraising campaigns",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663677/saudi-arabia/ban-on-use-of-children-in-fundraising-campaigns",
-      "published_date": "2026-08-12T15:15:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain, thunderstorms forecast across southwestern Saudi Arabia through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663673/saudi-arabia/heavy-rain-thunderstorms-forecast-across-southwestern-saudi-arabia-through-saturday",
-      "published_date": "2026-08-12T13:48:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 Saudi students represent Kingdom at International Standards Olympiad in South Korea",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663668/saudi-arabia/12-saudi-students-represent-kingdom-at-international-standards-olympiad-in-south-korea",
-      "published_date": "2026-08-12T11:45:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard arrests 8 in Asir, Jazan, seizes 280 kg of khat and 52 kg of hashish",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663657/saudi-arabia/border-guard-arrests-8-in-asir-jazan-seizes-280-kg-of-khat-and-52-kg-of-hashish",
-      "published_date": "2026-08-12T08:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM warns of thunderstorms hitting Riyadh region Wednesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663652/saudi-arabia/ncm-warns-of-thunderstorms-hitting-riyadh-region-wednesday",
-      "published_date": "2026-08-11T20:59:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portable cameras to document restaurant violations and food safety breaches",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663648/saudi-arabia/portable-cameras-to-document-restaurant-violations-and-food-safety-breaches",
-      "published_date": "2026-08-11T15:48:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T15:24:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi citizen arrested for transporting six violators in Jazan region",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663645/saudi-arabia/saudi-citizen-arrested-for-transporting-six-violators-in-jazan-region",
-      "published_date": "2026-08-11T14:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince Mohammed bin Salman Royal Reserve plans historic return of endangered Asiatic lion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663635/saudi-arabia/prince-mohammed-bin-salman-royal-reserve-plans-historic-return-of-endangered-asiatic-lion",
-      "published_date": "2026-08-11T10:36:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms forecast across parts of Kingdom as temperatures reach 47°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663632/saudi-arabia/thunderstorms-forecast-across-parts-of-kingdom-as-temperatures-reach-47c",
-      "published_date": "2026-08-11T07:56:45+00:00",
       "category": "Local Events"
     }
   ]
