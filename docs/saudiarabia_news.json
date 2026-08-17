@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-17T11:21:33.930348+00:00",
-  "story_count": 71,
+  "last_updated": "2026-08-17T23:23:03.970322+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Arabia and Sudan establish coordination council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663825/saudi-arabia/saudi-sudanese-foreign-ministers-agree-to-establish-coordination-council",
+      "published_date": "2026-08-17T17:43:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia begins imposing penalties for violations of  rights of disabled persons",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663821/saudi-arabia/saudi-arabia-begins-imposing-penalties-for-violations-of-rights-of-disabled-persons",
+      "published_date": "2026-08-17T15:24:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Birth of first striped hyena celebrated at NEOM Nature Reserve",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663820/saudi-arabia/birth-of-first-striped-hyena-celebrated-at-neom-nature-reserve",
+      "published_date": "2026-08-17T14:19:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia highlights landmark COP16 achievements ahead of presidency handover to Mongolia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663814/saudi-arabia/saudi-arabia-highlights-landmark-cop16-achievements-ahead-of-presidency-handover-to-mongolia",
+      "published_date": "2026-08-17T12:47:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "144 athletes will represent Saudi Arabia at the Aichi-Nagoya 2026 Asian Games",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663811/saudi-arabia/144-athletes-will-represent-saudi-arabia-at-the-aichi-nagoya-2026-asian-games",
+      "published_date": "2026-08-17T11:15:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Red alerts issued for heavy rainfall in Al-Baha, Asir",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Iranian attacks on two UAE tankers in Strait of Hormuz",
+      "title": "Civil Defense requires third-party insurance for licensing and renewals of certain activities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663729/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-uae-tankers-in-strait-of-hormuz",
-      "published_date": "2026-08-14T13:35:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, US CENTCOM chief discuss defense cooperation and regional de-escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663727/saudi-arabia/crown-prince-us-centcom-chief-discuss-defense-cooperation-and-regional-de-escalation",
-      "published_date": "2026-08-14T13:09:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia offers condolences to Egypt over victims of traffic accident",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663714/saudi-arabia/saudi-arabia-offers-condolences-to-egypt-over-victims-of-traffic-accident",
-      "published_date": "2026-08-13T21:16:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia achieves 69% reduction in ozone-depleting substances, bolstering global environmental action",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663711/saudi-arabia/saudi-arabia-achieves-69-reduction-in-ozone-depleting-substances-bolstering-global-environmental-action",
-      "published_date": "2026-08-13T17:38:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce Ministry: Over one million discounted products available at businesses, online stores",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663710/saudi-arabia/commerce-ministry-over-one-million-discounted-products-available-at-businesses-online-stores",
-      "published_date": "2026-08-13T17:31:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663826/saudi-arabia/civil-defense-requires-third-party-insurance-for-licensing-and-renewals-of-certain-activities",
+      "published_date": "2026-08-17T20:36:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump hails Makkah Joint Defense Agreement as ‘big, bold and important first step’",
@@ -242,13 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T14:43:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi PPI rises 8.5% in June as manufacturing prices climb 9%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663690/saudi-arabia/saudi-ppi-rises-85-in-june-as-manufacturing-prices-climb-9",
@@ -268,6 +268,20 @@
       "url": "https://saudigazette.com.sa/article/663640/saudi-arabia/total-solar-eclipse-to-bypass-saudi-arabia-as-perseid-meteor-shower-lights-up-kingdoms-skies",
       "published_date": "2026-08-11T12:45:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "HADAF drives employment of 329,000 Saudis in 1H 2026, marking 23% annual growth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663816/saudi-arabia/hadaf-drives-employment-of-329000-saudis-in-1h-2026-marking-23-annual-growth",
+      "published_date": "2026-08-17T13:01:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PIF revenue rises 9% to $120 billion as net profit more than doubles in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663813/saudi-arabia/pif-revenue-rises-9-to-120-billion-as-net-profit-more-than-doubles-in-2025",
+      "published_date": "2026-08-17T12:23:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia launches third-party insurance policy for crowded venues, high-risk activities",
@@ -340,25 +354,25 @@
       "category": "Economy"
     },
     {
-      "title": "SDAIA launches Ibram platform for digital signatures, document verification",
+      "title": "Sudanese national arrested for transporting violators in Jazan",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663624/saudi-arabia/sdaia-launches-ibram-platform-for-digital-signatures-document-verification",
-      "published_date": "2026-08-10T20:45:59+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663827/saudi-arabia/sudanese-national-arrested-for-transporting-violators-in-jazan",
+      "published_date": "2026-08-17T20:39:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Value of instant money transfers in Saudi Arabia jumps 26% to SR7 trillion in 30 days",
+      "title": "Saudi Arabia revamps 22 subjects, adds 50 AI units to new academic year curriculum",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663621/saudi-arabia/value-of-instant-money-transfers-in-saudi-arabia-jumps-26-to-sr7-trillion-in-30-days",
-      "published_date": "2026-08-10T17:01:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663824/saudi-arabia/saudi-arabia-revamps-22-subjects-adds-50-ai-units-to-new-academic-year-curriculum",
+      "published_date": "2026-08-17T17:33:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi FDI surges 12% to SR1.123 trillion by end of Q1 2026",
+      "title": "Education Ministry launches online student transfer service, eliminating the need for school visits",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663620/saudi-arabia/saudi-fdi-surges-12-to-sr1123-trillion-by-end-of-q1-2026",
-      "published_date": "2026-08-10T15:29:12+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663817/saudi-arabia/education-ministry-launches-online-student-transfer-service-eliminating-the-need-for-school-visits",
+      "published_date": "2026-08-17T13:37:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Border Guard in Madinah rescues 5 citizens after their boat breaks down at sea",
@@ -477,27 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663708/saudi-arabia/umrah-pilgrims-urged-to-plan-ahead-to-avoid-peak-time-rush",
       "published_date": "2026-08-13T15:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia’s healthcare practitioners surpass 800,000 from 140 countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663704/saudi-arabia/saudi-arabias-healthcare-practitioners-surpass-800000-from-140-countries",
-      "published_date": "2026-08-13T14:54:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM issues red alert for heavy rain, flash floods in Jazan’s Abu Arish",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663698/saudi-arabia/ncm-issues-red-alert-for-heavy-rain-flash-floods-in-jazans-abu-arish",
-      "published_date": "2026-08-13T12:06:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi inflation reaches 1.8% in July, driven by 4.2% rise in housing costs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663687/saudi-arabia/saudi-inflation-reaches-18-in-july-driven-by-42-rise-in-housing-costs",
-      "published_date": "2026-08-13T07:28:54+00:00",
       "category": "Local Events"
     }
   ]
