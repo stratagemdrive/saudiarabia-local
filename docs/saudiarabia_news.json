@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-18T11:22:01.262543+00:00",
-  "story_count": 68,
+  "last_updated": "2026-08-18T23:22:12.976873+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Saudi Arabia condemns Israeli airstrikes targeting Syria’s Abu al-Duhur military airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663855/saudi-arabia/saudi-arabia-condemns-israeli-airstrikes-targeting-syrias-abu-al-duhur-military-airport",
+      "published_date": "2026-08-18T17:43:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Misk Foundation and UN Youth Office announce establishment of Global Network for Youth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663854/saudi-arabia/misk-foundation-and-un-youth-office-announce-establishment-of-global-network-for-youth",
+      "published_date": "2026-08-18T17:04:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Four brain-dead donors save lives of 14 patients",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663846/saudi-arabia/four-brain-dead-donors-save-lives-of-14-patients",
+      "published_date": "2026-08-18T13:03:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Female contestants make historic debut at King Abdulaziz International Qur’an Competition",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663842/saudi-arabia/female-contestants-make-historic-debut-at-king-abdulaziz-international-quran-competition",
+      "published_date": "2026-08-18T12:07:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Iraqi foreign ministers discuss bilateral ties, regional issues",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia records 89% improvement in gaming latency as IoT subscriptions hit 13.85 million",
+      "title": "Jeddah Mayoralty dismantles illegal markets in major simultaneous crackdown",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663763/saudi-arabia/saudi-arabia-records-89-improvement-in-gaming-latency-as-iot-subscriptions-hit-1385-million",
-      "published_date": "2026-08-16T08:15:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "14,542 violators of residency, labor and border security laws arrested in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663760/saudi-arabia/14542-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
-      "published_date": "2026-08-15T18:11:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SR10,000 fine for using non-efficient sanitary ware",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663759/saudi-arabia/sr10000-fine-for-using-non-efficient-sanitary-ware",
-      "published_date": "2026-08-15T18:07:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince congratulate president of India and Korea on Independence Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663738/saudi-arabia/king-salman-and-crown-prince-congratulate-president-of-india-and-korea-on-independence-day",
-      "published_date": "2026-08-15T13:53:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663852/saudi-arabia/jeddah-mayoralty-dismantles-illegal-markets-in-major-simultaneous-crackdown",
+      "published_date": "2026-08-18T14:54:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Civil Defense requires third-party insurance for licensing and renewals of certain activities",
@@ -228,11 +235,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T19:27:17+00:00",
-      "category": "Military"
+      "title": "Aramco, Maaden form mining JV to explore nearly 10% of Saudi Arabia’s land",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663851/saudi-arabia/aramco-maaden-sign-agreement-for-saudi-mineral-exploration-joint-venture",
+      "published_date": "2026-08-18T14:35:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi PPI rises 8.5% in June as manufacturing prices climb 9%",
@@ -242,18 +249,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ministry of Energy records 964 violations during more than 9,263 inspection visits",
+      "title": "Saudi Arabia warns repeated Iranian attacks signal dangerous escalation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663643/saudi-arabia/ministry-of-energy-records-964-violations-during-more-than-9263-inspection-visits",
-      "published_date": "2026-08-11T13:29:18+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663853/saudi-arabia/saudi-arabia-warns-repeated-iranian-attacks-signal-dangerous-escalation",
+      "published_date": "2026-08-18T15:36:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Total solar eclipse to bypass Saudi Arabia as Perseid meteor shower lights up Kingdom’s skies",
+      "title": "Saudi Arabia boosts US treasury holdings by $2.2 billion to $142.5 billion in June",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663640/saudi-arabia/total-solar-eclipse-to-bypass-saudi-arabia-as-perseid-meteor-shower-lights-up-kingdoms-skies",
-      "published_date": "2026-08-11T12:45:32+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/663848/saudi-arabia/saudi-arabia-boosts-us-treasury-holdings-by-22-billion-to-1425-billion",
+      "published_date": "2026-08-18T13:48:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "HADAF drives employment of 329,000 Saudis in 1H 2026, marking 23% annual growth",
@@ -326,18 +333,32 @@
       "category": "Economy"
     },
     {
-      "title": "SFDA becomes first regulatory authority globally to approve registration of &#039;ZENBEXUS&#039; to treat multiple myeloma in adults",
+      "title": "Saudi citizen arrested for transporting Yemeni violators",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663653/saudi-arabia/sfda-becomes-first-regulatory-authority-globally-to-approve-registration-of-zenbexus-to-treat-multiple-myeloma-in-adults",
-      "published_date": "2026-08-11T21:10:55+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663857/saudi-arabia/saudi-citizen-arrested-for-transporting-yemeni-violators",
+      "published_date": "2026-08-18T20:54:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia launches AI incentives offering up to SR500,000 for cultural projects",
+      "title": "Fine and deportation for 3 expats for transporting passengers without a license",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663650/saudi-arabia/saudi-arabia-launches-ai-incentives-offering-up-to-sr500000-for-cultural-projects",
-      "published_date": "2026-08-11T19:40:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663856/saudi-arabia/fine-and-deportation-for-3-expats-for-transporting-passengers-without-a-license",
+      "published_date": "2026-08-18T20:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "COVID-19 pandemic-born children begin their school journey on Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663850/saudi-arabia/covid-19-pandemic-born-children-begin-their-school-journey-on-sunday",
+      "published_date": "2026-08-18T14:13:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Border Guard arrests 8, seizes 124 kg of khat, 34 kg of hashish in Jazan, Asir",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663840/saudi-arabia/saudi-border-guard-arrests-8-seizes-124-kg-of-khat-34-kg-of-hashish-in-jazan-asir",
+      "published_date": "2026-08-18T11:18:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thunderstorms, hail forecast across Saudi Arabia as temperatures hit 48°C",
@@ -449,34 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663761/saudi-arabia/thunderstorms-flash-floods-forecast-across-parts-of-saudi-arabia-as-temperatures-hit-49c",
       "published_date": "2026-08-16T07:18:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heat wave to hit parts of Saudi Arabia from Sunday through Wednesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663758/saudi-arabia/heat-wave-to-hit-parts-of-saudi-arabia-from-sunday-through-wednesday",
-      "published_date": "2026-08-15T17:18:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple-entry Umrah pilgrims must fulfill service package requirements",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663757/saudi-arabia/multiple-entry-umrah-pilgrims-must-fulfill-service-package-requirements",
-      "published_date": "2026-08-15T17:14:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SR750000 fine and closure of tourist facility in Madinah for violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663754/saudi-arabia/sr750000-fine-and-closure-of-tourist-facility-in-madinah-for-violations",
-      "published_date": "2026-08-15T16:14:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asir police arrest a man for hunting endangered ibex",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663709/saudi-arabia/asir-police-arrests-a-man-for-hunting-endangered-ibex",
-      "published_date": "2026-08-13T16:59:24+00:00",
       "category": "Local Events"
     }
   ]
