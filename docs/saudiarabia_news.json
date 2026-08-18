@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-17T23:23:03.970322+00:00",
-  "story_count": 70,
+  "last_updated": "2026-08-18T11:22:01.262543+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi, Iraqi foreign ministers discuss bilateral ties, regional issues",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663837/saudi-arabia/saudi-iraqi-foreign-ministers-discuss-bilateral-ties-regional-issues",
+      "published_date": "2026-08-18T10:26:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns attacks targeting Kurdistan Region PM’s office",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663834/saudi-arabia/saudi-arabia-strongly-condemns-attacks-targeting-kurdistan-region-pms-office",
+      "published_date": "2026-08-18T08:57:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia and Sudan establish coordination council",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "SOCPA refers unlicensed professional services firm to Public Prosecution",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663732/saudi-arabia/saudi-accounting-authority-refers-unlicensed-firm-to-public-prosecution",
-      "published_date": "2026-08-14T14:51:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman, Crown Prince congratulate Pakistan on Independence Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663731/saudi-arabia/king-salman-crown-prince-congratulate-pakistan-on-independence-day",
-      "published_date": "2026-08-14T14:11:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Civil Defense requires third-party insurance for licensing and renewals of certain activities",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663826/saudi-arabia/civil-defense-requires-third-party-insurance-for-licensing-and-renewals-of-certain-activities",
@@ -232,20 +232,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-11T19:27:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T10:43:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NCM inaugurates new operations hub to boost Saudi cloud-seeding efficiency",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663633/saudi-arabia/ncm-inaugurates-new-operations-hub-to-boost-saudi-cloud-seeding-efficiency",
-      "published_date": "2026-08-11T10:19:32+00:00",
       "category": "Military"
     },
     {
@@ -352,6 +338,13 @@
       "url": "https://saudigazette.com.sa/article/663650/saudi-arabia/saudi-arabia-launches-ai-incentives-offering-up-to-sr500000-for-cultural-projects",
       "published_date": "2026-08-11T19:40:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Thunderstorms, hail forecast across Saudi Arabia as temperatures hit 48°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663833/saudi-arabia/thunderstorms-hail-forecast-across-saudi-arabia-as-temperatures-hit-48c",
+      "published_date": "2026-08-18T07:18:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudanese national arrested for transporting violators in Jazan",
@@ -484,13 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663709/saudi-arabia/asir-police-arrests-a-man-for-hunting-endangered-ibex",
       "published_date": "2026-08-13T16:59:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Umrah pilgrims urged to plan ahead to avoid peak time rush",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663708/saudi-arabia/umrah-pilgrims-urged-to-plan-ahead-to-avoid-peak-time-rush",
-      "published_date": "2026-08-13T15:46:41+00:00",
       "category": "Local Events"
     }
   ]
