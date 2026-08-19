@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-18T23:22:12.976873+00:00",
-  "story_count": 67,
+  "last_updated": "2026-08-19T11:21:21.928538+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Deputy FM holds separate talks with Russian, Belarusian ambassadors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663864/saudi-arabia/saudi-deputy-fm-holds-separate-talks-with-russian-belarusian-ambassadors",
+      "published_date": "2026-08-19T08:25:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia condemns Israeli airstrikes targeting Syria’s Abu al-Duhur military airport",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Grand Mufti highlights Saudi Arabia’s security and prosperity during meeting of Council of Senior Scholars",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663781/saudi-arabia/grand-mufti-highlights-saudi-arabias-security-and-prosperity-during-meeting-of-council-of-senior-scholars",
-      "published_date": "2026-08-16T14:21:29+00:00",
-      "category": "Diplomacy"
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-19T00:48:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Jeddah Mayoralty dismantles illegal markets in major simultaneous crackdown",
