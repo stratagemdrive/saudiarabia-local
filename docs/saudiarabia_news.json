@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-20T11:23:03.875655+00:00",
-  "story_count": 65,
+  "last_updated": "2026-08-20T23:26:00.505926+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Spouse of King Salman and Makkah deputy emir honor winners of King Abdulaziz Qur’an Competition",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663913/saudi-arabia/spouse-of-king-salman-and-makkah-deputy-emir-honor-winners-of-king-abdulaziz-quran-competition",
+      "published_date": "2026-08-20T17:35:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Insurance Authority announces health insurance product without pre-approvals for outpatient services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663912/saudi-arabia/insurance-authority-announces-health-insurance-product-without-pre-approvals-for-outpatient-services",
+      "published_date": "2026-08-20T17:29:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA grants marketing authorization for innovative dual glucose and ketone monitoring device",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663911/saudi-arabia/sfda-grants-marketing-authorization-for-innovative-dual-glucose-and-ketone-monitoring-device",
+      "published_date": "2026-08-20T16:35:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "1,275 channels shut; 34 million pieces of extremist content removed in 1H of 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663906/saudi-arabia/1275-channels-shut-34-million-pieces-of-extremist-content-removed-in-1h-of-2026",
+      "published_date": "2026-08-20T14:28:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "source": "BBC News",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia begins imposing penalties for violations of  rights of disabled persons",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663821/saudi-arabia/saudi-arabia-begins-imposing-penalties-for-violations-of-rights-of-disabled-persons",
-      "published_date": "2026-08-17T15:24:50+00:00",
-      "category": "Diplomacy"
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T12:38:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Birth of first striped hyena celebrated at NEOM Nature Reserve",
+      "title": "Royal Order transforms charity platform &#039;Ehsan&#039; into independent non-profit foundation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663820/saudi-arabia/birth-of-first-striped-hyena-celebrated-at-neom-nature-reserve",
-      "published_date": "2026-08-17T14:19:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia highlights landmark COP16 achievements ahead of presidency handover to Mongolia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663814/saudi-arabia/saudi-arabia-highlights-landmark-cop16-achievements-ahead-of-presidency-handover-to-mongolia",
-      "published_date": "2026-08-17T12:47:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "144 athletes will represent Saudi Arabia at the Aichi-Nagoya 2026 Asian Games",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663811/saudi-arabia/144-athletes-will-represent-saudi-arabia-at-the-aichi-nagoya-2026-asian-games",
-      "published_date": "2026-08-17T11:15:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/663901/saudi-arabia/royal-order-transforms-charity-platform-ehsan-into-independent-non-profit-foundation",
+      "published_date": "2026-08-20T11:24:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -214,32 +228,32 @@
       "category": "Military"
     },
     {
-      "title": "Saudi defense minister discusses defense ties with Iraqi military official",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663713/saudi-arabia/saudi-defense-minister-discusses-defense-ties-with-iraqi-military-official",
-      "published_date": "2026-08-13T21:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9 Ethiopian illegals arrested in Jazan for smuggling 200 kg of khat",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663706/saudi-arabia/9-ethiopian-illegals-arrested-in-jazan-for-smuggling-200-kg-of-khat",
-      "published_date": "2026-08-13T15:18:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkish Ministry of Defense: Joint military exercises are part of the Makkah pact",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663703/saudi-arabia/turkish-ministry-of-defense-joint-military-exercises-are-part-of-the-makkah-pact",
-      "published_date": "2026-08-13T14:20:44+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco, Maaden form mining JV to explore nearly 10% of Saudi Arabia’s land",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663851/saudi-arabia/aramco-maaden-sign-agreement-for-saudi-mineral-exploration-joint-venture",
       "published_date": "2026-08-18T14:35:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "GAFT launches anti-dumping investigation into cardboard imports from India, China",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663915/saudi-arabia/gaft-launches-anti-dumping-investigation-into-cardboard-imports-from-india-china",
+      "published_date": "2026-08-20T20:49:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T19:52:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Culture Ministry relocates to new headquarters in Diriyah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663914/saudi-arabia/culture-ministry-relocates-to-new-headquarters-in-diriyah",
+      "published_date": "2026-08-20T19:42:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi operating revenues rise 6.1% as building permits surge 20.3% in June",
@@ -317,6 +331,55 @@
       "url": "https://saudigazette.com.sa/article/663734/saudi-arabia/saudi-customs-seize-586-kg-of-meth-hidden-in-shoes-at-jeddah-port",
       "published_date": "2026-08-14T20:28:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Dust, strong winds to hit Riyadh region Friday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663916/saudi-arabia/dust-strong-winds-to-hit-riyadh-region-friday",
+      "published_date": "2026-08-20T20:56:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 6.5 million vehicles undergo periodic inspection in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663910/saudi-arabia/over-65-million-vehicles-undergo-periodic-inspection-in-2025",
+      "published_date": "2026-08-20T16:02:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Saudi school specializing in mathematics opens in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663908/saudi-arabia/first-saudi-school-specializing-in-mathematics-opens-in-jeddah",
+      "published_date": "2026-08-20T14:52:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Education Ministry goes digital; every student to get a QR-code ID card",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663905/saudi-arabia/education-ministry-goes-digital-every-student-to-get-a-qr-code-id-card",
+      "published_date": "2026-08-20T14:03:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Education Ministry: Violations could bar students from school transport for a full year",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663904/saudi-arabia/education-ministry-violations-could-bar-students-from-school-transport-for-a-full-year",
+      "published_date": "2026-08-20T13:39:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "September ranks among Saudi Arabia’s hottest months: What climate data reveals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663903/saudi-arabia/september-ranks-among-saudi-arabias-hottest-months-what-climate-data-reveals",
+      "published_date": "2026-08-20T13:27:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Study uncovers earliest known trademark concept in 3,600-year-old Saudi pottery",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663902/saudi-arabia/study-uncovers-earliest-known-trademark-concept-in-3600-year-old-saudi-pottery",
+      "published_date": "2026-08-20T12:36:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Heavy thunderstorms, flash flood risk forecast across parts of Saudi Arabia through Tuesday",
@@ -407,55 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663824/saudi-arabia/saudi-arabia-revamps-22-subjects-adds-50-ai-units-to-new-academic-year-curriculum",
       "published_date": "2026-08-17T17:33:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Education Ministry launches online student transfer service, eliminating the need for school visits",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663817/saudi-arabia/education-ministry-launches-online-student-transfer-service-eliminating-the-need-for-school-visits",
-      "published_date": "2026-08-17T13:37:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard in Madinah rescues 5 citizens after their boat breaks down at sea",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663795/saudi-arabia/border-guard-in-madinah-rescues-5-citizens-after-their-boat-breaks-down-at-sea",
-      "published_date": "2026-08-16T20:23:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry begins preparatory meetings for Hajj 2027 with over 75 countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663794/saudi-arabia/hajj-ministry-begins-preparatory-meetings-for-hajj-2027-with-over-75-countries",
-      "published_date": "2026-08-16T20:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passports Directorate takes 24,417 penal actions against violators in a month",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663789/saudi-arabia/passports-directorate-takes-24417-penal-actions-against-violators-in-a-month",
-      "published_date": "2026-08-16T16:39:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Runaway truck crashes into several vehicles in Abha, no injuries reported",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663784/saudi-arabia/runaway-truck-crashes-into-several-vehicles-in-abha-no-injuries-reported",
-      "published_date": "2026-08-16T15:18:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA: Electronic car rental contracts jump 4% to1.6 million in Q2 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663783/saudi-arabia/tga-electronic-car-rental-contracts-jump-4-to16-million-in-q2-2026",
-      "published_date": "2026-08-16T14:50:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy thunderstorms forecast across parts of Saudi Arabia through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663780/saudi-arabia/heavy-thunderstorms-forecast-across-parts-of-saudi-arabia-through-saturday",
-      "published_date": "2026-08-16T13:32:04+00:00",
       "category": "Local Events"
     }
   ]
