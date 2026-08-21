@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-21T11:22:22.405830+00:00",
-  "story_count": 67,
+  "last_updated": "2026-08-21T23:24:36.271299+00:00",
+  "story_count": 66,
   "stories": [
+    {
+      "title": "Saudi Arabia condemns Kabul bombing near educational center",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663935/saudi-arabia/saudi-arabia-condemns-kabul-bombing-that-injured-dozens",
+      "published_date": "2026-08-21T17:30:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Turkish foreign ministers discuss regional developments, security efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663934/saudi-arabia/saudi-turkish-foreign-ministers-discuss-regional-developments-and-security",
+      "published_date": "2026-08-21T16:40:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, seven countries call for immediate halt to Israel’s E1 settlement plan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663931/saudi-arabia/saudi-arabia-seven-countries-demand-immediate-halt-to-israels-e1-settlement-plan",
+      "published_date": "2026-08-21T16:23:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince departs for France on state visit focused on regional issues, strategic partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663930/saudi-arabia/crown-prince-mohammed-bin-salman-departs-for-france-on-state-visit",
+      "published_date": "2026-08-21T15:10:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spouse of King Salman and Makkah deputy emir honor winners of King Abdulaziz Qur’an Competition",
       "source": "Saudi Gazette",
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Iraqi foreign ministers discuss bilateral ties, regional issues",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663837/saudi-arabia/saudi-iraqi-foreign-ministers-discuss-bilateral-ties-regional-issues",
-      "published_date": "2026-08-18T10:26:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns attacks targeting Kurdistan Region PM’s office",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663834/saudi-arabia/saudi-arabia-strongly-condemns-attacks-targeting-kurdistan-region-pms-office",
-      "published_date": "2026-08-18T08:57:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia and Sudan establish coordination council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663825/saudi-arabia/saudi-sudanese-foreign-ministers-agree-to-establish-coordination-council",
-      "published_date": "2026-08-17T17:43:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-17T16:02:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
@@ -221,11 +221,11 @@
       "category": "Military"
     },
     {
-      "title": "13 countries formally join multinational maritime defense coalition",
+      "title": "Saudi, Iraqi ministers discuss energy security, supply stability in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663730/saudi-arabia/13-countries-formally-join-multinational-maritime-defense-coalition",
-      "published_date": "2026-08-14T13:40:06+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/663932/saudi-arabia/saudi-iraqi-ministers-discuss-energy-security-and-supply-stability-in-riyadh",
+      "published_date": "2026-08-21T16:27:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco, Maaden form mining JV to explore nearly 10% of Saudi Arabia’s land",
@@ -326,11 +326,18 @@
       "category": "Economy"
     },
     {
-      "title": "Customs foil attempt to smuggle 58.6 kg of meth hidden in shoes at Jeddah port",
+      "title": "Commerce Ministry conducts 2,259 inspections of school supply outlets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663734/saudi-arabia/saudi-customs-seize-586-kg-of-meth-hidden-in-shoes-at-jeddah-port",
-      "published_date": "2026-08-14T20:28:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663933/saudi-arabia/saudi-commerce-ministry-conducts-2259-inspections-of-school-supply-stores",
+      "published_date": "2026-08-21T16:37:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T15:58:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dust, strong winds to hit Riyadh region Friday",
@@ -456,20 +463,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663833/saudi-arabia/thunderstorms-hail-forecast-across-saudi-arabia-as-temperatures-hit-48c",
       "published_date": "2026-08-18T07:18:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudanese national arrested for transporting violators in Jazan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663827/saudi-arabia/sudanese-national-arrested-for-transporting-violators-in-jazan",
-      "published_date": "2026-08-17T20:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia revamps 22 subjects, adds 50 AI units to new academic year curriculum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663824/saudi-arabia/saudi-arabia-revamps-22-subjects-adds-50-ai-units-to-new-academic-year-curriculum",
-      "published_date": "2026-08-17T17:33:01+00:00",
       "category": "Local Events"
     }
   ]
