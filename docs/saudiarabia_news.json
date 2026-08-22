@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-22T11:17:50.135147+00:00",
-  "story_count": 66,
+  "last_updated": "2026-08-22T23:21:13.028723+00:00",
+  "story_count": 64,
   "stories": [
+    {
+      "title": "Saudi Arabia sets 90-day limit for GCC-registered vehicles, fines up to SR2,000",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663956/saudi-arabia/saudi-arabia-sets-90-day-limit-for-gcc-registered-vehicles-fines-up-to-sr2000",
+      "published_date": "2026-08-22T20:08:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia deports 13,724 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663955/saudi-arabia/saudi-arabia-deports-13724-illegal-residents-in-a-week",
+      "published_date": "2026-08-22T17:37:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Absher unlocks 23 services through electronic authorization",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663945/saudi-arabia/absher-unlocks-23-services-through-electronic-authorization",
+      "published_date": "2026-08-22T14:48:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia hails Syria&#039;s cooperation with IAEA to address outstanding safeguards issues",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663937/saudi-arabia/saudi-arabia-hails-syrias-cooperation-with-iaea-to-address-outstanding-safeguards-issues",
+      "published_date": "2026-08-22T13:18:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia condemns Kabul bombing near educational center",
       "source": "Saudi Gazette",
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Israeli airstrikes targeting Syria’s Abu al-Duhur military airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663855/saudi-arabia/saudi-arabia-condemns-israeli-airstrikes-targeting-syrias-abu-al-duhur-military-airport",
-      "published_date": "2026-08-18T17:43:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Misk Foundation and UN Youth Office announce establishment of Global Network for Youth",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663854/saudi-arabia/misk-foundation-and-un-youth-office-announce-establishment-of-global-network-for-youth",
-      "published_date": "2026-08-18T17:04:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Four brain-dead donors save lives of 14 patients",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663846/saudi-arabia/four-brain-dead-donors-save-lives-of-14-patients",
-      "published_date": "2026-08-18T13:03:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Female contestants make historic debut at King Abdulaziz International Qur’an Competition",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663842/saudi-arabia/female-contestants-make-historic-debut-at-king-abdulaziz-international-quran-competition",
-      "published_date": "2026-08-18T12:07:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
@@ -207,20 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T21:03:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T20:21:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi, Iraqi ministers discuss energy security, supply stability in Riyadh",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663932/saudi-arabia/saudi-iraqi-ministers-discuss-energy-security-and-supply-stability-in-riyadh",
@@ -233,6 +219,13 @@
       "url": "https://saudigazette.com.sa/article/663851/saudi-arabia/aramco-maaden-sign-agreement-for-saudi-mineral-exploration-joint-venture",
       "published_date": "2026-08-18T14:35:53+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "1,039 contraband seizures reported at Saudi Customs ports last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663952/saudi-arabia/1039-contraband-seizures-reported-at-saudi-customs-ports-last-week",
+      "published_date": "2026-08-22T15:54:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "GAFT launches anti-dumping investigation into cardboard imports from India, China",
@@ -319,11 +312,18 @@
       "category": "Economy"
     },
     {
-      "title": "Tourism Ministry updates Hajj season accommodation regulations and standards to enhance service quality",
+      "title": "Over 4.5 million students return to schools on Sunday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663739/saudi-arabia/tourism-ministry-updates-hajj-season-accommodation-regulations-and-standards-to-enhance-service-quality",
-      "published_date": "2026-08-15T14:47:36+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/663954/saudi-arabia/over-45-million-students-return-to-schools-on-sunday",
+      "published_date": "2026-08-22T17:29:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 expat women arrested for prostitution in Madinah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663953/saudi-arabia/2-expat-women-arrested-for-prostitution-in-madinah",
+      "published_date": "2026-08-22T15:59:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Commerce Ministry conducts 2,259 inspections of school supply outlets",
@@ -449,20 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663850/saudi-arabia/covid-19-pandemic-born-children-begin-their-school-journey-on-sunday",
       "published_date": "2026-08-18T14:13:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Border Guard arrests 8, seizes 124 kg of khat, 34 kg of hashish in Jazan, Asir",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663840/saudi-arabia/saudi-border-guard-arrests-8-seizes-124-kg-of-khat-34-kg-of-hashish-in-jazan-asir",
-      "published_date": "2026-08-18T11:18:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, hail forecast across Saudi Arabia as temperatures hit 48°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663833/saudi-arabia/thunderstorms-hail-forecast-across-saudi-arabia-as-temperatures-hit-48c",
-      "published_date": "2026-08-18T07:18:59+00:00",
       "category": "Local Events"
     }
   ]
