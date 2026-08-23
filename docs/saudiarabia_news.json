@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-22T23:21:13.028723+00:00",
+  "last_updated": "2026-08-23T11:18:05.935764+00:00",
   "story_count": 64,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi Arabia condemns terrorist attack on Syrian security forces bus",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663957/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-syrian-security-forces-bus",
+      "published_date": "2026-08-23T06:19:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
@@ -197,13 +204,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663782/saudi-arabia/saudi-civil-defense-announces-all-clear-in-jazan-after-earlier-emergency-alert",
       "published_date": "2026-08-16T14:40:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Yemeni, US officials discuss Houthi maritime threats, regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663762/saudi-arabia/saudi-yemeni-us-officials-discuss-houthi-maritime-threats-regional-security",
-      "published_date": "2026-08-16T07:41:53+00:00",
       "category": "Military"
     },
     {
@@ -310,6 +310,20 @@
       "url": "https://saudigazette.com.sa/article/663788/saudi-arabia/new-cma-chief-mazen-al-sudairi-vows-to-advance-saudi-capital-market-development",
       "published_date": "2026-08-16T16:34:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Border Guard seizes millions of tablets, 138 tons of khat in anti-smuggling operations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663959/saudi-arabia/saudi-border-guard-seizes-millions-of-tablets-138-tons-of-khat-in-anti-smuggling-operations",
+      "published_date": "2026-08-23T07:55:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red alerts issued for heavy rain as thunderstorms, flash floods forecast across Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663958/saudi-arabia/red-alerts-issued-for-heavy-rain-as-thunderstorms-flash-floods-forecast-across-saudi-arabia",
+      "published_date": "2026-08-23T07:26:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Over 4.5 million students return to schools on Sunday",
@@ -435,20 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663857/saudi-arabia/saudi-citizen-arrested-for-transporting-yemeni-violators",
       "published_date": "2026-08-18T20:54:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fine and deportation for 3 expats for transporting passengers without a license",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663856/saudi-arabia/fine-and-deportation-for-3-expats-for-transporting-passengers-without-a-license",
-      "published_date": "2026-08-18T20:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "COVID-19 pandemic-born children begin their school journey on Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663850/saudi-arabia/covid-19-pandemic-born-children-begin-their-school-journey-on-sunday",
-      "published_date": "2026-08-18T14:13:08+00:00",
       "category": "Local Events"
     }
   ]
