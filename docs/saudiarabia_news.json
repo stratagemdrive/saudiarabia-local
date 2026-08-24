@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-23T23:21:33.713761+00:00",
+  "last_updated": "2026-08-24T11:24:11.010474+00:00",
   "story_count": 64,
   "stories": [
+    {
+      "title": "Saudi, Iranian OIC representatives discuss issues of mutual interest in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664001/saudi-arabia/saudi-iranian-oic-representatives-discuss-issues-of-mutual-interest-in-jeddah",
+      "published_date": "2026-08-24T10:58:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron says Crown Prince’s France visit marks ‘important step’ in Saudi-French ties",
       "source": "Saudi Gazette",
@@ -137,17 +144,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "1,275 channels shut; 34 million pieces of extremist content removed in 1H of 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663906/saudi-arabia/1275-channels-shut-34-million-pieces-of-extremist-content-removed-in-1h-of-2026",
-      "published_date": "2026-08-20T14:28:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Saudi Arabia condemns terrorist attack on Syrian security forces bus",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663957/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-syrian-security-forces-bus",
       "published_date": "2026-08-23T06:19:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T21:42:42+00:00",
       "category": "Military"
     },
     {
@@ -190,13 +197,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663826/saudi-arabia/civil-defense-requires-third-party-insurance-for-licensing-and-renewals-of-certain-activities",
       "published_date": "2026-08-17T20:36:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump hails Makkah Joint Defense Agreement as ‘big, bold and important first step’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663798/saudi-arabia/trump-hails-makkah-joint-defense-agreement-as-major-step-for-regional-security",
-      "published_date": "2026-08-16T23:39:34+00:00",
       "category": "Military"
     },
     {
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/663813/saudi-arabia/pif-revenue-rises-9-to-120-billion-as-net-profit-more-than-doubles-in-2025",
       "published_date": "2026-08-17T12:23:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Border Guard thwarts smuggling of 301 kg of drugs, 40,100 tablets in Asir and Jazan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/663995/saudi-arabia/border-guard-thwarts-smuggling-of-301-kg-of-drugs-40100-tablets-in-asir-and-jazan",
+      "published_date": "2026-08-24T07:32:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Makkah deputy emir distributes land titles to 1,480 citizens in Jeddah",
@@ -442,13 +449,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663885/saudi-arabia/pakistani-arrested-for-transporting-15-ethiopian-violators-in-jazan",
       "published_date": "2026-08-19T17:38:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA stresses need to provide students with a balanced breakfast",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663880/saudi-arabia/sfda-stresses-need-to-provide-students-with-a-balanced-breakfast",
-      "published_date": "2026-08-19T14:34:36+00:00",
       "category": "Local Events"
     }
   ]
