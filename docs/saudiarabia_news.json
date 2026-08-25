@@ -1,8 +1,99 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-25T11:23:36.074245+00:00",
-  "story_count": 71,
+  "last_updated": "2026-08-25T23:25:17.057488+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi Arabia secures silver and bronze at World Masters Athletics Championships",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664069/saudi-arabia/saudi-arabia-secures-silver-and-bronze-at-world-masters-athletics-championships",
+      "published_date": "2026-08-25T20:48:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Bureau International des Expositions sign &#039;SEE Agreement&#039; for Expo 2030 Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664068/saudi-arabia/saudi-arabia-bureau-international-des-expositions-sign-see-agreement-for-expo-2030-riyadh",
+      "published_date": "2026-08-25T20:43:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France becomes first official participant at Expo 2030 Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664067/saudi-arabia/france-becomes-first-official-participant-at-expo-2030-riyadh",
+      "published_date": "2026-08-25T20:02:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia signs global anti-corruption information-sharing agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664066/saudi-arabia/saudi-arabia-signs-globe-network-anti-corruption-information-sharing-agreement",
+      "published_date": "2026-08-25T17:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Passports Directorate sets two conditions for electronic authorization via Absher",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664064/saudi-arabia/passports-directorate-sets-two-conditions-for-electronic-authorization-via-absher",
+      "published_date": "2026-08-25T17:10:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Absher carries out over 50 million electronic transactions in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664062/saudi-arabia/absher-carries-out-over-50-million-electronic-transactions-in-july",
+      "published_date": "2026-08-25T14:57:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia stresses need to keep vital waterways secure and threat-free",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664059/saudi-arabia/saudi-arabia-stresses-need-to-keep-vital-waterways-secure-and-threat-free",
+      "published_date": "2026-08-25T14:12:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia at UN: Attacks exacerbate humanitarian crisis and conflict in Sudan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664054/saudi-arabia/saudi-arabia-at-un-attacks-exacerbate-humanitarian-crisis-and-conflict-in-sudan",
+      "published_date": "2026-08-25T12:54:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T12:37:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hanan Balkhy says Saudi nomination for WHO chief builds on lifetime in global health",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664052/saudi-arabia/hanan-balkhy-outlines-global-health-vision-after-saudi-who-nomination",
+      "published_date": "2026-08-25T12:33:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes US decision to remove Syria from State Sponsors of Terrorism list",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664050/saudi-arabia/saudi-arabia-welcomes-us-decision-to-remove-syria-from-state-sponsors-of-terrorism-list",
+      "published_date": "2026-08-25T12:15:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T11:53:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia to establish cultural center in Paris, strengthening cultural ties with France",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664049/saudi-arabia/saudi-arabia-to-establish-cultural-center-in-paris-strengthening-cultural-ties-with-france",
+      "published_date": "2026-08-25T11:52:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, French foreign ministers discuss regional developments, bilateral ties in Paris",
       "source": "Saudi Gazette",
@@ -53,95 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crown Prince receives official welcome at Les Invalides",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664017/saudi-arabia/crown-prince-receives-official-welcome-at-les-invalides-as-france-state-visit-begins",
-      "published_date": "2026-08-24T15:35:30+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T21:23:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman and Crown Prince congratulate Mirza Alamgir on taking oath as president of Bangladesh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664009/saudi-arabia/king-salman-and-crown-prince-congratulate-mirza-alamgir-on-taking-oath-as-president-of-bangladesh",
-      "published_date": "2026-08-24T12:47:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi leadership congratulates Zelenskyy on Ukraine’s Independence Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664003/saudi-arabia/saudi-leadership-congratulates-zelenskyy-on-ukraines-independence-day",
-      "published_date": "2026-08-24T11:41:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia recalls more than 84,000 Toyota Camry vehicles over instrument panel defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664002/saudi-arabia/saudi-arabia-recalls-more-than-84000-toyota-camry-vehicles-over-instrument-panel-defect",
-      "published_date": "2026-08-24T11:22:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Iranian OIC representatives discuss issues of mutual interest in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664001/saudi-arabia/saudi-iranian-oic-representatives-discuss-issues-of-mutual-interest-in-jeddah",
-      "published_date": "2026-08-24T10:58:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron says Crown Prince’s France visit marks ‘important step’ in Saudi-French ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663988/saudi-arabia/macron-says-mohammed-bin-salmans-france-visit-marks-important-step-in-saudi-french-ties",
-      "published_date": "2026-08-23T21:12:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Embassy in Syria opens Tasheer Center in Damascus",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663987/saudi-arabia/saudi-embassy-in-syria-opens-tasheer-center-in-damascus",
-      "published_date": "2026-08-23T20:37:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, Macron attend Esports World Cup 2026 closing ceremony in Paris",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663986/saudi-arabia/crown-prince-macron-attend-esports-world-cup-2026-closing-ceremony-in-paris",
-      "published_date": "2026-08-23T20:14:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Industry ministry issues over 50,000 certificates of origin in July",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663983/saudi-arabia/industry-ministry-issues-over-50000-certificates-of-origin-in-july",
-      "published_date": "2026-08-23T15:29:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh Security and History Dialogue Conference to explore Saudi history through the lens of security and development",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663982/saudi-arabia/riyadh-security-and-history-dialogue-conference-to-explore-saudi-history-through-the-lens-of-security-and-development",
-      "published_date": "2026-08-23T15:05:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Paris to host Saudi-French investment roundtable during Crown Prince’s visit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663979/saudi-arabia/paris-to-host-saudi-french-investment-roundtable-during-crown-princes-visit",
-      "published_date": "2026-08-23T13:24:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA fines 17 pharmaceutical establishments SR1.575 million over violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663963/saudi-arabia/sfda-fines-17-pharmaceutical-establishments-sr1575-million-over-violations",
-      "published_date": "2026-08-23T12:11:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia’s construction costs rise 2.3% in July 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663962/saudi-arabia/saudi-arabias-construction-costs-rise-23-in-july-2026",
-      "published_date": "2026-08-23T11:26:39+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli attacks kill five in Gaza, including two children, medics say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T14:07:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia, France sign declaration to strengthen defense partnership",
@@ -186,6 +200,13 @@
       "category": "Military"
     },
     {
+      "title": "What we know about Israel's criminal investigations",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cdx8w1g2q5eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T12:16:45+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Royal Order transforms charity platform &#039;Ehsan&#039; into independent non-profit foundation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663901/saudi-arabia/royal-order-transforms-charity-platform-ehsan-into-independent-non-profit-foundation",
@@ -204,13 +225,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-19T00:48:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jeddah Mayoralty dismantles illegal markets in major simultaneous crackdown",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663852/saudi-arabia/jeddah-mayoralty-dismantles-illegal-markets-in-major-simultaneous-crackdown",
-      "published_date": "2026-08-18T14:54:02+00:00",
       "category": "Military"
     },
     {
@@ -235,11 +249,39 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco, Maaden form mining JV to explore nearly 10% of Saudi Arabia’s land",
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T15:04:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi non-oil exports fall 11.4% in June as trade surplus declines 10%",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663851/saudi-arabia/aramco-maaden-sign-agreement-for-saudi-mineral-exploration-joint-venture",
-      "published_date": "2026-08-18T14:35:53+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/664060/saudi-arabia/saudi-non-oil-exports-fall-114-in-june-as-trade-surplus-declines-10",
+      "published_date": "2026-08-25T14:16:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T13:46:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alswaha discusses expanding AI, gaming, quantum computing partnerships in France",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664056/saudi-arabia/alswaha-discusses-expanding-ai-gaming-quantum-computing-partnerships-in-france",
+      "published_date": "2026-08-25T13:17:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi environment minister to visit Pakistan on Wednesday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664053/saudi-arabia/saudi-environment-minister-to-visit-pakistan",
+      "published_date": "2026-08-25T12:40:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia, France sign MoU to enhance health cooperation",
@@ -347,18 +389,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia warns repeated Iranian attacks signal dangerous escalation",
+      "title": "Hajj and Umrah Committee discusses plans and arrangements for next Hajj season",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663853/saudi-arabia/saudi-arabia-warns-repeated-iranian-attacks-signal-dangerous-escalation",
-      "published_date": "2026-08-18T15:36:09+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664065/saudi-arabia/hajj-and-umrah-committee-discusses-plans-and-arrangements-for-next-hajj-season",
+      "published_date": "2026-08-25T17:25:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia boosts US treasury holdings by $2.2 billion to $142.5 billion in June",
+      "title": "Tabuk Emir to meet half of establishment cost of private clinics for medical award winners",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663848/saudi-arabia/saudi-arabia-boosts-us-treasury-holdings-by-22-billion-to-1425-billion",
-      "published_date": "2026-08-18T13:48:31+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664063/saudi-arabia/tabuk-emir-to-meet-half-of-establishment-cost-of-private-clinics-for-medical-award-winners",
+      "published_date": "2026-08-25T15:50:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guard arrests 8, seizes 240 kg of khat in Asir, Jazan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664061/saudi-arabia/border-guard-arrests-8-seizes-240-kg-of-khat-in-asir-jazan",
+      "published_date": "2026-08-25T14:32:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainfall to persist across Saudi Arabia through end of week, NCM forecasts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664058/saudi-arabia/rainfall-to-persist-across-saudi-arabia-through-end-of-week-ncm-forecasts",
+      "published_date": "2026-08-25T13:52:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thunderstorms, hail forecast across Saudi Arabia as temperatures climb to 46°C",
@@ -470,34 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663933/saudi-arabia/saudi-commerce-ministry-conducts-2259-inspections-of-school-supply-stores",
       "published_date": "2026-08-21T16:37:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T15:58:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dust, strong winds to hit Riyadh region Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663916/saudi-arabia/dust-strong-winds-to-hit-riyadh-region-friday",
-      "published_date": "2026-08-20T20:56:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 6.5 million vehicles undergo periodic inspection in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663910/saudi-arabia/over-65-million-vehicles-undergo-periodic-inspection-in-2025",
-      "published_date": "2026-08-20T16:02:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Saudi school specializing in mathematics opens in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663908/saudi-arabia/first-saudi-school-specializing-in-mathematics-opens-in-jeddah",
-      "published_date": "2026-08-20T14:52:45+00:00",
       "category": "Local Events"
     }
   ]
