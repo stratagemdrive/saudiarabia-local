@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-24T23:22:44.433031+00:00",
-  "story_count": 68,
+  "last_updated": "2026-08-25T11:23:36.074245+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi, French foreign ministers discuss regional developments, bilateral ties in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664036/saudi-arabia/saudi-french-foreign-ministers-discuss-regional-developments-bilateral-ties-in-paris",
+      "published_date": "2026-08-25T08:14:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, France extend AlUla partnership to 2035",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia sets 90-day limit for GCC-registered vehicles, fines up to SR2,000",
+      "title": "Saudi Arabia, France sign declaration to strengthen defense partnership",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663956/saudi-arabia/saudi-arabia-sets-90-day-limit-for-gcc-registered-vehicles-fines-up-to-sr2000",
-      "published_date": "2026-08-22T20:08:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664039/saudi-arabia/saudi-arabia-france-sign-declaration-to-strengthen-defense-partnership",
+      "published_date": "2026-08-25T09:03:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T00:17:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria court sentences Assad-era grand mufti to life in prison",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T20:10:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia condemns terrorist attack on Syrian security forces bus",
@@ -340,6 +361,13 @@
       "category": "Economy"
     },
     {
+      "title": "Thunderstorms, hail forecast across Saudi Arabia as temperatures climb to 46°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664037/saudi-arabia/thunderstorms-hail-forecast-across-saudi-arabia-as-temperatures-climb-to-46c",
+      "published_date": "2026-08-25T08:32:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi citizen arrested for transporting 13 Ethiopian violators",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664030/saudi-arabia/saudi-citizen-arrested-for-transporting-13-ethiopian-violators",
@@ -470,13 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663908/saudi-arabia/first-saudi-school-specializing-in-mathematics-opens-in-jeddah",
       "published_date": "2026-08-20T14:52:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Education Ministry goes digital; every student to get a QR-code ID card",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663905/saudi-arabia/education-ministry-goes-digital-every-student-to-get-a-qr-code-id-card",
-      "published_date": "2026-08-20T14:03:33+00:00",
       "category": "Local Events"
     }
   ]
