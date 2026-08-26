@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-25T23:25:17.057488+00:00",
-  "story_count": 75,
+  "last_updated": "2026-08-26T11:26:28.597018+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi Arabia welcomes Syria-SDF agreement, backs path to unity and stability",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664079/saudi-arabia/saudi-arabia-welcomes-syria-sdf-agreement-backs-path-to-unity-and-stability",
+      "published_date": "2026-08-26T10:16:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses efforts to reduce regional tensions with Qatari, Turkish counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664077/saudi-arabia/saudi-fm-discusses-efforts-to-reduce-regional-tensions-with-qatari-turkish-counterparts",
+      "published_date": "2026-08-26T08:08:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia secures silver and bronze at World Masters Athletics Championships",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Attorney General meets Georgian ambassador to Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664021/saudi-arabia/attorney-general-meets-georgian-ambassador-to-saudi-arabia",
-      "published_date": "2026-08-24T16:38:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia nominates Dr. Hanan Balkhy for World Health Organization Director General",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664020/saudi-arabia/saudi-arabia-nominates-dr-hanan-balkhy-for-world-health-organization-director-general",
-      "published_date": "2026-08-24T16:00:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Trump says all mines cleared from Strait of Hormuz",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
@@ -218,13 +218,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-19T15:33:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T00:48:16+00:00",
       "category": "Military"
     },
     {
@@ -382,11 +375,18 @@
       "category": "Economy"
     },
     {
-      "title": "How a decade of reforms turned Saudi Arabia into a global competitiveness knowledge hub",
+      "title": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-26T10:34:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red alerts issued as heavy rain, flash floods threaten parts of Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663867/saudi-arabia/how-a-decade-of-reforms-turned-saudi-arabia-into-a-global-competitiveness-knowledge-hub",
-      "published_date": "2026-08-19T11:07:20+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664078/saudi-arabia/red-alerts-issued-as-heavy-rain-flash-floods-threaten-parts-of-saudi-arabia",
+      "published_date": "2026-08-26T08:23:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hajj and Umrah Committee discusses plans and arrangements for next Hajj season",
@@ -512,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663954/saudi-arabia/over-45-million-students-return-to-schools-on-sunday",
       "published_date": "2026-08-22T17:29:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 expat women arrested for prostitution in Madinah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663953/saudi-arabia/2-expat-women-arrested-for-prostitution-in-madinah",
-      "published_date": "2026-08-22T15:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerce Ministry conducts 2,259 inspections of school supply outlets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663933/saudi-arabia/saudi-commerce-ministry-conducts-2259-inspections-of-school-supply-stores",
-      "published_date": "2026-08-21T16:37:24+00:00",
       "category": "Local Events"
     }
   ]
