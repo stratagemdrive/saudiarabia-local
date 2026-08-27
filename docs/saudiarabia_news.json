@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-26T11:26:28.597018+00:00",
-  "story_count": 73,
+  "last_updated": "2026-08-27T04:20:36.735330+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Al-Samaani emphasizes judicial quality, faster case resolution in commercial courts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664102/saudi-arabia/al-samaani-emphasizes-judicial-quality-faster-case-resolution-in-commercial-courts",
+      "published_date": "2026-08-26T21:01:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Adel Al-Jubeir meets Indian and Brazilian ambassadors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664097/saudi-arabia/adel-al-jubeir-meets-indian-and-brazilian-ambassadors",
+      "published_date": "2026-08-26T15:44:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Musaned broadens recruitment reach to 39 countries and 27 professions in 1H 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664090/saudi-arabia/musaned-broadens-recruitment-reach-to-39-countries-and-27-professions-in-1h-2026",
+      "published_date": "2026-08-26T13:11:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia receives UN Award for World Restoration Flagships",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664088/saudi-arabia/saudi-arabia-receives-un-award-for-world-restoration-flagships",
+      "published_date": "2026-08-26T12:46:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Senegal strengthen cooperation against corruption and financial crimes",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664084/saudi-arabia/saudi-arabia-senegal-strengthen-cooperation-against-corruption-and-financial-crimes",
+      "published_date": "2026-08-26T12:07:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi industrial fintech financing surges 130% to SR541 Million in H1 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664083/saudi-arabia/saudi-industrial-fintech-financing-surges-130-to-sr541-million-in-h1-2026",
+      "published_date": "2026-08-26T11:39:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia welcomes Syria-SDF agreement, backs path to unity and stability",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia to establish cultural center in Paris, strengthening cultural ties with France",
+      "title": "12 arrested as Saudi Border Guard seizes 290 kg of khat, 33 kg of hashish",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664049/saudi-arabia/saudi-arabia-to-establish-cultural-center-in-paris-strengthening-cultural-ties-with-france",
-      "published_date": "2026-08-25T11:52:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, French foreign ministers discuss regional developments, bilateral ties in Paris",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664036/saudi-arabia/saudi-french-foreign-ministers-discuss-regional-developments-bilateral-ties-in-paris",
-      "published_date": "2026-08-25T08:14:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, France extend AlUla partnership to 2035",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664028/saudi-arabia/saudi-arabia-france-extend-strategic-alula-partnership-to-2035",
-      "published_date": "2026-08-24T20:54:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from UK PM on improving bilateral ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664027/saudi-arabia/crown-prince-receives-message-from-uk-pm-on-improving-bilateral-ties",
-      "published_date": "2026-08-24T20:34:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman receives message from UAE president on enhancing bilateral relations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664025/saudi-arabia/king-salman-receives-message-from-uae-president-on-enhancing-bilateral-relations",
-      "published_date": "2026-08-24T20:27:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, Macron hold talks and chair first Saudi-French Strategic Partnership Council meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664024/saudi-arabia/crown-prince-macron-chair-first-saudi-french-strategic-partnership-council-meeting",
-      "published_date": "2026-08-24T20:25:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664086/saudi-arabia/12-arrested-as-saudi-border-guard-seizes-290-kg-of-khat-33-kg-of-hashish",
+      "published_date": "2026-08-26T12:31:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says all mines cleared from Strait of Hormuz",
@@ -214,13 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T15:33:32+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco signs agreements with French companies worth more than $3.7 billion",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664022/saudi-arabia/aramco-signs-agreements-with-french-companies-worth-over-37-billion",
@@ -240,6 +240,20 @@
       "url": "https://saudigazette.com.sa/article/663932/saudi-arabia/saudi-iraqi-ministers-discuss-energy-security-and-supply-stability-in-riyadh",
       "published_date": "2026-08-21T16:27:21+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s trade surplus surges 53% to SR155 billion in 1H 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664098/saudi-arabia/saudi-arabias-trade-surplus-surges-53-to-sr155-billion-in-1h-2026",
+      "published_date": "2026-08-26T16:41:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Expo 2030 Riyadh and Atout France sign MoU to promote strategic collaboration and strengthen knowledge exchange",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664095/saudi-arabia/expo-2030-riyadh-and-atout-france-sign-mou-to-promote-strategic-collaboration-and-strengthen-knowledge-exchange",
+      "published_date": "2026-08-26T14:54:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -368,11 +382,53 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia allocates SR9.5 billion in August sukuk issuance",
+      "title": "Emir of Tabuk launches development projects costing SR2.3 billion",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663876/saudi-arabia/saudi-arabia-allocates-sr95-billion-in-august-sukuk-issuance",
-      "published_date": "2026-08-19T13:19:54+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664101/saudi-arabia/emir-of-tabuk-launches-sr23-billion-development-projects",
+      "published_date": "2026-08-26T20:32:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gulf citizen rescued after boat breaks down at sea in Al-Khafji",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664100/saudi-arabia/gulf-citizen-rescued-after-boat-breaks-down-at-sea-in-al-khafji",
+      "published_date": "2026-08-26T17:17:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funeral held for renowned Palestinian artist Sliman Mansour",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-26T16:58:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TGA urges parents to deal only with licensed transport operators",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664096/saudi-arabia/tga-urges-parents-to-deal-only-with-licensed-transport-operators",
+      "published_date": "2026-08-26T15:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A man was arrested in Riyadh for harassing a woman",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664094/saudi-arabia/a-man-was-arrested-in-riyadh-for-harassing-a-woman",
+      "published_date": "2026-08-26T14:16:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia attracts 26% of investors in MENA region during 1H 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664093/saudi-arabia/saudi-arabia-attracts-26-of-investors-in-mena-region-during-1h-2026",
+      "published_date": "2026-08-26T13:53:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia expresses condolences after fatal Islamabad hospital fire",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664091/saudi-arabia/saudi-arabia-expresses-condolences-after-fatal-islamabad-hospital-fire",
+      "published_date": "2026-08-26T13:12:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
@@ -463,55 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/663995/saudi-arabia/border-guard-thwarts-smuggling-of-301-kg-of-drugs-40100-tablets-in-asir-and-jazan",
       "published_date": "2026-08-24T07:32:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah deputy emir distributes land titles to 1,480 citizens in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663985/saudi-arabia/makkah-deputy-emir-distributes-land-titles-to-1480-citizens-in-jeddah",
-      "published_date": "2026-08-23T17:32:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah administrative court overturns university’s two-semester suspension of a student",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663980/saudi-arabia/makkah-administrative-court-overturns-universitys-two-semester-suspension-of-a-student",
-      "published_date": "2026-08-23T13:49:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suhail&#039;s appearance Monday signals end of extreme summer heat and approach of cooler climate",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663977/saudi-arabia/suhails-appearance-monday-signals-end-of-extreme-summer-heat-and-approach-of-cooler-climate",
-      "published_date": "2026-08-23T12:59:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 15.2 million perform Umrah in Saudi Arabia during Q1 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663961/saudi-arabia/more-than-152-million-perform-umrah-in-saudi-arabia-during-q1-2026",
-      "published_date": "2026-08-23T11:00:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Border Guard seizes millions of tablets, 138 tons of khat in anti-smuggling operations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663959/saudi-arabia/saudi-border-guard-seizes-millions-of-tablets-138-tons-of-khat-in-anti-smuggling-operations",
-      "published_date": "2026-08-23T07:55:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alerts issued for heavy rain as thunderstorms, flash floods forecast across Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663958/saudi-arabia/red-alerts-issued-for-heavy-rain-as-thunderstorms-flash-floods-forecast-across-saudi-arabia",
-      "published_date": "2026-08-23T07:26:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 4.5 million students return to schools on Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663954/saudi-arabia/over-45-million-students-return-to-schools-on-sunday",
-      "published_date": "2026-08-22T17:29:54+00:00",
       "category": "Local Events"
     }
   ]
