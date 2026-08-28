@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-27T20:53:45.176995+00:00",
+  "last_updated": "2026-08-28T06:47:28.682518+00:00",
   "story_count": 69,
   "stories": [
     {
@@ -347,6 +347,13 @@
       "category": "Economy"
     },
     {
+      "title": "Ismail Ould Cheikh Ahmed elected new secretary general of OIC",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664126/saudi-arabia/ismail-ould-cheikh-ahmed-elected-new-secretary-general-of-oic",
+      "published_date": "2026-08-27T20:45:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Uzbekistan to host international calligraphy competition to create unique copy of Qur’an",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664121/saudi-arabia/uzbekistan-to-host-international-calligraphy-competition-to-create-unique-copy-of-quran",
@@ -477,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664030/saudi-arabia/saudi-citizen-arrested-for-transporting-13-ethiopian-violators",
       "published_date": "2026-08-24T21:33:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani arrested for transporting border security violators across King Fahd Causeway",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664014/saudi-arabia/pakistani-arrested-for-transporting-border-security-violators-across-king-fahd-causeway",
-      "published_date": "2026-08-24T14:46:49+00:00",
       "category": "Local Events"
     }
   ]
