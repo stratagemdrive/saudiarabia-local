@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-30T01:08:02.526544+00:00",
-  "story_count": 70,
+  "last_updated": "2026-08-30T15:09:12.322249+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi Leadership congratulates Erdogan on Türkiye’s Victory Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664155/saudi-arabia/king-salman-crown-prince-congratulate-erdogan-on-turkiyes-victory-day",
+      "published_date": "2026-08-30T11:43:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia expresses solidarity with Algeria over deadly forest fires",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664154/saudi-arabia/saudi-arabia-expresses-solidarity-with-algeria-over-deadly-forest-fires",
+      "published_date": "2026-08-30T08:38:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "1,450 illegals arrested while crossing border to Saudi Arabia in a week",
       "source": "Saudi Gazette",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia secures silver and bronze at World Masters Athletics Championships",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664069/saudi-arabia/saudi-arabia-secures-silver-and-bronze-at-world-masters-athletics-championships",
-      "published_date": "2026-08-25T20:48:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Bureau International des Expositions sign &#039;SEE Agreement&#039; for Expo 2030 Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664068/saudi-arabia/saudi-arabia-bureau-international-des-expositions-sign-see-agreement-for-expo-2030-riyadh",
-      "published_date": "2026-08-25T20:43:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
@@ -193,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia condemns terrorist attack on Syrian security forces bus",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663957/saudi-arabia/saudi-arabia-condemns-terrorist-attack-on-syrian-security-forces-bus",
-      "published_date": "2026-08-23T06:19:53+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco signs agreements with French companies worth more than $3.7 billion",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664022/saudi-arabia/aramco-signs-agreements-with-french-companies-worth-over-37-billion",
@@ -207,11 +200,25 @@
       "category": "Energy"
     },
     {
-      "title": "Explosives, toxic substances banned for hunting marine wildlife",
+      "title": "Commerce Ministry stresses timely financial filing to boost business efficiency, investor confidence",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663981/saudi-arabia/explosives-toxic-substances-banned-for-hunting-marine-wildlife",
-      "published_date": "2026-08-23T14:26:33+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/664168/saudi-arabia/commerce-ministry-stresses-timely-financial-filing-to-boost-business-efficiency-investor-confidence",
+      "published_date": "2026-08-30T14:25:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia agrees to raise Pakistani agricultural and food exports to $3 billion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664167/saudi-arabia/saudi-arabia-agrees-to-raise-pakistani-agricultural-and-food-exports-to-3-billion",
+      "published_date": "2026-08-30T13:57:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi e-sales surge 9.8% in Q2 as retail trade jumps 13.4%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664157/saudi-arabia/saudi-e-sales-surge-98-in-q2-as-retail-trade-jumps-134",
+      "published_date": "2026-08-30T12:42:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs ports record 1,078 contraband seizures last week",
@@ -333,25 +340,32 @@
       "category": "Economy"
     },
     {
-      "title": "French FDI stock in Saudi Arabia doubles to €16.3 billion: Investment Minister",
+      "title": "4 Myanmar and Bangladeshi nationals arrested for fishing illegally",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664016/saudi-arabia/french-fdi-stock-in-saudi-arabia-doubles-to-sr639-billion-as-investment-ties-deepen",
-      "published_date": "2026-08-24T15:24:25+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664169/saudi-arabia/4-myanmar-and-bangladeshi-nationals-arrested-for-fishing-illegally",
+      "published_date": "2026-08-30T14:54:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Investment Ministry: 1,730 investment opportunities across 15 sectors in 1H 2026",
+      "title": "Saudi Arabia leads region with 21 WHO-accredited healthy cities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663984/saudi-arabia/investment-ministry-1730-investment-opportunities-across-15-sectors-in-1h-2026",
-      "published_date": "2026-08-23T17:09:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664164/saudi-arabia/saudi-arabia-leads-region-with-21-who-accredited-healthy-cities",
+      "published_date": "2026-08-30T13:02:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia ranks first globally in ICT Development Index, CST sustainability report reveals",
+      "title": "Saudi Arabia launches first national Food Composition Database",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663978/saudi-arabia/saudi-arabia-ranks-first-globally-in-ict-development-index-cst-sustainability-report-reveals",
-      "published_date": "2026-08-23T13:03:42+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664156/saudi-arabia/saudi-arabia-launches-first-national-food-composition-database",
+      "published_date": "2026-08-30T12:14:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms, heavy rain forecast across regions as temperatures soar to 48°C",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664153/saudi-arabia/thunderstorms-heavy-rain-forecast-across-regions-as-temperatures-soar-to-48c",
+      "published_date": "2026-08-30T07:54:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "2 million students return to schools in Makkah and Madinah regions Sunday",
@@ -463,34 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664065/saudi-arabia/hajj-and-umrah-committee-discusses-plans-and-arrangements-for-next-hajj-season",
       "published_date": "2026-08-25T17:25:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tabuk Emir to meet half of establishment cost of private clinics for medical award winners",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664063/saudi-arabia/tabuk-emir-to-meet-half-of-establishment-cost-of-private-clinics-for-medical-award-winners",
-      "published_date": "2026-08-25T15:50:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard arrests 8, seizes 240 kg of khat in Asir, Jazan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664061/saudi-arabia/border-guard-arrests-8-seizes-240-kg-of-khat-in-asir-jazan",
-      "published_date": "2026-08-25T14:32:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rainfall to persist across Saudi Arabia through end of week, NCM forecasts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664058/saudi-arabia/rainfall-to-persist-across-saudi-arabia-through-end-of-week-ncm-forecasts",
-      "published_date": "2026-08-25T13:52:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, hail forecast across Saudi Arabia as temperatures climb to 46°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664037/saudi-arabia/thunderstorms-hail-forecast-across-saudi-arabia-as-temperatures-climb-to-46c",
-      "published_date": "2026-08-25T08:32:49+00:00",
       "category": "Local Events"
     }
   ]
