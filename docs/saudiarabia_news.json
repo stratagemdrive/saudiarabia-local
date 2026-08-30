@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-29T15:27:58.762537+00:00",
+  "last_updated": "2026-08-30T01:08:02.526544+00:00",
   "story_count": 70,
   "stories": [
+    {
+      "title": "1,450 illegals arrested while crossing border to Saudi Arabia in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664152/saudi-arabia/1450-illegals-arrested-while-crossing-border-to-saudi-arabia-in-a-week",
+      "published_date": "2026-08-29T17:57:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman and Crown Prince condole King of Norway over death of King Harald V",
       "source": "Saudi Gazette",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France becomes first official participant at Expo 2030 Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664067/saudi-arabia/france-becomes-first-official-participant-at-expo-2030-riyadh",
-      "published_date": "2026-08-25T20:02:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
@@ -200,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T21:42:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco signs agreements with French companies worth more than $3.7 billion",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664022/saudi-arabia/aramco-signs-agreements-with-french-companies-worth-over-37-billion",
@@ -219,6 +212,20 @@
       "url": "https://saudigazette.com.sa/article/663981/saudi-arabia/explosives-toxic-substances-banned-for-hunting-marine-wildlife",
       "published_date": "2026-08-23T14:26:33+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Customs ports record 1,078 contraband seizures last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664150/saudi-arabia/saudi-customs-ports-record-1078-contraband-seizures-last-week",
+      "published_date": "2026-08-29T15:31:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia and Pakistan affirm strengthening strategic partnership in agriculture and food security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664149/saudi-arabia/saudi-arabia-and-pakistan-affirm-strengthening-strategic-partnership-in-agriculture-and-food-security",
+      "published_date": "2026-08-29T14:33:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs foil attempt to smuggle 1.95 million amphetamine pills hidden in lentil shipment",
@@ -347,11 +354,11 @@
       "category": "Economy"
     },
     {
-      "title": "1,039 contraband seizures reported at Saudi Customs ports last week",
+      "title": "2 million students return to schools in Makkah and Madinah regions Sunday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/663952/saudi-arabia/1039-contraband-seizures-reported-at-saudi-customs-ports-last-week",
-      "published_date": "2026-08-22T15:54:28+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664151/saudi-arabia/2-million-students-return-to-schools-in-makkah-and-madinah-regions-sunday",
+      "published_date": "2026-08-29T17:20:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ismail Ould Cheikh Ahmed elected new secretary general of OIC",
@@ -484,13 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664037/saudi-arabia/thunderstorms-hail-forecast-across-saudi-arabia-as-temperatures-climb-to-46c",
       "published_date": "2026-08-25T08:32:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi citizen arrested for transporting 13 Ethiopian violators",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664030/saudi-arabia/saudi-citizen-arrested-for-transporting-13-ethiopian-violators",
-      "published_date": "2026-08-24T21:33:27+00:00",
       "category": "Local Events"
     }
   ]
