@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-31T01:08:08.897561+00:00",
-  "story_count": 69,
+  "last_updated": "2026-08-31T17:51:16.567969+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Al-Jalajel begins visit to Portugal to expand health cooperation, exchange expertise",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664197/saudi-arabia/al-jalajel-begins-visit-to-portugal-to-expand-health-cooperation-exchange-expertise",
+      "published_date": "2026-08-31T15:44:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia reaffirms commitment to activating Makkah Joint Defense Agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664194/saudi-arabia/saudi-arabia-reaffirms-commitment-to-activating-makkah-joint-defense-agreement",
+      "published_date": "2026-08-31T14:18:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Traffic: Turning right after triangle is running a red-light offense",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664193/saudi-arabia/saudi-traffic-turning-right-after-triangle-is-running-a-red-light-offense",
+      "published_date": "2026-08-31T14:09:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia powers ahead in AI race with XAI expansion and NVIDIA mega factory",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664192/saudi-arabia/saudi-arabia-powers-ahead-in-ai-race-with-xai-expansion-and-nvidia-mega-factory",
+      "published_date": "2026-08-31T13:10:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Turkish FMs discuss regional developments on sidelines of Joint Defense Committee meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664185/saudi-arabia/saudi-turkish-fms-discuss-regional-developments-on-sidelines-of-joint-defense-committee-meeting",
+      "published_date": "2026-08-31T10:45:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Space Agency unveils guide to major astronomical events, celestial fiesta over Saudi skies through 2030",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Adel Al-Jubeir meets Indian and Brazilian ambassadors",
+      "title": "Prince Khalid, Asim Munir discuss strengthening Saudi-Pak defense cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664097/saudi-arabia/adel-al-jubeir-meets-indian-and-brazilian-ambassadors",
-      "published_date": "2026-08-26T15:44:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664196/saudi-arabia/prince-khalid-asim-munir-discuss-strengthening-saudi-pak-defense-cooperation",
+      "published_date": "2026-08-31T15:34:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Musaned broadens recruitment reach to 39 countries and 27 professions in 1H 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664090/saudi-arabia/musaned-broadens-recruitment-reach-to-39-countries-and-27-professions-in-1h-2026",
-      "published_date": "2026-08-26T13:11:33+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T13:47:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia receives UN Award for World Restoration Flagships",
+      "title": "First Makkah Joint Defense Agreement committee meeting begins in Istanbul",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664088/saudi-arabia/saudi-arabia-receives-un-award-for-world-restoration-flagships",
-      "published_date": "2026-08-26T12:46:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Senegal strengthen cooperation against corruption and financial crimes",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664084/saudi-arabia/saudi-arabia-senegal-strengthen-cooperation-against-corruption-and-financial-crimes",
-      "published_date": "2026-08-26T12:07:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi industrial fintech financing surges 130% to SR541 Million in H1 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664083/saudi-arabia/saudi-industrial-fintech-financing-surges-130-to-sr541-million-in-h1-2026",
-      "published_date": "2026-08-26T11:39:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664184/saudi-arabia/first-makkah-joint-defense-agreement-committee-meeting-begins-in-istanbul",
+      "published_date": "2026-08-31T10:37:23+00:00",
+      "category": "Military"
     },
     {
       "title": "First Makkah Joint Defense Pact strategic committee meeting set for Istanbul on Monday",
@@ -205,6 +226,13 @@
       "url": "https://saudigazette.com.sa/article/664022/saudi-arabia/aramco-signs-agreements-with-french-companies-worth-over-37-billion",
       "published_date": "2026-08-24T18:45:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Tourism unveils unified digital platform for tourism services",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664198/saudi-arabia/saudi-tourism-unveils-unified-digital-platform-for-tourism-services",
+      "published_date": "2026-08-31T16:56:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Alswaha: Saudi Arabia will introduce Freedom of Information Law soon",
@@ -340,11 +368,25 @@
       "category": "Economy"
     },
     {
-      "title": "Macron announces €6 billion Saudi-backed theme park project, biggest since Disneyland Paris",
+      "title": "300-meter buffer zone mandated for shared housing near schools, hospitals",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664023/saudi-arabia/macron-announces-6-billion-saudi-qiddiya-theme-park-investment-in-france",
-      "published_date": "2026-08-24T18:51:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664195/saudi-arabia/300-meter-buffer-zone-mandated-for-shared-housing-near-schools-hospitals",
+      "published_date": "2026-08-31T14:28:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guard arrests 18, thwarts smuggling of 320 kg of khat, 79,300 tablets",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664186/saudi-arabia/border-guard-arrests-18-thwarts-smuggling-of-320-kg-of-khat-79300-tablets",
+      "published_date": "2026-08-31T11:21:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T10:00:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "SOCPA warning: False statements and misleading information lead to 5-year jail and SR2 million fine",
@@ -463,27 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664093/saudi-arabia/saudi-arabia-attracts-26-of-investors-in-mena-region-during-1h-2026",
       "published_date": "2026-08-26T13:53:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia expresses condolences after fatal Islamabad hospital fire",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664091/saudi-arabia/saudi-arabia-expresses-condolences-after-fatal-islamabad-hospital-fire",
-      "published_date": "2026-08-26T13:12:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-26T10:34:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alerts issued as heavy rain, flash floods threaten parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664078/saudi-arabia/red-alerts-issued-as-heavy-rain-flash-floods-threaten-parts-of-saudi-arabia",
-      "published_date": "2026-08-26T08:23:05+00:00",
       "category": "Local Events"
     }
   ]
