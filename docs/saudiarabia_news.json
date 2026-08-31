@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-30T15:09:12.322249+00:00",
-  "story_count": 68,
+  "last_updated": "2026-08-31T01:08:08.897561+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Saudi Space Agency unveils guide to major astronomical events, celestial fiesta over Saudi skies through 2030",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664172/saudi-arabia/saudi-space-agency-unveils-guide-to-major-astronomical-events-celestial-fiesta-over-saudi-skies-through-2030",
+      "published_date": "2026-08-30T15:58:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns attacks in Niger’s capital",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664171/saudi-arabia/saudi-arabia-condemns-attacks-in-nigers-capital",
+      "published_date": "2026-08-30T15:30:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Leadership congratulates Erdogan on Türkiye’s Victory Day",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia welcomes Syria-SDF agreement, backs path to unity and stability",
+      "title": "First Makkah Joint Defense Pact strategic committee meeting set for Istanbul on Monday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664079/saudi-arabia/saudi-arabia-welcomes-syria-sdf-agreement-backs-path-to-unity-and-stability",
-      "published_date": "2026-08-26T10:16:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses efforts to reduce regional tensions with Qatari, Turkish counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664077/saudi-arabia/saudi-fm-discusses-efforts-to-reduce-regional-tensions-with-qatari-turkish-counterparts",
-      "published_date": "2026-08-26T08:08:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664170/saudi-arabia/saudi-arabia-turkiye-pakistan-to-hold-first-makkah-defense-pact-committee-meeting",
+      "published_date": "2026-08-30T15:02:41+00:00",
+      "category": "Military"
     },
     {
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
@@ -198,6 +205,13 @@
       "url": "https://saudigazette.com.sa/article/664022/saudi-arabia/aramco-signs-agreements-with-french-companies-worth-over-37-billion",
       "published_date": "2026-08-24T18:45:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Alswaha: Saudi Arabia will introduce Freedom of Information Law soon",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664173/saudi-arabia/alswaha-saudi-arabia-will-introduce-freedom-of-information-law-soon",
+      "published_date": "2026-08-30T17:26:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Commerce Ministry stresses timely financial filing to boost business efficiency, investor confidence",
@@ -333,11 +347,11 @@
       "category": "Economy"
     },
     {
-      "title": "Madinah drives SR200 billion development push, creating 125,000 jobs",
+      "title": "SOCPA warning: False statements and misleading information lead to 5-year jail and SR2 million fine",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664019/saudi-arabia/madinah-drives-sr200-billion-development-push-creating-125000-jobs",
-      "published_date": "2026-08-24T15:41:49+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664175/saudi-arabia/socpa-warning-false-statements-and-misleading-information-lead-to-5-year-jail-and-sr2-million-fine",
+      "published_date": "2026-08-30T21:42:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "4 Myanmar and Bangladeshi nationals arrested for fishing illegally",
@@ -470,13 +484,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664078/saudi-arabia/red-alerts-issued-as-heavy-rain-flash-floods-threaten-parts-of-saudi-arabia",
       "published_date": "2026-08-26T08:23:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj and Umrah Committee discusses plans and arrangements for next Hajj season",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664065/saudi-arabia/hajj-and-umrah-committee-discusses-plans-and-arrangements-for-next-hajj-season",
-      "published_date": "2026-08-25T17:25:43+00:00",
       "category": "Local Events"
     }
   ]
