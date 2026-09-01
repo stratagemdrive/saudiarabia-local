@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-01T01:41:54.711797+00:00",
-  "story_count": 67,
+  "last_updated": "2026-09-01T15:22:35.482075+00:00",
+  "story_count": 63,
   "stories": [
+    {
+      "title": "Saudi foreign minister appoints Manal Radwan special envoy for negotiations and peace efforts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664223/saudi-arabia/manal-radwan-named-special-envoy-to-saudi-foreign-minister-for-negotiations-and-peace",
+      "published_date": "2026-09-01T14:34:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Greek PM discuss ways to strengthen bilateral ties in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664220/saudi-arabia/saudi-crown-prince-greek-pm-discuss-ways-to-strengthen-bilateral-ties-in-phone-call",
+      "published_date": "2026-09-01T14:05:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia hails outcomes of Istanbul meet as key to collective deterrence and defense",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664219/saudi-arabia/saudi-arabia-hails-outcomes-of-istanbul-meet-as-key-to-collective-deterrence-and-defense",
+      "published_date": "2026-09-01T13:04:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Oman’s Sultan discuss regional security in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664216/saudi-arabia/saudi-crown-prince-omans-sultan-discuss-bilateral-ties-and-regional-security",
+      "published_date": "2026-09-01T12:25:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Adel Jubeir meets British minister of state for trade",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WhatsApp dominates Saudi Arabia’s messaging landscape, with over 94% users",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664123/saudi-arabia/whatsapp-dominates-saudi-arabias-messaging-landscape-with-over-94-users",
-      "published_date": "2026-08-27T15:58:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T14:17:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "4 citizens arrested for hunting 15 wild animals at King Salman Royal Reserve",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664120/saudi-arabia/4-citizens-arrested-for-hunting-15-wild-animals-at-king-salman-royal-reserve",
-      "published_date": "2026-08-27T13:38:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia wins WOAH recognition as free of equine disease dourine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664118/saudi-arabia/saudi-arabia-is-free-from-dourine-in-horses-woah-confirms",
-      "published_date": "2026-08-27T12:54:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T12:58:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia to host secretariat of Makkah Joint Defense Agreement",
@@ -200,24 +207,24 @@
       "category": "Military"
     },
     {
-      "title": "Israeli attacks kill five in Gaza, including two children, medics say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T14:07:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia, France sign declaration to strengthen defense partnership",
+      "title": "Al-Jadaan heads Saudi delegation attending G20 finance leaders meeting in US",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664039/saudi-arabia/saudi-arabia-france-sign-declaration-to-strengthen-defense-partnership",
-      "published_date": "2026-08-25T09:03:51+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/664221/saudi-arabia/al-jadaan-heads-saudi-delegation-attending-g20-finance-leaders-meeting-in-us",
+      "published_date": "2026-09-01T14:30:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Tourism unveils unified digital platform for tourism services",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664198/saudi-arabia/saudi-tourism-unveils-unified-digital-platform-for-tourism-services",
       "published_date": "2026-08-31T16:56:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyzw0el1lpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T15:50:00+00:00",
       "category": "Economy"
     },
     {
@@ -298,39 +305,32 @@
       "category": "Economy"
     },
     {
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T15:04:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi non-oil exports fall 11.4% in June as trade surplus declines 10%",
+      "title": "How curiosity led a Saudi teenager to an award-winning waste innovation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664060/saudi-arabia/saudi-non-oil-exports-fall-114-in-june-as-trade-surplus-declines-10",
-      "published_date": "2026-08-25T14:16:38+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution",
+      "published_date": "2026-09-01T12:07:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T13:46:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Alswaha discusses expanding AI, gaming, quantum computing partnerships in France",
+      "title": "Sports Ministry launches licensing service for organized adventure travel",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664056/saudi-arabia/alswaha-discusses-expanding-ai-gaming-quantum-computing-partnerships-in-france",
-      "published_date": "2026-08-25T13:17:40+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664213/saudi-arabia/saudi-sports-ministry-launches-al-rahhala-licensing-service-for-adventure-travel",
+      "published_date": "2026-09-01T11:50:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi environment minister to visit Pakistan on Wednesday",
+      "title": "TGA forms five specialized committees to oversee land transport violations, grievances",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664053/saudi-arabia/saudi-environment-minister-to-visit-pakistan",
-      "published_date": "2026-08-25T12:40:52+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664212/saudi-arabia/tga-forms-five-specialized-committees-to-oversee-land-transport-violations-grievances",
+      "published_date": "2026-09-01T11:27:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM issues red alerts as heavy rain forecast to continue through next week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664210/saudi-arabia/ncm-issues-red-alerts-as-heavy-rain-forecast-to-continue-through-next-week",
+      "published_date": "2026-09-01T10:25:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Islamic Affairs Minister launches program to enhance religious and intellectual awareness",
@@ -442,34 +442,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664101/saudi-arabia/emir-of-tabuk-launches-sr23-billion-development-projects",
       "published_date": "2026-08-26T20:32:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gulf citizen rescued after boat breaks down at sea in Al-Khafji",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664100/saudi-arabia/gulf-citizen-rescued-after-boat-breaks-down-at-sea-in-al-khafji",
-      "published_date": "2026-08-26T17:17:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral held for renowned Palestinian artist Sliman Mansour",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-26T16:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA urges parents to deal only with licensed transport operators",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664096/saudi-arabia/tga-urges-parents-to-deal-only-with-licensed-transport-operators",
-      "published_date": "2026-08-26T15:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A man was arrested in Riyadh for harassing a woman",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664094/saudi-arabia/a-man-was-arrested-in-riyadh-for-harassing-a-woman",
-      "published_date": "2026-08-26T14:16:07+00:00",
       "category": "Local Events"
     }
   ]
