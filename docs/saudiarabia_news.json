@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-08-31T17:51:16.567969+00:00",
-  "story_count": 72,
+  "last_updated": "2026-09-01T01:41:54.711797+00:00",
+  "story_count": 67,
   "stories": [
+    {
+      "title": "Adel Jubeir meets British minister of state for trade",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664202/saudi-arabia/adel-jubeir-meets-british-minister-of-state-for-trade",
+      "published_date": "2026-08-31T20:58:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SR300 fine for failing to keep safe distance between vehicles",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664200/saudi-arabia/sr300-fine-for-failing-to-keep-safe-distance-between-vehicles",
+      "published_date": "2026-08-31T20:20:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Al-Jalajel begins visit to Portugal to expand health cooperation, exchange expertise",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nazaha, Eurojust presidents discuss stronger cooperation to combat corruption",
+      "title": "Saudi Arabia to host secretariat of Makkah Joint Defense Agreement",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664110/saudi-arabia/nazaha-eurojust-chiefs-discuss-stronger-cooperation-to-combat-corruption",
-      "published_date": "2026-08-27T10:06:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Samaani emphasizes judicial quality, faster case resolution in commercial courts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664102/saudi-arabia/al-samaani-emphasizes-judicial-quality-faster-case-resolution-in-commercial-courts",
-      "published_date": "2026-08-26T21:01:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664199/saudi-arabia/saudi-arabia-to-host-makkah-joint-defense-agreement-secretariat",
+      "published_date": "2026-08-31T18:52:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Prince Khalid, Asim Munir discuss strengthening Saudi-Pak defense cooperation",
@@ -205,27 +212,6 @@
       "url": "https://saudigazette.com.sa/article/664039/saudi-arabia/saudi-arabia-france-sign-declaration-to-strengthen-defense-partnership",
       "published_date": "2026-08-25T09:03:51+00:00",
       "category": "Military"
-    },
-    {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T00:17:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria court sentences Assad-era grand mufti to life in prison",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T20:10:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aramco signs agreements with French companies worth more than $3.7 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664022/saudi-arabia/aramco-signs-agreements-with-french-companies-worth-over-37-billion",
-      "published_date": "2026-08-24T18:45:31+00:00",
-      "category": "Energy"
     },
     {
       "title": "Saudi Tourism unveils unified digital platform for tourism services",
@@ -347,25 +333,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia, France sign MoU to enhance health cooperation",
+      "title": "Islamic Affairs Minister launches program to enhance religious and intellectual awareness",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664029/saudi-arabia/saudi-arabia-france-sign-mou-to-enhance-health-cooperation",
-      "published_date": "2026-08-24T21:26:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia, France push diplomacy on Iran and reject threats to Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664026/saudi-arabia/saudi-arabia-france-deepen-strategic-partnership-with-21-agreements-and-mous",
-      "published_date": "2026-08-24T20:32:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T19:12:35+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664201/saudi-arabia/islamic-affairs-minister-launches-program-to-enhance-religious-and-intellectual-awareness",
+      "published_date": "2026-08-31T20:49:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "300-meter buffer zone mandated for shared housing near schools, hospitals",
@@ -498,13 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664094/saudi-arabia/a-man-was-arrested-in-riyadh-for-harassing-a-woman",
       "published_date": "2026-08-26T14:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia attracts 26% of investors in MENA region during 1H 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664093/saudi-arabia/saudi-arabia-attracts-26-of-investors-in-mena-region-during-1h-2026",
-      "published_date": "2026-08-26T13:53:11+00:00",
       "category": "Local Events"
     }
   ]
