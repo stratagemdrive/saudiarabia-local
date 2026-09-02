@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-01T15:22:35.482075+00:00",
-  "story_count": 63,
+  "last_updated": "2026-09-02T00:51:58.999624+00:00",
+  "story_count": 65,
   "stories": [
+    {
+      "title": "Minister Alswaha begins US visit to advance Saudi leadership in AI, advanced technologies",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664229/saudi-arabia/minister-alswaha-begins-us-visit-to-advance-saudi-leadership-in-ai-advanced-technologies",
+      "published_date": "2026-09-01T20:56:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel warns it will retaliate if UK imposes sanctions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T19:27:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alwagait: Tawakkalna records 4.4 billion monthly transactions, 13.3 million active users",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664227/saudi-arabia/alwagait-tawakkalna-records-44-billion-monthly-transactions-133-million-active-users",
+      "published_date": "2026-09-01T17:25:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA Chief launches smart verification tool for regulated products",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664225/saudi-arabia/sfda-chief-launches-smart-verification-tool-for-regulated-products",
+      "published_date": "2026-09-01T15:38:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi foreign minister appoints Manal Radwan special envoy for negotiations and peace efforts",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman and Crown Prince condole King of Norway over death of King Harald V",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664144/saudi-arabia/king-salman-and-crown-prince-condole-king-of-norway-over-death-of-king-harald-v",
-      "published_date": "2026-08-29T13:24:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman, Crown Prince offer condolences to Nepal over deadly floods, landslides",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664142/saudi-arabia/king-salman-crown-prince-offer-condolences-to-nepal-over-deadly-floods",
-      "published_date": "2026-08-29T12:41:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from Bangladesh prime minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664125/saudi-arabia/crown-prince-receives-message-from-bangladesh-prime-minister",
-      "published_date": "2026-08-27T19:16:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Foreign minister calls for serious reform within OIC",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664124/saudi-arabia/saudi-foreign-minister-calls-for-serious-reform-within-oic",
-      "published_date": "2026-08-27T18:29:30+00:00",
-      "category": "Diplomacy"
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T00:13:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
@@ -200,11 +207,18 @@
       "category": "Military"
     },
     {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T21:23:41+00:00",
-      "category": "Military"
+      "title": "Meteorological Fall begins in Saudi Arabia as temperatures gradually drop",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664226/saudi-arabia/meteorological-fall-begins-in-saudi-arabia-as-temperatures-gradually-drop",
+      "published_date": "2026-09-01T16:35:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Sixth Hunting Season begins in Saudi Arabia under strict regulations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664224/saudi-arabia/sixth-hunting-season-begins-in-saudi-arabia-under-strict-regulations",
+      "published_date": "2026-09-01T14:58:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Jadaan heads Saudi delegation attending G20 finance leaders meeting in US",
@@ -303,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/664095/saudi-arabia/expo-2030-riyadh-and-atout-france-sign-mou-to-promote-strategic-collaboration-and-strengthen-knowledge-exchange",
       "published_date": "2026-08-26T14:54:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "108 government employees arrested over corruption charges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664228/saudi-arabia/108-government-employees-arrested-over-corruption-charges",
+      "published_date": "2026-09-01T20:47:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How curiosity led a Saudi teenager to an award-winning waste innovation",
@@ -435,13 +456,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664109/saudi-arabia/ncm-issues-red-weather-alerts-as-temperatures-soar-to-47c",
       "published_date": "2026-08-27T07:05:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emir of Tabuk launches development projects costing SR2.3 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664101/saudi-arabia/emir-of-tabuk-launches-sr23-billion-development-projects",
-      "published_date": "2026-08-26T20:32:43+00:00",
       "category": "Local Events"
     }
   ]
