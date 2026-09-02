@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-02T00:51:58.999624+00:00",
-  "story_count": 65,
+  "last_updated": "2026-09-02T14:57:09.367378+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "Saudi citizens can now update ID photos online via Absher",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664256/saudi-arabia/saudi-citizens-can-now-update-id-photos-online-via-absher",
+      "published_date": "2026-09-02T14:22:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Over 240 million transactions processed through Absher in 1H 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664255/saudi-arabia/over-240-million-transactions-processed-through-absher-in-1h-2026",
+      "published_date": "2026-09-02T13:58:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Nepal sign air transport services agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664253/saudi-arabia/saudi-arabia-nepal-sign-air-transport-services-agreement",
+      "published_date": "2026-09-02T13:36:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns Iran’s targeting of Saudi tanker in Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664244/saudi-arabia/saudi-arabia-condemns-irans-targeting-of-saudi-tanker-in-strait-of-hormuz",
+      "published_date": "2026-09-02T11:21:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Minister Alswaha begins US visit to advance Saudi leadership in AI, advanced technologies",
       "source": "Saudi Gazette",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns attacks in Niger’s capital",
+      "title": "Multinational maritime defense coalition begins operations from command headquarters",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664171/saudi-arabia/saudi-arabia-condemns-attacks-in-nigers-capital",
-      "published_date": "2026-08-30T15:30:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664252/saudi-arabia/multinational-maritime-defense-coalition-begins-operational-phase",
+      "published_date": "2026-09-02T13:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Leadership congratulates Erdogan on Türkiye’s Victory Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664155/saudi-arabia/king-salman-crown-prince-congratulate-erdogan-on-turkiyes-victory-day",
-      "published_date": "2026-08-30T11:43:24+00:00",
-      "category": "Diplomacy"
+      "title": "What we know about reported strike on Iran wedding celebrations",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T10:33:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia expresses solidarity with Algeria over deadly forest fires",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664154/saudi-arabia/saudi-arabia-expresses-solidarity-with-algeria-over-deadly-forest-fires",
-      "published_date": "2026-08-30T08:38:22+00:00",
-      "category": "Diplomacy"
+      "title": "Watch: BBC sees Israeli military presence in southern Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T08:29:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "1,450 illegals arrested while crossing border to Saudi Arabia in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664152/saudi-arabia/1450-illegals-arrested-while-crossing-border-to-saudi-arabia-in-a-week",
-      "published_date": "2026-08-29T17:57:43+00:00",
-      "category": "Diplomacy"
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T05:03:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
@@ -200,18 +228,18 @@
       "category": "Military"
     },
     {
-      "title": "12 arrested as Saudi Border Guard seizes 290 kg of khat, 33 kg of hashish",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664086/saudi-arabia/12-arrested-as-saudi-border-guard-seizes-290-kg-of-khat-33-kg-of-hashish",
-      "published_date": "2026-08-26T12:31:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Meteorological Fall begins in Saudi Arabia as temperatures gradually drop",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664226/saudi-arabia/meteorological-fall-begins-in-saudi-arabia-as-temperatures-gradually-drop",
       "published_date": "2026-09-01T16:35:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan: Global economy more vulnerable despite resilience",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664251/saudi-arabia/al-jadaan-global-economy-more-vulnerable-despite-resilience",
+      "published_date": "2026-09-02T13:07:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sixth Hunting Season begins in Saudi Arabia under strict regulations",
@@ -312,11 +340,46 @@
       "category": "Economy"
     },
     {
-      "title": "Expo 2030 Riyadh and Atout France sign MoU to promote strategic collaboration and strengthen knowledge exchange",
+      "title": "From gold medals to global awards: Saudi Arabia’s August achievements",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664095/saudi-arabia/expo-2030-riyadh-and-atout-france-sign-mou-to-promote-strategic-collaboration-and-strengthen-knowledge-exchange",
-      "published_date": "2026-08-26T14:54:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664249/saudi-arabia/from-gold-medals-to-global-awards-saudi-arabias-august-achievements",
+      "published_date": "2026-09-02T12:22:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guard seizes 154kg of khat, hashish and 19,120 tablets in Jazan, Asir",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664246/saudi-arabia/border-guard-seizes-154kg-of-khat-hashish-and-19120-tablets-in-jazan-asir",
+      "published_date": "2026-09-02T11:40:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red alerts issued as thunderstorms, hail and flash floods sweep across Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664243/saudi-arabia/red-alerts-issued-as-thunderstorms-hail-and-flash-floods-sweep-across-saudi-regions",
+      "published_date": "2026-09-02T11:17:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Resident arrested by Riyadh Police over livestream remarks offensive to women and religious values",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664242/saudi-arabia/resident-arrested-by-riyadh-police-over-livestream-remarks-offensive-to-women-and-religious-values",
+      "published_date": "2026-09-02T11:05:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia records SR 5.8 billion in POS transactions in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664241/saudi-arabia/saudi-arabia-records-sr-58-billion-in-pos-transactions-in-one-week",
+      "published_date": "2026-09-02T10:44:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Filipino seafarers die aboard Saudi vessel in Strait of Hormuz security incident",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664240/saudi-arabia/two-filipino-seafarers-killed-in-incident-involving-saudi-vessel-in-strait-of-hormuz",
+      "published_date": "2026-09-02T09:59:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "108 government employees arrested over corruption charges",
@@ -414,48 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664153/saudi-arabia/thunderstorms-heavy-rain-forecast-across-regions-as-temperatures-soar-to-48c",
       "published_date": "2026-08-30T07:54:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 million students return to schools in Makkah and Madinah regions Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664151/saudi-arabia/2-million-students-return-to-schools-in-makkah-and-madinah-regions-sunday",
-      "published_date": "2026-08-29T17:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ismail Ould Cheikh Ahmed elected new secretary general of OIC",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664126/saudi-arabia/ismail-ould-cheikh-ahmed-elected-new-secretary-general-of-oic",
-      "published_date": "2026-08-27T20:45:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan to host international calligraphy competition to create unique copy of Qur’an",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664121/saudi-arabia/uzbekistan-to-host-international-calligraphy-competition-to-create-unique-copy-of-quran",
-      "published_date": "2026-08-27T14:03:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arabian oryx makes historic recovery from ‘Extinct in the Wild’ to ‘Vulnerable’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664119/saudi-arabia/arabian-oryx-makes-historic-recovery-from-extinct-in-the-wild-to-vulnerable",
-      "published_date": "2026-08-27T13:21:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T11:23:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM issues red weather alerts as temperatures soar to 47°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664109/saudi-arabia/ncm-issues-red-weather-alerts-as-temperatures-soar-to-47c",
-      "published_date": "2026-08-27T07:05:49+00:00",
       "category": "Local Events"
     }
   ]
