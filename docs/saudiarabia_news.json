@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-03T00:58:40.875705+00:00",
-  "story_count": 69,
+  "last_updated": "2026-09-03T14:51:09.380339+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Arabia, Indonesia to boost student exchange, scholarship ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664283/saudi-arabia/indonesia-saudi-arabia-to-boost-student-exchange-scholarship-ties",
+      "published_date": "2026-09-03T14:00:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Serbia sign mutual visa exemption agreement for diplomatic, special passports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664281/saudi-arabia/saudi-arabia-serbia-sign-mutual-visa-exemption-agreement-for-diplomatic-special-passports",
+      "published_date": "2026-09-03T13:00:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Serbia sign visa exemption agreement for diplomatic, special and service passports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664272/saudi-arabia/saudi-arabia-serbia-sign-visa-exemption-agreement-for-diplomatic-special-and-service-passports",
+      "published_date": "2026-09-03T08:48:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanese PM, Saudi ambassador discuss regional developments",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Adel Jubeir meets British minister of state for trade",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664202/saudi-arabia/adel-jubeir-meets-british-minister-of-state-for-trade",
-      "published_date": "2026-08-31T20:58:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SR300 fine for failing to keep safe distance between vehicles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664200/saudi-arabia/sr300-fine-for-failing-to-keep-safe-distance-between-vehicles",
-      "published_date": "2026-08-31T20:20:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Jalajel begins visit to Portugal to expand health cooperation, exchange expertise",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664197/saudi-arabia/al-jalajel-begins-visit-to-portugal-to-expand-health-cooperation-exchange-expertise",
-      "published_date": "2026-08-31T15:44:03+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-03T09:53:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Islamic Military Coalition, UK to expand counterterrorism cooperation",
@@ -249,6 +256,13 @@
       "category": "Energy"
     },
     {
+      "title": "Ministry of Tourism, WTM Spotlight Riyadh announce strategic partnership for inaugural event",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664278/saudi-arabia/ministry-of-tourism-wtm-spotlight-riyadh-announce-strategic-partnership-for-inaugural-event",
+      "published_date": "2026-09-03T11:12:51+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Al-Jadaan: Global economy more vulnerable despite resilience",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664251/saudi-arabia/al-jadaan-global-economy-more-vulnerable-despite-resilience",
@@ -340,11 +354,11 @@
       "category": "Economy"
     },
     {
-      "title": "Riyadh launches Digital District to become a top 10 global tech hub",
+      "title": "Heavy rain continues across parts of Saudi Arabia as NCM issues red alerts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664112/saudi-arabia/riyadh-launches-digital-district-to-become-a-top-10-global-tech-hub",
-      "published_date": "2026-08-27T10:30:01+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664271/saudi-arabia/heavy-rain-continues-across-parts-of-saudi-arabia-as-ncm-issues-red-alerts",
+      "published_date": "2026-09-03T08:26:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "From gold medals to global awards: Saudi Arabia’s August achievements",
@@ -477,13 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664156/saudi-arabia/saudi-arabia-launches-first-national-food-composition-database",
       "published_date": "2026-08-30T12:14:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, heavy rain forecast across regions as temperatures soar to 48°C",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664153/saudi-arabia/thunderstorms-heavy-rain-forecast-across-regions-as-temperatures-soar-to-48c",
-      "published_date": "2026-08-30T07:54:49+00:00",
       "category": "Local Events"
     }
   ]
