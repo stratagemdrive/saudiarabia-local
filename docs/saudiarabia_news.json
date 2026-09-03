@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-02T14:57:09.367378+00:00",
-  "story_count": 68,
+  "last_updated": "2026-09-03T00:58:40.875705+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Lebanese PM, Saudi ambassador discuss regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664264/saudi-arabia/lebanese-pm-saudi-ambassador-discuss-regional-developments",
+      "published_date": "2026-09-02T21:09:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince offer condolences to French president on death of former PM Balladur",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664262/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-french-president-on-death-of-former-pm-balladur",
+      "published_date": "2026-09-02T20:12:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC, Qatar, Jordan condemn Iranian attack on Saudi tanker in Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664261/saudi-arabia/gcc-qatar-jordan-condemn-iranian-attack-on-saudi-tanker-in-strait-of-hormuz",
+      "published_date": "2026-09-02T17:05:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia stresses regional de-escalation vital for sustainable development",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664259/saudi-arabia/saudi-arabia-stresses-regional-de-escalation-vital-for-sustainable-development",
+      "published_date": "2026-09-02T17:02:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REGA warning: Real Estate violators face license cancellation, SR200,000 fine",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664258/saudi-arabia/rega-warning-real-estate-violators-face-license-cancellation-sr200000-fine",
+      "published_date": "2026-09-02T15:22:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi citizens can now update ID photos online via Absher",
       "source": "Saudi Gazette",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia reaffirms commitment to activating Makkah Joint Defense Agreement",
+      "title": "Islamic Military Coalition, UK to expand counterterrorism cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664194/saudi-arabia/saudi-arabia-reaffirms-commitment-to-activating-makkah-joint-defense-agreement",
-      "published_date": "2026-08-31T14:18:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664263/saudi-arabia/islamic-military-coalition-uk-to-expand-counterterrorism-cooperation",
+      "published_date": "2026-09-02T21:01:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Traffic: Turning right after triangle is running a red-light offense",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664193/saudi-arabia/saudi-traffic-turning-right-after-triangle-is-running-a-red-light-offense",
-      "published_date": "2026-08-31T14:09:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia powers ahead in AI race with XAI expansion and NVIDIA mega factory",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664192/saudi-arabia/saudi-arabia-powers-ahead-in-ai-race-with-xai-expansion-and-nvidia-mega-factory",
-      "published_date": "2026-08-31T13:10:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Turkish FMs discuss regional developments on sidelines of Joint Defense Committee meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664185/saudi-arabia/saudi-turkish-fms-discuss-regional-developments-on-sidelines-of-joint-defense-committee-meeting",
-      "published_date": "2026-08-31T10:45:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Space Agency unveils guide to major astronomical events, celestial fiesta over Saudi skies through 2030",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664172/saudi-arabia/saudi-space-agency-unveils-guide-to-major-astronomical-events-celestial-fiesta-over-saudi-skies-through-2030",
-      "published_date": "2026-08-30T15:58:54+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T17:33:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Multinational maritime defense coalition begins operations from command headquarters",
@@ -330,13 +344,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664112/saudi-arabia/riyadh-launches-digital-district-to-become-a-top-10-global-tech-hub",
       "published_date": "2026-08-27T10:30:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia&#039;s trade surplus surges 53% to SR155 billion in 1H 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664098/saudi-arabia/saudi-arabias-trade-surplus-surges-53-to-sr155-billion-in-1h-2026",
-      "published_date": "2026-08-26T16:41:25+00:00",
       "category": "Economy"
     },
     {
