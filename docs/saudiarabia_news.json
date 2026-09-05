@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-04T14:45:54.557174+00:00",
-  "story_count": 72,
+  "last_updated": "2026-09-05T00:39:20.160804+00:00",
+  "story_count": 73,
   "stories": [
     {
       "title": "Saudi citizen stabbed in London’s Mayfair: Embassy",
@@ -263,18 +263,25 @@
       "category": "Military"
     },
     {
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T19:45:39+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Meteorological Fall begins in Saudi Arabia as temperatures gradually drop",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664226/saudi-arabia/meteorological-fall-begins-in-saudi-arabia-as-temperatures-gradually-drop",
       "published_date": "2026-09-01T16:35:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia to host second EU-GCC Summit on Oct. 24",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664311/saudi-arabia/saudi-arabia-to-host-second-eu-gcc-summit-on-oct-24",
+      "published_date": "2026-09-04T14:50:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Customs foil attempt to smuggle 18,549 amphetamine pills at Dammam airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664310/saudi-arabia/saudi-customs-seize-18549-amphetamine-pills-at-dammam-airport",
+      "published_date": "2026-09-04T14:16:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "239 suspected cases of commercial cover-up detected last month",
