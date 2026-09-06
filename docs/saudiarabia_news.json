@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-06T00:39:04.274632+00:00",
-  "story_count": 74,
+  "last_updated": "2026-09-06T13:55:01.924784+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi FM discusses regional developments, de-escalation in calls with Iranian, Pakistani counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664337/saudi-arabia/saudi-fm-discusses-regional-developments-de-escalation-in-calls-with-iranian-pakistani-counterparts",
+      "published_date": "2026-09-06T11:00:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, 7 countries condemn Ben-Gvir’s calls for forced Palestinian displacement, Gaza settlements",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664335/saudi-arabia/saudi-arabia-7-countries-condemn-ben-gvirs-calls-for-forced-palestinian-displacement-gaza-settlements",
+      "published_date": "2026-09-06T10:26:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 12,363 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Over 240 million transactions processed through Absher in 1H 2026",
+      "title": "Border Guard arrests 13, seizes 280kg of khat, 37kg of hashish and 45,000 pills",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664255/saudi-arabia/over-240-million-transactions-processed-through-absher-in-1h-2026",
-      "published_date": "2026-09-02T13:58:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664334/saudi-arabia/border-guard-arrests-13-seizes-280kg-of-khat-37kg-of-hashish-and-45000-pills",
+      "published_date": "2026-09-06T08:46:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Nepal sign air transport services agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664253/saudi-arabia/saudi-arabia-nepal-sign-air-transport-services-agreement",
-      "published_date": "2026-09-02T13:36:23+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T22:44:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi-Malaysian security cooperation foils smuggling of 505 kg of ketamine",
@@ -375,11 +389,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi e-sales surge 9.8% in Q2 as retail trade jumps 13.4%",
+      "title": "Red, orange alerts warn of heavy rain, thunderstorms and flash floods across regions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664157/saudi-arabia/saudi-e-sales-surge-98-in-q2-as-retail-trade-jumps-134",
-      "published_date": "2026-08-30T12:42:34+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664333/saudi-arabia/red-orange-alerts-warn-of-heavy-rain-thunderstorms-and-flash-floods-across-regions",
+      "published_date": "2026-09-06T08:24:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-06T08:05:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rehabilitated Saudi vultures settle in Armenia and Iraq after epic regional journey",
@@ -505,20 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664201/saudi-arabia/islamic-affairs-minister-launches-program-to-enhance-religious-and-intellectual-awareness",
       "published_date": "2026-08-31T20:49:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "300-meter buffer zone mandated for shared housing near schools, hospitals",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664195/saudi-arabia/300-meter-buffer-zone-mandated-for-shared-housing-near-schools-hospitals",
-      "published_date": "2026-08-31T14:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard arrests 18, thwarts smuggling of 320 kg of khat, 79,300 tablets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664186/saudi-arabia/border-guard-arrests-18-thwarts-smuggling-of-320-kg-of-khat-79300-tablets",
-      "published_date": "2026-08-31T11:21:45+00:00",
       "category": "Local Events"
     }
   ]
