@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-05T13:39:37.342946+00:00",
-  "story_count": 73,
+  "last_updated": "2026-09-06T00:39:04.274632+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 12,363 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664331/saudi-arabia/saudi-arabia-deports-12363-illegal-residents-in-a-week",
+      "published_date": "2026-09-05T16:39:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Alswaha, UN official discuss strengthening partnerships in digital government",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia condemns Iran’s targeting of Saudi tanker in Strait of Hormuz",
+      "title": "Saudi-Malaysian security cooperation foils smuggling of 505 kg of ketamine",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664244/saudi-arabia/saudi-arabia-condemns-irans-targeting-of-saudi-tanker-in-strait-of-hormuz",
-      "published_date": "2026-09-02T11:21:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664327/saudi-arabia/saudi-malaysian-security-cooperation-foils-smuggling-of-505-kg-of-ketamine",
+      "published_date": "2026-09-05T14:08:41+00:00",
+      "category": "Military"
     },
     {
       "title": "How could US-Iran conflict end? Three experts give their views",
@@ -270,6 +277,20 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Customs ports report 1075 contraband seizures last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664332/saudi-arabia/saudi-customs-ports-report-1075-contraband-seizures-last-week",
+      "published_date": "2026-09-05T16:48:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Rumayyan: PIF’s strong governance boosts capital attraction",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664330/saudi-arabia/al-rumayyan-pifs-strong-governance-boosts-capital-attraction",
+      "published_date": "2026-09-05T15:09:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi Arabia to host second EU-GCC Summit on Oct. 24",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664311/saudi-arabia/saudi-arabia-to-host-second-eu-gcc-summit-on-oct-24",
@@ -361,18 +382,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs ports record 1,078 contraband seizures last week",
+      "title": "Rehabilitated Saudi vultures settle in Armenia and Iraq after epic regional journey",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664150/saudi-arabia/saudi-customs-ports-record-1078-contraband-seizures-last-week",
-      "published_date": "2026-08-29T15:31:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia and Pakistan affirm strengthening strategic partnership in agriculture and food security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664149/saudi-arabia/saudi-arabia-and-pakistan-affirm-strengthening-strategic-partnership-in-agriculture-and-food-security",
-      "published_date": "2026-08-29T14:33:47+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664326/saudi-arabia/saudi-released-griffon-vultures-settle-in-armenia-and-iraq-after-crossing-eight-countries",
+      "published_date": "2026-09-05T13:30:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia adopts municipal regulations for commercial data centers",
@@ -505,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664186/saudi-arabia/border-guard-arrests-18-thwarts-smuggling-of-320-kg-of-khat-79300-tablets",
       "published_date": "2026-08-31T11:21:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-31T10:00:23+00:00",
       "category": "Local Events"
     }
   ]
