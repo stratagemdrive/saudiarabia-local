@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-06T13:55:01.924784+00:00",
-  "story_count": 75,
+  "last_updated": "2026-09-07T00:44:08.199914+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Oman signs Participation Contract for Expo 2030 Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664360/saudi-arabia/oman-signs-participation-contract-for-expo-2030-riyadh",
+      "published_date": "2026-09-06T21:14:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Ambassador Al-Anzi presents credentials to Syria&#039;s president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664359/saudi-arabia/saudi-ambassador-al-anzi-presents-credentials-to-syrias-president",
+      "published_date": "2026-09-06T21:04:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bahraini Crown Prince meets with Saudi health minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664358/saudi-arabia/bahraini-crown-prince-meets-with-saudi-health-minister",
+      "published_date": "2026-09-06T20:59:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albudaiwi: Unified Gulf Tourist Visa set for imminent launch",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664357/saudi-arabia/albudaiwi-unified-gulf-tourist-visa-set-for-imminent-launch",
+      "published_date": "2026-09-06T20:04:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Security has been a cornerstone of Saudi Arabia for three centuries, Al-Tuwaiyan says",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664355/saudi-arabia/security-has-been-a-cornerstone-of-saudi-arabia-for-three-centuries-al-tuwaiyan-says",
+      "published_date": "2026-09-06T17:30:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "False real estate information may draw SR50,000 fine",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664353/saudi-arabia/false-real-estate-information-may-draw-sr50000-fine",
+      "published_date": "2026-09-06T17:12:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Kuwait strengthen cooperation in combating desertification and restoring lands",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664341/saudi-arabia/saudi-arabia-kuwait-strengthen-cooperation-in-combating-desertification-and-restoring-lands",
+      "published_date": "2026-09-06T14:51:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses regional developments, de-escalation in calls with Iranian, Pakistani counterparts",
       "source": "Saudi Gazette",
@@ -95,53 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Serbia sign visa exemption agreement for diplomatic, special and service passports",
+      "title": "Interior Minister opens Security and History Dialogue 2026 in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664272/saudi-arabia/saudi-arabia-serbia-sign-visa-exemption-agreement-for-diplomatic-special-and-service-passports",
-      "published_date": "2026-09-03T08:48:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanese PM, Saudi ambassador discuss regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664264/saudi-arabia/lebanese-pm-saudi-ambassador-discuss-regional-developments",
-      "published_date": "2026-09-02T21:09:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince offer condolences to French president on death of former PM Balladur",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664262/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-french-president-on-death-of-former-pm-balladur",
-      "published_date": "2026-09-02T20:12:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC, Qatar, Jordan condemn Iranian attack on Saudi tanker in Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664261/saudi-arabia/gcc-qatar-jordan-condemn-iranian-attack-on-saudi-tanker-in-strait-of-hormuz",
-      "published_date": "2026-09-02T17:05:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia stresses regional de-escalation vital for sustainable development",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664259/saudi-arabia/saudi-arabia-stresses-regional-de-escalation-vital-for-sustainable-development",
-      "published_date": "2026-09-02T17:02:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "REGA warning: Real Estate violators face license cancellation, SR200,000 fine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664258/saudi-arabia/rega-warning-real-estate-violators-face-license-cancellation-sr200000-fine",
-      "published_date": "2026-09-02T15:22:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi citizens can now update ID photos online via Absher",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664256/saudi-arabia/saudi-citizens-can-now-update-id-photos-online-via-absher",
-      "published_date": "2026-09-02T14:22:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664354/saudi-arabia/interior-minister-opens-security-and-history-dialogue-2026-in-riyadh",
+      "published_date": "2026-09-06T17:22:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Border Guard arrests 13, seizes 280kg of khat, 37kg of hashish and 45,000 pills",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "First Makkah Joint Defense Pact strategic committee meeting set for Istanbul on Monday",
+      "title": "OPEC+ agree to maintain oil output quotas unchanged for October",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664170/saudi-arabia/saudi-arabia-turkiye-pakistan-to-hold-first-makkah-defense-pact-committee-meeting",
-      "published_date": "2026-08-30T15:02:41+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
+      "published_date": "2026-09-06T13:52:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Meteorological Fall begins in Saudi Arabia as temperatures gradually drop",
@@ -289,6 +296,27 @@
       "url": "https://saudigazette.com.sa/article/664226/saudi-arabia/meteorological-fall-begins-in-saudi-arabia-as-temperatures-gradually-drop",
       "published_date": "2026-09-01T16:35:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Security is foundation of investment and economic growth, Saudi chambers chief says",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664356/saudi-arabia/security-is-foundation-of-investment-and-economic-growth-saudi-chambers-chief-says",
+      "published_date": "2026-09-06T17:37:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi banking loans to public and private sectors surge 7% to SR3.54 trillion by end of July 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664350/saudi-arabia/saudi-banking-loans-to-public-and-private-sectors-surge-7-to-sr354-trillion-by-end-of-july-2026",
+      "published_date": "2026-09-06T17:07:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CEDA highlights Saudi economic resilience as inflation stays at 1.8%, PMI reaches 53.1",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664340/saudi-arabia/ceda-meeting-reviews-positive-performance-and-achievements-of-vision-2030-programs-and-national-strategies",
+      "published_date": "2026-09-06T14:22:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs ports report 1075 contraband seizures last week",
@@ -368,25 +396,18 @@
       "category": "Economy"
     },
     {
-      "title": "Alswaha: Saudi Arabia will introduce Freedom of Information Law soon",
+      "title": "London police charge assailant with attempted murder of Saudi citizen",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664173/saudi-arabia/alswaha-saudi-arabia-will-introduce-freedom-of-information-law-soon",
-      "published_date": "2026-08-30T17:26:01+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664343/saudi-arabia/london-police-charge-assailant-with-attempted-murder-of-saudi-citizen",
+      "published_date": "2026-09-06T16:35:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Commerce Ministry stresses timely financial filing to boost business efficiency, investor confidence",
+      "title": "Municipalities, housing sector records over 3 million volunteer hours in 1H 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664168/saudi-arabia/commerce-ministry-stresses-timely-financial-filing-to-boost-business-efficiency-investor-confidence",
-      "published_date": "2026-08-30T14:25:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia agrees to raise Pakistani agricultural and food exports to $3 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664167/saudi-arabia/saudi-arabia-agrees-to-raise-pakistani-agricultural-and-food-exports-to-3-billion",
-      "published_date": "2026-08-30T13:57:27+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664342/saudi-arabia/municipalities-housing-sector-records-over-3-million-volunteer-hours-in-1h-2026",
+      "published_date": "2026-09-06T15:17:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Red, orange alerts warn of heavy rain, thunderstorms and flash floods across regions",
@@ -512,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664212/saudi-arabia/tga-forms-five-specialized-committees-to-oversee-land-transport-violations-grievances",
       "published_date": "2026-09-01T11:27:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM issues red alerts as heavy rain forecast to continue through next week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664210/saudi-arabia/ncm-issues-red-alerts-as-heavy-rain-forecast-to-continue-through-next-week",
-      "published_date": "2026-09-01T10:25:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic Affairs Minister launches program to enhance religious and intellectual awareness",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664201/saudi-arabia/islamic-affairs-minister-launches-program-to-enhance-religious-and-intellectual-awareness",
-      "published_date": "2026-08-31T20:49:46+00:00",
       "category": "Local Events"
     }
   ]
