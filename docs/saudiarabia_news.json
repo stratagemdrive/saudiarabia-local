@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-07T16:16:05.237755+00:00",
-  "story_count": 79,
+  "last_updated": "2026-09-08T00:57:43.352671+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi FM, German minister meet to discuss expanding partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664389/saudi-arabia/saudi-fm-german-minister-meet-to-discuss-expanding-partnership",
+      "published_date": "2026-09-07T20:20:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HR Ministry: Failure to notify job applicants of interview results is a violation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664388/saudi-arabia/hr-ministry-failure-to-notify-job-applicants-of-interview-results-is-a-violation",
+      "published_date": "2026-09-07T17:10:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Kheraiji attends Arab League ministerial session and session on Jerusalem in Cairo",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664387/saudi-arabia/al-kheraiji-attends-arab-league-ministerial-session-and-session-on-jerusalem-in-cairo",
+      "published_date": "2026-09-07T16:51:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi media must prioritize accuracy and objectivity over speed, says Jameel Altheyabi",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664308/saudi-arabia/saudi-citizen-stabbed-in-londons-mayfair-embassy",
       "published_date": "2026-09-04T13:13:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce ministry carries out over 20,000 inspection tours in August",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664293/saudi-arabia/commerce-ministry-carries-out-over-20000-inspection-tours-in-august",
-      "published_date": "2026-09-03T20:42:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Greek foreign ministers discuss improving bilateral ties in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664292/saudi-arabia/saudi-greek-foreign-ministers-discuss-improving-bilateral-ties-in-phone-call",
-      "published_date": "2026-09-03T20:32:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bahrain signs Participation Contract for Expo 2030 Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664289/saudi-arabia/bahrain-signs-participation-contract-for-expo-2030-riyadh",
-      "published_date": "2026-09-03T16:28:33+00:00",
       "category": "Diplomacy"
     },
     {
@@ -267,13 +267,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-01T12:58:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia to host secretariat of Makkah Joint Defense Agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664199/saudi-arabia/saudi-arabia-to-host-makkah-joint-defense-agreement-secretariat",
-      "published_date": "2026-08-31T18:52:27+00:00",
       "category": "Military"
     },
     {
@@ -407,13 +400,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664221/saudi-arabia/al-jadaan-heads-saudi-delegation-attending-g20-finance-leaders-meeting-in-us",
       "published_date": "2026-09-01T14:30:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Tourism unveils unified digital platform for tourism services",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664198/saudi-arabia/saudi-tourism-unveils-unified-digital-platform-for-tourism-services",
-      "published_date": "2026-08-31T16:56:21+00:00",
       "category": "Economy"
     },
     {
