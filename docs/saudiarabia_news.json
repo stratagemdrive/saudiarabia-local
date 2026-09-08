@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-08T00:57:43.352671+00:00",
-  "story_count": 77,
+  "last_updated": "2026-09-08T14:52:04.164291+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi Arabia draws red line: Will defend itself and its interests",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664408/saudi-arabia/saudi-arabia-draws-red-line-will-defend-itself-and-its-interests",
+      "published_date": "2026-09-08T13:11:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses Middle East crises, peace efforts with German MPs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664397/saudi-arabia/saudi-fm-discusses-middle-east-crises-peace-efforts-with-german-mps",
+      "published_date": "2026-09-08T07:18:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM, German minister meet to discuss expanding partnership",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Alswaha, UN official discuss strengthening partnerships in digital government",
+      "title": "Saudi Arabia vows firm response after Houthi attacks injure 73 civilians",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664319/saudi-arabia/alswaha-un-official-discuss-strengthening-partnerships-in-digital-government",
-      "published_date": "2026-09-05T13:08:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi citizen stabbed in London’s Mayfair: Embassy",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664308/saudi-arabia/saudi-citizen-stabbed-in-londons-mayfair-embassy",
-      "published_date": "2026-09-04T13:13:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664396/saudi-arabia/saudi-arabia-vows-firm-response-after-houthi-attacks-injure-73-civilians",
+      "published_date": "2026-09-08T06:58:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Islamic Military Coalition, Türkiye discuss enhancing counter-terrorism cooperation",
@@ -263,11 +270,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-01T12:58:44+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T13:58:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
@@ -289,6 +296,13 @@
       "url": "https://saudigazette.com.sa/article/664226/saudi-arabia/meteorological-fall-begins-in-saudi-arabia-as-temperatures-gradually-drop",
       "published_date": "2026-09-01T16:35:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi GDP contracts 4.7% in Q2 as oil activity falls 24.8%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664399/saudi-arabia/saudi-non-oil-government-activities-grow-09-in-q2-2026",
+      "published_date": "2026-09-08T08:23:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "National Center for Inspection and Monitoring receives over 11 million reports",
@@ -396,11 +410,18 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan heads Saudi delegation attending G20 finance leaders meeting in US",
+      "title": "Saudi energy facilities targeted in southern region, fires halt some operations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664221/saudi-arabia/al-jadaan-heads-saudi-delegation-attending-g20-finance-leaders-meeting-in-us",
-      "published_date": "2026-09-01T14:30:51+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664398/saudi-arabia/saudi-energy-facilities-targeted-in-southern-region-fires-halt-some-operations",
+      "published_date": "2026-09-08T07:26:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T21:12:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Up to 6-month jail and SR100,000 fine for allowing employees to work for others",
@@ -526,20 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664240/saudi-arabia/two-filipino-seafarers-killed-in-incident-involving-saudi-vessel-in-strait-of-hormuz",
       "published_date": "2026-09-02T09:59:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "108 government employees arrested over corruption charges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664228/saudi-arabia/108-government-employees-arrested-over-corruption-charges",
-      "published_date": "2026-09-01T20:47:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How curiosity led a Saudi teenager to an award-winning waste innovation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution",
-      "published_date": "2026-09-01T12:07:34+00:00",
       "category": "Local Events"
     }
   ]
