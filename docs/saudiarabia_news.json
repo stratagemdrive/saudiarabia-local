@@ -1,8 +1,64 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-09T01:04:24.785469+00:00",
-  "story_count": 79,
+  "last_updated": "2026-09-09T15:00:06.166160+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi Arabia approves 4,310-square-kilometer nature reserve near Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664442/saudi-arabia/saudi-arabia-approves-4310-square-kilometer-imam-abdulrahman-bin-faisal-nature-reserve",
+      "published_date": "2026-09-09T14:16:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SR6,000 fine for unauthorized car races on public roads",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664441/saudi-arabia/sr6000-fine-for-unauthorized-car-races-on-public-roads",
+      "published_date": "2026-09-09T14:13:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T13:28:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives princes, scholars and senior officials in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664435/saudi-arabia/crown-prince-receives-princes-scholars-and-senior-officials-in-jeddah",
+      "published_date": "2026-09-09T13:03:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns Iranian attacks on Jordan, backs its response",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664424/saudi-arabia/saudi-arabia-strongly-condemns-iranian-attacks-on-jordan-backs-its-response",
+      "published_date": "2026-09-09T09:29:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deputy Minister discusses regional developments, bilateral ties with Chinese, Russian ambassadors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664423/saudi-arabia/deputy-minister-discusses-regional-developments-bilateral-ties-with-chinese-russian-ambassadors",
+      "published_date": "2026-09-09T08:03:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T23:52:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Israel responded to UK sanctions on West Bank settlements",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cj4jwnzd2dgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T21:25:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman gifts Kaaba Kiswa belt to Arab League",
       "source": "Saudi Gazette",
@@ -85,62 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664386/saudi-arabia/saudi-media-must-prioritize-accuracy-and-objectivity-over-speed-says-jameel-altheyabi",
       "published_date": "2026-09-07T15:32:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SR2000 fine for driving with mismatched vehicle license",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664381/saudi-arabia/sr2000-fine-for-driving-with-mismatched-vehicle-license",
-      "published_date": "2026-09-07T13:28:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA flags misleading medical device ad; violations could draw SR5 million fine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664371/saudi-arabia/sfda-flags-misleading-medical-device-ad-violations-could-draw-sr5-million-fine",
-      "published_date": "2026-09-07T10:52:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, German FMs sign strategic dialogue MoU, discuss Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664366/saudi-arabia/saudi-german-fms-sign-strategic-dialogue-mou-discuss-strait-of-hormuz",
-      "published_date": "2026-09-07T08:43:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM holds separate talks with Bahrain, UK counterparts on regional crisis, de-escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664365/saudi-arabia/saudi-fm-holds-separate-talks-with-bahrain-uk-counterparts-on-regional-crisis-de-escalation",
-      "published_date": "2026-09-07T08:28:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman signs Participation Contract for Expo 2030 Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664360/saudi-arabia/oman-signs-participation-contract-for-expo-2030-riyadh",
-      "published_date": "2026-09-06T21:14:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Ambassador Al-Anzi presents credentials to Syria&#039;s president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664359/saudi-arabia/saudi-ambassador-al-anzi-presents-credentials-to-syrias-president",
-      "published_date": "2026-09-06T21:04:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bahraini Crown Prince meets with Saudi health minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664358/saudi-arabia/bahraini-crown-prince-meets-with-saudi-health-minister",
-      "published_date": "2026-09-06T20:59:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Albudaiwi: Unified Gulf Tourist Visa set for imminent launch",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664357/saudi-arabia/albudaiwi-unified-gulf-tourist-visa-set-for-imminent-launch",
-      "published_date": "2026-09-06T20:04:04+00:00",
       "category": "Diplomacy"
     },
     {
@@ -249,32 +249,18 @@
       "category": "Military"
     },
     {
-      "title": "Multinational maritime defense coalition begins operations from command headquarters",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664252/saudi-arabia/multinational-maritime-defense-coalition-begins-operational-phase",
-      "published_date": "2026-09-02T13:11:00+00:00",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T15:33:19+00:00",
       "category": "Military"
     },
     {
-      "title": "What we know about reported strike on Iran wedding celebrations",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T10:33:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: BBC sees Israeli military presence in southern Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T08:29:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T05:03:09+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T09:47:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
@@ -296,6 +282,27 @@
       "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
       "published_date": "2026-09-06T13:52:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia approves marine war-risk insurance pool to support trade",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664439/saudi-arabia/saudi-arabia-approves-marine-war-risk-insurance-pool-for-cargo-and-vessels",
+      "published_date": "2026-09-09T14:04:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alswaha advances Saudi Arabia’s global AI partnerships with tech leaders",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664436/saudi-arabia/alswaha-advances-saudi-arabias-global-ai-partnerships-with-tech-leaders",
+      "published_date": "2026-09-09T13:40:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "British-Israeli relations at lowest ebb in decades",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T21:46:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia&#039;s foreign currency reserves jump 7.2% to SR1.73 trillion in August",
@@ -410,11 +417,18 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan: Global economy more vulnerable despite resilience",
+      "title": "National Security Operations Center receives over 2.7 million calls in August",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664251/saudi-arabia/al-jadaan-global-economy-more-vulnerable-despite-resilience",
-      "published_date": "2026-09-02T13:07:27+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664438/saudi-arabia/national-security-operations-center-receives-over-27-million-calls-in-august",
+      "published_date": "2026-09-09T14:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh becomes only Gulf city among world’s top 100 innovation clusters",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664431/saudi-arabia/riyadh-becomes-only-gulf-city-among-worlds-top-100-innovation-clusters",
+      "published_date": "2026-09-09T12:07:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jameel Altheyabi: Media and security sectors are essential partners in protecting society and strengthening stability",
@@ -533,27 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664271/saudi-arabia/heavy-rain-continues-across-parts-of-saudi-arabia-as-ncm-issues-red-alerts",
       "published_date": "2026-09-03T08:26:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From gold medals to global awards: Saudi Arabia’s August achievements",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664249/saudi-arabia/from-gold-medals-to-global-awards-saudi-arabias-august-achievements",
-      "published_date": "2026-09-02T12:22:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard seizes 154kg of khat, hashish and 19,120 tablets in Jazan, Asir",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664246/saudi-arabia/border-guard-seizes-154kg-of-khat-hashish-and-19120-tablets-in-jazan-asir",
-      "published_date": "2026-09-02T11:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alerts issued as thunderstorms, hail and flash floods sweep across Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664243/saudi-arabia/red-alerts-issued-as-thunderstorms-hail-and-flash-floods-sweep-across-saudi-regions",
-      "published_date": "2026-09-02T11:17:55+00:00",
       "category": "Local Events"
     }
   ]
