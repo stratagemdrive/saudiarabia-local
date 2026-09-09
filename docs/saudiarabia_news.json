@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-08T14:52:04.164291+00:00",
-  "story_count": 78,
+  "last_updated": "2026-09-09T01:04:24.785469+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "King Salman gifts Kaaba Kiswa belt to Arab League",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664417/saudi-arabia/king-salman-gifts-kaaba-kiswa-belt-to-arab-league",
+      "published_date": "2026-09-08T20:55:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince offer condolences to Tanzanian president over death of her husband",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664415/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-tanzanian-president-over-death-of-her-husband",
+      "published_date": "2026-09-08T20:07:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T19:11:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Weqaa Center launches “The Healthier Choice” campaign to promote safer farming",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664412/saudi-arabia/weqaa-center-launches-the-healthier-choice-campaign-to-promote-safer-farming",
+      "published_date": "2026-09-08T16:11:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T15:36:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia issues volcanic ash alert for citizens in Indonesia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664411/saudi-arabia/saudi-arabia-issues-volcanic-ash-alert-for-citizens-in-indonesia",
+      "published_date": "2026-09-08T15:26:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia draws red line: Will defend itself and its interests",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Security has been a cornerstone of Saudi Arabia for three centuries, Al-Tuwaiyan says",
+      "title": "US says Houthis must bear consequences of their aggression",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664355/saudi-arabia/security-has-been-a-cornerstone-of-saudi-arabia-for-three-centuries-al-tuwaiyan-says",
-      "published_date": "2026-09-06T17:30:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664419/saudi-arabia/us-eu-condemn-houthi-attacks-on-saudi-arabia",
+      "published_date": "2026-09-08T21:14:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "False real estate information may draw SR50,000 fine",
+      "title": "Arab and Islamic nations rally behind Saudi Arabia, condemn Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664353/saudi-arabia/false-real-estate-information-may-draw-sr50000-fine",
-      "published_date": "2026-09-06T17:12:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Kuwait strengthen cooperation in combating desertification and restoring lands",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664341/saudi-arabia/saudi-arabia-kuwait-strengthen-cooperation-in-combating-desertification-and-restoring-lands",
-      "published_date": "2026-09-06T14:51:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional developments, de-escalation in calls with Iranian, Pakistani counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664337/saudi-arabia/saudi-fm-discusses-regional-developments-de-escalation-in-calls-with-iranian-pakistani-counterparts",
-      "published_date": "2026-09-06T11:00:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, 7 countries condemn Ben-Gvir’s calls for forced Palestinian displacement, Gaza settlements",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664335/saudi-arabia/saudi-arabia-7-countries-condemn-ben-gvirs-calls-for-forced-palestinian-displacement-gaza-settlements",
-      "published_date": "2026-09-06T10:26:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 12,363 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664331/saudi-arabia/saudi-arabia-deports-12363-illegal-residents-in-a-week",
-      "published_date": "2026-09-05T16:39:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664410/saudi-arabia/arab-and-islamic-nations-rally-behind-saudi-arabia-condemn-houthi-attacks",
+      "published_date": "2026-09-08T14:44:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia vows firm response after Houthi attacks injure 73 civilians",
@@ -263,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T00:13:26+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
@@ -291,11 +298,18 @@
       "category": "Energy"
     },
     {
-      "title": "Meteorological Fall begins in Saudi Arabia as temperatures gradually drop",
+      "title": "Saudi Arabia&#039;s foreign currency reserves jump 7.2% to SR1.73 trillion in August",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664226/saudi-arabia/meteorological-fall-begins-in-saudi-arabia-as-temperatures-gradually-drop",
-      "published_date": "2026-09-01T16:35:07+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/664414/saudi-arabia/saudi-arabias-foreign-currency-reserves-jump-72-to-sr173-trillion-in-august",
+      "published_date": "2026-09-08T17:02:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "E-commerce sales in Saudi Arabia surge 11.8% to SR37.6 billion in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664413/saudi-arabia/e-commerce-sales-in-saudi-arabia-surge-118-to-sr376-billion-in-july",
+      "published_date": "2026-09-08T16:36:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi GDP contracts 4.7% in Q2 as oil activity falls 24.8%",
@@ -403,11 +417,25 @@
       "category": "Economy"
     },
     {
-      "title": "Sixth Hunting Season begins in Saudi Arabia under strict regulations",
+      "title": "Jameel Altheyabi: Media and security sectors are essential partners in protecting society and strengthening stability",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664224/saudi-arabia/sixth-hunting-season-begins-in-saudi-arabia-under-strict-regulations",
-      "published_date": "2026-09-01T14:58:20+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664421/saudi-arabia/jameel-altheyabi-media-and-security-sectors-are-essential-partners-in-protecting-society-and-strengthening-stability",
+      "published_date": "2026-09-08T23:02:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia affirms resolve to defend sovereignty, protect citizens and expats",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664420/saudi-arabia/saudi-arabia-vows-to-defend-sovereignty-protect-citizens-and-expats",
+      "published_date": "2026-09-08T21:41:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Defense urges caution as thunderstorms forecast in a number of Saudi regions through Monday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664416/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-forecast-in-a-number-of-saudi-regions-through-monday",
+      "published_date": "2026-09-08T20:19:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi energy facilities targeted in southern region, fires halt some operations",
@@ -526,27 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664243/saudi-arabia/red-alerts-issued-as-thunderstorms-hail-and-flash-floods-sweep-across-saudi-regions",
       "published_date": "2026-09-02T11:17:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident arrested by Riyadh Police over livestream remarks offensive to women and religious values",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664242/saudi-arabia/resident-arrested-by-riyadh-police-over-livestream-remarks-offensive-to-women-and-religious-values",
-      "published_date": "2026-09-02T11:05:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia records SR 5.8 billion in POS transactions in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664241/saudi-arabia/saudi-arabia-records-sr-58-billion-in-pos-transactions-in-one-week",
-      "published_date": "2026-09-02T10:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Filipino seafarers die aboard Saudi vessel in Strait of Hormuz security incident",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664240/saudi-arabia/two-filipino-seafarers-killed-in-incident-involving-saudi-vessel-in-strait-of-hormuz",
-      "published_date": "2026-09-02T09:59:40+00:00",
       "category": "Local Events"
     }
   ]
