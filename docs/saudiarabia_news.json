@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-10T00:53:07.118203+00:00",
-  "story_count": 78,
+  "last_updated": "2026-09-10T14:47:45.774239+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Oman’s FM reaffirms solidarity with Saudi Arabia in call with Prince Faisal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664467/saudi-arabia/omans-fm-reaffirms-solidarity-with-saudi-arabia-in-call-with-prince-faisal",
+      "published_date": "2026-09-10T13:08:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns Israeli PM’s illegal incursion into Syrian territory",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664466/saudi-arabia/saudi-arabia-strongly-condemns-israeli-pms-illegal-incursion-into-syrian-territory",
+      "published_date": "2026-09-10T12:47:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 51 Toyota Supra vehicles over spare tire defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664462/saudi-arabia/saudi-arabia-recalls-51-toyota-supra-vehicles-over-spare-tire-defect",
+      "published_date": "2026-09-10T11:45:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T21:21:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Over 140 spiny-tailed lizards released in King Khalid Royal Reserve",
       "source": "Saudi Gazette",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "title": "Civil Defense calls for installing gas leak detectors in homes",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664470/saudi-arabia/civil-defense-calls-for-installing-gas-leak-detectors-in-homes",
+      "published_date": "2026-09-10T14:06:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T15:36:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia issues volcanic ash alert for citizens in Indonesia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664411/saudi-arabia/saudi-arabia-issues-volcanic-ash-alert-for-citizens-in-indonesia",
-      "published_date": "2026-09-08T15:26:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia draws red line: Will defend itself and its interests",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664408/saudi-arabia/saudi-arabia-draws-red-line-will-defend-itself-and-its-interests",
-      "published_date": "2026-09-08T13:11:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses Middle East crises, peace efforts with German MPs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664397/saudi-arabia/saudi-fm-discusses-middle-east-crises-peace-efforts-with-german-mps",
-      "published_date": "2026-09-08T07:18:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T10:43:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Coalition vows decisive response to persistent Houthi attacks on Saudi Arabia",
@@ -235,11 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T09:53:58+00:00",
-      "category": "Military"
+      "title": "Saudi mining and quarrying activity surges 19 percent in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664454/saudi-arabia/saudi-mining-and-quarrying-activity-surges-19-percent-in-july",
+      "published_date": "2026-09-10T07:48:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -268,6 +282,13 @@
       "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
       "published_date": "2026-09-06T13:52:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "GCC states approve tourism recovery plan, back Saudi UN Tourism candidacy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664468/saudi-arabia/gcc-approves-tourism-recovery-plan-backs-saudi-un-tourism-candidacy",
+      "published_date": "2026-09-10T13:22:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi business confidence climbs to 56.7 points on industry, services gains",
@@ -403,11 +424,25 @@
       "category": "Economy"
     },
     {
-      "title": "Ministry of Tourism, WTM Spotlight Riyadh announce strategic partnership for inaugural event",
+      "title": "5 Pakistanis arrested for illegally extracting sediment in Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664278/saudi-arabia/ministry-of-tourism-wtm-spotlight-riyadh-announce-strategic-partnership-for-inaugural-event",
-      "published_date": "2026-09-03T11:12:51+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664471/saudi-arabia/5-pakistanis-arrested-for-illegally-extracting-sediment-in-makkah",
+      "published_date": "2026-09-10T14:18:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SFDA grants marketing authorization for 2 Saudi-developed AI-enabled medical software products",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664469/saudi-arabia/sfda-grants-marketing-authorization-for-2-saudi-developed-ai-enabled-medical-software-products",
+      "published_date": "2026-09-10T13:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guard arrests 5, seizes 150 kg of khat, 30 kg of hashish in Jazan, Najran",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664463/saudi-arabia/border-guard-arrests-5-seizes-150-kg-of-khat-30-kg-of-hashish-in-jazan-najran",
+      "published_date": "2026-09-10T12:01:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
@@ -526,27 +561,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-06T08:05:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rehabilitated Saudi vultures settle in Armenia and Iraq after epic regional journey",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664326/saudi-arabia/saudi-released-griffon-vultures-settle-in-armenia-and-iraq-after-crossing-eight-countries",
-      "published_date": "2026-09-05T13:30:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia adopts municipal regulations for commercial data centers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664309/saudi-arabia/saudi-arabia-adopts-new-regulations-for-commercial-data-centers",
-      "published_date": "2026-09-04T13:54:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts thunderstorms across Saudi Arabia through Wednesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664291/saudi-arabia/ncm-forecasts-thunderstorms-across-saudi-arabia-through-wednesday",
-      "published_date": "2026-09-03T17:29:15+00:00",
       "category": "Local Events"
     }
   ]
