@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-09T15:00:06.166160+00:00",
+  "last_updated": "2026-09-10T00:53:07.118203+00:00",
   "story_count": 78,
   "stories": [
+    {
+      "title": "Over 140 spiny-tailed lizards released in King Khalid Royal Reserve",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664451/saudi-arabia/over-140-spiny-tailed-lizards-released-in-king-khalid-royal-reserve",
+      "published_date": "2026-09-09T20:56:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia welcomes IAEA resolution on Syria",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664448/saudi-arabia/saudi-arabia-welcomes-iaea-resolution-on-syria",
+      "published_date": "2026-09-09T20:32:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia and 7 Islamic nations welcome UK decision to ban import of goods from illegal Israeli settlements",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664447/saudi-arabia/saudi-arabia-and-7-islamic-nations-welcome-uk-decision-to-ban-import-of-goods-from-illegal-israeli-settlements",
+      "published_date": "2026-09-09T16:36:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "September 23 set as National Day holiday for private, non-profit sectors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664443/saudi-arabia/september-23-set-as-national-day-holiday-for-private-non-profit-sectors",
+      "published_date": "2026-09-09T14:40:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia approves 4,310-square-kilometer nature reserve near Riyadh",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM, German minister meet to discuss expanding partnership",
+      "title": "Coalition vows decisive response to persistent Houthi attacks on Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664389/saudi-arabia/saudi-fm-german-minister-meet-to-discuss-expanding-partnership",
-      "published_date": "2026-09-07T20:20:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HR Ministry: Failure to notify job applicants of interview results is a violation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664388/saudi-arabia/hr-ministry-failure-to-notify-job-applicants-of-interview-results-is-a-violation",
-      "published_date": "2026-09-07T17:10:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Kheraiji attends Arab League ministerial session and session on Jerusalem in Cairo",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664387/saudi-arabia/al-kheraiji-attends-arab-league-ministerial-session-and-session-on-jerusalem-in-cairo",
-      "published_date": "2026-09-07T16:51:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi media must prioritize accuracy and objectivity over speed, says Jameel Altheyabi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664386/saudi-arabia/saudi-media-must-prioritize-accuracy-and-objectivity-over-speed-says-jameel-altheyabi",
-      "published_date": "2026-09-07T15:32:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664449/saudi-arabia/coalitionvows-decisive-responseto-persistent-houthiattacks-on-saudiarabia",
+      "published_date": "2026-09-09T20:43:38+00:00",
+      "category": "Military"
     },
     {
       "title": "US says Houthis must bear consequences of their aggression",
@@ -235,27 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Islamic Military Coalition, UK to expand counterterrorism cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664263/saudi-arabia/islamic-military-coalition-uk-to-expand-counterterrorism-cooperation",
-      "published_date": "2026-09-02T21:01:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T17:33:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T15:33:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
@@ -282,6 +268,13 @@
       "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
       "published_date": "2026-09-06T13:52:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi business confidence climbs to 56.7 points on industry, services gains",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664445/saudi-arabia/saudi-business-confidence-climbs-to-567-points-on-industry-services-gains",
+      "published_date": "2026-09-09T14:58:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia approves marine war-risk insurance pool to support trade",
@@ -417,6 +410,34 @@
       "category": "Economy"
     },
     {
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T22:17:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah Border Guard rescue 2 Bangladeshis stranded at sea",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664450/saudi-arabia/makkah-border-guard-rescue-2-bangladeshis-stranded-at-sea",
+      "published_date": "2026-09-09T20:46:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi delivery sector soars 30.5% to 132 million orders in 2Q 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664446/saudi-arabia/saudi-delivery-sector-soars-305-to-132-million-orders-in-2q-2026",
+      "published_date": "2026-09-09T15:34:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Security and History Dialogue concludes in Riyadh with more than 5,200 visitors",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664444/saudi-arabia/security-and-history-dialogue-2026-concludes-in-riyadh-with-5200-visitors",
+      "published_date": "2026-09-09T14:53:12+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "National Security Operations Center receives over 2.7 million calls in August",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664438/saudi-arabia/national-security-operations-center-receives-over-27-million-calls-in-august",
@@ -526,27 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664291/saudi-arabia/ncm-forecasts-thunderstorms-across-saudi-arabia-through-wednesday",
       "published_date": "2026-09-03T17:29:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh cracks down on construction dust with SR20 million in fines",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664290/saudi-arabia/riyadh-cracks-down-on-construction-dust-with-sr20-million-in-fines",
-      "published_date": "2026-09-03T17:08:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1,360 licenses issued for collective housing for one million foreign workers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664285/saudi-arabia/1360-licenses-issued-for-collective-housing-for-one-million-foreign-workers",
-      "published_date": "2026-09-03T14:20:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain continues across parts of Saudi Arabia as NCM issues red alerts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664271/saudi-arabia/heavy-rain-continues-across-parts-of-saudi-arabia-as-ncm-issues-red-alerts",
-      "published_date": "2026-09-03T08:26:09+00:00",
       "category": "Local Events"
     }
   ]
