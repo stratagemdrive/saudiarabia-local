@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-10T14:47:45.774239+00:00",
-  "story_count": 80,
+  "last_updated": "2026-09-11T00:51:00.921581+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Saudi FM attends International Space Summit in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664475/saudi-arabia/saudi-fm-attends-international-space-summit-in-paris",
+      "published_date": "2026-09-10T16:53:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria to sever diplomatic ties with UAE",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T15:47:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Oman’s FM reaffirms solidarity with Saudi Arabia in call with Prince Faisal",
       "source": "Saudi Gazette",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T19:11:39+00:00",
-      "category": "Diplomacy"
+      "title": "Saudi Center for Organ Transplantation performs first corneal retrieval",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664479/saudi-arabia/saudi-organ-transplantation-center-performs-first-corneal-retrieval",
+      "published_date": "2026-09-10T21:00:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Weqaa Center launches “The Healthier Choice” campaign to promote safer farming",
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T18:15:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T15:54:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Alimi warns against turning Bab Al-Mandab into ‘another Hormuz’",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664412/saudi-arabia/weqaa-center-launches-the-healthier-choice-campaign-to-promote-safer-farming",
-      "published_date": "2026-09-08T16:11:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664474/saudi-arabia/al-alimi-warns-against-turning-bab-al-mandab-into-another-hormuz",
+      "published_date": "2026-09-10T15:39:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Civil Defense calls for installing gas leak detectors in homes",
@@ -235,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T22:19:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three farmers detained by Israel in Lebanon, village leader says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T19:34:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi mining and quarrying activity surges 19 percent in July",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664454/saudi-arabia/saudi-mining-and-quarrying-activity-surges-19-percent-in-july",
@@ -282,6 +296,34 @@
       "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
       "published_date": "2026-09-06T13:52:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia strengthens its presence on global tourism map as World Travel Market concludes in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664478/saudi-arabia/saudi-arabia-strengthens-its-presence-on-global-tourism-map-as-world-travel-market-concludes-in-riyadh",
+      "published_date": "2026-09-10T20:53:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi minister, Bahrain’s deputy PM discuss strengthening tourism cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664477/saudi-arabia/saudi-minister-bahrains-deputy-pm-discuss-strengthening-tourism-cooperation",
+      "published_date": "2026-09-10T17:21:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia commands 93% of Gulf e-commerce investments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664476/saudi-arabia/saudi-arabia-commands-93-of-gulf-e-commerce-investments",
+      "published_date": "2026-09-10T17:06:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Industry Ministry clears 1,182 customs exemption applications in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664472/saudi-arabia/industry-ministry-clears-1182-customs-exemption-applications-in-july",
+      "published_date": "2026-09-10T14:47:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "GCC states approve tourism recovery plan, back Saudi UN Tourism candidacy",
@@ -393,34 +435,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664332/saudi-arabia/saudi-customs-ports-report-1075-contraband-seizures-last-week",
       "published_date": "2026-09-05T16:48:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Al-Rumayyan: PIF’s strong governance boosts capital attraction",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664330/saudi-arabia/al-rumayyan-pifs-strong-governance-boosts-capital-attraction",
-      "published_date": "2026-09-05T15:09:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia to host second EU-GCC Summit on Oct. 24",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664311/saudi-arabia/saudi-arabia-to-host-second-eu-gcc-summit-on-oct-24",
-      "published_date": "2026-09-04T14:50:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Customs foil attempt to smuggle 18,549 amphetamine pills at Dammam airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664310/saudi-arabia/saudi-customs-seize-18549-amphetamine-pills-at-dammam-airport",
-      "published_date": "2026-09-04T14:16:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "239 suspected cases of commercial cover-up detected last month",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664294/saudi-arabia/239-suspected-cases-of-commercial-cover-up-detected-last-month",
-      "published_date": "2026-09-03T20:46:18+00:00",
       "category": "Economy"
     },
     {
