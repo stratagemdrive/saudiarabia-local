@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-11T00:51:00.921581+00:00",
+  "last_updated": "2026-09-11T14:49:31.103251+00:00",
   "story_count": 82,
   "stories": [
+    {
+      "title": "Saudi ambassador attends launch of Beirut Port container terminal expansion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664492/saudi-arabia/saudi-ambassador-attends-beirut-port-container-terminal-expansion-launch",
+      "published_date": "2026-09-11T10:44:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM attends International Space Summit in Paris",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman and Crown Prince offer condolences to Tanzanian president over death of her husband",
+      "title": "Saudi Arabia urges firm UN Security Council action over Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664415/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-tanzanian-president-over-death-of-her-husband",
-      "published_date": "2026-09-08T20:07:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664491/saudi-arabia/saudi-arabia-urges-firm-un-security-council-action-over-houthi-attacks",
+      "published_date": "2026-09-11T10:16:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Center for Organ Transplantation performs first corneal retrieval",
@@ -253,13 +260,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664327/saudi-arabia/saudi-malaysian-security-cooperation-foils-smuggling-of-505-kg-of-ketamine",
       "published_date": "2026-09-05T14:08:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T09:14:57+00:00",
       "category": "Military"
     },
     {
