@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-11T14:49:31.103251+00:00",
-  "story_count": 82,
+  "last_updated": "2026-09-12T00:56:21.106944+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Iraq removes Maysan operations commander after attacks on Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664497/saudi-arabia/iraq-removes-maysan-operations-commander-after-attacks-on-saudi-arabia",
+      "published_date": "2026-09-11T22:38:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi ambassador attends launch of Beirut Port container terminal expansion",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman gifts Kaaba Kiswa belt to Arab League",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664417/saudi-arabia/king-salman-gifts-kaaba-kiswa-belt-to-arab-league",
-      "published_date": "2026-09-08T20:55:22+00:00",
-      "category": "Diplomacy"
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-11T22:17:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-11T19:44:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia urges firm UN Security Council action over Houthi attacks",
@@ -263,6 +277,20 @@
       "category": "Military"
     },
     {
+      "title": "Saudi Arabia says drones from Iraq targeted East-West Pipeline, holds off response",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664496/saudi-arabia/saudi-arabia-says-drones-from-iraq-targeted-east-west-pipeline-holds-off-response",
+      "published_date": "2026-09-11T22:28:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia shuts East-West oil pipeline after multiple attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664495/saudi-arabia/saudi-arabia-shuts-east-west-oil-pipeline-after-multiple-attacks",
+      "published_date": "2026-09-11T19:05:44+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi mining and quarrying activity surges 19 percent in July",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664454/saudi-arabia/saudi-mining-and-quarrying-activity-surges-19-percent-in-july",
@@ -296,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
       "published_date": "2026-09-06T13:52:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia updates four tourism regulations covering travel, guides and hospitality",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664494/saudi-arabia/saudi-arabia-updates-four-tourism-regulations-covering-travel-guides-and-hospitality",
+      "published_date": "2026-09-11T18:08:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia strengthens its presence on global tourism map as World Travel Market concludes in Riyadh",
@@ -431,11 +466,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs ports report 1075 contraband seizures last week",
+      "title": "TGA extends road transport compliance deadline to February 2027",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664332/saudi-arabia/saudi-customs-ports-report-1075-contraband-seizures-last-week",
-      "published_date": "2026-09-05T16:48:34+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664493/saudi-arabia/saudi-arabia-extends-road-transport-compliance-deadline-to-february-2027",
+      "published_date": "2026-09-11T18:06:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "5 Pakistanis arrested for illegally extracting sediment in Makkah",
@@ -568,13 +603,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664333/saudi-arabia/red-orange-alerts-warn-of-heavy-rain-thunderstorms-and-flash-floods-across-regions",
       "published_date": "2026-09-06T08:24:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-06T08:05:22+00:00",
       "category": "Local Events"
     }
   ]
