@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-12T00:56:21.106944+00:00",
-  "story_count": 86,
+  "last_updated": "2026-09-12T13:51:22.614062+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Saudi, Qatari and Turkish foreign ministers discuss regional de-escalation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664503/saudi-arabia/saudi-qatari-and-turkish-foreign-ministers-discuss-regional-de-escalation-in-phone-call",
+      "published_date": "2026-09-12T13:06:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraq removes Maysan operations commander after attacks on Saudi Arabia",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How Israel responded to UK sanctions on West Bank settlements",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cj4jwnzd2dgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T21:25:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T12:15:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia to develop over 14 GW of computing capacity to accelerate AI growth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664498/saudi-arabia/saudi-arabia-developing-over-14-gw-of-computing-capacity-to-accelerate-ai-growth",
+      "published_date": "2026-09-12T03:49:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -270,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi-Malaysian security cooperation foils smuggling of 505 kg of ketamine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664327/saudi-arabia/saudi-malaysian-security-cooperation-foils-smuggling-of-505-kg-of-ketamine",
-      "published_date": "2026-09-05T14:08:41+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia says drones from Iraq targeted East-West Pipeline, holds off response",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664496/saudi-arabia/saudi-arabia-says-drones-from-iraq-targeted-east-west-pipeline-holds-off-response",
@@ -324,6 +331,13 @@
       "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
       "published_date": "2026-09-06T13:52:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "S&amp;P Global Ratings affirms Saudi Arabia credit rating at A+ with stable outlook",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664507/saudi-arabia/sp-global-ratings-affirms-saudi-arabia-credit-rating-at-a-with-stable-outlook",
+      "published_date": "2026-09-12T13:22:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia updates four tourism regulations covering travel, guides and hospitality",
@@ -456,13 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664350/saudi-arabia/saudi-banking-loans-to-public-and-private-sectors-surge-7-to-sr354-trillion-by-end-of-july-2026",
       "published_date": "2026-09-06T17:07:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CEDA highlights Saudi economic resilience as inflation stays at 1.8%, PMI reaches 53.1",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664340/saudi-arabia/ceda-meeting-reviews-positive-performance-and-achievements-of-vision-2030-programs-and-national-strategies",
-      "published_date": "2026-09-06T14:22:59+00:00",
       "category": "Economy"
     },
     {
