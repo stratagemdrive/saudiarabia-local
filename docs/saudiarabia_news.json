@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-13T00:39:17.026437+00:00",
-  "story_count": 87,
+  "last_updated": "2026-09-13T14:47:18.703417+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Saudi Arabia’s security and territorial integrity are inviolable, Prince Faisal declares at BRICS Summit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664535/saudi-arabia/saudi-arabias-security-and-territorial-integrity-are-inviolable-prince-faisal-declares-at-brics-summit",
+      "published_date": "2026-09-13T13:23:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan PM calls Crown Prince to reaffirm full support and solidarity with Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664531/saudi-arabia/pakistan-pm-calls-crown-prince-to-reaffirm-full-support-and-solidarity-with-saudi-arabia",
+      "published_date": "2026-09-13T12:28:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi foreign minister arrives in New Delhi for BRICS Summit",
       "source": "Saudi Gazette",
@@ -102,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T20:59:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Over 140 spiny-tailed lizards released in King Khalid Royal Reserve",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664451/saudi-arabia/over-140-spiny-tailed-lizards-released-in-king-khalid-royal-reserve",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664447/saudi-arabia/saudi-arabia-and-7-islamic-nations-welcome-uk-decision-to-ban-import-of-goods-from-illegal-israeli-settlements",
       "published_date": "2026-09-09T16:36:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "September 23 set as National Day holiday for private, non-profit sectors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664443/saudi-arabia/september-23-set-as-national-day-holiday-for-private-non-profit-sectors",
-      "published_date": "2026-09-09T14:40:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia approves 4,310-square-kilometer nature reserve near Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664442/saudi-arabia/saudi-arabia-approves-4310-square-kilometer-imam-abdulrahman-bin-faisal-nature-reserve",
-      "published_date": "2026-09-09T14:16:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SR6,000 fine for unauthorized car races on public roads",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664441/saudi-arabia/sr6000-fine-for-unauthorized-car-races-on-public-roads",
-      "published_date": "2026-09-09T14:13:58+00:00",
       "category": "Diplomacy"
     },
     {
@@ -326,13 +326,6 @@
       "category": "Energy"
     },
     {
-      "title": "OPEC+ agree to maintain oil output quotas unchanged for October",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664339/saudi-arabia/opec-agree-to-maintain-oil-output-quotas-unchanged-for-october",
-      "published_date": "2026-09-06T13:52:43+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "S&amp;P Global Ratings affirms Saudi Arabia credit rating at A+ with stable outlook",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664507/saudi-arabia/sp-global-ratings-affirms-saudi-arabia-credit-rating-at-a-with-stable-outlook",
@@ -473,6 +466,48 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Arabia allows taxis to carry passengers to Bahrain",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664537/saudi-arabia/saudi-arabia-allows-taxis-to-carry-passengers-to-bahrain",
+      "published_date": "2026-09-13T14:19:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "4th season of archaeological excavations concludes at Al-Baha&#039;s Al-Ma&#039;mala site",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664536/saudi-arabia/4th-season-of-archaeological-excavations-concludes-at-al-bahas-al-mamala-site",
+      "published_date": "2026-09-13T13:59:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GASTAT launches survey to measure values and behaviors in Saudi society",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664525/saudi-arabia/gastat-launches-survey-to-measure-values-and-behaviors-in-saudi-society",
+      "published_date": "2026-09-13T11:32:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh activates traffic diversion as Thumamah Road development advances",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664522/saudi-arabia/riyadh-activates-traffic-diversion-as-thumamah-road-development-advances",
+      "published_date": "2026-09-13T09:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Guard seizes 380 kg of khat, 249,000 tablets in Jazan and Asir",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664521/saudi-arabia/border-guard-seizes-380-kg-of-khat-249000-tablets-in-jazan-and-asir",
+      "published_date": "2026-09-13T08:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy thunderstorms, flash flood risk forecast across parts of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664520/saudi-arabia/heavy-thunderstorms-flash-flood-risk-forecast-across-parts-of-saudi-arabia",
+      "published_date": "2026-09-13T08:02:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "TGA extends road transport compliance deadline to February 2027",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664493/saudi-arabia/saudi-arabia-extends-road-transport-compliance-deadline-to-february-2027",
@@ -568,48 +603,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664398/saudi-arabia/saudi-energy-facilities-targeted-in-southern-region-fires-halt-some-operations",
       "published_date": "2026-09-08T07:26:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T21:12:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Up to 6-month jail and SR100,000 fine for allowing employees to work for others",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664382/saudi-arabia/up-to-6-month-jail-and-sr100000-fine-for-allowing-employees-to-work-for-others",
-      "published_date": "2026-09-07T13:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia recalls 4,464 Genesis vehicles over fuel leak, fire risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664374/saudi-arabia/saudi-arabia-recalls-4464-genesis-vehicles-over-fuel-leak-fire-risk",
-      "published_date": "2026-09-07T12:20:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London police charge assailant with attempted murder of Saudi citizen",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664343/saudi-arabia/london-police-charge-assailant-with-attempted-murder-of-saudi-citizen",
-      "published_date": "2026-09-06T16:35:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipalities, housing sector records over 3 million volunteer hours in 1H 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664342/saudi-arabia/municipalities-housing-sector-records-over-3-million-volunteer-hours-in-1h-2026",
-      "published_date": "2026-09-06T15:17:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red, orange alerts warn of heavy rain, thunderstorms and flash floods across regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664333/saudi-arabia/red-orange-alerts-warn-of-heavy-rain-thunderstorms-and-flash-floods-across-regions",
-      "published_date": "2026-09-06T08:24:05+00:00",
       "category": "Local Events"
     }
   ]
