@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-14T00:47:47.560981+00:00",
-  "story_count": 83,
+  "last_updated": "2026-09-14T16:45:41.927453+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Commercial firms and online stores offer over 12 million discounted products for National Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664564/saudi-arabia/commercial-firms-and-online-stores-offer-over-12-million-discounted-products-for-national-day",
+      "published_date": "2026-09-14T13:37:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia launches first internationally accredited guide for vulture feeding stations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664556/saudi-arabia/saudi-arabia-launches-first-internationally-accredited-guide-for-vulture-feeding-stations",
+      "published_date": "2026-09-14T10:23:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, US CENTCOM Commander discuss latest regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664554/saudi-arabia/crown-prince-us-centcom-commander-discuss-latest-regional-developments",
+      "published_date": "2026-09-14T10:11:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Vice Foreign Minister, EU Gulf Envoy discuss regional and international developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664549/saudi-arabia/saudi-vice-foreign-minister-eu-gulf-envoy-discuss-regional-and-international-developments",
+      "published_date": "2026-09-14T08:26:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, UAE FMs discuss efforts to contain regional escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664548/saudi-arabia/saudi-uae-fms-discuss-efforts-to-contain-regional-escalation",
+      "published_date": "2026-09-14T08:20:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh rent burden falls to 15% of household income: REGA CEO",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664545/saudi-arabia/riyadh-rent-burden-falls-to-15-of-household-income-after-market-measures",
+      "published_date": "2026-09-14T03:01:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM discusses enhancing bilateral relations with Vietnamese PM, UAE and Bahrain FMs",
       "source": "Saudi Gazette",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Algeria to sever diplomatic ties with UAE",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T15:47:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman’s FM reaffirms solidarity with Saudi Arabia in call with Prince Faisal",
+      "title": "Saudi Civil Defense lifts emergency alerts in southern regions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664467/saudi-arabia/omans-fm-reaffirms-solidarity-with-saudi-arabia-in-call-with-prince-faisal",
-      "published_date": "2026-09-10T13:08:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns Israeli PM’s illegal incursion into Syrian territory",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664466/saudi-arabia/saudi-arabia-strongly-condemns-israeli-pms-illegal-incursion-into-syrian-territory",
-      "published_date": "2026-09-10T12:47:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia recalls 51 Toyota Supra vehicles over spare tire defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664462/saudi-arabia/saudi-arabia-recalls-51-toyota-supra-vehicles-over-spare-tire-defect",
-      "published_date": "2026-09-10T11:45:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T21:21:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T20:59:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664568/saudi-arabia/saudi-civil-defense-lifts-emergency-alerts-in-southern-regions",
+      "published_date": "2026-09-14T15:20:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi projectile injures two, damages mosque and buildings in Jazan",
@@ -235,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T21:12:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Coalition vows decisive response to persistent Houthi attacks on Saudi Arabia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664449/saudi-arabia/coalitionvows-decisive-responseto-persistent-houthiattacks-on-saudiarabia",
@@ -260,20 +274,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664396/saudi-arabia/saudi-arabia-vows-firm-response-after-houthi-attacks-injure-73-civilians",
       "published_date": "2026-09-08T06:58:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Islamic Military Coalition, Türkiye discuss enhancing counter-terrorism cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664385/saudi-arabia/islamic-military-coalition-turkiye-discuss-enhancing-counter-terrorism-cooperation",
-      "published_date": "2026-09-07T14:45:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanese village kill 12",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T13:39:23+00:00",
       "category": "Military"
     },
     {
@@ -310,6 +310,20 @@
       "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-08T13:58:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Energy Minister: Saudi nuclear program is transparent, not hidden in mountains or bunkers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664565/saudi-arabia/energy-minister-saudi-nuclear-program-is-peaceful-transparent-not-hidden-deep-in-mountains-or-bunkers",
+      "published_date": "2026-09-14T14:27:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Jadaan: Saudi Arabia advances toward a more sustainable financial market",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664563/saudi-arabia/al-jadaan-saudi-arabia-advances-toward-a-more-sustainable-financial-market",
+      "published_date": "2026-09-14T13:06:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi trade surplus soars 62% to SR61.5 billion in Q2 2026",
@@ -410,6 +424,13 @@
       "category": "Economy"
     },
     {
+      "title": "UK to ban imports from Israeli settlements in West Bank",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c5yjp3xylxjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-08T14:39:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi GDP contracts 4.7% in Q2 as oil activity falls 24.8%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664399/saudi-arabia/saudi-non-oil-government-activities-grow-09-in-q2-2026",
@@ -417,32 +438,25 @@
       "category": "Economy"
     },
     {
-      "title": "National Center for Inspection and Monitoring receives over 11 million reports",
+      "title": "IAEA chief says Saudi Arabia moving forward with nuclear power program, research reactor",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664384/saudi-arabia/national-center-for-inspection-and-monitoring-receives-over-11-million-reports",
-      "published_date": "2026-09-07T14:30:42+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664567/saudi-arabia/iaea-chief-says-saudi-arabia-moving-forward-with-nuclear-power-program-research-reactor",
+      "published_date": "2026-09-14T15:09:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "HADAF invests SR1.96 billion through 26 strategic partnerships to train, employ 16,000 citizens",
+      "title": "SR3.2 billion joint venture agreement inked to develop and deliver Riyadh Expo Village",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664383/saudi-arabia/hadaf-invests-sr196-billion-through-26-strategic-partnerships-to-train-employ-16000-citizens",
-      "published_date": "2026-09-07T14:08:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664566/saudi-arabia/sr32-billion-joint-venture-agreement-inked-to-develop-and-deliver-riyadh-expo-village",
+      "published_date": "2026-09-14T14:47:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PIF launches Gulf Coast Development Company for 16,000 homes, 1,400 hotel rooms in Al-Khafji",
+      "title": "Riyadh International Book Fair 2026 set for December 10-19",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664375/saudi-arabia/pif-launches-al-khafji-coastal-development-with-16000-homes",
-      "published_date": "2026-09-07T12:41:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia named guest of honor at 26th China International Fair for Investment and Trade",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664372/saudi-arabia/saudi-arabia-named-guest-of-honor-at-26th-china-international-fair-for-investment-and-trade",
-      "published_date": "2026-09-07T11:32:17+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664561/saudi-arabia/riyadh-international-book-fair-2026-set-for-december-10-19",
+      "published_date": "2026-09-14T12:58:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "First batch of students began their semester as classes commence at Riyadh University of Arts",
@@ -561,27 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664431/saudi-arabia/riyadh-becomes-only-gulf-city-among-worlds-top-100-innovation-clusters",
       "published_date": "2026-09-09T12:07:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jameel Altheyabi: Media and security sectors are essential partners in protecting society and strengthening stability",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664421/saudi-arabia/jameel-altheyabi-media-and-security-sectors-are-essential-partners-in-protecting-society-and-strengthening-stability",
-      "published_date": "2026-09-08T23:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia affirms resolve to defend sovereignty, protect citizens and expats",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664420/saudi-arabia/saudi-arabia-vows-to-defend-sovereignty-protect-citizens-and-expats",
-      "published_date": "2026-09-08T21:41:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense urges caution as thunderstorms forecast in a number of Saudi regions through Monday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664416/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-forecast-in-a-number-of-saudi-regions-through-monday",
-      "published_date": "2026-09-08T20:19:34+00:00",
       "category": "Local Events"
     }
   ]
