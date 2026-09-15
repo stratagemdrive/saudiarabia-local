@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-15T01:13:33.300909+00:00",
+  "last_updated": "2026-09-15T15:26:08.933397+00:00",
   "story_count": 84,
   "stories": [
+    {
+      "title": "Study: Over half of Saudis fall victim to fraud; 43% recover their money",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664599/saudi-arabia/study-over-half-of-saudis-fall-victim-to-fraud-43-recover-their-money",
+      "published_date": "2026-09-15T14:37:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Midday outdoor work ban under sun comes to an end in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664598/saudi-arabia/midday-outdoor-work-ban-under-sun-comes-to-an-end-in-saudi-arabia",
+      "published_date": "2026-09-15T14:02:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Egypt affirm shared interests, ‘absolute understanding’ on common goals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664597/saudi-arabia/saudi-arabia-egypt-affirm-gulf-security-is-part-of-egyptian-national-security",
+      "published_date": "2026-09-15T13:37:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia vows to defend sovereignty, protect vital interests",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664595/saudi-arabia/saudi-arabia-vows-to-defend-sovereignty-protect-vital-interests",
+      "published_date": "2026-09-15T12:56:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince arrives in Cairo for talks with El-Sisi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664592/saudi-arabia/crown-prince-mohammed-bin-salman-arrives-in-cairo-for-talks-with-el-sisi",
+      "published_date": "2026-09-15T12:28:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi wholesale prices rise 4.6% in August as basic chemical prices surge 51.4%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664582/saudi-arabia/saudi-wholesale-prices-rise-46-in-august-as-basic-chemical-prices-surge-514",
+      "published_date": "2026-09-15T09:12:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SFDA becomes first global regulator to approve Frehemgo for Hemophilia A bleeding prevention",
       "source": "Saudi Gazette",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "14,796 violators of residency, labor and border security laws arrested in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664514/saudi-arabia/14796-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
-      "published_date": "2026-09-12T18:01:45+00:00",
-      "category": "Diplomacy"
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T13:05:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Arab and Islamic world condemns attack on East-West Pipeline; affirms support for Saudi Arabia",
+      "title": "13 civilians injured in Houthi attacks on three Saudi cities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664513/saudi-arabia/arab-and-islamic-world-condemns-attack-on-east-west-pipeline-affirms-support-for-saudi-arabia",
-      "published_date": "2026-09-12T17:32:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664576/saudi-arabia/13-civilians-injured-in-houthi-attacks-on-khamis-mushait-abha-and-taif",
+      "published_date": "2026-09-15T01:52:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK reaffirms solidarity with Saudi Arabia during call between foreign ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664511/saudi-arabia/uk-reaffirms-solidarity-with-saudi-arabia-during-call-between-foreign-ministers",
-      "published_date": "2026-09-12T15:02:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia welcomes launch of Global Alliance for South-South and Triangular Cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664510/saudi-arabia/saudi-arabia-welcomes-launch-of-global-alliance-for-south-south-and-triangular-cooperation",
-      "published_date": "2026-09-12T14:33:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Qatari and Turkish foreign ministers discuss regional de-escalation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664503/saudi-arabia/saudi-qatari-and-turkish-foreign-ministers-discuss-regional-de-escalation-in-phone-call",
-      "published_date": "2026-09-12T13:06:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraq removes Maysan operations commander after attacks on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664497/saudi-arabia/iraq-removes-maysan-operations-commander-after-attacks-on-saudi-arabia",
-      "published_date": "2026-09-11T22:38:14+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T18:26:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Civil Defense lifts emergency alerts in southern regions",
@@ -263,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Arab and Islamic nations rally behind Saudi Arabia, condemn Houthi attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664410/saudi-arabia/arab-and-islamic-nations-rally-behind-saudi-arabia-condemn-houthi-attacks",
-      "published_date": "2026-09-08T14:44:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia vows firm response after Houthi attacks injure 73 civilians",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664396/saudi-arabia/saudi-arabia-vows-firm-response-after-houthi-attacks-injure-73-civilians",
-      "published_date": "2026-09-08T06:58:17+00:00",
-      "category": "Military"
+      "title": "Satellite image reveals major damage that shut crucial oil pipeline",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T14:21:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia says drones from Iraq targeted East-West Pipeline, holds off response",
@@ -305,11 +319,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T13:58:32+00:00",
-      "category": "Energy"
+      "title": "Saudi Arabia approves national SME strategy targeting 500,000 jobs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664588/saudi-arabia/saudi-arabia-approves-sme-strategy-targeting-500000-jobs-35-gdp-contribution",
+      "published_date": "2026-09-15T11:58:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Abdullah Kamel: Number of factories in Saudi Arabia surpasses 15,000",
@@ -438,18 +452,18 @@
       "category": "Economy"
     },
     {
-      "title": "UK to ban imports from Israeli settlements in West Bank",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c5yjp3xylxjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T14:39:37+00:00",
-      "category": "Economy"
+      "title": "Houthi escalation crosses a sacred threshold",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664600/saudi-arabia/when-the-houthis-missiles-bring-danger-closer-to-makkah",
+      "published_date": "2026-09-15T14:44:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi GDP contracts 4.7% in Q2 as oil activity falls 24.8%",
+      "title": "Saudi inflation Reaches 1.8% in August",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664399/saudi-arabia/saudi-non-oil-government-activities-grow-09-in-q2-2026",
-      "published_date": "2026-09-08T08:23:42+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664580/saudi-arabia/saudi-inflation-reaches-18-in-august",
+      "published_date": "2026-09-15T08:26:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense urges caution as thunderstorms forecast across several regions through Saturday",
@@ -575,20 +589,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664446/saudi-arabia/saudi-delivery-sector-soars-305-to-132-million-orders-in-2q-2026",
       "published_date": "2026-09-09T15:34:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security and History Dialogue concludes in Riyadh with more than 5,200 visitors",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664444/saudi-arabia/security-and-history-dialogue-2026-concludes-in-riyadh-with-5200-visitors",
-      "published_date": "2026-09-09T14:53:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Security Operations Center receives over 2.7 million calls in August",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664438/saudi-arabia/national-security-operations-center-receives-over-27-million-calls-in-august",
-      "published_date": "2026-09-09T14:00:28+00:00",
       "category": "Local Events"
     }
   ]
