@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-14T16:45:41.927453+00:00",
-  "story_count": 82,
+  "last_updated": "2026-09-15T01:13:33.300909+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "SFDA becomes first global regulator to approve Frehemgo for Hemophilia A bleeding prevention",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664573/saudi-arabia/sfda-becomes-first-global-regulator-to-approve-frehemgo-for-hemophilia-a-bleeding-prevention",
+      "published_date": "2026-09-14T20:39:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince to pay visit to Egypt on Tuesday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664570/saudi-arabia/saudi-crown-prince-to-pay-visit-to-egypt-on-tuesday",
+      "published_date": "2026-09-14T20:04:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Commercial firms and online stores offer over 12 million discounted products for National Day",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664497/saudi-arabia/iraq-removes-maysan-operations-commander-after-attacks-on-saudi-arabia",
       "published_date": "2026-09-11T22:38:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi ambassador attends launch of Beirut Port container terminal expansion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664492/saudi-arabia/saudi-ambassador-attends-beirut-port-container-terminal-expansion-launch",
-      "published_date": "2026-09-11T10:44:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM attends International Space Summit in Paris",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664475/saudi-arabia/saudi-fm-attends-international-space-summit-in-paris",
-      "published_date": "2026-09-10T16:53:05+00:00",
       "category": "Diplomacy"
     },
     {
@@ -312,6 +312,20 @@
       "category": "Energy"
     },
     {
+      "title": "Abdullah Kamel: Number of factories in Saudi Arabia surpasses 15,000",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664574/saudi-arabia/abdullah-kamel-number-of-factories-in-saudi-arabia-surpasses-15000",
+      "published_date": "2026-09-14T21:43:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Energy minister discusses bilateral cooperation with Austrian counterpart",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664571/saudi-arabia/energy-minister-discusses-bilateral-cooperation-with-austrian-counterpart",
+      "published_date": "2026-09-14T20:09:19+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Energy Minister: Saudi nuclear program is transparent, not hidden in mountains or bunkers",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664565/saudi-arabia/energy-minister-saudi-nuclear-program-is-peaceful-transparent-not-hidden-deep-in-mountains-or-bunkers",
@@ -436,6 +450,13 @@
       "url": "https://saudigazette.com.sa/article/664399/saudi-arabia/saudi-non-oil-government-activities-grow-09-in-q2-2026",
       "published_date": "2026-09-08T08:23:42+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Civil Defense urges caution as thunderstorms forecast across several regions through Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664572/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-forecast-across-several-regions-through-saturday",
+      "published_date": "2026-09-14T20:31:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "IAEA chief says Saudi Arabia moving forward with nuclear power program, research reactor",
@@ -568,13 +589,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664438/saudi-arabia/national-security-operations-center-receives-over-27-million-calls-in-august",
       "published_date": "2026-09-09T14:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh becomes only Gulf city among world’s top 100 innovation clusters",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664431/saudi-arabia/riyadh-becomes-only-gulf-city-among-worlds-top-100-innovation-clusters",
-      "published_date": "2026-09-09T12:07:56+00:00",
       "category": "Local Events"
     }
   ]
