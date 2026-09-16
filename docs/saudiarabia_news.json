@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-15T15:26:08.933397+00:00",
-  "story_count": 84,
+  "last_updated": "2026-09-16T01:08:45.036227+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Arab League chief calls for immediate cessation of attacks targeting Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664605/saudi-arabia/arab-league-chief-calls-for-immediate-cessation-of-attacks-targeting-saudi-arabia",
+      "published_date": "2026-09-15T20:27:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt visit underscores strength of fraternal relations and shared desire: Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664604/saudi-arabia/egypt-visit-underscores-strength-of-fraternal-relations-and-shared-desire-crown-prince",
+      "published_date": "2026-09-15T20:20:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SDAIA Chief: Saudi Arabia positions AI as engine of progress, human development",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664601/saudi-arabia/sdaia-chief-saudi-arabia-keen-on-developing-ai-as-a-driver-of-progress-competitiveness-and-human-development",
+      "published_date": "2026-09-15T15:26:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Study: Over half of Saudis fall victim to fraud; 43% recover their money",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia’s security and territorial integrity are inviolable, Prince Faisal declares at BRICS Summit",
+      "title": "Saudi air defenses intercept Houthi drone south of Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664535/saudi-arabia/saudi-arabias-security-and-territorial-integrity-are-inviolable-prince-faisal-declares-at-brics-summit",
-      "published_date": "2026-09-13T13:23:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664606/saudi-arabia/saudi-air-defenses-intercept-houthi-drone-south-of-makkah",
+      "published_date": "2026-09-16T00:08:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan PM calls Crown Prince to reaffirm full support and solidarity with Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664531/saudi-arabia/pakistan-pm-calls-crown-prince-to-reaffirm-full-support-and-solidarity-with-saudi-arabia",
-      "published_date": "2026-09-13T12:28:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister arrives in New Delhi for BRICS Summit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664515/saudi-arabia/saudi-foreign-minister-arrives-in-new-delhi-for-2026-brics-summit",
-      "published_date": "2026-09-12T20:17:49+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T20:34:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Coalition vows decisive response to persistent Houthi attacks on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664449/saudi-arabia/coalitionvows-decisive-responseto-persistent-houthiattacks-on-saudiarabia",
-      "published_date": "2026-09-09T20:43:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says Houthis must bear consequences of their aggression",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664419/saudi-arabia/us-eu-condemn-houthi-attacks-on-saudi-arabia",
-      "published_date": "2026-09-08T21:14:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Satellite image reveals major damage that shut crucial oil pipeline",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
@@ -317,6 +317,20 @@
       "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-09T09:47:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi-Egypt trade volume exceeds $82 billion over five years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664603/saudi-arabia/saudi-egypt-trade-volume-exceeds-82-billion-over-five-years",
+      "published_date": "2026-09-15T17:17:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SAMA, Qatar Central Bank enable Mada–Himyan national card payments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664602/saudi-arabia/sama-qatar-central-bank-enable-madahimyan-national-card-payments",
+      "published_date": "2026-09-15T17:10:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia approves national SME strategy targeting 500,000 jobs",
@@ -428,27 +442,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664436/saudi-arabia/alswaha-advances-saudi-arabias-global-ai-partnerships-with-tech-leaders",
       "published_date": "2026-09-09T13:40:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T21:46:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia&#039;s foreign currency reserves jump 7.2% to SR1.73 trillion in August",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664414/saudi-arabia/saudi-arabias-foreign-currency-reserves-jump-72-to-sr173-trillion-in-august",
-      "published_date": "2026-09-08T17:02:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "E-commerce sales in Saudi Arabia surge 11.8% to SR37.6 billion in July",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664413/saudi-arabia/e-commerce-sales-in-saudi-arabia-surge-118-to-sr376-billion-in-july",
-      "published_date": "2026-09-08T16:36:16+00:00",
       "category": "Economy"
     },
     {
