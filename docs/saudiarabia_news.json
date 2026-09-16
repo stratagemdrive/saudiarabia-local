@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-16T01:08:45.036227+00:00",
-  "story_count": 83,
+  "last_updated": "2026-09-16T15:19:01.642605+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Health Ministry launches seasonal flu vaccine; urges high-risk groups to get shots",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664625/saudi-arabia/health-ministry-launches-seasonal-flu-vaccine-urges-high-risk-groups-to-get-shots",
+      "published_date": "2026-09-16T13:55:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia cracks down on unlicensed recruitment services with fines up to SR250,000",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664621/saudi-arabia/saudi-arabia-cracks-down-on-unlicensed-recruitment-services-with-fines-up-to-sr250000",
+      "published_date": "2026-09-16T12:47:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Arab League chief calls for immediate cessation of attacks targeting Saudi Arabia",
       "source": "Saudi Gazette",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Indian foreign ministers review diverse growth and development of bilateral ties",
+      "title": "UN warns maritime disruption threatens global peace and energy markets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664543/saudi-arabia/saudi-indian-foreign-ministers-review-diverse-growth-and-development-of-bilateral-ties",
-      "published_date": "2026-09-13T20:29:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664624/saudi-arabia/un-warns-maritime-disruption-threatens-global-peace-and-energy-markets",
+      "published_date": "2026-09-16T13:34:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman and Crown Prince condole Sharjah Ruler over death of Sheikh Mohammed bin Salem Al-Qasimi",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T13:28:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia asserts right to take all necessary measures after Houthi drone attack on Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664542/saudi-arabia/king-salman-and-crown-prince-condole-sharjah-ruler-over-death-of-sheikh-mohammed-bin-salem-al-qasimi",
-      "published_date": "2026-09-13T17:25:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664619/saudi-arabia/saudi-arabia-asserts-right-to-take-all-necessary-measures-after-houthi-drone-attack-on-makkah",
+      "published_date": "2026-09-16T12:19:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen, Pakistan, Kuwait, OIC and MWL condemn Houthi attacks on Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664615/saudi-arabia/pakistan-oic-and-mwl-condemn-houthi-attacks-on-makkah-madinah-region",
+      "published_date": "2026-09-16T09:56:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T08:36:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia warns Houthi Attacks threaten Red Sea navigation and Global Trade",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664611/saudi-arabia/saudi-arabia-warns-houthi-attacks-threaten-red-sea-navigation-and-global-trade",
+      "published_date": "2026-09-16T08:13:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi air defenses intercept Houthi drone south of Makkah",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T18:15:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T15:54:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Alimi warns against turning Bab Al-Mandab into ‘another Hormuz’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664474/saudi-arabia/al-alimi-warns-against-turning-bab-al-mandab-into-another-hormuz",
-      "published_date": "2026-09-10T15:39:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Civil Defense calls for installing gas leak detectors in homes",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664470/saudi-arabia/civil-defense-calls-for-installing-gas-leak-detectors-in-homes",
-      "published_date": "2026-09-10T14:06:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T10:43:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T21:12:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Satellite image reveals major damage that shut crucial oil pipeline",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
@@ -309,13 +309,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664454/saudi-arabia/saudi-mining-and-quarrying-activity-surges-19-percent-in-july",
       "published_date": "2026-09-10T07:48:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T09:47:39+00:00",
       "category": "Energy"
     },
     {
@@ -424,25 +417,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi business confidence climbs to 56.7 points on industry, services gains",
+      "title": "Passports directorate takes 22,894 decisions to penalize residency violators in a month",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664445/saudi-arabia/saudi-business-confidence-climbs-to-567-points-on-industry-services-gains",
-      "published_date": "2026-09-09T14:58:53+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664627/saudi-arabia/passports-directorate-takes-22894-decisions-to-penalize-residency-violators-in-a-month",
+      "published_date": "2026-09-16T14:25:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia approves marine war-risk insurance pool to support trade",
+      "title": "School fitness screenings completed for new students across Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664439/saudi-arabia/saudi-arabia-approves-marine-war-risk-insurance-pool-for-cargo-and-vessels",
-      "published_date": "2026-09-09T14:04:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Alswaha advances Saudi Arabia’s global AI partnerships with tech leaders",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664436/saudi-arabia/alswaha-advances-saudi-arabias-global-ai-partnerships-with-tech-leaders",
-      "published_date": "2026-09-09T13:40:53+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664626/saudi-arabia/school-fitness-screenings-completed-for-new-students-across-saudi-arabia",
+      "published_date": "2026-09-16T14:07:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Houthi escalation crosses a sacred threshold",
@@ -568,20 +554,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-09T22:17:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Border Guard rescue 2 Bangladeshis stranded at sea",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664450/saudi-arabia/makkah-border-guard-rescue-2-bangladeshis-stranded-at-sea",
-      "published_date": "2026-09-09T20:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi delivery sector soars 30.5% to 132 million orders in 2Q 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664446/saudi-arabia/saudi-delivery-sector-soars-305-to-132-million-orders-in-2q-2026",
-      "published_date": "2026-09-09T15:34:59+00:00",
       "category": "Local Events"
     }
   ]
