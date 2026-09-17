@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-17T01:06:43.547832+00:00",
-  "story_count": 80,
+  "last_updated": "2026-09-17T15:25:25.849984+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi Arabia’s US Treasury holdings rise by $10.7 billion in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664651/saudi-arabia/saudi-arabias-us-treasury-holdings-rise-by-107-billion",
+      "published_date": "2026-09-17T14:37:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia urges strict adherence to international law at UN Security Council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664649/saudi-arabia/saudi-arabia-urges-strict-adherence-to-international-law-at-un-security-council",
+      "published_date": "2026-09-17T14:07:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince offers condolences to UK PM on passing of his father",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664647/saudi-arabia/crown-prince-offers-condolences-to-uk-pm-on-passing-of-his-father",
+      "published_date": "2026-09-17T13:47:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French President calls Saudi Crown Prince to discuss efforts to enhance regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664645/saudi-arabia/french-president-calls-saudi-crown-prince-to-discuss-efforts-to-enhance-regional-security",
+      "published_date": "2026-09-17T12:20:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T09:06:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Prince Saud bin Abdulmohsen presents credentials as Saudi ambassador to Greece",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Crown Prince to pay visit to Egypt on Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664570/saudi-arabia/saudi-crown-prince-to-pay-visit-to-egypt-on-tuesday",
-      "published_date": "2026-09-14T20:04:54+00:00",
-      "category": "Diplomacy"
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T15:07:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Commercial firms and online stores offer over 12 million discounted products for National Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664564/saudi-arabia/commercial-firms-and-online-stores-offer-over-12-million-discounted-products-for-national-day",
-      "published_date": "2026-09-14T13:37:59+00:00",
-      "category": "Diplomacy"
+      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T13:47:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia launches first internationally accredited guide for vulture feeding stations",
+      "title": "Civil Defense: One killed, two injured as Houthi drone intercepted in Taif",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664556/saudi-arabia/saudi-arabia-launches-first-internationally-accredited-guide-for-vulture-feeding-stations",
-      "published_date": "2026-09-14T10:23:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince, US CENTCOM Commander discuss latest regional developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664554/saudi-arabia/crown-prince-us-centcom-commander-discuss-latest-regional-developments",
-      "published_date": "2026-09-14T10:11:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Vice Foreign Minister, EU Gulf Envoy discuss regional and international developments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664549/saudi-arabia/saudi-vice-foreign-minister-eu-gulf-envoy-discuss-regional-and-international-developments",
-      "published_date": "2026-09-14T08:26:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664646/saudi-arabia/civil-defense-one-killed-two-injured-as-houthi-drone-intercepted-in-taif",
+      "published_date": "2026-09-17T13:00:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-12T12:15:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia to develop over 14 GW of computing capacity to accelerate AI growth",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664498/saudi-arabia/saudi-arabia-developing-over-14-gw-of-computing-capacity-to-accelerate-ai-growth",
-      "published_date": "2026-09-12T03:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T22:17:45+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T08:40:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "How escalating Saudi oil crisis could drive up prices everywhere",
@@ -309,13 +316,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664495/saudi-arabia/saudi-arabia-shuts-east-west-oil-pipeline-after-multiple-attacks",
       "published_date": "2026-09-11T19:05:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi mining and quarrying activity surges 19 percent in July",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664454/saudi-arabia/saudi-mining-and-quarrying-activity-surges-19-percent-in-july",
-      "published_date": "2026-09-10T07:48:37+00:00",
       "category": "Energy"
     },
     {
@@ -417,18 +417,18 @@
       "category": "Economy"
     },
     {
-      "title": "Industry Ministry clears 1,182 customs exemption applications in July",
+      "title": "Heavy rain, flash floods forecast across parts of Saudi Arabia through Tuesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664472/saudi-arabia/industry-ministry-clears-1182-customs-exemption-applications-in-july",
-      "published_date": "2026-09-10T14:47:21+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664644/saudi-arabia/heavy-rain-flash-floods-forecast-across-parts-of-saudi-arabia-through-tuesday",
+      "published_date": "2026-09-17T12:06:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "GCC states approve tourism recovery plan, back Saudi UN Tourism candidacy",
+      "title": "Saudi port container traffic surges 52.9% as cargo exceeds 341 million tons",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664468/saudi-arabia/gcc-approves-tourism-recovery-plan-backs-saudi-un-tourism-candidacy",
-      "published_date": "2026-09-10T13:22:57+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664642/saudi-arabia/saudi-port-container-traffic-surges-529-as-cargo-exceeds-341-million-tons",
+      "published_date": "2026-09-17T08:58:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Passports directorate takes 22,894 decisions to penalize residency violators in a month",
@@ -540,27 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664493/saudi-arabia/saudi-arabia-extends-road-transport-compliance-deadline-to-february-2027",
       "published_date": "2026-09-11T18:06:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 Pakistanis arrested for illegally extracting sediment in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664471/saudi-arabia/5-pakistanis-arrested-for-illegally-extracting-sediment-in-makkah",
-      "published_date": "2026-09-10T14:18:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA grants marketing authorization for 2 Saudi-developed AI-enabled medical software products",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664469/saudi-arabia/sfda-grants-marketing-authorization-for-2-saudi-developed-ai-enabled-medical-software-products",
-      "published_date": "2026-09-10T13:37:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard arrests 5, seizes 150 kg of khat, 30 kg of hashish in Jazan, Najran",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664463/saudi-arabia/border-guard-arrests-5-seizes-150-kg-of-khat-30-kg-of-hashish-in-jazan-najran",
-      "published_date": "2026-09-10T12:01:25+00:00",
       "category": "Local Events"
     }
   ]
