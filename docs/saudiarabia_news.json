@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-16T15:19:01.642605+00:00",
-  "story_count": 79,
+  "last_updated": "2026-09-17T01:06:43.547832+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Prince Saud bin Abdulmohsen presents credentials as Saudi ambassador to Greece",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664632/saudi-arabia/prince-saud-bin-abdulmohsen-presents-credentials-as-saudi-ambassador-to-greece",
+      "published_date": "2026-09-16T20:19:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince receives message from King Abdullah of Jordan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664631/saudi-arabia/saudi-crown-prince-receives-message-from-king-abdullah-of-jordan",
+      "published_date": "2026-09-16T17:15:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Philippine ministers discuss enhancing cooperation on matters of domestic workers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664628/saudi-arabia/saudi-philippine-ministers-discuss-enhancing-cooperation-on-matters-of-domestic-workers",
+      "published_date": "2026-09-16T15:01:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Health Ministry launches seasonal flu vaccine; urges high-risk groups to get shots",
       "source": "Saudi Gazette",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, UAE FMs discuss efforts to contain regional escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664548/saudi-arabia/saudi-uae-fms-discuss-efforts-to-contain-regional-escalation",
-      "published_date": "2026-09-14T08:20:31+00:00",
-      "category": "Diplomacy"
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T18:36:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Riyadh rent burden falls to 15% of household income: REGA CEO",
+      "title": "Islamic world erupts in outrage over Houthi attack targeting Makkah",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664545/saudi-arabia/riyadh-rent-burden-falls-to-15-of-household-income-after-market-measures",
-      "published_date": "2026-09-14T03:01:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664630/saudi-arabia/islamic-world-erupts-in-outrage-over-houthi-attack-targeting-makkah",
+      "published_date": "2026-09-16T17:02:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi FM discusses enhancing bilateral relations with Vietnamese PM, UAE and Bahrain FMs",
+      "title": "UK affirms solidarity with Saudi Arabia and its right to defend sovereignty",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664544/saudi-arabia/saudi-fm-discusses-enhancing-bilateral-ties-with-vietnamese-pm-uae-and-bahrain-fms",
-      "published_date": "2026-09-13T20:34:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664629/saudi-arabia/uk-affirms-solidarity-with-saudi-arabia-and-its-right-to-defend-sovereignty",
+      "published_date": "2026-09-16T15:32:27+00:00",
+      "category": "Military"
     },
     {
       "title": "UN warns maritime disruption threatens global peace and energy markets",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "title": "How escalating Saudi oil crisis could drive up prices everywhere",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T19:44:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia urges firm UN Security Council action over Houthi attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664491/saudi-arabia/saudi-arabia-urges-firm-un-security-council-action-over-houthi-attacks",
-      "published_date": "2026-09-11T10:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Center for Organ Transplantation performs first corneal retrieval",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664479/saudi-arabia/saudi-organ-transplantation-center-performs-first-corneal-retrieval",
-      "published_date": "2026-09-10T21:00:17+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T16:06:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Satellite image reveals major damage that shut crucial oil pipeline",
@@ -310,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/664454/saudi-arabia/saudi-mining-and-quarrying-activity-surges-19-percent-in-july",
       "published_date": "2026-09-10T07:48:37+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia raises repo and reverse repo rates by 25 basis points",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664633/saudi-arabia/saudi-arabia-raises-repo-and-reverse-repo-rates-by-25-basis-points",
+      "published_date": "2026-09-16T20:26:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi-Egypt trade volume exceeds $82 billion over five years",
@@ -547,13 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664463/saudi-arabia/border-guard-arrests-5-seizes-150-kg-of-khat-30-kg-of-hashish-in-jazan-najran",
       "published_date": "2026-09-10T12:01:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T22:17:22+00:00",
       "category": "Local Events"
     }
   ]
