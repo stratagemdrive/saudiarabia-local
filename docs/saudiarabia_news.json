@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-18T01:05:01.839794+00:00",
+  "last_updated": "2026-09-18T14:46:14.379894+00:00",
   "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi Arabia, Qatar strengthen security, military coordination",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664667/saudi-arabia/saudi-arabia-qatar-strengthen-security-and-military-coordination",
+      "published_date": "2026-09-18T10:49:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia’s US Treasury holdings rise by $10.7 billion in July",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "SFDA becomes first global regulator to approve Frehemgo for Hemophilia A bleeding prevention",
+      "title": "Two Holy Mosques imams condemn Houthi targeting of Makkah as ‘grave crime’",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664573/saudi-arabia/sfda-becomes-first-global-regulator-to-approve-frehemgo-for-hemophilia-a-bleeding-prevention",
-      "published_date": "2026-09-14T20:39:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664670/saudi-arabia/two-holy-mosques-imams-condemn-houthi-targeting-of-makkah-as-grave-crime",
+      "published_date": "2026-09-18T12:07:02+00:00",
+      "category": "Military"
     },
     {
       "title": "US approves potential $24.3 billion sale of 48 F-35 fighters to Saudi Arabia",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Houthi projectile injures two, damages mosque and buildings in Jazan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664519/saudi-arabia/houthi-projectile-injures-two-damages-mosque-and-buildings-in-jazan",
-      "published_date": "2026-09-12T20:28:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
@@ -394,6 +394,20 @@
       "url": "https://saudigazette.com.sa/article/664494/saudi-arabia/saudi-arabia-updates-four-tourism-regulations-covering-travel-guides-and-hospitality",
       "published_date": "2026-09-11T18:08:31+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Multinational maritime coalition moves toward operational deployment with 41 countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664674/saudi-arabia/multinational-maritime-coalition-prepares-for-operational-deployment-with-41-countries",
+      "published_date": "2026-09-18T13:01:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Above-average rainfall forecast across most of Saudi Arabia in October",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664669/saudi-arabia/above-average-rainfall-forecast-across-most-of-saudi-arabia-in-october",
+      "published_date": "2026-09-18T11:13:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "National Day air shows will begin in Jeddah on Friday and conclude in Al-Khobar",
@@ -519,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664536/saudi-arabia/4th-season-of-archaeological-excavations-concludes-at-al-bahas-al-mamala-site",
       "published_date": "2026-09-13T13:59:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GASTAT launches survey to measure values and behaviors in Saudi society",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664525/saudi-arabia/gastat-launches-survey-to-measure-values-and-behaviors-in-saudi-society",
-      "published_date": "2026-09-13T11:32:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh activates traffic diversion as Thumamah Road development advances",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664522/saudi-arabia/riyadh-activates-traffic-diversion-as-thumamah-road-development-advances",
-      "published_date": "2026-09-13T09:00:28+00:00",
       "category": "Local Events"
     }
   ]
