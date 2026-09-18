@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-17T15:25:25.849984+00:00",
-  "story_count": 77,
+  "last_updated": "2026-09-18T01:05:01.839794+00:00",
+  "story_count": 76,
   "stories": [
     {
       "title": "Saudi Arabia’s US Treasury holdings rise by $10.7 billion in July",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US approves potential $24.3 billion sale of 48 F-35 fighters to Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664657/saudi-arabia/us-approves-potential-243-billion-sale-of-48-f-35-jets-to-saudi-arabia",
+      "published_date": "2026-09-17T21:11:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Traffic Directorate sets 6 conditions for heavy trucks on roads",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664512/saudi-arabia/saudi-traffic-directorate-sets-6-conditions-for-heavy-trucks-on-roads",
-      "published_date": "2026-09-12T15:54:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
@@ -396,25 +396,39 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia strengthens its presence on global tourism map as World Travel Market concludes in Riyadh",
+      "title": "National Day air shows will begin in Jeddah on Friday and conclude in Al-Khobar",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664478/saudi-arabia/saudi-arabia-strengthens-its-presence-on-global-tourism-map-as-world-travel-market-concludes-in-riyadh",
-      "published_date": "2026-09-10T20:53:22+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664658/saudi-arabia/national-day-air-shows-will-begin-in-jeddah-on-friday-and-conclude-in-al-khobar",
+      "published_date": "2026-09-17T21:17:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi minister, Bahrain’s deputy PM discuss strengthening tourism cooperation",
+      "title": "MoH probes expat doctor over patient privacy violations, photo publication",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664477/saudi-arabia/saudi-minister-bahrains-deputy-pm-discuss-strengthening-tourism-cooperation",
-      "published_date": "2026-09-10T17:21:52+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664656/saudi-arabia/moh-probes-expat-doctor-over-patient-privacy-violations-photo-publication",
+      "published_date": "2026-09-17T17:17:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia commands 93% of Gulf e-commerce investments",
+      "title": "King extends Makkah Emir Prince Khaled Al-Faisal’s tenure for 4 years",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664476/saudi-arabia/saudi-arabia-commands-93-of-gulf-e-commerce-investments",
-      "published_date": "2026-09-10T17:06:09+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664655/saudi-arabia/king-extends-makkah-emir-prince-khaled-al-faisals-tenure-for-4-years",
+      "published_date": "2026-09-17T16:58:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah Mayoralty opens applications for Hajj 2027 catering contract",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664654/saudi-arabia/makkah-mayoralty-opens-applications-for-hajj-2027-catering-contract",
+      "published_date": "2026-09-17T16:23:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia cuts chronic disease mortality by 40%, lifts life expectancy to around 80",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664653/saudi-arabia/saudi-arabia-cuts-chronic-disease-mortality-by-40-lifts-life-expectancy-to-around-80",
+      "published_date": "2026-09-17T15:10:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Heavy rain, flash floods forecast across parts of Saudi Arabia through Tuesday",
@@ -519,27 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664522/saudi-arabia/riyadh-activates-traffic-diversion-as-thumamah-road-development-advances",
       "published_date": "2026-09-13T09:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Guard seizes 380 kg of khat, 249,000 tablets in Jazan and Asir",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664521/saudi-arabia/border-guard-seizes-380-kg-of-khat-249000-tablets-in-jazan-and-asir",
-      "published_date": "2026-09-13T08:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy thunderstorms, flash flood risk forecast across parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664520/saudi-arabia/heavy-thunderstorms-flash-flood-risk-forecast-across-parts-of-saudi-arabia",
-      "published_date": "2026-09-13T08:02:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA extends road transport compliance deadline to February 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664493/saudi-arabia/saudi-arabia-extends-road-transport-compliance-deadline-to-february-2027",
-      "published_date": "2026-09-11T18:06:01+00:00",
       "category": "Local Events"
     }
   ]
