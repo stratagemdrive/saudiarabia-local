@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-19T01:00:15.909268+00:00",
-  "story_count": 73,
+  "last_updated": "2026-09-19T14:09:24.603258+00:00",
+  "story_count": 72,
   "stories": [
     {
       "title": "Saudi Electronic University renamed Prince Musaed bin Abdulrahman University",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi Civil Defense declares danger over in Riyadh and Al-Kharj after early warning",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664678/saudi-arabia/saudi-civil-defense-declares-danger-over-in-riyadh-and-al-kharj",
+      "published_date": "2026-09-19T02:25:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Two Holy Mosques imams condemn Houthi targeting of Makkah as ‘grave crime’",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664670/saudi-arabia/two-holy-mosques-imams-condemn-houthi-targeting-of-makkah-as-grave-crime",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Civil Defense lifts emergency alerts in southern regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664568/saudi-arabia/saudi-civil-defense-lifts-emergency-alerts-in-southern-regions",
-      "published_date": "2026-09-14T15:20:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
@@ -365,13 +365,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664540/saudi-arabia/saudi-trade-surplus-soars-62-to-sr615-billion-in-q2-2026",
       "published_date": "2026-09-13T15:23:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "S&amp;P Global Ratings affirms Saudi Arabia credit rating at A+ with stable outlook",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664507/saudi-arabia/sp-global-ratings-affirms-saudi-arabia-credit-rating-at-a-with-stable-outlook",
-      "published_date": "2026-09-12T13:22:14+00:00",
       "category": "Economy"
     },
     {
