@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-19T14:09:24.603258+00:00",
-  "story_count": 72,
+  "last_updated": "2026-09-20T00:44:36.649006+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 12,635 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664693/saudi-arabia/saudi-arabia-deports-12635-illegal-residents-in-a-week",
+      "published_date": "2026-09-19T17:36:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM arrives in New York to lead Kingdom’s delegation at UNGA",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664690/saudi-arabia/prince-faisal-bin-farhan-leads-saudi-delegation-at-un-general-assembly",
+      "published_date": "2026-09-19T16:26:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Electronic University renamed Prince Musaed bin Abdulrahman University",
       "source": "Saudi Gazette",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia vows to defend sovereignty, protect vital interests",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664595/saudi-arabia/saudi-arabia-vows-to-defend-sovereignty-protect-vital-interests",
-      "published_date": "2026-09-15T12:56:49+00:00",
-      "category": "Diplomacy"
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-19T23:49:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crown Prince arrives in Cairo for talks with El-Sisi",
+      "title": "Saudi air defenses intercept Houthi ballistic missile targeting Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664592/saudi-arabia/crown-prince-mohammed-bin-salman-arrives-in-cairo-for-talks-with-el-sisi",
-      "published_date": "2026-09-15T12:28:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664694/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-riyadh",
+      "published_date": "2026-09-19T22:54:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Duba Port Customs foils attempt to smuggle 56,000 Captagon pills",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664682/saudi-arabia/duba-port-customs-foils-attempt-to-smuggle-56000-captagon-pills",
+      "published_date": "2026-09-19T13:52:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UNSC condemns Houthi attacks; affirms solidarity with Saudi Arabia in confronting aggression",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664681/saudi-arabia/unsc-condemns-houthi-attacks-affirms-solidarity-with-saudi-arabia-in-confronting-aggression",
+      "published_date": "2026-09-19T13:46:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Civil Defense declares danger over in Riyadh and Al-Kharj after early warning",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T20:34:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T13:05:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "13 civilians injured in Houthi attacks on three Saudi cities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664576/saudi-arabia/13-civilians-injured-in-houthi-attacks-on-khamis-mushait-abha-and-taif",
-      "published_date": "2026-09-15T01:52:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T18:26:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
@@ -303,6 +303,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-15T14:21:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Customs report 1,173 contraband seizures last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664692/saudi-arabia/saudi-customs-report-1173-contraband-seizures-last-week",
+      "published_date": "2026-09-19T17:27:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia raises repo and reverse repo rates by 25 basis points",
@@ -366,6 +373,20 @@
       "url": "https://saudigazette.com.sa/article/664540/saudi-arabia/saudi-trade-surplus-soars-62-to-sr615-billion-in-q2-2026",
       "published_date": "2026-09-13T15:23:39+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi National Day celebrations to feature airshows, naval displays and fireworks across Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664689/saudi-arabia/saudi-national-day-celebrations-to-feature-airshows-and-fireworks-across-kingdom",
+      "published_date": "2026-09-19T16:14:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spectacular air shows light up Jeddah skies for National Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664684/saudi-arabia/spectacular-air-shows-light-up-jeddah-skies-for-national-day",
+      "published_date": "2026-09-19T15:41:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia condemns Pakistan mosque bombing that killed at least 16",
@@ -491,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664566/saudi-arabia/sr32-billion-joint-venture-agreement-inked-to-develop-and-deliver-riyadh-expo-village",
       "published_date": "2026-09-14T14:47:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh International Book Fair 2026 set for December 10-19",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664561/saudi-arabia/riyadh-international-book-fair-2026-set-for-december-10-19",
-      "published_date": "2026-09-14T12:58:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First batch of students began their semester as classes commence at Riyadh University of Arts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664541/saudi-arabia/first-batch-of-students-began-their-semester-as-classes-commence-at-riyadh-university-of-arts",
-      "published_date": "2026-09-13T16:43:29+00:00",
       "category": "Local Events"
     }
   ]
