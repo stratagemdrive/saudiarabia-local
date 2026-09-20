@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-20T00:44:36.649006+00:00",
-  "story_count": 73,
+  "last_updated": "2026-09-20T14:28:11.491391+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "UN, GCC chiefs condemn Houthi militia attacks on Saudi Arabia, saying serious threat to regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664708/saudi-arabia/un-gcc-chiefs-condemn-houthi-militia-attacks-on-saudi-arabia-saying-serious-threat-to-regional-security",
+      "published_date": "2026-09-20T13:35:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Faisal: Saudi participation at UN reflects commitment to global peace and security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664704/saudi-arabia/prince-faisal-saudi-participation-at-un-reflects-commitment-to-global-peace-and-security",
+      "published_date": "2026-09-20T12:18:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 12,635 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Midday outdoor work ban under sun comes to an end in Saudi Arabia",
+      "title": "Islamic Military Coalition conducts specialized program on countering extremism",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664598/saudi-arabia/midday-outdoor-work-ban-under-sun-comes-to-an-end-in-saudi-arabia",
-      "published_date": "2026-09-15T14:02:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664707/saudi-arabia/islamic-military-coalition-conducts-specialized-program-on-countering-extremism",
+      "published_date": "2026-09-20T13:01:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Egypt affirm shared interests, ‘absolute understanding’ on common goals",
+      "title": "Arab and Islamic world condemns Houthi attacks; affirms support for Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664597/saudi-arabia/saudi-arabia-egypt-affirm-gulf-security-is-part-of-egyptian-national-security",
-      "published_date": "2026-09-15T13:37:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664697/saudi-arabia/arab-and-islamic-world-condemns-houthi-attacks-affirms-support-for-saudi-arabia",
+      "published_date": "2026-09-20T07:24:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia warns Houthi Attacks threaten Red Sea navigation and Global Trade",
+      "title": "Saudi Energy Ministry detects 847 violations in over 10,000 inspections",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664611/saudi-arabia/saudi-arabia-warns-houthi-attacks-threaten-red-sea-navigation-and-global-trade",
-      "published_date": "2026-09-16T08:13:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi air defenses intercept Houthi drone south of Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664606/saudi-arabia/saudi-air-defenses-intercept-houthi-drone-south-of-makkah",
-      "published_date": "2026-09-16T00:08:19+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/664706/saudi-arabia/saudi-energy-ministry-detects-847-violations-in-over-10000-inspections",
+      "published_date": "2026-09-20T12:35:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
@@ -303,6 +310,20 @@
       "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-15T14:21:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Dina Ahmed makes history with Saudi Arabia’s first women’s Asian Games medal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664710/saudi-arabia/dina-ahmed-wins-saudi-arabias-first-womens-asian-games-medal",
+      "published_date": "2026-09-20T14:06:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi building permits jump 15.5 percent in July as operating revenues rise",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664698/saudi-arabia/saudi-building-permits-jump-155-percent-in-july-as-operating-revenues-rise",
+      "published_date": "2026-09-20T08:55:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Customs report 1,173 contraband seizures last week",
@@ -373,6 +394,20 @@
       "url": "https://saudigazette.com.sa/article/664540/saudi-arabia/saudi-trade-surplus-soars-62-to-sr615-billion-in-q2-2026",
       "published_date": "2026-09-13T15:23:39+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi basalt recognized as Global Heritage Stone in Kingdom first",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664699/saudi-arabia/saudi-basalt-recognized-as-global-heritage-stone-in-kingdom-first",
+      "published_date": "2026-09-20T10:25:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain, flash flood risk forecast across parts of Saudi Arabia through Friday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664695/saudi-arabia/heavy-rain-flash-flood-risk-forecast-across-parts-of-saudi-arabia-through-friday",
+      "published_date": "2026-09-20T06:56:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi National Day celebrations to feature airshows, naval displays and fireworks across Kingdom",
@@ -498,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664572/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-forecast-across-several-regions-through-saturday",
       "published_date": "2026-09-14T20:31:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IAEA chief says Saudi Arabia moving forward with nuclear power program, research reactor",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664567/saudi-arabia/iaea-chief-says-saudi-arabia-moving-forward-with-nuclear-power-program-research-reactor",
-      "published_date": "2026-09-14T15:09:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SR3.2 billion joint venture agreement inked to develop and deliver Riyadh Expo Village",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664566/saudi-arabia/sr32-billion-joint-venture-agreement-inked-to-develop-and-deliver-riyadh-expo-village",
-      "published_date": "2026-09-14T14:47:24+00:00",
       "category": "Local Events"
     }
   ]
