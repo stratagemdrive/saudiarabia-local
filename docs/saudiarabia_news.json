@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-20T14:28:11.491391+00:00",
+  "last_updated": "2026-09-21T00:53:00.503651+00:00",
   "story_count": 76,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "7-member family among 9 killed in horrific Al-Ahsa crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664714/saudi-arabia/7-member-family-among-9-killed-in-horrific-al-ahsa-crash",
+      "published_date": "2026-09-20T15:10:21+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Islamic Military Coalition conducts specialized program on countering extremism",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664707/saudi-arabia/islamic-military-coalition-conducts-specialized-program-on-countering-extremism",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-16T08:36:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Energy Ministry detects 847 violations in over 10,000 inspections",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664706/saudi-arabia/saudi-energy-ministry-detects-847-violations-in-over-10000-inspections",
@@ -310,6 +310,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-15T14:21:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Interior Minister launches unified platform and operations center of Supreme Authority for Industrial Security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664715/saudi-arabia/interior-minister-launches-unified-platform-and-operations-center-of-supreme-authority-for-industrial-security",
+      "published_date": "2026-09-20T16:41:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dina Ahmed makes history with Saudi Arabia’s first women’s Asian Games medal",
@@ -389,11 +396,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi trade surplus soars 62% to SR61.5 billion in Q2 2026",
+      "title": "Ethiopian arrested in attempted smuggling of 65,685 pills, 60kg of hashish",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664540/saudi-arabia/saudi-trade-surplus-soars-62-to-sr615-billion-in-q2-2026",
-      "published_date": "2026-09-13T15:23:39+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664713/saudi-arabia/ethiopian-arrested-in-attempted-smuggling-of-65685-pills-60kg-of-hashish",
+      "published_date": "2026-09-20T14:41:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 Filipinos arrested for illegal fishing in Yanbu",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664712/saudi-arabia/3-filipinos-arrested-for-illegal-fishing-in-yanbu",
+      "published_date": "2026-09-20T14:29:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi basalt recognized as Global Heritage Stone in Kingdom first",
@@ -519,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664600/saudi-arabia/when-the-houthis-missiles-bring-danger-closer-to-makkah",
       "published_date": "2026-09-15T14:44:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi inflation Reaches 1.8% in August",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664580/saudi-arabia/saudi-inflation-reaches-18-in-august",
-      "published_date": "2026-09-15T08:26:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense urges caution as thunderstorms forecast across several regions through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664572/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-forecast-across-several-regions-through-saturday",
-      "published_date": "2026-09-14T20:31:35+00:00",
       "category": "Local Events"
     }
   ]
