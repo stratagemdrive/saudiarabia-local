@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-21T00:53:00.503651+00:00",
+  "last_updated": "2026-09-21T16:46:34.415021+00:00",
   "story_count": 76,
   "stories": [
+    {
+      "title": "Building permits issued in Saudi Arabia surge 16% in July",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664739/saudi-arabia/building-permits-issued-in-saudi-arabia-surge-16-in-july",
+      "published_date": "2026-09-21T14:58:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia launches unified national framework for inspection and oversight",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664736/saudi-arabia/saudi-arabia-launches-unified-national-framework-for-inspection-and-oversight",
+      "published_date": "2026-09-21T13:43:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC ministerial coordination meeting reviews joint positions at UNGA session",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664734/saudi-arabia/gcc-coordination-meeting-reviews-joint-positions-at-unga-session",
+      "published_date": "2026-09-21T12:53:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses regional tensions with counterparts from Kuwait, Egypt and Türkiye",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664725/saudi-arabia/saudi-fm-discusses-regional-tensions-with-counterparts-from-kuwait-egypt-and-turkiye",
+      "published_date": "2026-09-21T09:59:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN, GCC chiefs condemn Houthi militia attacks on Saudi Arabia, saying serious threat to regional security",
       "source": "Saudi Gazette",
@@ -43,6 +71,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664667/saudi-arabia/saudi-arabia-qatar-strengthen-security-and-military-coordination",
       "published_date": "2026-09-18T10:49:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T21:41:19+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia cracks down on unlicensed recruitment services with fines up to SR250,000",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664621/saudi-arabia/saudi-arabia-cracks-down-on-unlicensed-recruitment-services-with-fines-up-to-sr250000",
-      "published_date": "2026-09-16T12:47:49+00:00",
-      "category": "Diplomacy"
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T14:14:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Arab League chief calls for immediate cessation of attacks targeting Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664605/saudi-arabia/arab-league-chief-calls-for-immediate-cessation-of-attacks-targeting-saudi-arabia",
-      "published_date": "2026-09-15T20:27:12+00:00",
-      "category": "Diplomacy"
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T10:00:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt visit underscores strength of fraternal relations and shared desire: Crown Prince",
+      "title": "Old Dubai fire video falsely peddled as Saturday&#039;s Houthi attack on Yanbu oil facilities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664604/saudi-arabia/egypt-visit-underscores-strength-of-fraternal-relations-and-shared-desire-crown-prince",
-      "published_date": "2026-09-15T20:20:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SDAIA Chief: Saudi Arabia positions AI as engine of progress, human development",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664601/saudi-arabia/sdaia-chief-saudi-arabia-keen-on-developing-ai-as-a-driver-of-progress-competitiveness-and-human-development",
-      "published_date": "2026-09-15T15:26:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Study: Over half of Saudis fall victim to fraud; 43% recover their money",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664599/saudi-arabia/study-over-half-of-saudis-fall-victim-to-fraud-43-recover-their-money",
-      "published_date": "2026-09-15T14:37:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664716/saudi-arabia/old-dubai-fire-video-falsely-peddled-as-saturdays-houthi-attack-on-yanbu-oil-facilities",
+      "published_date": "2026-09-21T02:49:26+00:00",
+      "category": "Military"
     },
     {
       "title": "7-member family among 9 killed in horrific Al-Ahsa crash",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-16T13:28:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia asserts right to take all necessary measures after Houthi drone attack on Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664619/saudi-arabia/saudi-arabia-asserts-right-to-take-all-necessary-measures-after-houthi-drone-attack-on-makkah",
-      "published_date": "2026-09-16T12:19:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen, Pakistan, Kuwait, OIC and MWL condemn Houthi attacks on Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664615/saudi-arabia/pakistan-oic-and-mwl-condemn-houthi-attacks-on-makkah-madinah-region",
-      "published_date": "2026-09-16T09:56:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Energy Ministry detects 847 violations in over 10,000 inspections",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664706/saudi-arabia/saudi-energy-ministry-detects-847-violations-in-over-10000-inspections",
@@ -310,6 +310,20 @@
       "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-15T14:21:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s economy is projected to grow by 6.1% in 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664740/saudi-arabia/saudi-arabias-economy-is-projected-to-grow-by-61-in-2027",
+      "published_date": "2026-09-21T15:25:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Crown Prince launches CEER’s first electric vehicles, EXOBOT sedan and SUV",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664729/saudi-arabia/crown-prince-launches-ceers-exobot-electric-sedan-and-suv",
+      "published_date": "2026-09-21T12:08:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Interior Minister launches unified platform and operations center of Supreme Authority for Industrial Security",
@@ -382,18 +396,32 @@
       "category": "Economy"
     },
     {
-      "title": "Energy Minister: Saudi nuclear program is transparent, not hidden in mountains or bunkers",
+      "title": "Makkah Grand Mosque Muezzin Sheikh Ibrahim Al-Madani dies at 51",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664565/saudi-arabia/energy-minister-saudi-nuclear-program-is-peaceful-transparent-not-hidden-deep-in-mountains-or-bunkers",
-      "published_date": "2026-09-14T14:27:32+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664738/saudi-arabia/makkah-grand-mosque-muezzin-sheikh-ibrahim-al-madani-dies-at-51",
+      "published_date": "2026-09-21T14:27:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Al-Jadaan: Saudi Arabia advances toward a more sustainable financial market",
+      "title": "Saudi Arabia strongly condemns Israeli incursion into Al-Aqsa Mosque",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664563/saudi-arabia/al-jadaan-saudi-arabia-advances-toward-a-more-sustainable-financial-market",
-      "published_date": "2026-09-14T13:06:05+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664735/saudi-arabia/saudi-arabia-strongly-condemns-israeli-incursion-into-al-aqsa-mosque",
+      "published_date": "2026-09-21T13:09:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red Sea International Film Festival postpones sixth edition to late 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664731/saudi-arabia/red-sea-international-film-festival-postponed-to-fourth-quarter-of-2027",
+      "published_date": "2026-09-21T12:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red alert issued for heavy rain, flash floods in Al-Baha as storms sweep parts of Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664724/saudi-arabia/red-alert-issued-for-heavy-rain-flash-floods-in-al-baha-as-storms-sweep-parts-of-saudi-arabia",
+      "published_date": "2026-09-21T09:16:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ethiopian arrested in attempted smuggling of 65,685 pills, 60kg of hashish",
@@ -421,6 +449,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664695/saudi-arabia/heavy-rain-flash-flood-risk-forecast-across-parts-of-saudi-arabia-through-friday",
       "published_date": "2026-09-20T06:56:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-19T23:18:18+00:00",
       "category": "Local Events"
     },
     {
@@ -498,41 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664653/saudi-arabia/saudi-arabia-cuts-chronic-disease-mortality-by-40-lifts-life-expectancy-to-around-80",
       "published_date": "2026-09-17T15:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain, flash floods forecast across parts of Saudi Arabia through Tuesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664644/saudi-arabia/heavy-rain-flash-floods-forecast-across-parts-of-saudi-arabia-through-tuesday",
-      "published_date": "2026-09-17T12:06:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi port container traffic surges 52.9% as cargo exceeds 341 million tons",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664642/saudi-arabia/saudi-port-container-traffic-surges-529-as-cargo-exceeds-341-million-tons",
-      "published_date": "2026-09-17T08:58:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passports directorate takes 22,894 decisions to penalize residency violators in a month",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664627/saudi-arabia/passports-directorate-takes-22894-decisions-to-penalize-residency-violators-in-a-month",
-      "published_date": "2026-09-16T14:25:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "School fitness screenings completed for new students across Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664626/saudi-arabia/school-fitness-screenings-completed-for-new-students-across-saudi-arabia",
-      "published_date": "2026-09-16T14:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houthi escalation crosses a sacred threshold",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664600/saudi-arabia/when-the-houthis-missiles-bring-danger-closer-to-makkah",
-      "published_date": "2026-09-15T14:44:30+00:00",
       "category": "Local Events"
     }
   ]
