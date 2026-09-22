@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-21T16:46:34.415021+00:00",
-  "story_count": 76,
+  "last_updated": "2026-09-22T01:28:17.966425+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi-Kuwaiti panel discusses joint security initiatives",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664745/saudi-arabia/saudi-kuwaitipanel-discusses-joint-security-initiatives",
+      "published_date": "2026-09-21T21:09:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emir of Riyadh thanks the leadership for extending his tenure for 4 years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664742/saudi-arabia/emir-of-riyadh-thanks-the-leadership-on-extending-his-tenure-for-4-years",
+      "published_date": "2026-09-21T19:57:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King and Crown Prince offer condolences to Dubai ruler on death of his brother",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664741/saudi-arabia/king-and-crown-prince-offer-condolences-to-dubai-ruler-on-death-of-his-brother",
+      "published_date": "2026-09-21T17:07:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Building permits issued in Saudi Arabia surge 16% in July",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Crown Prince receives message from King Abdullah of Jordan",
+      "title": "UN condemns continued Houthi attacks on Saudi Arabia, urges restraint",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664631/saudi-arabia/saudi-crown-prince-receives-message-from-king-abdullah-of-jordan",
-      "published_date": "2026-09-16T17:15:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Philippine ministers discuss enhancing cooperation on matters of domestic workers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664628/saudi-arabia/saudi-philippine-ministers-discuss-enhancing-cooperation-on-matters-of-domestic-workers",
-      "published_date": "2026-09-16T15:01:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Health Ministry launches seasonal flu vaccine; urges high-risk groups to get shots",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664625/saudi-arabia/health-ministry-launches-seasonal-flu-vaccine-urges-high-risk-groups-to-get-shots",
-      "published_date": "2026-09-16T13:55:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664744/saudi-arabia/un-condemns-continued-houthi-attacks-on-saudi-arabia-urges-restraint",
+      "published_date": "2026-09-21T21:05:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -263,24 +270,17 @@
       "category": "Military"
     },
     {
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T17:16:47+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Islamic world erupts in outrage over Houthi attack targeting Makkah",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664630/saudi-arabia/islamic-world-erupts-in-outrage-over-houthi-attack-targeting-makkah",
       "published_date": "2026-09-16T17:02:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK affirms solidarity with Saudi Arabia and its right to defend sovereignty",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664629/saudi-arabia/uk-affirms-solidarity-with-saudi-arabia-and-its-right-to-defend-sovereignty",
-      "published_date": "2026-09-16T15:32:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN warns maritime disruption threatens global peace and energy markets",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664624/saudi-arabia/un-warns-maritime-disruption-threatens-global-peace-and-energy-markets",
-      "published_date": "2026-09-16T13:34:06+00:00",
       "category": "Military"
     },
     {
@@ -382,18 +382,11 @@
       "category": "Economy"
     },
     {
-      "title": "Abdullah Kamel: Number of factories in Saudi Arabia surpasses 15,000",
+      "title": "Firms hiring illegal workers face SR100,000 fines, warns Interior Ministry",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664574/saudi-arabia/abdullah-kamel-number-of-factories-in-saudi-arabia-surpasses-15000",
-      "published_date": "2026-09-14T21:43:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Energy minister discusses bilateral cooperation with Austrian counterpart",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664571/saudi-arabia/energy-minister-discusses-bilateral-cooperation-with-austrian-counterpart",
-      "published_date": "2026-09-14T20:09:19+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664743/saudi-arabia/firms-hiring-illegal-workers-face-sr100000-fines-warns-interior-ministry",
+      "published_date": "2026-09-21T20:07:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Makkah Grand Mosque Muezzin Sheikh Ibrahim Al-Madani dies at 51",
@@ -526,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664654/saudi-arabia/makkah-mayoralty-opens-applications-for-hajj-2027-catering-contract",
       "published_date": "2026-09-17T16:23:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia cuts chronic disease mortality by 40%, lifts life expectancy to around 80",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664653/saudi-arabia/saudi-arabia-cuts-chronic-disease-mortality-by-40-lifts-life-expectancy-to-around-80",
-      "published_date": "2026-09-17T15:10:31+00:00",
       "category": "Local Events"
     }
   ]
