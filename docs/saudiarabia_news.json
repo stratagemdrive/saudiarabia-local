@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-22T01:28:17.966425+00:00",
-  "story_count": 74,
+  "last_updated": "2026-09-22T15:24:34.635654+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi Arabia, UK discuss enhancing energy cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664767/saudi-arabia/saudi-arabia-uk-discuss-enhancing-energy-cooperation",
+      "published_date": "2026-09-22T14:51:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab-Islamic ministers deplore Israeli move to consolidate annexation in Palestine",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664766/saudi-arabia/arab-islamic-ministers-deplore-israeli-move-to-consolidate-annexation-in-palestine",
+      "published_date": "2026-09-22T14:42:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman: Houthi bid to target Makkah provokes sentiments of world Muslims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664763/saudi-arabia/king-salman-houthi-bid-to-target-makkah-provokes-sentiments-of-world-muslims",
+      "published_date": "2026-09-22T14:08:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, Putin discuss regional escalation, maritime security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664761/saudi-arabia/crown-prince-putin-discuss-regional-escalation-and-maritime-security",
+      "published_date": "2026-09-22T13:37:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab League consultative meeting reviews joint Arab action in New York",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664759/saudi-arabia/arab-league-consultative-meeting-reviews-joint-arab-action-in-new-york",
+      "published_date": "2026-09-22T13:18:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan sign visa-exemption agreement for diplomatic, special passports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664751/saudi-arabia/saudi-arabia-pakistan-sign-visa-exemption-agreement-on-sidelines-of-un-general-assembly",
+      "published_date": "2026-09-22T08:30:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM joins regional quartet in New York talks on de-escalation, security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664750/saudi-arabia/saudi-fm-joins-regional-quartet-in-new-york-talks-on-de-escalation-security",
+      "published_date": "2026-09-22T08:10:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi-Kuwaiti panel discusses joint security initiatives",
       "source": "Saudi Gazette",
@@ -95,53 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T21:41:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-22T13:39:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia’s US Treasury holdings rise by $10.7 billion in July",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664651/saudi-arabia/saudi-arabias-us-treasury-holdings-rise-by-107-billion",
-      "published_date": "2026-09-17T14:37:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia urges strict adherence to international law at UN Security Council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664649/saudi-arabia/saudi-arabia-urges-strict-adherence-to-international-law-at-un-security-council",
-      "published_date": "2026-09-17T14:07:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince offers condolences to UK PM on passing of his father",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664647/saudi-arabia/crown-prince-offers-condolences-to-uk-pm-on-passing-of-his-father",
-      "published_date": "2026-09-17T13:47:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French President calls Saudi Crown Prince to discuss efforts to enhance regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664645/saudi-arabia/french-president-calls-saudi-crown-prince-to-discuss-efforts-to-enhance-regional-security",
-      "published_date": "2026-09-17T12:20:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
+      "title": "UK to help refuel Saudi jets countering Houthi attacks",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T09:06:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Saud bin Abdulmohsen presents credentials as Saudi ambassador to Greece",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664632/saudi-arabia/prince-saud-bin-abdulmohsen-presents-credentials-as-saudi-ambassador-to-greece",
-      "published_date": "2026-09-16T20:19:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-22T08:53:03+00:00",
+      "category": "Military"
     },
     {
       "title": "UN condemns continued Houthi attacks on Saudi Arabia, urges restraint",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-16T17:16:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Islamic world erupts in outrage over Houthi attack targeting Makkah",
+      "title": "Saudi Arabia resumes East-West Pipeline operations: Report",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664630/saudi-arabia/islamic-world-erupts-in-outrage-over-houthi-attack-targeting-makkah",
-      "published_date": "2026-09-16T17:02:24+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/664760/saudi-arabia/saudi-arabia-resumes-east-west-pipeline-operations-after-drone-attacks",
+      "published_date": "2026-09-22T13:28:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Energy Ministry detects 847 violations in over 10,000 inspections",
@@ -302,13 +309,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-16T16:06:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Satellite image reveals major damage that shut crucial oil pipeline",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T14:21:14+00:00",
       "category": "Energy"
     },
     {
@@ -375,11 +375,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia approves national SME strategy targeting 500,000 jobs",
+      "title": "A nation moving forward, a city designed to move",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664588/saudi-arabia/saudi-arabia-approves-sme-strategy-targeting-500000-jobs-35-gdp-contribution",
-      "published_date": "2026-09-15T11:58:35+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664758/saudi-arabia/a-nation-moving-forward-a-city-designed-to-move",
+      "published_date": "2026-09-22T12:22:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM issues red alerts for heavy rain, flash floods across four Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664752/saudi-arabia/ncm-issues-red-alerts-for-heavy-rain-flash-floods-across-four-saudi-regions",
+      "published_date": "2026-09-22T08:55:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Firms hiring illegal workers face SR100,000 fines, warns Interior Ministry",
@@ -505,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664656/saudi-arabia/moh-probes-expat-doctor-over-patient-privacy-violations-photo-publication",
       "published_date": "2026-09-17T17:17:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King extends Makkah Emir Prince Khaled Al-Faisal’s tenure for 4 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664655/saudi-arabia/king-extends-makkah-emir-prince-khaled-al-faisals-tenure-for-4-years",
-      "published_date": "2026-09-17T16:58:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Mayoralty opens applications for Hajj 2027 catering contract",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664654/saudi-arabia/makkah-mayoralty-opens-applications-for-hajj-2027-catering-contract",
-      "published_date": "2026-09-17T16:23:54+00:00",
       "category": "Local Events"
     }
   ]
