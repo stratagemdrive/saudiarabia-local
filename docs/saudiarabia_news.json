@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-22T15:24:34.635654+00:00",
-  "story_count": 73,
+  "last_updated": "2026-09-23T01:17:38.356649+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "The Kingdom in their words",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664787/saudi-arabia/the-kingdom-in-their-words",
+      "published_date": "2026-09-22T22:20:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A father remembered",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664786/saudi-arabia/a-father-remembered",
+      "published_date": "2026-09-22T22:19:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for urgent protection of seafarers stranded in Strait of Hormuz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664785/saudi-arabia/saudi-arabia-calls-for-urgent-protection-of-seafarers-stranded-in-strait-of-hormuz",
+      "published_date": "2026-09-22T22:18:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oud, rose and the rituals of a royal majlis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664783/saudi-arabia/oud-rose-and-the-rituals-of-a-royal-majlis",
+      "published_date": "2026-09-22T22:17:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From a handful of clerks to the institutions of a state",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664779/saudi-arabia/from-a-handful-of-clerks-to-the-institutions-of-a-state",
+      "published_date": "2026-09-22T22:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One flag, three centuries of history",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664777/saudi-arabia/one-flag-three-centuries-of-history",
+      "published_date": "2026-09-22T22:04:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Faisal heads Saudi delegation attending UNGA opening",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664774/saudi-arabia/prince-faisal-heads-saudi-delegation-attending-unga-inaugural-session",
+      "published_date": "2026-09-22T21:26:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, UK discuss enhancing energy cooperation",
       "source": "Saudi Gazette",
@@ -95,53 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses regional tensions with counterparts from Kuwait, Egypt and Türkiye",
+      "title": "Saudi Arabia denies buying 25 oil tankers, rejects link to Iraqi shipping costs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664725/saudi-arabia/saudi-fm-discusses-regional-tensions-with-counterparts-from-kuwait-egypt-and-turkiye",
-      "published_date": "2026-09-21T09:59:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664770/saudi-arabia/saudi-arabia-denies-buying-25-oil-tankers-rejects-link-to-iraqi-shipping-costs",
+      "published_date": "2026-09-22T15:22:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN, GCC chiefs condemn Houthi militia attacks on Saudi Arabia, saying serious threat to regional security",
+      "title": "Saudi Arabia, Egypt, Pakistan, Türkiye condemn attacks on Kingdom, back right to self-defense",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664708/saudi-arabia/un-gcc-chiefs-condemn-houthi-militia-attacks-on-saudi-arabia-saying-serious-threat-to-regional-security",
-      "published_date": "2026-09-20T13:35:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Faisal: Saudi participation at UN reflects commitment to global peace and security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664704/saudi-arabia/prince-faisal-saudi-participation-at-un-reflects-commitment-to-global-peace-and-security",
-      "published_date": "2026-09-20T12:18:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia deports 12,635 illegal residents in a week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664693/saudi-arabia/saudi-arabia-deports-12635-illegal-residents-in-a-week",
-      "published_date": "2026-09-19T17:36:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM arrives in New York to lead Kingdom’s delegation at UNGA",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664690/saudi-arabia/prince-faisal-bin-farhan-leads-saudi-delegation-at-un-general-assembly",
-      "published_date": "2026-09-19T16:26:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Electronic University renamed Prince Musaed bin Abdulrahman University",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664677/saudi-arabia/saudi-electronic-university-renamed-prince-musaed-bin-abdulrahman-university",
-      "published_date": "2026-09-18T21:53:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Qatar strengthen security, military coordination",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664667/saudi-arabia/saudi-arabia-qatar-strengthen-security-and-military-coordination",
-      "published_date": "2026-09-18T10:49:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664769/saudi-arabia/saudi-arabia-egypt-pakistan-turkiye-condemn-attacks-on-kingdom",
+      "published_date": "2026-09-22T15:18:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Civil Defense: One killed, two injured as Houthi drone intercepted in Taif",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664646/saudi-arabia/civil-defense-one-killed-two-injured-as-houthi-drone-intercepted-in-taif",
-      "published_date": "2026-09-17T13:00:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-16T18:36:16+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia resumes East-West Pipeline operations: Report",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664760/saudi-arabia/saudi-arabia-resumes-east-west-pipeline-operations-after-drone-attacks",
@@ -310,6 +310,34 @@
       "url": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-16T16:06:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Building the Future Together",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664791/saudi-arabia/building-the-future-together",
+      "published_date": "2026-09-23T01:05:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From the foundations to Vision 2030",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664789/saudi-arabia/from-the-foundations-to-vision-2030",
+      "published_date": "2026-09-22T22:22:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "1932 / 2026: A nation transformed",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664788/saudi-arabia/1932-2026-a-nation-transformed",
+      "published_date": "2026-09-22T22:21:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Commercial registrations in Saudi Arabia surpass 1.9 million",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664773/saudi-arabia/commercial-registrations-in-saudi-arabia-surpass-19-million",
+      "published_date": "2026-09-22T16:35:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia&#039;s economy is projected to grow by 6.1% in 2027",
@@ -361,18 +389,67 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi-Egypt trade volume exceeds $82 billion over five years",
+      "title": "Civil Defense urges caution as thunderstorms continue to hit several regions through Sunday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664603/saudi-arabia/saudi-egypt-trade-volume-exceeds-82-billion-over-five-years",
-      "published_date": "2026-09-15T17:17:52+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664790/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-continue-to-hit-several-regions-through-sunday",
+      "published_date": "2026-09-22T22:23:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SAMA, Qatar Central Bank enable Mada–Himyan national card payments",
+      "title": "Palaces where a Kingdom took shape",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664602/saudi-arabia/sama-qatar-central-bank-enable-madahimyan-national-card-payments",
-      "published_date": "2026-09-15T17:10:28+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664784/saudi-arabia/palaces-where-a-kingdom-took-shape",
+      "published_date": "2026-09-22T22:18:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "300 cars to Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664782/saudi-arabia/300-cars-to-makkah",
+      "published_date": "2026-09-22T22:16:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From epidemics to organized healthcare",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664781/saudi-arabia/from-epidemics-to-organized-healthcare",
+      "published_date": "2026-09-22T22:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Saudis went to school",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664780/saudi-arabia/when-saudis-went-to-school",
+      "published_date": "2026-09-22T22:10:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The four decades behind Saudi Arabia’s national anthem",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664778/saudi-arabia/the-four-decades-behind-saudi-arabias-national-anthem",
+      "published_date": "2026-09-22T22:06:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Riyadh to a Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664776/saudi-arabia/from-riyadh-to-a-kingdom",
+      "published_date": "2026-09-22T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeddah Corniche Road named after Prince Khaled Al-Faisal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664771/saudi-arabia/jeddah-corniche-road-named-after-prince-khaled-al-faisal",
+      "published_date": "2026-09-22T15:40:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tuesday marks last day of summer as autumnal equinox approaches",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664768/saudi-arabia/tuesday-marks-last-day-of-summer-as-autumnal-equinox-approaches",
+      "published_date": "2026-09-22T15:07:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A nation moving forward, a city designed to move",
@@ -449,69 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664695/saudi-arabia/heavy-rain-flash-flood-risk-forecast-across-parts-of-saudi-arabia-through-friday",
       "published_date": "2026-09-20T06:56:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-19T23:18:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi National Day celebrations to feature airshows, naval displays and fireworks across Kingdom",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664689/saudi-arabia/saudi-national-day-celebrations-to-feature-airshows-and-fireworks-across-kingdom",
-      "published_date": "2026-09-19T16:14:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spectacular air shows light up Jeddah skies for National Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664684/saudi-arabia/spectacular-air-shows-light-up-jeddah-skies-for-national-day",
-      "published_date": "2026-09-19T15:41:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia condemns Pakistan mosque bombing that killed at least 16",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664676/saudi-arabia/saudi-arabia-condemns-pakistan-mosque-bombing-that-killed-at-least-16",
-      "published_date": "2026-09-18T21:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Civil Defense issues multiple alerts across seven cities before declaring danger over",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664675/saudi-arabia/saudi-civil-defense-issues-alerts-across-seven-cities-before-danger-passes",
-      "published_date": "2026-09-18T21:41:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multinational maritime coalition moves toward operational deployment with 41 countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664674/saudi-arabia/multinational-maritime-coalition-prepares-for-operational-deployment-with-41-countries",
-      "published_date": "2026-09-18T13:01:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Above-average rainfall forecast across most of Saudi Arabia in October",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664669/saudi-arabia/above-average-rainfall-forecast-across-most-of-saudi-arabia-in-october",
-      "published_date": "2026-09-18T11:13:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Day air shows will begin in Jeddah on Friday and conclude in Al-Khobar",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664658/saudi-arabia/national-day-air-shows-will-begin-in-jeddah-on-friday-and-conclude-in-al-khobar",
-      "published_date": "2026-09-17T21:17:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MoH probes expat doctor over patient privacy violations, photo publication",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664656/saudi-arabia/moh-probes-expat-doctor-over-patient-privacy-violations-photo-publication",
-      "published_date": "2026-09-17T17:17:14+00:00",
       "category": "Local Events"
     }
   ]
