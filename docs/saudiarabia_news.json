@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-24T01:10:18.073384+00:00",
-  "story_count": 74,
+  "last_updated": "2026-09-24T15:41:34.191609+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi Arabia advances to 13th globally, 3rd among G20 in 2026 IMD World Competitiveness Yearbook",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664843/saudi-arabia/saudi-arabia-advances-to-13th-globally-3rd-among-g20-in-2026-imd-world-competitiveness-yearbook",
+      "published_date": "2026-09-24T14:50:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for unhindered aid access to Gaza to alleviate deteriorating humanitarian situation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664842/saudi-arabia/saudi-arabia-calls-for-unhindered-aid-access-to-gaza-to-alleviate-deteriorating-humanitarian-situation",
+      "published_date": "2026-09-24T14:26:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Shehail presents credentials as Saudi Arabia&#039;s ambassador to Sweden",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664840/saudi-arabia/al-shehail-presents-credentials-as-saudi-arabias-ambassador-to-sweden",
+      "published_date": "2026-09-24T14:04:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM joins GCC-ASEAN talks to expand economic, trade and investment cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664831/saudi-arabia/saudi-fm-joins-gcc-asean-talks-to-expand-economic-trade-and-investment-cooperation",
+      "published_date": "2026-09-24T07:23:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Defense Minister: National Day inspires pride in defending our homeland",
       "source": "Saudi Gazette",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "One flag, three centuries of history",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664777/saudi-arabia/one-flag-three-centuries-of-history",
-      "published_date": "2026-09-22T22:04:05+00:00",
-      "category": "Diplomacy"
+      "title": "Who are the Houthis and what do they want?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-24T13:58:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prince Faisal heads Saudi delegation attending UNGA opening",
+      "title": "Saudi Forces intercept 6 Houthi ballistic missiles targeting Taif, Yanbu",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664774/saudi-arabia/prince-faisal-heads-saudi-delegation-attending-unga-inaugural-session",
-      "published_date": "2026-09-22T21:26:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, UK discuss enhancing energy cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664767/saudi-arabia/saudi-arabia-uk-discuss-enhancing-energy-cooperation",
-      "published_date": "2026-09-22T14:51:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Arab-Islamic ministers deplore Israeli move to consolidate annexation in Palestine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664766/saudi-arabia/arab-islamic-ministers-deplore-israeli-move-to-consolidate-annexation-in-palestine",
-      "published_date": "2026-09-22T14:42:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664835/saudi-arabia/saudi-forces-intercept-6-houthi-ballistic-missiles-targeting-taif-and-yanbu",
+      "published_date": "2026-09-24T12:41:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Two Holy Mosques imams condemn Houthi targeting of Makkah as ‘grave crime’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664670/saudi-arabia/two-holy-mosques-imams-condemn-houthi-targeting-of-makkah-as-grave-crime",
-      "published_date": "2026-09-18T12:07:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US approves potential $24.3 billion sale of 48 F-35 fighters to Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664657/saudi-arabia/us-approves-potential-243-billion-sale-of-48-f-35-jets-to-saudi-arabia",
-      "published_date": "2026-09-17T21:11:44+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia resumes East-West Pipeline operations: Report",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664760/saudi-arabia/saudi-arabia-resumes-east-west-pipeline-operations-after-drone-attacks",
@@ -295,13 +295,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664706/saudi-arabia/saudi-energy-ministry-detects-847-violations-in-over-10000-inspections",
       "published_date": "2026-09-20T12:35:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T08:40:41+00:00",
       "category": "Energy"
     },
     {
@@ -380,6 +373,13 @@
       "url": "https://saudigazette.com.sa/article/664692/saudi-arabia/saudi-customs-report-1173-contraband-seizures-last-week",
       "published_date": "2026-09-19T17:27:28+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "NCM forecasts heavy rain across four Saudi regions through Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664830/saudi-arabia/ncm-forecasts-heavy-rain-across-four-saudi-regions-through-sunday",
+      "published_date": "2026-09-24T07:13:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Traffic Directorate to establish 6 new driving schools",
@@ -512,13 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664724/saudi-arabia/red-alert-issued-for-heavy-rain-flash-floods-in-al-baha-as-storms-sweep-parts-of-saudi-arabia",
       "published_date": "2026-09-21T09:16:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopian arrested in attempted smuggling of 65,685 pills, 60kg of hashish",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664713/saudi-arabia/ethiopian-arrested-in-attempted-smuggling-of-65685-pills-60kg-of-hashish",
-      "published_date": "2026-09-20T14:41:51+00:00",
       "category": "Local Events"
     }
   ]
