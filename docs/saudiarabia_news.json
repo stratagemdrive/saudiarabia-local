@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-23T15:16:25.955679+00:00",
-  "story_count": 76,
+  "last_updated": "2026-09-24T01:10:18.073384+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Defense Minister: National Day inspires pride in defending our homeland",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664825/saudi-arabia/defense-minister-national-day-inspires-pride-in-defending-our-homeland",
+      "published_date": "2026-09-23T21:21:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM attends meeting aims for maritime security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664824/saudi-arabia/saudi-fm-attends-meeting-aims-for-maritime-security",
+      "published_date": "2026-09-23T20:56:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Korean foreign ministers discuss regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664823/saudi-arabia/saudi-korean-foreign-ministers-discuss-regional-developments",
+      "published_date": "2026-09-23T20:46:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Several leaders and heads of state greet King Salman and Crown Prince on National Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664820/saudi-arabia/several-leaders-and-heads-of-state-greet-king-salman-and-crown-prince-on-national-day",
+      "published_date": "2026-09-23T16:54:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman orders mosque north of Riyadh named after King Abdulaziz",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664819/saudi-arabia/king-salman-orders-mosque-north-of-riyadh-named-after-king-abdulaziz",
+      "published_date": "2026-09-23T16:09:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman: Saudi Arabia founded on firm principles to preserve faith, establish justice",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664817/saudi-arabia/king-salman-saudi-arabia-founded-on-firm-principles-to-preserve-faith-establish-justice",
+      "published_date": "2026-09-23T15:09:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, Paraguay sign mutual visa exemption agreement",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman: Houthi bid to target Makkah provokes sentiments of world Muslims",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664763/saudi-arabia/king-salman-houthi-bid-to-target-makkah-provokes-sentiments-of-world-muslims",
-      "published_date": "2026-09-22T14:08:23+00:00",
-      "category": "Diplomacy"
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T21:26:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crown Prince, Putin discuss regional escalation, maritime security",
+      "title": "Passports Directorate stipulates conditions to issue final exit for domestic workers during probationary period",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664761/saudi-arabia/crown-prince-putin-discuss-regional-escalation-and-maritime-security",
-      "published_date": "2026-09-22T13:37:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Arab League consultative meeting reviews joint Arab action in New York",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664759/saudi-arabia/arab-league-consultative-meeting-reviews-joint-arab-action-in-new-york",
-      "published_date": "2026-09-22T13:18:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan sign visa-exemption agreement for diplomatic, special passports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664751/saudi-arabia/saudi-arabia-pakistan-sign-visa-exemption-agreement-on-sidelines-of-un-general-assembly",
-      "published_date": "2026-09-22T08:30:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM joins regional quartet in New York talks on de-escalation, security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664750/saudi-arabia/saudi-fm-joins-regional-quartet-in-new-york-talks-on-de-escalation-security",
-      "published_date": "2026-09-22T08:10:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi-Kuwaiti panel discusses joint security initiatives",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664745/saudi-arabia/saudi-kuwaitipanel-discusses-joint-security-initiatives",
-      "published_date": "2026-09-21T21:09:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664822/saudi-arabia/passports-directorate-stipulates-conditions-to-issue-final-exit-for-domestic-workers-during-probationary-period",
+      "published_date": "2026-09-23T20:08:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia denies buying 25 oil tankers, rejects link to Iraqi shipping costs",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T15:07:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T13:47:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia resumes East-West Pipeline operations: Report",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664760/saudi-arabia/saudi-arabia-resumes-east-west-pipeline-operations-after-drone-attacks",
@@ -302,13 +302,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-17T08:40:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How escalating Saudi oil crisis could drive up prices everywhere",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-16T16:06:50+00:00",
       "category": "Energy"
     },
     {
@@ -389,11 +382,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia raises repo and reverse repo rates by 25 basis points",
+      "title": "Traffic Directorate to establish 6 new driving schools",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664633/saudi-arabia/saudi-arabia-raises-repo-and-reverse-repo-rates-by-25-basis-points",
-      "published_date": "2026-09-16T20:26:12+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664821/saudi-arabia/traffic-directorate-to-establish-6-new-driving-schools",
+      "published_date": "2026-09-23T17:06:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
@@ -526,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664713/saudi-arabia/ethiopian-arrested-in-attempted-smuggling-of-65685-pills-60kg-of-hashish",
       "published_date": "2026-09-20T14:41:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 Filipinos arrested for illegal fishing in Yanbu",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664712/saudi-arabia/3-filipinos-arrested-for-illegal-fishing-in-yanbu",
-      "published_date": "2026-09-20T14:29:43+00:00",
       "category": "Local Events"
     }
   ]
