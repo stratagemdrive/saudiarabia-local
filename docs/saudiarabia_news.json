@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-24T15:41:34.191609+00:00",
-  "story_count": 73,
+  "last_updated": "2026-09-25T01:11:47.093328+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Crown Prince calls Dubai ruler to offer condolences on passing of his brother",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664848/saudi-arabia/crown-prince-calls-dubai-ruler-to-offer-condolences-on-passing-of-his-brother",
+      "published_date": "2026-09-24T20:45:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia advances to 13th globally, 3rd among G20 in 2026 IMD World Competitiveness Yearbook",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "From a handful of clerks to the institutions of a state",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T00:44:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Grand Mufti urges front-line soldiers to stand united in repelling Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664779/saudi-arabia/from-a-handful-of-clerks-to-the-institutions-of-a-state",
-      "published_date": "2026-09-22T22:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664849/saudi-arabia/grand-mufti-urges-front-line-soldiers-to-stand-united-in-repelling-houthi-attacks",
+      "published_date": "2026-09-24T21:58:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Impressive Diriyah military parade showcases heritage, unity, and national pride",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664845/saudi-arabia/impressive-diriyah-military-parade-showcases-heritage-unity-and-national-pride",
+      "published_date": "2026-09-24T16:44:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Who are the Houthis and what do they want?",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Duba Port Customs foils attempt to smuggle 56,000 Captagon pills",
+      "title": "Aramco CEO: We can fix any disruption within days",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664682/saudi-arabia/duba-port-customs-foils-attempt-to-smuggle-56000-captagon-pills",
-      "published_date": "2026-09-19T13:52:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UNSC condemns Houthi attacks; affirms solidarity with Saudi Arabia in confronting aggression",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664681/saudi-arabia/unsc-condemns-houthi-attacks-affirms-solidarity-with-saudi-arabia-in-confronting-aggression",
-      "published_date": "2026-09-19T13:46:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Civil Defense declares danger over in Riyadh and Al-Kharj after early warning",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664678/saudi-arabia/saudi-civil-defense-declares-danger-over-in-riyadh-and-al-kharj",
-      "published_date": "2026-09-19T02:25:14+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
+      "published_date": "2026-09-24T18:43:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia resumes East-West Pipeline operations: Report",
@@ -373,6 +380,13 @@
       "url": "https://saudigazette.com.sa/article/664692/saudi-arabia/saudi-customs-report-1173-contraband-seizures-last-week",
       "published_date": "2026-09-19T17:27:28+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Spectacular air, military shows electrify Riyadh’s National Day celebrations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664844/saudi-arabia/spectacular-air-military-shows-electrify-riyadhs-national-day-celebrations",
+      "published_date": "2026-09-24T16:35:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NCM forecasts heavy rain across four Saudi regions through Sunday",
@@ -505,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664731/saudi-arabia/red-sea-international-film-festival-postponed-to-fourth-quarter-of-2027",
       "published_date": "2026-09-21T12:20:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alert issued for heavy rain, flash floods in Al-Baha as storms sweep parts of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664724/saudi-arabia/red-alert-issued-for-heavy-rain-flash-floods-in-al-baha-as-storms-sweep-parts-of-saudi-arabia",
-      "published_date": "2026-09-21T09:16:42+00:00",
       "category": "Local Events"
     }
   ]
