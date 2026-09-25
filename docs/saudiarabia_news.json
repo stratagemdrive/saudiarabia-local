@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-25T01:11:47.093328+00:00",
+  "last_updated": "2026-09-25T15:43:11.854974+00:00",
   "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi Arabia reaffirms support for Palestinian Authority, calls for release of withheld funds",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664865/saudi-arabia/saudi-arabia-reaffirms-support-for-palestinian-authority-urges-release-of-withheld-funds",
+      "published_date": "2026-09-25T14:46:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE leaders congratulate King Salman, Crown Prince on Saudi National Day",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664860/saudi-arabia/uae-leaders-congratulate-king-salman-crown-prince-on-saudi-national-day",
+      "published_date": "2026-09-25T14:04:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for collective global action to strengthen water security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664858/saudi-arabia/saudi-arabia-calls-for-global-action-to-strengthen-water-security",
+      "published_date": "2026-09-25T13:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Makkah defense pact ministers condemn attacks on Saudi Arabia, plan urgent military talks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664850/saudi-arabia/saudi-arabia-pakistan-and-turkiye-discuss-makkah-defense-pact-urgent-military-talks",
+      "published_date": "2026-09-25T01:00:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince calls Dubai ruler to offer condolences on passing of his brother",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Kingdom in their words",
+      "title": "Commerce Ministry conducts 383,000 inspections, handles 443,000 consumer reports in 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664787/saudi-arabia/the-kingdom-in-their-words",
-      "published_date": "2026-09-22T22:20:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A father remembered",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664786/saudi-arabia/a-father-remembered",
-      "published_date": "2026-09-22T22:19:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for urgent protection of seafarers stranded in Strait of Hormuz",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664785/saudi-arabia/saudi-arabia-calls-for-urgent-protection-of-seafarers-stranded-in-strait-of-hormuz",
-      "published_date": "2026-09-22T22:18:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oud, rose and the rituals of a royal majlis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664783/saudi-arabia/oud-rose-and-the-rituals-of-a-royal-majlis",
-      "published_date": "2026-09-22T22:17:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664861/saudi-arabia/saudi-commerce-ministry-conducts-383000-inspections-in-first-nine-months-of-2026",
+      "published_date": "2026-09-25T14:11:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi air defenses intercept Houthi ballistic missile targeting Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664694/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-riyadh",
-      "published_date": "2026-09-19T22:54:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco CEO: We can fix any disruption within days",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
@@ -380,6 +380,13 @@
       "url": "https://saudigazette.com.sa/article/664692/saudi-arabia/saudi-customs-report-1173-contraband-seizures-last-week",
       "published_date": "2026-09-19T17:27:28+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Global Alliance reaffirms two-state solution, calls for unified Palestinian state",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664863/saudi-arabia/global-alliance-reaffirms-two-state-solution-calls-for-unified-palestinian-state",
+      "published_date": "2026-09-25T14:39:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spectacular air, military shows electrify Riyadh’s National Day celebrations",
@@ -512,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664735/saudi-arabia/saudi-arabia-strongly-condemns-israeli-incursion-into-al-aqsa-mosque",
       "published_date": "2026-09-21T13:09:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red Sea International Film Festival postpones sixth edition to late 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664731/saudi-arabia/red-sea-international-film-festival-postponed-to-fourth-quarter-of-2027",
-      "published_date": "2026-09-21T12:20:03+00:00",
       "category": "Local Events"
     }
   ]
