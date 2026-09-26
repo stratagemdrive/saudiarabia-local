@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-26T01:13:56.984716+00:00",
+  "last_updated": "2026-09-26T14:52:10.787855+00:00",
   "story_count": 74,
   "stories": [
+    {
+      "title": "King Salman and Crown Prince congratulate Yemen&#039;s President Al-Alimi on September 26 Anniversary",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664869/saudi-arabia/king-salman-and-crown-prince-congratulate-yemens-president-al-alimi-on-september-26-anniversary",
+      "published_date": "2026-09-26T13:51:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia reaffirms support for Palestinian Authority, calls for release of withheld funds",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Message on Saudi National Day by India CG in Jeddah",
+      "title": "Minister of Defense, Pakistan&#039;s Defense Chief discuss Houthi attacks on Makkah, Saudi facilities",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664793/saudi-arabia/message-on-saudi-national-day-by-india-cg-in-jeddah",
-      "published_date": "2026-09-23T01:16:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664870/saudi-arabia/minister-of-defense-pakistans-defense-chief-discuss-houthi-attacks-on-makkah-saudi-facilities",
+      "published_date": "2026-09-26T14:26:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia intercepts Houthi drones, ballistic missile targeting Riyadh, Khamis Mushait",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664868/saudi-arabia/saudi-arabia-intercepts-houthi-drones-ballistic-missile-targeting-riyadh-khamis-mushait",
+      "published_date": "2026-09-26T12:14:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia, Pakistan and Türkiye reaffirm collective defense under Makkah agreement",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Islamic Military Coalition conducts specialized program on countering extremism",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664707/saudi-arabia/islamic-military-coalition-conducts-specialized-program-on-countering-extremism",
-      "published_date": "2026-09-20T13:01:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arab and Islamic world condemns Houthi attacks; affirms support for Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664697/saudi-arabia/arab-and-islamic-world-condemns-houthi-attacks-affirms-support-for-saudi-arabia",
-      "published_date": "2026-09-20T07:24:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco CEO: We can fix any disruption within days",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
@@ -380,6 +380,13 @@
       "url": "https://saudigazette.com.sa/article/664692/saudi-arabia/saudi-customs-report-1173-contraband-seizures-last-week",
       "published_date": "2026-09-19T17:27:28+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T18:41:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Global Alliance reaffirms two-state solution, calls for unified Palestinian state",
@@ -512,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664738/saudi-arabia/makkah-grand-mosque-muezzin-sheikh-ibrahim-al-madani-dies-at-51",
       "published_date": "2026-09-21T14:27:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns Israeli incursion into Al-Aqsa Mosque",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664735/saudi-arabia/saudi-arabia-strongly-condemns-israeli-incursion-into-al-aqsa-mosque",
-      "published_date": "2026-09-21T13:09:53+00:00",
       "category": "Local Events"
     }
   ]
