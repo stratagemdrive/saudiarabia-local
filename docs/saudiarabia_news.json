@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-26T14:52:10.787855+00:00",
-  "story_count": 74,
+  "last_updated": "2026-09-27T01:07:19.415306+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Saudi Arabia calls for protection of international waterways, rejects restrictions on navigation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664884/saudi-arabia/saudi-arabia-calls-for-protection-of-strait-of-hormuz-red-sea-and-international-waterways",
+      "published_date": "2026-09-26T21:16:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "13,628 violators of residency, labor and border security laws arrested in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664882/saudi-arabia/13628-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
+      "published_date": "2026-09-26T17:45:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Adel Al-Jubeir addresses Alliance of Civilizations Group of Friends meeting in New York",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664880/saudi-arabia/adel-al-jubeir-addresses-alliance-of-civilizations-group-of-friends-meeting-in-new-york",
+      "published_date": "2026-09-26T17:00:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab-Islamic meeting calls for preserving historical, legal status quo of Jerusalem",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664879/saudi-arabia/arab-islamic-meeting-calls-for-preserving-historical-legal-status-quo-of-jerusalem",
+      "published_date": "2026-09-26T16:54:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses with Bangladesh, Lebanese PMs enhancing bilateral ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664878/saudi-arabia/saudi-fm-discusses-with-bangladesh-lebanese-pms-enhancing-bilateral-ties",
+      "published_date": "2026-09-26T15:36:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman and Crown Prince congratulate Yemen&#039;s President Al-Alimi on September 26 Anniversary",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman: Saudi Arabia founded on firm principles to preserve faith, establish justice",
+      "title": "Saudi Joint Forces commander, Tareq Saleh discuss Yemen military readiness",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664817/saudi-arabia/king-salman-saudi-arabia-founded-on-firm-principles-to-preserve-faith-establish-justice",
-      "published_date": "2026-09-23T15:09:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Paraguay sign mutual visa exemption agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664815/saudi-arabia/saudi-arabia-paraguay-sign-mutual-visa-exemption-agreement",
-      "published_date": "2026-09-23T14:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister co-chairs high-level meeting on Palestinian peace process in New York",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664812/saudi-arabia/saudi-fm-co-chairs-high-level-meeting-on-palestinian-peace-process-in-new-york",
-      "published_date": "2026-09-23T14:02:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Turkish and Syrian FMs discuss enhancing cooperation to address shared challenges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664811/saudi-arabia/saudi-turkish-and-syrian-fms-discuss-enhancing-cooperation-to-address-shared-challenges",
-      "published_date": "2026-09-23T13:45:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meeting of Trump with regional FMs reviews efforts to contain tensions and prevent spillover of the conflict",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664808/saudi-arabia/meeting-of-trump-with-regional-fms-reviews-efforts-to-contain-tensions-and-prevent-spillover-of-the-conflict",
-      "published_date": "2026-09-23T13:12:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664883/saudi-arabia/saudi-yemeni-commanders-discuss-military-readiness-and-coordination-in-riyadh",
+      "published_date": "2026-09-26T21:14:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Minister of Defense, Pakistan&#039;s Defense Chief discuss Houthi attacks on Makkah, Saudi facilities",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "7-member family among 9 killed in horrific Al-Ahsa crash",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664714/saudi-arabia/7-member-family-among-9-killed-in-horrific-al-ahsa-crash",
-      "published_date": "2026-09-20T15:10:21+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco CEO: We can fix any disruption within days",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
@@ -375,11 +375,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Customs report 1,173 contraband seizures last week",
+      "title": "Jeddah airport begins gradual operations at Terminal 4",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664692/saudi-arabia/saudi-customs-report-1173-contraband-seizures-last-week",
-      "published_date": "2026-09-19T17:27:28+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664885/saudi-arabia/jeddah-airport-begins-operations-at-terminal-4-as-airlines-start-gradual-move",
+      "published_date": "2026-09-26T22:12:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New road lanes open in Makkah to ease traffic congestion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664881/saudi-arabia/new-road-lanes-open-in-makkah-to-ease-traffic-congestion",
+      "published_date": "2026-09-26T17:39:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
@@ -505,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664752/saudi-arabia/ncm-issues-red-alerts-for-heavy-rain-flash-floods-across-four-saudi-regions",
       "published_date": "2026-09-22T08:55:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firms hiring illegal workers face SR100,000 fines, warns Interior Ministry",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664743/saudi-arabia/firms-hiring-illegal-workers-face-sr100000-fines-warns-interior-ministry",
-      "published_date": "2026-09-21T20:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Grand Mosque Muezzin Sheikh Ibrahim Al-Madani dies at 51",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664738/saudi-arabia/makkah-grand-mosque-muezzin-sheikh-ibrahim-al-madani-dies-at-51",
-      "published_date": "2026-09-21T14:27:59+00:00",
       "category": "Local Events"
     }
   ]
