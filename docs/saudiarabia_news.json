@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-27T15:30:21.550976+00:00",
-  "story_count": 70,
+  "last_updated": "2026-09-28T01:26:14.678474+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "UN spokesperson: Saudi Arabia plays crucial role in supporting political solutions to regional conflicts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664919/saudi-arabia/un-spokesperson-saudi-arabia-plays-crucial-role-in-supporting-political-solutions-to-regional-conflicts",
+      "published_date": "2026-09-27T20:27:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Malaysian defense ministers discuss prospects for bilateral cooperation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664915/saudi-arabia/saudi-malaysian-defense-ministers-discuss-prospects-for-bilateral-cooperation-in-phone-call",
+      "published_date": "2026-09-27T16:22:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Any attack on Saudi Arabia is an attack on Morocco,’ King Mohammed VI says",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664912/saudi-arabia/king-mohammed-vi-any-attack-on-saudi-arabia-is-an-attack-on-morocco",
+      "published_date": "2026-09-27T15:38:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Obscured license plate of vehicles carries maximum fine of SR2,000",
       "source": "Saudi Gazette",
@@ -43,6 +64,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664888/saudi-arabia/saudi-arabia-recalls-391-jeep-vehicles-over-tire-pressure-warning-fault",
       "published_date": "2026-09-27T09:02:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-27T07:44:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Makkah defense pact ministers condemn attacks on Saudi Arabia, plan urgent military talks",
+      "title": "Madinah Emir: Sound thinking is fundamental to security and prosperity of societies",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664850/saudi-arabia/saudi-arabia-pakistan-and-turkiye-discuss-makkah-defense-pact-urgent-military-talks",
-      "published_date": "2026-09-25T01:00:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince calls Dubai ruler to offer condolences on passing of his brother",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664848/saudi-arabia/crown-prince-calls-dubai-ruler-to-offer-condolences-on-passing-of-his-brother",
-      "published_date": "2026-09-24T20:45:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia advances to 13th globally, 3rd among G20 in 2026 IMD World Competitiveness Yearbook",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664843/saudi-arabia/saudi-arabia-advances-to-13th-globally-3rd-among-g20-in-2026-imd-world-competitiveness-yearbook",
-      "published_date": "2026-09-24T14:50:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for unhindered aid access to Gaza to alleviate deteriorating humanitarian situation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664842/saudi-arabia/saudi-arabia-calls-for-unhindered-aid-access-to-gaza-to-alleviate-deteriorating-humanitarian-situation",
-      "published_date": "2026-09-24T14:26:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664916/saudi-arabia/madinah-emir-sound-thinking-is-fundamental-to-security-and-prosperity-of-societies",
+      "published_date": "2026-09-27T17:04:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Swiss prosecutors discuss strengthening judicial cooperation",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-21T10:00:31+00:00",
-      "category": "Military"
+      "title": "Saudi oil exports soar 80% to highest level since Iran-US war",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664910/saudi-arabia/saudi-oil-exports-soar-80-to-highest-level-since-iran-us-war",
+      "published_date": "2026-09-27T14:46:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco CEO: We can fix any disruption within days",
@@ -296,6 +303,20 @@
       "url": "https://saudigazette.com.sa/article/664760/saudi-arabia/saudi-arabia-resumes-east-west-pipeline-operations-after-drone-attacks",
       "published_date": "2026-09-22T13:28:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "CMA seeks public feedback on raft regulatory provisions for conducting dealing activities in capital markets outside Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664918/saudi-arabia/cma-seeks-public-feedback-on-raft-regulatory-provisions-for-conducting-dealing-activities-in-capital-markets-outside-saudi-arabia",
+      "published_date": "2026-09-27T20:17:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi government agencies adopt over 500 public proposals to improve regulations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
+      "published_date": "2026-09-27T18:36:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Message on Saudi National Day by Ambassador of India",
@@ -347,11 +368,25 @@
       "category": "Economy"
     },
     {
-      "title": "Interior Minister launches unified platform and operations center of Supreme Authority for Industrial Security",
+      "title": "Civil Defense urges caution amid forecast of thunderstorms across most Saudi regions through Friday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664715/saudi-arabia/interior-minister-launches-unified-platform-and-operations-center-of-supreme-authority-for-industrial-security",
-      "published_date": "2026-09-20T16:41:18+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664920/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-thunderstorms-across-most-saudi-regions-through-friday",
+      "published_date": "2026-09-27T20:58:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh Season 2026 to kick off on October 21",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664911/saudi-arabia/riyadh-season-2026-to-kick-off-on-october-21",
+      "published_date": "2026-09-27T15:32:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AlUla wins Gold at 2026 ICRT Responsible Tourism Awards",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664909/saudi-arabia/alula-wins-gold-at-2026-icrt-responsible-tourism-awards",
+      "published_date": "2026-09-27T14:45:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia completes over 200 km of stormwater drainage networks in first half of 2026",
@@ -470,27 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664780/saudi-arabia/when-saudis-went-to-school",
       "published_date": "2026-09-22T22:10:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The four decades behind Saudi Arabia’s national anthem",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664778/saudi-arabia/the-four-decades-behind-saudi-arabias-national-anthem",
-      "published_date": "2026-09-22T22:06:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Riyadh to a Kingdom",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664776/saudi-arabia/from-riyadh-to-a-kingdom",
-      "published_date": "2026-09-22T22:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah Corniche Road named after Prince Khaled Al-Faisal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664771/saudi-arabia/jeddah-corniche-road-named-after-prince-khaled-al-faisal",
-      "published_date": "2026-09-22T15:40:03+00:00",
       "category": "Local Events"
     }
   ]
