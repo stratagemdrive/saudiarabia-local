@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-28T01:26:14.678474+00:00",
-  "story_count": 72,
+  "last_updated": "2026-09-28T18:25:14.865644+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "King Salman sends invitation to Emir of Kuwait, King of Bahrain to attend 2nd Gulf-European Summit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664944/saudi-arabia/king-salman-sends-invitation-to-emir-of-kuwait-king-of-bahrain-to-attend-2nd-gulf-european-summit",
+      "published_date": "2026-09-28T16:54:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emir of Al-Jouf thanks Saudi leadership for extending his tenure for 4 years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664943/saudi-arabia/emir-of-al-jouf-thanks-saudi-leadership-for-extending-his-tenure-for-4-years",
+      "published_date": "2026-09-28T15:53:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns continued Israeli provocative actions against Al-Aqsa Mosque",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664941/saudi-arabia/saudi-arabia-strongly-condemns-continued-israeli-provocative-actions-against-al-aqsa-mosque",
+      "published_date": "2026-09-28T15:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Absher carries out over 49 million electronic transactions in August",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664939/saudi-arabia/absher-carries-out-over-49-million-electronic-transactions-in-august",
+      "published_date": "2026-09-28T13:55:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Embassy in Washington honors Kingdom’s candidate for WHO director general",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664938/saudi-arabia/saudi-embassy-in-washington-honors-kingdoms-candidate-for-who-director-general",
+      "published_date": "2026-09-28T13:29:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia approves new regulations for camel trading",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664936/saudi-arabia/saudi-arabia-approves-new-regulations-governing-camel-sales-rentals-and-auctions",
+      "published_date": "2026-09-28T13:09:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister arrives in Washington for official visit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664930/saudi-arabia/saudi-foreign-minister-arrives-in-washington-for-talks-with-rubio",
+      "published_date": "2026-09-28T11:41:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN spokesperson: Saudi Arabia plays crucial role in supporting political solutions to regional conflicts",
       "source": "Saudi Gazette",
@@ -81,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-26T22:15:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Saudi Arabia calls for protection of international waterways, rejects restrictions on navigation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664884/saudi-arabia/saudi-arabia-calls-for-protection-of-strait-of-hormuz-red-sea-and-international-waterways",
@@ -88,60 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "13,628 violators of residency, labor and border security laws arrested in a week",
+      "title": "Yemeni resident arrested for transporting six Ethiopians illegally",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664882/saudi-arabia/13628-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
-      "published_date": "2026-09-26T17:45:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664945/saudi-arabia/yemeni-resident-arrested-for-transporting-six-ethiopians-illegally",
+      "published_date": "2026-09-28T16:59:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Adel Al-Jubeir addresses Alliance of Civilizations Group of Friends meeting in New York",
+      "title": "Saudi Arabia condemns terrorist attack on security checkpoint in Pakistan",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664880/saudi-arabia/adel-al-jubeir-addresses-alliance-of-civilizations-group-of-friends-meeting-in-new-york",
-      "published_date": "2026-09-26T17:00:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664929/saudi-arabia/saudi-arabia-condemns-terrorist-attack-in-pakistans-dera-ismail-khan",
+      "published_date": "2026-09-28T11:40:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Arab-Islamic meeting calls for preserving historical, legal status quo of Jerusalem",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664879/saudi-arabia/arab-islamic-meeting-calls-for-preserving-historical-legal-status-quo-of-jerusalem",
-      "published_date": "2026-09-26T16:54:56+00:00",
-      "category": "Diplomacy"
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-27T21:16:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi FM discusses with Bangladesh, Lebanese PMs enhancing bilateral ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664878/saudi-arabia/saudi-fm-discusses-with-bangladesh-lebanese-pms-enhancing-bilateral-ties",
-      "published_date": "2026-09-26T15:36:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince congratulate Yemen&#039;s President Al-Alimi on September 26 Anniversary",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664869/saudi-arabia/king-salman-and-crown-prince-congratulate-yemens-president-al-alimi-on-september-26-anniversary",
-      "published_date": "2026-09-26T13:51:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia reaffirms support for Palestinian Authority, calls for release of withheld funds",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664865/saudi-arabia/saudi-arabia-reaffirms-support-for-palestinian-authority-urges-release-of-withheld-funds",
-      "published_date": "2026-09-25T14:46:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UAE leaders congratulate King Salman, Crown Prince on Saudi National Day",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664860/saudi-arabia/uae-leaders-congratulate-king-salman-crown-prince-on-saudi-national-day",
-      "published_date": "2026-09-25T14:04:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for collective global action to strengthen water security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664858/saudi-arabia/saudi-arabia-calls-for-global-action-to-strengthen-water-security",
-      "published_date": "2026-09-25T13:58:00+00:00",
-      "category": "Diplomacy"
+      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-27T21:00:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Madinah Emir: Sound thinking is fundamental to security and prosperity of societies",
@@ -190,6 +218,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664861/saudi-arabia/saudi-commerce-ministry-conducts-383000-inspections-in-first-nine-months-of-2026",
       "published_date": "2026-09-25T14:11:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T02:51:36+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Egypt, Pakistan, Türkiye condemn attacks on Kingdom, back right to self-defense",
+      "title": "Saudi Arabia resumes oil exports via East-West Pipeline after repairs",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664769/saudi-arabia/saudi-arabia-egypt-pakistan-turkiye-condemn-attacks-on-kingdom",
-      "published_date": "2026-09-22T15:18:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T13:39:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK to help refuel Saudi jets countering Houthi attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T08:53:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN condemns continued Houthi attacks on Saudi Arabia, urges restraint",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664744/saudi-arabia/un-condemns-continued-houthi-attacks-on-saudi-arabia-urges-restraint",
-      "published_date": "2026-09-21T21:05:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-21T14:14:16+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/664935/saudi-arabia/saudi-arabia-resumes-oil-exports-through-east-west-pipeline-after-repairs",
+      "published_date": "2026-09-28T12:54:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi oil exports soar 80% to highest level since Iran-US war",
@@ -303,6 +310,20 @@
       "url": "https://saudigazette.com.sa/article/664760/saudi-arabia/saudi-arabia-resumes-east-west-pipeline-operations-after-drone-attacks",
       "published_date": "2026-09-22T13:28:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Why is the Bab al-Mandab Strait so important?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-22T12:57:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Al-Rajhi: Training and qualification opportunities in Wa’ad campaign jump to 4.5 million",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664940/saudi-arabia/al-rajhi-training-and-qualification-opportunities-in-waad-campaign-jump-to-45-million",
+      "published_date": "2026-09-28T14:22:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "CMA seeks public feedback on raft regulatory provisions for conducting dealing activities in capital markets outside Saudi Arabia",
@@ -354,18 +375,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia&#039;s economy is projected to grow by 6.1% in 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664740/saudi-arabia/saudi-arabias-economy-is-projected-to-grow-by-61-in-2027",
-      "published_date": "2026-09-21T15:25:12+00:00",
-      "category": "Economy"
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-28T17:15:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Crown Prince launches CEER’s first electric vehicles, EXOBOT sedan and SUV",
+      "title": "Justice Ministry&#039;s Research Center publishes articles of Civil Transactions Law in detail",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664729/saudi-arabia/crown-prince-launches-ceers-exobot-electric-sedan-and-suv",
-      "published_date": "2026-09-21T12:08:39+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/664942/saudi-arabia/justice-ministrys-research-center-publishes-articles-of-civil-transactions-law-in-detail",
+      "published_date": "2026-09-28T15:20:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry launches integrated electronic package for foreign pilgrims",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664937/saudi-arabia/hajj-ministry-launches-integrated-electronic-package-for-foreign-pilgrims",
+      "published_date": "2026-09-28T13:17:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense urges caution amid forecast of thunderstorms across most Saudi regions through Friday",
@@ -484,27 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664784/saudi-arabia/palaces-where-a-kingdom-took-shape",
       "published_date": "2026-09-22T22:18:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "300 cars to Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664782/saudi-arabia/300-cars-to-makkah",
-      "published_date": "2026-09-22T22:16:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From epidemics to organized healthcare",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664781/saudi-arabia/from-epidemics-to-organized-healthcare",
-      "published_date": "2026-09-22T22:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When Saudis went to school",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664780/saudi-arabia/when-saudis-went-to-school",
-      "published_date": "2026-09-22T22:10:03+00:00",
       "category": "Local Events"
     }
   ]
