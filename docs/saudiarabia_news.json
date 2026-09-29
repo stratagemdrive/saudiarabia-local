@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-28T18:25:14.865644+00:00",
-  "story_count": 73,
+  "last_updated": "2026-09-29T02:29:59.424051+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Prince Faisal, Marco Rubio reaffirm Saudi-US strategic ties, navigation security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664946/saudi-arabia/prince-faisal-marco-rubio-reaffirm-saudi-us-strategic-ties-navigation-security",
+      "published_date": "2026-09-28T20:37:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman sends invitation to Emir of Kuwait, King of Bahrain to attend 2nd Gulf-European Summit",
       "source": "Saudi Gazette",
@@ -134,13 +141,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-26T22:15:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for protection of international waterways, rejects restrictions on navigation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664884/saudi-arabia/saudi-arabia-calls-for-protection-of-strait-of-hormuz-red-sea-and-international-waterways",
-      "published_date": "2026-09-26T21:16:59+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
+      "published_date": "2026-09-28T20:53:27+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Saudi Arabia resumes oil exports via East-West Pipeline after repairs",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664935/saudi-arabia/saudi-arabia-resumes-oil-exports-through-east-west-pipeline-after-repairs",
@@ -373,6 +380,13 @@
       "url": "https://saudigazette.com.sa/article/664773/saudi-arabia/commercial-registrations-in-saudi-arabia-surpass-19-million",
       "published_date": "2026-09-22T16:35:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Defense minister discusses defense cooperation during call with Moroccan minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664948/saudi-arabia/defense-minister-discusses-defense-cooperation-during-call-with-moroccan-minister",
+      "published_date": "2026-09-28T21:02:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran court upholds lashes sentence for singer who performed without hijab",
@@ -505,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664790/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-continue-to-hit-several-regions-through-sunday",
       "published_date": "2026-09-22T22:23:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palaces where a Kingdom took shape",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664784/saudi-arabia/palaces-where-a-kingdom-took-shape",
-      "published_date": "2026-09-22T22:18:01+00:00",
       "category": "Local Events"
     }
   ]
