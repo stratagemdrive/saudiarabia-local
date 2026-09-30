@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-30T01:52:15.501013+00:00",
-  "story_count": 70,
+  "last_updated": "2026-09-30T16:38:37.223172+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Asir Emir Prince Turki bin Talal’s tenure extended for 4 years",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665000/saudi-arabia/asir-emir-prince-turki-bin-talals-tenure-extended-for-4-years",
+      "published_date": "2026-09-30T15:02:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM meets US Senate leaders to discuss bilateral ties, regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664986/saudi-arabia/saudi-fm-meets-us-senate-leaders-to-discuss-bilateral-ties-regional-security",
+      "published_date": "2026-09-30T09:14:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "In Geneva, Saudi Arabia reaffirms two-state solution as only path to just, lasting peace",
       "source": "Saudi Gazette",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi foreign minister arrives in Washington for official visit",
+      "title": "Saudi, Bulgarian defense ministers discuss military cooperation in phone call",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664930/saudi-arabia/saudi-foreign-minister-arrives-in-washington-for-talks-with-rubio",
-      "published_date": "2026-09-28T11:41:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/664995/saudi-arabia/saudi-bulgarian-defense-ministers-discuss-military-cooperation-in-phone-call",
+      "published_date": "2026-09-30T13:23:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN spokesperson: Saudi Arabia plays crucial role in supporting political solutions to regional conflicts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664919/saudi-arabia/un-spokesperson-saudi-arabia-plays-crucial-role-in-supporting-political-solutions-to-regional-conflicts",
-      "published_date": "2026-09-27T20:27:55+00:00",
-      "category": "Diplomacy"
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T11:36:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T05:02:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Forces intercept 6 Houthi ballistic missiles targeting Taif, Yanbu",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664835/saudi-arabia/saudi-forces-intercept-6-houthi-ballistic-missiles-targeting-taif-and-yanbu",
-      "published_date": "2026-09-24T12:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T21:26:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Passports Directorate stipulates conditions to issue final exit for domestic workers during probationary period",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664822/saudi-arabia/passports-directorate-stipulates-conditions-to-issue-final-exit-for-domestic-workers-during-probationary-period",
-      "published_date": "2026-09-23T20:08:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
       "published_date": "2026-09-24T18:43:03+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia&#039;s unemployment rate drops to 6.5% in Q2 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664998/saudi-arabia/saudi-arabias-unemployment-rate-drops-to-65-in-q2-2026",
+      "published_date": "2026-09-30T14:07:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Jadaan attends AIIB annual meetings in Doha",
@@ -352,6 +359,41 @@
       "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
       "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Tabuk Airport: All Flydubai passengers depart on replacement aircraft",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665001/saudi-arabia/tabuk-airport-all-flydubai-passengers-depart-on-replacement-aircraft",
+      "published_date": "2026-09-30T15:49:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qiwa: ‘Absent’ employees can transfer jobs after 12 months in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664999/saudi-arabia/qiwa-absent-employees-can-transfer-jobs-after-12-months-in-saudi-arabia",
+      "published_date": "2026-09-30T14:37:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SFDA takes action against websites, social media accounts marketing unregistered peptides",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664997/saudi-arabia/sfda-takes-action-against-websites-social-media-accounts-marketing-unregistered-peptides",
+      "published_date": "2026-09-30T13:42:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flydubai flight makes emergency landing at Tabuk airport; two pilots injured",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664991/saudi-arabia/flydubai-flight-makes-emergency-landing-at-tabuk-airport-two-pilots-injured",
+      "published_date": "2026-09-30T11:16:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red alert issued for heavy rain, flash floods in Taif as storms hit several Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664988/saudi-arabia/red-alert-issued-for-heavy-rain-flash-floods-in-taif-as-storms-hit-several-saudi-regions",
+      "published_date": "2026-09-30T09:35:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Commerce Ministry busts unauthorized e-commerce training operation in Riyadh",
@@ -456,41 +498,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-25T18:41:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global Alliance reaffirms two-state solution, calls for unified Palestinian state",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664863/saudi-arabia/global-alliance-reaffirms-two-state-solution-calls-for-unified-palestinian-state",
-      "published_date": "2026-09-25T14:39:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spectacular air, military shows electrify Riyadh’s National Day celebrations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664844/saudi-arabia/spectacular-air-military-shows-electrify-riyadhs-national-day-celebrations",
-      "published_date": "2026-09-24T16:35:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts heavy rain across four Saudi regions through Sunday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664830/saudi-arabia/ncm-forecasts-heavy-rain-across-four-saudi-regions-through-sunday",
-      "published_date": "2026-09-24T07:13:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traffic Directorate to establish 6 new driving schools",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664821/saudi-arabia/traffic-directorate-to-establish-6-new-driving-schools",
-      "published_date": "2026-09-23T17:06:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T06:12:56+00:00",
       "category": "Local Events"
     }
   ]
