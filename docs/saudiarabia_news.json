@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-09-30T16:38:37.223172+00:00",
-  "story_count": 71,
+  "last_updated": "2026-10-01T01:49:43.894159+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T21:26:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Asir Emir Prince Turki bin Talal’s tenure extended for 4 years",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia approves new regulations for camel trading",
+      "title": "Saudi Arabia will respond decisively to any threat to its security",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664936/saudi-arabia/saudi-arabia-approves-new-regulations-governing-camel-sales-rentals-and-auctions",
-      "published_date": "2026-09-28T13:09:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665002/saudi-arabia/saudi-arabia-will-respond-decisively-to-any-threat-to-its-security",
+      "published_date": "2026-09-30T17:22:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Bulgarian defense ministers discuss military cooperation in phone call",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Who are the Houthis and what do they want?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-24T13:58:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
       "published_date": "2026-09-24T18:43:03+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia projects 2027 budget deficit at 3.6% of GDP",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665003/saudi-arabia/saudi-arabia-projects-2027-budget-deficit-at-36-of-gdp",
+      "published_date": "2026-09-30T18:36:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia&#039;s unemployment rate drops to 6.5% in Q2 2026",
@@ -359,6 +366,20 @@
       "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
       "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "RGA: Saudi Road Code sets parking requirements to enhance traffic safety",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665005/saudi-arabia/rga-saudi-road-code-sets-parking-requirements-to-enhance-traffic-safety",
+      "published_date": "2026-09-30T21:27:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi, British defense ministers discuss over phone strategic defense ties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665004/saudi-arabia/saudi-british-defense-ministers-discuss-over-phone-strategic-defense-ties",
+      "published_date": "2026-09-30T21:18:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tabuk Airport: All Flydubai passengers depart on replacement aircraft",
@@ -484,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664885/saudi-arabia/jeddah-airport-begins-operations-at-terminal-4-as-airlines-start-gradual-move",
       "published_date": "2026-09-26T22:12:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New road lanes open in Makkah to ease traffic congestion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664881/saudi-arabia/new-road-lanes-open-in-makkah-to-ease-traffic-congestion",
-      "published_date": "2026-09-26T17:39:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-25T18:41:13+00:00",
       "category": "Local Events"
     }
   ]
