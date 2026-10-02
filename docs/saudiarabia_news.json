@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-01T17:15:31.159977+00:00",
-  "story_count": 74,
+  "last_updated": "2026-10-02T02:02:16.208582+00:00",
+  "story_count": 73,
   "stories": [
     {
       "title": "Deputy Minister Bawazier leads Saudi delegation at Arab finance ministers meeting in Abu Dhabi",
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Prince Khalid reviews Saudi-US strategic defense partnership in call with Hegseth",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665040/saudi-arabia/prince-khalid-reviews-saudi-us-strategic-defense-partnership-in-call-with-hegseth",
+      "published_date": "2026-10-01T21:04:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi missile intercepted in Khamis Mushait, causes damage to buildings and vehicles",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665039/saudi-arabia/houthi-missile-intercepted-in-khamis-mushait-causes-damage-to-buildings-and-vehicles",
+      "published_date": "2026-10-01T20:39:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi drone targeted power station supplying Prophet’s Mosque in Madinah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665037/saudi-arabia/coalition-says-houthi-drone-targeted-power-station-supplying-prophets-mosque-in-madinah",
+      "published_date": "2026-10-01T16:56:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Pakistan and Türkiye reaffirm collective defense under Makkah agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664867/saudi-arabia/saudi-arabia-pakistan-and-turkiye-reaffirm-collective-defense-under-makkah-agreement",
-      "published_date": "2026-09-25T19:43:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Commerce Ministry conducts 383,000 inspections, handles 443,000 consumer reports in 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664861/saudi-arabia/saudi-commerce-ministry-conducts-383000-inspections-in-first-nine-months-of-2026",
-      "published_date": "2026-09-25T14:11:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-25T02:51:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
@@ -302,13 +302,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664910/saudi-arabia/saudi-oil-exports-soar-80-to-highest-level-since-iran-us-war",
       "published_date": "2026-09-27T14:46:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Aramco CEO: We can fix any disruption within days",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664847/saudi-arabia/aramco-ceo-we-can-fix-any-disruption-within-days",
-      "published_date": "2026-09-24T18:43:03+00:00",
       "category": "Energy"
     },
     {
@@ -380,6 +373,34 @@
       "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
       "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Registration opens for 17th edition of National Program for Gifted Identification",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665042/saudi-arabia/registration-opens-for-17th-edition-of-national-program-for-gifted-identification",
+      "published_date": "2026-10-01T22:11:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh makes accreditation mandatory for infrastructure projects from January 1, 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665041/saudi-arabia/riyadh-makes-accreditation-mandatory-for-infrastructure-projects-from-january-1-2027",
+      "published_date": "2026-10-01T22:06:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Interior ministry: Flydubai co-pilot assaulted captain; both transferred to Abu Dhabi",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665038/saudi-arabia/saudi-interior-ministry-flydubai-co-pilot-assaulted-captain-both-transferred-to-abu-dhabi",
+      "published_date": "2026-10-01T20:24:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TGA operates shuttle bus service between Dammam airport and Jubail, Khafji",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665036/saudi-arabia/tga-operates-shuttle-bus-service-between-dammam-airport-and-jubail-khafji",
+      "published_date": "2026-10-01T16:55:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "National Greening Season to kick off on October 7",
@@ -491,34 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664988/saudi-arabia/red-alert-issued-for-heavy-rain-flash-floods-in-taif-as-storms-hit-several-saudi-regions",
       "published_date": "2026-09-30T09:35:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Commerce Ministry busts unauthorized e-commerce training operation in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664962/saudi-arabia/saudi-commerce-ministry-busts-unauthorized-e-commerce-training-operation-in-riyadh",
-      "published_date": "2026-09-29T12:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian officials convicted of kidnapping Italian student found dead in 2016",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T23:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Defense minister discusses defense cooperation during call with Moroccan minister",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664948/saudi-arabia/defense-minister-discusses-defense-cooperation-during-call-with-moroccan-minister",
-      "published_date": "2026-09-28T21:02:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T17:15:00+00:00",
       "category": "Local Events"
     }
   ]
