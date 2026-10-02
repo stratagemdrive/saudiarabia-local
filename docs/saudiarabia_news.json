@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-02T02:02:16.208582+00:00",
-  "story_count": 73,
+  "last_updated": "2026-10-02T16:28:27.970342+00:00",
+  "story_count": 74,
   "stories": [
     {
       "title": "Deputy Minister Bawazier leads Saudi delegation at Arab finance ministers meeting in Abu Dhabi",
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi Arabia denies reports of suicide bomber at Grand Mosque in Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665050/saudi-arabia/saudi-arabia-denies-reports-of-suicide-bomber-at-grand-mosque-in-makkah",
+      "published_date": "2026-10-02T10:01:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OIC, Arab states denounce drone attack on Madinah power station",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665043/saudi-arabia/oic-arab-states-denounce-drone-attack-on-madinah-power-station",
+      "published_date": "2026-10-02T04:00:29+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Prince Khalid reviews Saudi-US strategic defense partnership in call with Hegseth",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665040/saudi-arabia/prince-khalid-reviews-saudi-us-strategic-defense-partnership-in-call-with-hegseth",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Minister of Defense, Pakistan&#039;s Defense Chief discuss Houthi attacks on Makkah, Saudi facilities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664870/saudi-arabia/minister-of-defense-pakistans-defense-chief-discuss-houthi-attacks-on-makkah-saudi-facilities",
-      "published_date": "2026-09-26T14:26:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia intercepts Houthi drones, ballistic missile targeting Riyadh, Khamis Mushait",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664868/saudi-arabia/saudi-arabia-intercepts-houthi-drones-ballistic-missile-targeting-riyadh-khamis-mushait",
-      "published_date": "2026-09-26T12:14:48+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/664910/saudi-arabia/saudi-oil-exports-soar-80-to-highest-level-since-iran-us-war",
       "published_date": "2026-09-27T14:46:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi customs foil attempt to smuggle 40,000 amphetamine pills hidden in glass cups",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665057/saudi-arabia/saudi-customs-seize-40000-amphetamine-pills-hidden-in-glass-cups-at-dammam-airport",
+      "published_date": "2026-10-02T13:31:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi banks’ investments in treasury bonds surge 6% to SR676 billion in August",
@@ -373,6 +380,13 @@
       "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
       "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Six killed, including five teachers, in Taif-Riyadh highway crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665053/saudi-arabia/six-killed-including-five-teachers-in-crash-on-taif-riyadh-highway",
+      "published_date": "2026-10-02T10:59:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Registration opens for 17th edition of National Program for Gifted Identification",
@@ -505,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664991/saudi-arabia/flydubai-flight-makes-emergency-landing-at-tabuk-airport-two-pilots-injured",
       "published_date": "2026-09-30T11:16:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alert issued for heavy rain, flash floods in Taif as storms hit several Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664988/saudi-arabia/red-alert-issued-for-heavy-rain-flash-floods-in-taif-as-storms-hit-several-saudi-regions",
-      "published_date": "2026-09-30T09:35:40+00:00",
       "category": "Local Events"
     }
   ]
