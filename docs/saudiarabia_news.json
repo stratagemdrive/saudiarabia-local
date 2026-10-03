@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-03T01:46:07.347973+00:00",
+  "last_updated": "2026-10-03T15:02:11.689713+00:00",
   "story_count": 74,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "4 Houthi missiles intercepted in Asir, Asian expat injured",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665059/saudi-arabia/houthi-missile-intercepted-over-asirs-ahad-rafidah-asian-expat-injured",
+      "published_date": "2026-10-03T12:40:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-02T15:29:28+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi Arabia denies reports of suicide bomber at Grand Mosque in Makkah",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665050/saudi-arabia/saudi-arabia-denies-reports-of-suicide-bomber-at-grand-mosque-in-makkah",
@@ -267,20 +281,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664916/saudi-arabia/madinah-emir-sound-thinking-is-fundamental-to-security-and-prosperity-of-societies",
       "published_date": "2026-09-27T17:04:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Swiss prosecutors discuss strengthening judicial cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664904/saudi-arabia/saudi-swiss-prosecutors-discuss-strengthening-judicial-cooperation",
-      "published_date": "2026-09-27T13:31:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Joint Forces commander, Tareq Saleh discuss Yemen military readiness",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664883/saudi-arabia/saudi-yemeni-commanders-discuss-military-readiness-and-coordination-in-riyadh",
-      "published_date": "2026-09-26T21:14:02+00:00",
       "category": "Military"
     },
     {
