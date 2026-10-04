@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-04T02:26:34.904686+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-04T15:38:41.526329+00:00",
+  "story_count": 79,
   "stories": [
     {
       "title": "Saudi Arabia deports 9,992 illegal residents in a week",
@@ -172,6 +172,13 @@
       "category": "Military"
     },
     {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-02T09:08:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "OIC, Arab states denounce drone attack on Madinah power station",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665043/saudi-arabia/oic-arab-states-denounce-drone-attack-on-madinah-power-station",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-27T21:00:06+00:00",
-      "category": "Military"
+      "title": "OPEC+ agree to keep oil output level unchanged for November",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
+      "published_date": "2026-10-04T13:01:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
@@ -298,11 +305,32 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi oil exports soar 80% to highest level since Iran-US war",
+      "title": "GCC remittances soar to record $161 billion in 2025, up 13.6%",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664910/saudi-arabia/saudi-oil-exports-soar-80-to-highest-level-since-iran-us-war",
-      "published_date": "2026-09-27T14:46:52+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665114/saudi-arabia/gcc-remittances-soar-to-record-161-billion-in-2025-up-136",
+      "published_date": "2026-10-04T15:13:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New Saudi CMA chief plans market reforms within 90 days, eyes 30% retail share in IPOs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665112/saudi-arabia/saudi-cma-plans-reforms-within-90-days-eyes-30-retail-share-in-ipos",
+      "published_date": "2026-10-04T14:33:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SFDA approves registration of &#039;Jascayd&#039; for treatment of idiopathic pulmonary fibrosis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665108/saudi-arabia/sfda-approves-registration-of-jascayd-for-treatment-of-idiopathic-pulmonary-fibrosis",
+      "published_date": "2026-10-04T13:31:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia provides SR224 million in new budget support to Yemen",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665106/saudi-arabia/saudi-arabia-provides-more-than-sr224-million-in-new-budget-support-to-yemen",
+      "published_date": "2026-10-04T13:23:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia tops global date exports for the 4th year in a row",
@@ -387,6 +415,48 @@
       "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
       "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Moon to align directly over Holy Kaaba Monday morning",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665113/saudi-arabia/moon-to-align-directly-over-holy-kaaba-monday-morning",
+      "published_date": "2026-10-04T14:42:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipalities Ministry updates regulations for ice cream shops",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665111/saudi-arabia/municipalities-ministry-updates-regulations-for-ice-cream-shops",
+      "published_date": "2026-10-04T14:11:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Ministry launches Balagh initiative to strengthen community security reporting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665110/saudi-arabia/interior-ministry-launches-balagh-initiative-to-strengthen-community-security-reporting",
+      "published_date": "2026-10-04T13:55:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I Am a Woman’: Saudi play finds universal meaning in women’s stories",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665109/saudi-arabia/i-am-a-woman-saudi-play-finds-universal-meaning-in-womens-stories",
+      "published_date": "2026-10-04T13:43:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy thunderstorms, flash flood risk forecast across several Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665086/saudi-arabia/heavy-thunderstorms-flash-flood-risk-forecast-across-several-saudi-regions",
+      "published_date": "2026-10-04T08:03:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T06:19:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "HR Ministry: 135,600 absconding workers transferred to new establishments",
@@ -484,48 +554,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665013/saudi-arabia/heavy-rain-thunderstorms-and-flash-flood-risk-forecast-for-several-saudi-regions",
       "published_date": "2026-10-01T09:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia recalls 6,215 Hyundai Azera vehicles over fuel leak, fire risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665012/saudi-arabia/saudi-arabia-recalls-6215-hyundai-azera-vehicles-over-fuel-leak-fire-risk",
-      "published_date": "2026-10-01T08:45:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RGA: Saudi Road Code sets parking requirements to enhance traffic safety",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665005/saudi-arabia/rga-saudi-road-code-sets-parking-requirements-to-enhance-traffic-safety",
-      "published_date": "2026-09-30T21:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, British defense ministers discuss over phone strategic defense ties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665004/saudi-arabia/saudi-british-defense-ministers-discuss-over-phone-strategic-defense-ties",
-      "published_date": "2026-09-30T21:18:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tabuk Airport: All Flydubai passengers depart on replacement aircraft",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665001/saudi-arabia/tabuk-airport-all-flydubai-passengers-depart-on-replacement-aircraft",
-      "published_date": "2026-09-30T15:49:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qiwa: ‘Absent’ employees can transfer jobs after 12 months in Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664999/saudi-arabia/qiwa-absent-employees-can-transfer-jobs-after-12-months-in-saudi-arabia",
-      "published_date": "2026-09-30T14:37:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFDA takes action against websites, social media accounts marketing unregistered peptides",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664997/saudi-arabia/sfda-takes-action-against-websites-social-media-accounts-marketing-unregistered-peptides",
-      "published_date": "2026-09-30T13:42:43+00:00",
       "category": "Local Events"
     }
   ]
