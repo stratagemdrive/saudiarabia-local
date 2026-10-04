@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-03T15:02:11.689713+00:00",
-  "story_count": 74,
+  "last_updated": "2026-10-04T02:26:34.904686+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi Arabia deports 9,992 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665085/saudi-arabia/saudi-arabia-deports-9992-illegal-residents-in-a-week",
+      "published_date": "2026-10-03T19:03:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New conditions for importing fruits and vegetables into Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665084/saudi-arabia/new-conditions-for-importing-fruits-and-vegetables-into-saudi-arabia",
+      "published_date": "2026-10-03T18:26:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Traffic Directorate: No periodic inspection needed to scrap damaged vehicles",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665082/saudi-arabia/traffic-directorate-no-periodic-inspection-needed-to-scrap-damaged-vehicles",
+      "published_date": "2026-10-03T17:17:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC finance ministers review strengthening economic cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665080/saudi-arabia/gcc-finance-ministers-review-strengthening-economic-cooperation",
+      "published_date": "2026-10-03T15:27:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Deputy Minister Bawazier leads Saudi delegation at Arab finance ministers meeting in Abu Dhabi",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi leadership offers condolences over deadly DR Congo plane crash",
+      "title": "12 government entities set requirements for importing toy weapons",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664960/saudi-arabia/saudi-leadership-offers-condolences-over-deadly-dr-congo-plane-crash",
-      "published_date": "2026-09-29T12:09:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince reaffirms Kingdom’s support for Sudan’s stability, sovereignty",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664958/saudi-arabia/saudi-crown-prince-reaffirms-kingdoms-support-for-sudans-stability-sovereignty",
-      "published_date": "2026-09-29T11:51:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Faisal, Marco Rubio reaffirm Saudi-US strategic ties, navigation security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664946/saudi-arabia/prince-faisal-marco-rubio-reaffirm-saudi-us-strategic-ties-navigation-security",
-      "published_date": "2026-09-28T20:37:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman sends invitation to Emir of Kuwait, King of Bahrain to attend 2nd Gulf-European Summit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664944/saudi-arabia/king-salman-sends-invitation-to-emir-of-kuwait-king-of-bahrain-to-attend-2nd-gulf-european-summit",
-      "published_date": "2026-09-28T16:54:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665083/saudi-arabia/12-government-entities-set-requirements-for-importing-toy-weapons",
+      "published_date": "2026-10-03T18:18:37+00:00",
+      "category": "Military"
     },
     {
       "title": "4 Houthi missiles intercepted in Asir, Asian expat injured",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Madinah Emir: Sound thinking is fundamental to security and prosperity of societies",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664916/saudi-arabia/madinah-emir-sound-thinking-is-fundamental-to-security-and-prosperity-of-societies",
-      "published_date": "2026-09-27T17:04:41+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/664910/saudi-arabia/saudi-oil-exports-soar-80-to-highest-level-since-iran-us-war",
       "published_date": "2026-09-27T14:46:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia tops global date exports for the 4th year in a row",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665079/saudi-arabia/saudi-arabia-tops-global-date-exports-for-the-4th-year-in-a-row",
+      "published_date": "2026-10-03T14:34:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs foil attempt to smuggle 40,000 amphetamine pills hidden in glass cups",
@@ -380,6 +387,13 @@
       "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
       "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "HR Ministry: 135,600 absconding workers transferred to new establishments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665081/saudi-arabia/hr-ministry-135600-absconding-workers-transferred-to-new-establishments",
+      "published_date": "2026-10-03T17:09:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Six killed, including five teachers, in Taif-Riyadh highway crash",
@@ -512,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664997/saudi-arabia/sfda-takes-action-against-websites-social-media-accounts-marketing-unregistered-peptides",
       "published_date": "2026-09-30T13:42:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flydubai flight makes emergency landing at Tabuk airport; two pilots injured",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664991/saudi-arabia/flydubai-flight-makes-emergency-landing-at-tabuk-airport-two-pilots-injured",
-      "published_date": "2026-09-30T11:16:28+00:00",
       "category": "Local Events"
     }
   ]
