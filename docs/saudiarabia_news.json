@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-04T15:38:41.526329+00:00",
-  "story_count": 79,
+  "last_updated": "2026-10-05T01:41:04.157746+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Interior Minister receives outgoing Russian ambassador to Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665118/saudi-arabia/interior-minister-receives-outgoing-russian-ambassador-to-saudi-arabia",
+      "published_date": "2026-10-04T19:40:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC justice ministers discuss strengthening judicial and legal cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665117/saudi-arabia/gcc-justice-ministers-discuss-strengthening-judicial-and-legal-cooperation",
+      "published_date": "2026-10-04T19:36:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman invites Qatari Emir to attend GCC-EU Summit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665116/saudi-arabia/king-salman-invites-qatari-emir-to-attend-gcc-eu-summit",
+      "published_date": "2026-10-04T16:59:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia offers rewards of up to SR10 million for reporting unknown endowments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665115/saudi-arabia/saudi-arabia-offers-rewards-of-up-to-sr10-million-for-reporting-unknown-endowments",
+      "published_date": "2026-10-04T15:55:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia deports 9,992 illegal residents in a week",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crown Prince discusses regional developments during call with Qatari Emir",
+      "title": "Al-Maliki: Coalition will continue operations to support restoring legitimate Yemeni government, ending Houthi coup",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664972/saudi-arabia/crown-prince-discusses-regional-developments-during-call-with-qatari-emir",
-      "published_date": "2026-09-29T14:55:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince meets UAE Vice President in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664970/saudi-arabia/crown-prince-mohammed-bin-salman-meets-uae-vice-president-mansour-bin-zayed",
-      "published_date": "2026-09-29T14:38:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman Reserve secures international accreditation for 10 hiking trails",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664968/saudi-arabia/king-salman-reserve-secures-international-accreditation-for-10-hiking-trails",
-      "published_date": "2026-09-29T13:57:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM, U.S. representative to UN discuss solutions for regional issues",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664967/saudi-arabia/saudi-fm-us-representative-to-un-discuss-solutions-for-regional-issues",
-      "published_date": "2026-09-29T13:41:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665119/saudi-arabia/al-maliki-coalition-will-continue-operations-to-support-restoring-legitimate-yemeni-government-ending-houthi-coup",
+      "published_date": "2026-10-04T20:51:24+00:00",
+      "category": "Military"
     },
     {
       "title": "12 government entities set requirements for importing toy weapons",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-27T21:16:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "OPEC+ agree to keep oil output level unchanged for November",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
@@ -400,20 +400,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/664940/saudi-arabia/al-rajhi-training-and-qualification-opportunities-in-waad-campaign-jump-to-45-million",
       "published_date": "2026-09-28T14:22:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CMA seeks public feedback on raft regulatory provisions for conducting dealing activities in capital markets outside Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664918/saudi-arabia/cma-seeks-public-feedback-on-raft-regulatory-provisions-for-conducting-dealing-activities-in-capital-markets-outside-saudi-arabia",
-      "published_date": "2026-09-27T20:17:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi government agencies adopt over 500 public proposals to improve regulations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664917/saudi-arabia/saudi-agencies-adopt-over-500-public-proposals-to-improve-regulations",
-      "published_date": "2026-09-27T18:36:04+00:00",
       "category": "Economy"
     },
     {
