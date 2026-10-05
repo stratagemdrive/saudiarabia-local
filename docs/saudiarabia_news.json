@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-05T01:41:04.157746+00:00",
-  "story_count": 77,
+  "last_updated": "2026-10-05T19:45:30.739146+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Saudi Arabia to regularize residency status of illegal Yemeni nationals",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665149/saudi-arabia/saudi-arabia-to-regularize-residency-status-of-illegal-yemeni-nationals",
+      "published_date": "2026-10-05T19:16:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia expands tourist visa eligibility to Kosovo and Guyana",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665143/saudi-arabia/saudi-arabia-adds-kosovo-and-guyana-to-tourist-visa-program",
+      "published_date": "2026-10-05T15:27:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia emphasizes strengthening international coordination to address shared economic challenges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665136/saudi-arabia/saudi-arabia-emphasizes-strengthening-international-coordination-to-address-shared-economic-challenges",
+      "published_date": "2026-10-05T13:29:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince, US Senator Murphy discuss regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665134/saudi-arabia/crown-prince-us-senator-murphy-discuss-regional-developments",
+      "published_date": "2026-10-05T13:00:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Interior Minister receives outgoing Russian ambassador to Saudi Arabia",
       "source": "Saudi Gazette",
@@ -116,38 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Defense minister, UAE vice president discuss strengthening bilateral cooperation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664977/saudi-arabia/defense-minister-uae-vice-president-discuss-strengthening-bilateral-cooperation",
-      "published_date": "2026-09-29T20:05:41+00:00",
-      "category": "Diplomacy"
+      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T17:49:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi FM discusses defense cooperation with senior US Senate officials",
+      "title": "Rubio says Saudi Arabia has the right to defend itself amid Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664976/saudi-arabia/saudi-fm-discusses-defense-cooperation-with-senior-us-senate-officials",
-      "published_date": "2026-09-29T20:01:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665146/saudi-arabia/rubio-says-us-will-honor-security-commitments-to-saudi-arabia-amid-houthi-attacks",
+      "published_date": "2026-10-05T15:52:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia rejects weaponizing vital waterways for pressure, threats",
+      "title": "100 warplanes join Operation Dawn of Yemen as coalition destroys 324 high-value targets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664975/saudi-arabia/saudi-arabia-rejects-weaponizing-vital-waterways-for-pressure-threats",
-      "published_date": "2026-09-29T16:51:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince, Italian PM Meloni emphasize security of navigation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664973/saudi-arabia/saudi-crown-prince-italian-pm-meloni-emphasize-security-of-navigation-in-phone-call",
-      "published_date": "2026-09-29T15:09:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665129/saudi-arabia/100-warplanes-join-operation-dawn-of-yemen-as-coalition-destroys-324-targets",
+      "published_date": "2026-10-05T11:06:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Al-Maliki: Coalition will continue operations to support restoring legitimate Yemeni government, ending Houthi coup",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665119/saudi-arabia/al-maliki-coalition-will-continue-operations-to-support-restoring-legitimate-yemeni-government-ending-houthi-coup",
       "published_date": "2026-10-04T20:51:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T16:51:30+00:00",
       "category": "Military"
     },
     {
@@ -183,6 +211,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-02T09:08:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-02T08:46:37+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T11:36:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T05:02:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T12:39:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni resident arrested for transporting six Ethiopians illegally",
+      "title": "Aramco chief sounds alarm as global oil stocks hit critical lows",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664945/saudi-arabia/yemeni-resident-arrested-for-transporting-six-ethiopians-illegally",
-      "published_date": "2026-09-28T16:59:45+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665142/saudi-arabia/aramco-chief-sounds-alarm-as-global-oil-stocks-hit-critical-lows",
+      "published_date": "2026-10-05T15:01:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi Arabia condemns terrorist attack on security checkpoint in Pakistan",
+      "title": "Saudi solar park becomes breeding ground for threatened gazelles in global-first initiative",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664929/saudi-arabia/saudi-arabia-condemns-terrorist-attack-in-pakistans-dera-ismail-khan",
-      "published_date": "2026-09-28T11:40:45+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665140/saudi-arabia/saudi-solar-park-becomes-breeding-ground-for-threatened-sand-gazelles",
+      "published_date": "2026-10-05T14:25:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "OPEC+ agree to keep oil output level unchanged for November",
@@ -298,11 +312,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia resumes oil exports via East-West Pipeline after repairs",
+      "title": "Saudi Arabia’s non-oil sector records strongest growth in 7 months",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664935/saudi-arabia/saudi-arabia-resumes-oil-exports-through-east-west-pipeline-after-repairs",
-      "published_date": "2026-09-28T12:54:06+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665139/saudi-arabia/saudi-arabias-non-oil-sector-records-strongest-growth-in-7-months",
+      "published_date": "2026-10-05T14:23:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "GCC remittances soar to record $161 billion in 2025, up 13.6%",
@@ -396,11 +410,25 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Rajhi: Training and qualification opportunities in Wa’ad campaign jump to 4.5 million",
+      "title": "Civil Defense warns of continuing thunderstorms across most Saudi regions through Saturday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664940/saudi-arabia/al-rajhi-training-and-qualification-opportunities-in-waad-campaign-jump-to-45-million",
-      "published_date": "2026-09-28T14:22:36+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665148/saudi-arabia/civil-defense-warns-of-continuing-thunderstorms-across-most-saudi-regions-through-saturday",
+      "published_date": "2026-10-05T16:56:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Public Security Directorate launches upgraded &#039;Kollona Amn&#039; App",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665147/saudi-arabia/public-security-directorate-launches-upgraded-kollona-amn-app",
+      "published_date": "2026-10-05T16:41:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "106 cover-up cases detected during 1,861 inspection tours in September",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665145/saudi-arabia/106-cover-up-cases-detected-during-1861-inspection-tours-in-september",
+      "published_date": "2026-10-05T15:49:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Moon to align directly over Holy Kaaba Monday morning",
@@ -519,27 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665026/saudi-arabia/nazaha-investigates-381-employees-arrests-158-over-corruption-charges",
       "published_date": "2026-10-01T13:23:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saturn opposition, meteor showers and planetary encounters to light up October skies",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665024/saudi-arabia/saturn-opposition-meteor-showers-and-planetary-encounters-to-light-up-october-skies",
-      "published_date": "2026-10-01T13:11:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "59.1 percent of Saudi adults physically active for 150 minutes or more weekly",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665023/saudi-arabia/591-percent-of-saudi-adults-physically-active-for-150-minutes-or-more-weekly",
-      "published_date": "2026-10-01T12:58:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain, thunderstorms and flash flood risk forecast for several Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665013/saudi-arabia/heavy-rain-thunderstorms-and-flash-flood-risk-forecast-for-several-saudi-regions",
-      "published_date": "2026-10-01T09:05:53+00:00",
       "category": "Local Events"
     }
   ]
