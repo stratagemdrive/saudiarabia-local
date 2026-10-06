@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-06T02:43:38.778163+00:00",
-  "story_count": 77,
+  "last_updated": "2026-10-06T17:01:56.293691+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi Crown Prince, Syrian President Al-Sharaa discuss bolstering bilateral cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665176/saudi-arabia/saudi-crown-prince-syrian-president-al-sharaa-discuss-bolstering-bilateral-cooperation",
+      "published_date": "2026-10-06T15:17:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce ministry to gold traders: Verify buyer identity for transactions exceeding SR50,000",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665175/saudi-arabia/commerce-ministry-to-gold-traders-verify-buyer-identity-for-transactions-exceeding-sr50000",
+      "published_date": "2026-10-06T14:57:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HR minister discusses with Turkish, Singapore counterparts enhancing cooperation in social development sector",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665174/saudi-arabia/hr-minister-discusses-with-turkish-singapore-counterparts-enhancing-cooperation-in-social-development-sector",
+      "published_date": "2026-10-06T14:32:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T14:30:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen lauds Saudi Arabia&#039;s decision to regularize status of Yemeni residents",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665170/saudi-arabia/yemen-lauds-saudi-arabias-decision-to-regularize-status-of-yemeni-residents",
+      "published_date": "2026-10-06T13:26:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia allows highly skilled expats to bring families alongside work visa process",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665166/saudi-arabia/saudi-arabia-streamlines-family-visas-for-highly-skilled-foreign-workers",
+      "published_date": "2026-10-06T11:54:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Khalid bin Salman: Makkah Alliance agrees to activate collective deterrence measures",
       "source": "Saudi Gazette",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, EU discuss key trade challenges and barriers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665033/saudi-arabia/saudi-arabia-eu-discuss-key-trade-challenges-and-barriers",
-      "published_date": "2026-10-01T15:26:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Over 58,000 inspection visits conducted to commercial establishments in September",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665028/saudi-arabia/over-58000-inspection-visits-conducted-to-commercial-establishments-in-september",
-      "published_date": "2026-10-01T13:35:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Russian prosecutors discuss judicial cooperation at SCO meeting in Kazan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665021/saudi-arabia/saudi-russian-prosecutors-discuss-judicial-cooperation-at-sco-meeting-in-kazan",
-      "published_date": "2026-10-01T12:36:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+      "title": "Egyptian journalists from fact-checking website facing terrorism charges",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T21:26:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cm70p4r4zw17o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T12:12:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Asir Emir Prince Turki bin Talal’s tenure extended for 4 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665000/saudi-arabia/asir-emir-prince-turki-bin-talals-tenure-extended-for-4-years",
-      "published_date": "2026-09-30T15:02:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM meets US Senate leaders to discuss bilateral ties, regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664986/saudi-arabia/saudi-fm-meets-us-senate-leaders-to-discuss-bilateral-ties-regional-security",
-      "published_date": "2026-09-30T09:14:05+00:00",
-      "category": "Diplomacy"
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T07:23:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Coalition naval forces strike Houthi targets in Hodeidah, thwart planned Red Sea attacks",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T11:26:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T18:40:36+00:00",
-      "category": "Military"
+      "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
+      "published_date": "2026-10-06T09:39:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco chief sounds alarm as global oil stocks hit critical lows",
@@ -389,18 +396,25 @@
       "category": "Economy"
     },
     {
-      "title": "Fitch: Saudi stock market remains Gulf’s largest, commands 63% market share",
+      "title": "Health Ministry urges vaccination amid rise in seasonal respiratory infections",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664971/saudi-arabia/fitch-saudi-stock-market-remains-gulfs-largest-commands-63-market-share",
-      "published_date": "2026-09-29T14:44:15+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665173/saudi-arabia/health-ministry-urges-vaccination-amid-rise-in-seasonal-respiratory-infections",
+      "published_date": "2026-10-06T13:53:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi service imports rise 8.4 percent to SR120.8 billion in Q2 2026",
+      "title": "Three injured in attacks on Jazan, Najran airports",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664954/saudi-arabia/saudi-service-imports-rise-84-percent-to-sr1208-billion-in-q2-2026",
-      "published_date": "2026-09-29T07:57:33+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665161/saudi-arabia/three-injured-in-attacks-on-jazan-najran-airports",
+      "published_date": "2026-10-06T09:31:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T22:28:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia reaffirms its inherent right to defend its territory and people from Houthi aggression",
@@ -421,6 +435,13 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665147/saudi-arabia/public-security-directorate-launches-upgraded-kollona-amn-app",
       "published_date": "2026-10-05T16:41:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager shows BBC life inside Gaza displacement camp",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3x2w5dd21eyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T16:31:33+00:00",
       "category": "Local Events"
     },
     {
@@ -512,34 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665036/saudi-arabia/tga-operates-shuttle-bus-service-between-dammam-airport-and-jubail-khafji",
       "published_date": "2026-10-01T16:55:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Greening Season to kick off on October 7",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665035/saudi-arabia/national-greening-season-to-kick-off-on-october-7",
-      "published_date": "2026-10-01T16:23:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah Mayoralty: Design guidelines for Hejazi coastal architecture mandatory",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665032/saudi-arabia/jeddah-mayoralty-design-guidelines-for-hejazi-coastal-architecture-mandatory",
-      "published_date": "2026-10-01T14:39:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi coffee: A cup of hospitality, heritage and identity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665030/saudi-arabia/saudi-coffee-the-heritage-flavors-and-traditions-behind-the-kingdoms-iconic-drink",
-      "published_date": "2026-10-01T13:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia launches safety investigation into Flydubai emergency landing in Tabuk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665027/saudi-arabia/saudi-arabia-launches-investigation-into-flydubai-emergency-landing-in-tabuk",
-      "published_date": "2026-10-01T13:32:26+00:00",
       "category": "Local Events"
     }
   ]
