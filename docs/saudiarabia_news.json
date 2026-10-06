@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-05T19:45:30.739146+00:00",
-  "story_count": 78,
+  "last_updated": "2026-10-06T02:43:38.778163+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Khalid bin Salman: Makkah Alliance agrees to activate collective deterrence measures",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665153/saudi-arabia/khalid-bin-salman-makkah-alliance-activates-collective-deterrence-measures",
+      "published_date": "2026-10-05T21:34:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia to regularize residency status of illegal Yemeni nationals",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "In Geneva, Saudi Arabia reaffirms two-state solution as only path to just, lasting peace",
+      "title": "Coalition naval forces strike Houthi targets in Hodeidah, thwart planned Red Sea attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664978/saudi-arabia/in-geneva-saudi-arabia-reaffirms-two-state-solution-as-only-path-to-just-lasting-peace",
-      "published_date": "2026-09-29T20:57:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665152/saudi-arabia/coalition-naval-forces-strike-houthi-targets-in-hodeidah-thwart-red-sea-attacks",
+      "published_date": "2026-10-05T21:03:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Makkah Alliance activates collective defense, moves to deploy forces in Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665150/saudi-arabia/makkah-defense-alliance-to-deploy-swiftly-joint-military-forces-and-capabilities-in-saudi-arabia",
+      "published_date": "2026-10-05T19:55:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia will respond decisively to any threat to its security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665002/saudi-arabia/saudi-arabia-will-respond-decisively-to-any-threat-to-its-security",
-      "published_date": "2026-09-30T17:22:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Bulgarian defense ministers discuss military cooperation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664995/saudi-arabia/saudi-bulgarian-defense-ministers-discuss-military-cooperation-in-phone-call",
-      "published_date": "2026-09-30T13:23:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco chief sounds alarm as global oil stocks hit critical lows",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665142/saudi-arabia/aramco-chief-sounds-alarm-as-global-oil-stocks-hit-critical-lows",
@@ -302,13 +302,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
       "published_date": "2026-10-04T13:01:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi, Australian defense ministers review Saudi initiatives to address impacts of climate change",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664947/saudi-arabia/saudi-australian-defense-ministers-review-saudi-initiatives-to-address-impacts-of-climate-change",
-      "published_date": "2026-09-28T20:53:27+00:00",
       "category": "Energy"
     },
     {
@@ -408,6 +401,13 @@
       "url": "https://saudigazette.com.sa/article/664954/saudi-arabia/saudi-service-imports-rise-84-percent-to-sr1208-billion-in-q2-2026",
       "published_date": "2026-09-29T07:57:33+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia reaffirms its inherent right to defend its territory and people from Houthi aggression",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665151/saudi-arabia/saudi-arabia-reaffirms-its-inherent-right-to-defend-its-territory-and-people-from-houthi-aggression",
+      "published_date": "2026-10-05T20:58:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense warns of continuing thunderstorms across most Saudi regions through Saturday",
@@ -540,13 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665027/saudi-arabia/saudi-arabia-launches-investigation-into-flydubai-emergency-landing-in-tabuk",
       "published_date": "2026-10-01T13:32:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nazaha investigates 381 employees, arrests 158 over corruption charges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665026/saudi-arabia/nazaha-investigates-381-employees-arrests-158-over-corruption-charges",
-      "published_date": "2026-10-01T13:23:14+00:00",
       "category": "Local Events"
     }
   ]
