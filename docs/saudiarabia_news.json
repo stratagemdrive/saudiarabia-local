@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-07T02:08:57.100030+00:00",
+  "last_updated": "2026-10-07T17:39:40.244996+00:00",
   "story_count": 75,
   "stories": [
+    {
+      "title": "Health minister takes part in national blood donation campaign",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665196/saudi-arabia/health-minister-takes-part-in-national-blood-donation-campaign",
+      "published_date": "2026-10-07T14:02:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Egyptian, Jordanian FMs express solidarity with Saudi Arabia in call with Prince Faisal",
       "source": "Saudi Gazette",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New conditions for importing fruits and vegetables into Saudi Arabia",
+      "title": "Saudi, Italian defense ministers discuss military cooperation in phone call",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665084/saudi-arabia/new-conditions-for-importing-fruits-and-vegetables-into-saudi-arabia",
-      "published_date": "2026-10-03T18:26:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665197/saudi-arabia/saudi-italian-defense-ministers-discuss-military-cooperation-in-phone-call",
+      "published_date": "2026-10-07T14:27:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE strongly condemns Houthi&#039;s continued targeting of civilian assets, Saudi ships",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665194/saudi-arabia/uae-strongly-condemns-houthis-continued-targeting-of-civilian-assets-saudi-ships",
+      "published_date": "2026-10-07T12:56:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The situation in Gaza three years on",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-07T09:19:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-07T05:02:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Candles lit in memory of those killed in October 7 attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cme8r9ke1n9yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-07T04:34:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition intercepts Houthi ballistic missile north of Riyadh, tracks launch site in Sanaa",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665181/saudi-arabia/coalition-intercepts-houthi-ballistic-missile-north-of-riyadh-tracks-sanaa-launch-site",
+      "published_date": "2026-10-07T03:24:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi ballistic missile intercepted over Khamis Mushait",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-02T09:08:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-02T08:46:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OIC, Arab states denounce drone attack on Madinah power station",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665043/saudi-arabia/oic-arab-states-denounce-drone-attack-on-madinah-power-station",
-      "published_date": "2026-10-02T04:00:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prince Khalid reviews Saudi-US strategic defense partnership in call with Hegseth",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665040/saudi-arabia/prince-khalid-reviews-saudi-us-strategic-defense-partnership-in-call-with-hegseth",
-      "published_date": "2026-10-01T21:04:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi missile intercepted in Khamis Mushait, causes damage to buildings and vehicles",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665039/saudi-arabia/houthi-missile-intercepted-in-khamis-mushait-causes-damage-to-buildings-and-vehicles",
-      "published_date": "2026-10-01T20:39:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi drone targeted power station supplying Prophet’s Mosque in Madinah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665037/saudi-arabia/coalition-says-houthi-drone-targeted-power-station-supplying-prophets-mosque-in-madinah",
-      "published_date": "2026-10-01T16:56:49+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
       "published_date": "2026-10-04T13:01:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "World Bank forecast Saudi economy to rebound with 7.9% growth in 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665199/saudi-arabia/world-bank-forecast-saudi-economy-to-rebound-with-79-growth-in-2027",
+      "published_date": "2026-10-07T15:10:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia’s non-oil sector records strongest growth in 7 months",
@@ -382,11 +389,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia&#039;s unemployment rate drops to 6.5% in Q2 2026",
+      "title": "Private sector accounts for 95% of Saudi social insurance subscribers; Riyadh tops with 52%",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/664998/saudi-arabia/saudi-arabias-unemployment-rate-drops-to-65-in-q2-2026",
-      "published_date": "2026-09-30T14:07:20+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665200/saudi-arabia/private-sector-accounts-for-95-of-saudi-social-insurance-subscribers-riyadh-tops-with-52",
+      "published_date": "2026-10-07T15:53:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 444,000 Saudi students register for National Gifted Olympiad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665198/saudi-arabia/over-444000-saudi-students-register-for-national-gifted-olympiad",
+      "published_date": "2026-10-07T14:47:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Ministry suspends 8 Umrah companies and foreign agents for accommodation violations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665195/saudi-arabia/hajj-ministry-suspends-8-umrah-companies-and-foreign-agents-for-accommodation-violations",
+      "published_date": "2026-10-07T13:27:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Health Ministry urges vaccination amid rise in seasonal respiratory infections",
@@ -505,27 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665042/saudi-arabia/registration-opens-for-17th-edition-of-national-program-for-gifted-identification",
       "published_date": "2026-10-01T22:11:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh makes accreditation mandatory for infrastructure projects from January 1, 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665041/saudi-arabia/riyadh-makes-accreditation-mandatory-for-infrastructure-projects-from-january-1-2027",
-      "published_date": "2026-10-01T22:06:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Interior ministry: Flydubai co-pilot assaulted captain; both transferred to Abu Dhabi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665038/saudi-arabia/saudi-interior-ministry-flydubai-co-pilot-assaulted-captain-both-transferred-to-abu-dhabi",
-      "published_date": "2026-10-01T20:24:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA operates shuttle bus service between Dammam airport and Jubail, Khafji",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665036/saudi-arabia/tga-operates-shuttle-bus-service-between-dammam-airport-and-jubail-khafji",
-      "published_date": "2026-10-01T16:55:53+00:00",
       "category": "Local Events"
     }
   ]
