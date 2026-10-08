@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-07T17:39:40.244996+00:00",
+  "last_updated": "2026-10-08T02:34:41.980873+00:00",
   "story_count": 75,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Maj. Gen. Al-Murabba inspects passport control counters\nat Jeddah Airport Terminal 4",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665205/saudi-arabia/maj-gen-al-murabba-inspects-passport-control-counters-at-jeddah-airport-terminal-4",
+      "published_date": "2026-10-07T21:17:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Maliki:  Missile launch platform used in Riyadh attack destroyed",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665203/saudi-arabia/al-maliki-missile-launch-platform-used-in-riyadh-attack-destroyed",
+      "published_date": "2026-10-07T20:19:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "3 killed, 36 injured in attacks on Riyadh and Abha airports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665202/saudi-arabia/3-killed-36-injured-in-attacks-on-riyadh-and-abha-airports",
+      "published_date": "2026-10-07T19:32:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Saudi, Italian defense ministers discuss military cooperation in phone call",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665197/saudi-arabia/saudi-italian-defense-ministers-discuss-military-cooperation-in-phone-call",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "4 Houthi missiles intercepted in Asir, Asian expat injured",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665059/saudi-arabia/houthi-missile-intercepted-over-asirs-ahad-rafidah-asian-expat-injured",
-      "published_date": "2026-10-03T12:40:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-02T15:29:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia denies reports of suicide bomber at Grand Mosque in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665050/saudi-arabia/saudi-arabia-denies-reports-of-suicide-bomber-at-grand-mosque-in-makkah",
-      "published_date": "2026-10-02T10:01:53+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
       "published_date": "2026-10-04T13:01:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi poultry production exceeds 1.4 million tons; self-sufficiency surpasses 80%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665201/saudi-arabia/saudi-poultry-production-exceeds-14-million-tons-self-sufficiency-surpasses-80",
+      "published_date": "2026-10-07T16:48:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "World Bank forecast Saudi economy to rebound with 7.9% growth in 2027",
@@ -382,11 +389,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia projects 2027 budget deficit at 3.6% of GDP",
+      "title": "Tourism Ministry blocks seven online platforms for violating Tourism Law",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665003/saudi-arabia/saudi-arabia-projects-2027-budget-deficit-at-36-of-gdp",
-      "published_date": "2026-09-30T18:36:43+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665204/saudi-arabia/tourism-ministry-blocks-seven-online-platforms-for-violating-tourism-law",
+      "published_date": "2026-10-07T21:08:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Private sector accounts for 95% of Saudi social insurance subscribers; Riyadh tops with 52%",
@@ -519,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665053/saudi-arabia/six-killed-including-five-teachers-in-crash-on-taif-riyadh-highway",
       "published_date": "2026-10-02T10:59:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Registration opens for 17th edition of National Program for Gifted Identification",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665042/saudi-arabia/registration-opens-for-17th-edition-of-national-program-for-gifted-identification",
-      "published_date": "2026-10-01T22:11:14+00:00",
       "category": "Local Events"
     }
   ]
