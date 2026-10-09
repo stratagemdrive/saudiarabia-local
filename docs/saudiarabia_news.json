@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-08T17:41:52.068896+00:00",
+  "last_updated": "2026-10-09T02:49:09.038390+00:00",
   "story_count": 76,
   "stories": [
+    {
+      "title": "Egyptian FM, Arab League chief call Prince Faisal to condemn Houthi attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665239/saudi-arabia/egyptian-fm-arab-league-chief-call-prince-faisal-to-condemn-houthi-attacks",
+      "published_date": "2026-10-08T20:48:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France and several countries, organizations condemn Houthi attacks on Saudi Arabia",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia to regularize residency status of illegal Yemeni nationals",
+      "title": "Impersonator poses as Okaz editor-in-chief to contact senior Yemeni officials",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665149/saudi-arabia/saudi-arabia-to-regularize-residency-status-of-illegal-yemeni-nationals",
-      "published_date": "2026-10-05T19:16:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665238/saudi-arabia/impersonator-poses-as-okaz-editor-in-chief-targets-senior-yemeni-officials",
+      "published_date": "2026-10-08T20:30:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi missile debris damages kindergarten, medical complex in Riyadh",
@@ -274,13 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm70p4r4zw17o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-06T12:12:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Children brave snipers and mortars to go to school near Yemen front line",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T07:23:24+00:00",
       "category": "Military"
     },
     {
