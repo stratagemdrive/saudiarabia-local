@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-09T02:49:09.038390+00:00",
-  "story_count": 76,
+  "last_updated": "2026-10-09T17:17:29.129065+00:00",
+  "story_count": 75,
   "stories": [
     {
       "title": "Egyptian FM, Arab League chief call Prince Faisal to condemn Houthi attacks",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T13:50:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudia names pilot killed in Riyadh airport attacks, confirms aircraft damage",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665248/saudi-arabia/saudia-identifies-pilot-killed-in-riyadh-airport-attacks-confirms-aircraft-damage",
+      "published_date": "2026-10-09T10:38:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition destroys three Houthi missile launchers, vows firm response to attacks on civilians",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665247/saudi-arabia/coalition-destroys-three-houthi-missile-launchers-warns-of-firm-response-to-civilian-attacks",
+      "published_date": "2026-10-09T10:32:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Saudis killed, several injured in two attacks on Riyadh airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665245/saudi-arabia/three-saudis-killed-in-two-attacks-on-riyadh-airport-saudia-aircraft-targeted",
+      "published_date": "2026-10-09T10:00:19+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Impersonator poses as Okaz editor-in-chief to contact senior Yemeni officials",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665238/saudi-arabia/impersonator-poses-as-okaz-editor-in-chief-targets-senior-yemeni-officials",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Candles lit in memory of those killed in October 7 attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cme8r9ke1n9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T04:34:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition intercepts Houthi ballistic missile north of Riyadh, tracks launch site in Sanaa",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665181/saudi-arabia/coalition-intercepts-houthi-ballistic-missile-north-of-riyadh-tracks-sanaa-launch-site",
-      "published_date": "2026-10-07T03:24:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi ballistic missile intercepted over Khamis Mushait",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665179/saudi-arabia/houthi-ballistic-missile-intercepted-over-khamis-mushait",
-      "published_date": "2026-10-06T19:53:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egyptian journalists from fact-checking website facing terrorism charges",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p4r4zw17o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T12:12:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
@@ -389,11 +389,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi customs foil attempt to smuggle 40,000 amphetamine pills hidden in glass cups",
+      "title": "Saudi Arabia forecasts above-average rainfall through November, temperatures up to 3°C higher",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665057/saudi-arabia/saudi-customs-seize-40000-amphetamine-pills-hidden-in-glass-cups-at-dammam-airport",
-      "published_date": "2026-10-02T13:31:25+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665254/saudi-arabia/saudi-arabia-forecasts-above-average-rainfall-in-october-and-november",
+      "published_date": "2026-10-09T16:03:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Qiwa: Shared housing mandatory for establishments with 20+ workers in 527 professions",
@@ -526,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665109/saudi-arabia/i-am-a-woman-saudi-play-finds-universal-meaning-in-womens-stories",
       "published_date": "2026-10-04T13:43:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy thunderstorms, flash flood risk forecast across several Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665086/saudi-arabia/heavy-thunderstorms-flash-flood-risk-forecast-across-several-saudi-regions",
-      "published_date": "2026-10-04T08:03:02+00:00",
       "category": "Local Events"
     }
   ]
