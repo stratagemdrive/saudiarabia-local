@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-09T17:17:29.129065+00:00",
+  "last_updated": "2026-10-10T02:08:59.060378+00:00",
   "story_count": 75,
   "stories": [
     {
@@ -389,6 +389,13 @@
       "category": "Economy"
     },
     {
+      "title": "Riyadh opens new Thumamah Road bridge after six months of construction",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665259/saudi-arabia/riyadh-opens-thumamah-road-bridge-after-six-months-of-construction",
+      "published_date": "2026-10-09T18:05:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi Arabia forecasts above-average rainfall through November, temperatures up to 3°C higher",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665254/saudi-arabia/saudi-arabia-forecasts-above-average-rainfall-in-october-and-november",
@@ -519,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665110/saudi-arabia/interior-ministry-launches-balagh-initiative-to-strengthen-community-security-reporting",
       "published_date": "2026-10-04T13:55:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I Am a Woman’: Saudi play finds universal meaning in women’s stories",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665109/saudi-arabia/i-am-a-woman-saudi-play-finds-universal-meaning-in-womens-stories",
-      "published_date": "2026-10-04T13:43:46+00:00",
       "category": "Local Events"
     }
   ]
