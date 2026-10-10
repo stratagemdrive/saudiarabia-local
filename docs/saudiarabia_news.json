@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-10T02:08:59.060378+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-10T16:05:40.944123+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Riyadh airport urges passengers to confirm flight status before departure",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665284/saudi-arabia/riyadh-airport-urges-passengers-to-check-flight-status-before-heading-to-airport",
+      "published_date": "2026-10-10T14:27:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tawakkalna App surpasses 30 billion operations, with over 36.7 million users",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665283/saudi-arabia/tawakkalna-app-surpasses-30-billion-operations-with-over-367-million-users",
+      "published_date": "2026-10-10T13:56:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman condemns attacks on Saudi airports, reaffirms solidarity with Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665282/saudi-arabia/oman-condemns-attacks-on-abha-riyadh-airports-in-call-with-saudi-foreign-minister",
+      "published_date": "2026-10-10T13:33:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Egyptian FM, Arab League chief call Prince Faisal to condemn Houthi attacks",
       "source": "Saudi Gazette",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Yemen lauds Saudi Arabia&#039;s decision to regularize status of Yemeni residents",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665170/saudi-arabia/yemen-lauds-saudi-arabias-decision-to-regularize-status-of-yemeni-residents",
-      "published_date": "2026-10-06T13:26:54+00:00",
-      "category": "Diplomacy"
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T15:05:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia allows highly skilled expats to bring families alongside work visa process",
+      "title": "At UNSC, Saudi Arabia condemns Houthi attacks, affirms right to self-defense",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665166/saudi-arabia/saudi-arabia-streamlines-family-visas-for-highly-skilled-foreign-workers",
-      "published_date": "2026-10-06T11:54:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665274/saudi-arabia/at-unsc-saudi-arabia-condemns-houthi-attacks-affirms-right-to-self-defense",
+      "published_date": "2026-10-10T13:07:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Khalid bin Salman: Makkah Alliance agrees to activate collective deterrence measures",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T04:34:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition launches major offensive, destroys 136 Houthi military targets",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665153/saudi-arabia/khalid-bin-salman-makkah-alliance-activates-collective-deterrence-measures",
-      "published_date": "2026-10-05T21:34:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665264/saudi-arabia/coalition-launches-major-offensive-destroys-136-houthi-military-targets",
+      "published_date": "2026-10-10T02:32:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi, Italian defense ministers discuss military cooperation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665197/saudi-arabia/saudi-italian-defense-ministers-discuss-military-cooperation-in-phone-call",
-      "published_date": "2026-10-07T14:27:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE strongly condemns Houthi&#039;s continued targeting of civilian assets, Saudi ships",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665194/saudi-arabia/uae-strongly-condemns-houthis-continued-targeting-of-civilian-assets-saudi-ships",
-      "published_date": "2026-10-07T12:56:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The situation in Gaza three years on",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T09:19:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T05:02:18+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
@@ -382,11 +382,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia tops global date exports for the 4th year in a row",
+      "title": "Civil Defense urges caution amid forecast of continued thunderstorms through Wednesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665079/saudi-arabia/saudi-arabia-tops-global-date-exports-for-the-4th-year-in-a-row",
-      "published_date": "2026-10-03T14:34:53+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665285/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-continued-thunderstorms-through-wednesday",
+      "published_date": "2026-10-10T14:58:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh opens new Thumamah Road bridge after six months of construction",
@@ -519,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665111/saudi-arabia/municipalities-ministry-updates-regulations-for-ice-cream-shops",
       "published_date": "2026-10-04T14:11:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry launches Balagh initiative to strengthen community security reporting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665110/saudi-arabia/interior-ministry-launches-balagh-initiative-to-strengthen-community-security-reporting",
-      "published_date": "2026-10-04T13:55:40+00:00",
       "category": "Local Events"
     }
   ]
