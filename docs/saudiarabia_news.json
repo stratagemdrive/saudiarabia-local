@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-11T01:35:40.453599+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-11T16:32:22.746188+00:00",
+  "story_count": 71,
   "stories": [
+    {
+      "title": "Saudi Embassy in UK urges citizens hit by flight disruptions to contact mission",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665311/saudi-arabia/saudi-embassy-in-uk-urges-citizens-hit-by-flight-disruptions-to-contact-mission",
+      "published_date": "2026-10-11T14:51:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Passports launch status rectification for 4 categories of Yemenis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665310/saudi-arabia/saudi-passports-launch-status-rectification-for-4-categories-of-yemenis",
+      "published_date": "2026-10-11T14:28:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Global condemnation mounts over deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665306/saudi-arabia/global-condemnation-mounts-over-deadly-houthi-attack-on-saudi-arabias-riyadh-airport",
+      "published_date": "2026-10-11T12:48:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU’s Kaja Kallas condemns Houthi attack on Riyadh airport as ‘appalling act of terror’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665302/saudi-arabia/eus-kaja-kallas-condemns-houthi-attack-on-riyadh-airport-as-appalling-act-of-terror",
+      "published_date": "2026-10-11T11:07:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Railways adds overnight trains from Qassim to Riyadh via Majmaah",
       "source": "Saudi Gazette",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Egyptian, Jordanian FMs express solidarity with Saudi Arabia in call with Prince Faisal",
+      "title": "Projectile hits Terminal 4 of Riyadh airport, causing fire",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665180/saudi-arabia/egyptian-jordanian-fms-express-solidarity-with-saudi-arabia-in-call-with-prince-faisal",
-      "published_date": "2026-10-06T21:09:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665312/saudi-arabia/projectile-hits-terminal-4-of-riyadh-airport-causing-fire",
+      "published_date": "2026-10-11T15:24:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crown Prince donates blood, launches annual donation campaign for 2026",
+      "title": "Jordanian father of two killed in Houthi attack on Riyadh airport",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665178/saudi-arabia/crown-prince-donates-blood-launches-annual-donation-campaign-for-2026",
-      "published_date": "2026-10-06T19:23:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665308/saudi-arabia/jordanian-father-of-two-killed-in-houthi-attack-on-riyadh-airport",
+      "published_date": "2026-10-11T13:41:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Cabinet reaffirms full support for Yemen government to end Houthi takeover",
+      "title": "Egyptian flight attendant killed in Riyadh airport attack days before her wedding",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665177/saudi-arabia/saudi-arabia-vows-to-end-houthi-coup-restore-yemens-legitimate-state",
-      "published_date": "2026-10-06T17:02:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665307/saudi-arabia/egyptian-flynas-flight-attendant-killed-in-riyadh-airport-attack-days-before-wedding",
+      "published_date": "2026-10-11T13:38:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Crown Prince, Syrian President Al-Sharaa discuss bolstering bilateral cooperation",
+      "title": "Houthi attack on Riyadh airport shows disregard for civilian lives, Yemen’s Al-Alimi says",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665176/saudi-arabia/saudi-crown-prince-syrian-president-al-sharaa-discuss-bolstering-bilateral-cooperation",
-      "published_date": "2026-10-06T15:17:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665303/saudi-arabia/yemens-al-alimi-says-saudi-security-is-tied-to-yemens",
+      "published_date": "2026-10-11T11:27:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN chief Guterres ‘deeply shocked’ by deadly Houthi attack on Riyadh airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665300/saudi-arabia/un-chief-guterres-deeply-shocked-by-deadly-houthi-attack-on-riyadh-airport",
+      "published_date": "2026-10-11T10:31:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan PM Shehbaz Sharif condemns deadly Houthi attack on Riyadh airport, reaffirms solidarity with Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665296/saudi-arabia/pakistan-pm-shehbaz-sharif-condemns-deadly-houthi-attack-on-riyadh-airport-reaffirms-solidarity-with-saudi-arabia",
+      "published_date": "2026-10-11T10:07:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Canadian PM condemns Houthi attacks on Saudi Arabia as ‘abhorrent’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665295/saudi-arabia/canadian-pm-condemns-houthi-attacks-on-saudi-arabia-as-abhorrent",
+      "published_date": "2026-10-11T09:45:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio condemns deadly Houthi attack on Riyadh airport, says US stands with Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665294/saudi-arabia/rubio-condemns-houthi-attack-on-riyadh-airport-confirms-american-among-victims",
+      "published_date": "2026-10-11T02:27:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Coalition vows firm response to Houthi war crime at Riyadh airport",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthi missile debris damages kindergarten, medical complex in Riyadh",
+      "title": "Saudi minister: Riyadh ‘capital of energy security’",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665226/saudi-arabia/houthi-missile-debris-damages-kindergarten-and-medical-complex-in-riyadh",
-      "published_date": "2026-10-08T14:05:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Riyadh airport urges passengers to check flight status before departure",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665225/saudi-arabia/king-khalid-international-airport-urges-passengers-to-confirm-flight-status",
-      "published_date": "2026-10-08T13:56:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Maliki: Houthi militia&#039;s attacks on civilian objects will not go unpunished",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665219/saudi-arabia/al-maliki-houthi-militias-attacks-on-civilian-objects-will-not-go-unpunished",
-      "published_date": "2026-10-08T12:42:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T12:11:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T05:06:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T05:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T03:32:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maj. Gen. Al-Murabba inspects passport control counters\nat Jeddah Airport Terminal 4",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665205/saudi-arabia/maj-gen-al-murabba-inspects-passport-control-counters-at-jeddah-airport-terminal-4",
-      "published_date": "2026-10-07T21:17:18+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
+      "published_date": "2026-10-11T15:28:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
@@ -302,13 +309,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665140/saudi-arabia/saudi-solar-park-becomes-breeding-ground-for-threatened-sand-gazelles",
       "published_date": "2026-10-05T14:25:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "OPEC+ agree to keep oil output level unchanged for November",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
-      "published_date": "2026-10-04T13:01:14+00:00",
       "category": "Energy"
     },
     {
@@ -361,32 +361,11 @@
       "category": "Economy"
     },
     {
-      "title": "GCC remittances soar to record $161 billion in 2025, up 13.6%",
+      "title": "TGA impounds 3,449 vehicles, issues 11,107 warnings to violators in September",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665114/saudi-arabia/gcc-remittances-soar-to-record-161-billion-in-2025-up-136",
-      "published_date": "2026-10-04T15:13:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New Saudi CMA chief plans market reforms within 90 days, eyes 30% retail share in IPOs",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665112/saudi-arabia/saudi-cma-plans-reforms-within-90-days-eyes-30-retail-share-in-ipos",
-      "published_date": "2026-10-04T14:33:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SFDA approves registration of &#039;Jascayd&#039; for treatment of idiopathic pulmonary fibrosis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665108/saudi-arabia/sfda-approves-registration-of-jascayd-for-treatment-of-idiopathic-pulmonary-fibrosis",
-      "published_date": "2026-10-04T13:31:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia provides SR224 million in new budget support to Yemen",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665106/saudi-arabia/saudi-arabia-provides-more-than-sr224-million-in-new-budget-support-to-yemen",
-      "published_date": "2026-10-04T13:23:26+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665309/saudi-arabia/tga-impounds-3449-vehicles-issues-11107-warnings-to-violators-in-september",
+      "published_date": "2026-10-11T13:44:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Security authorities arrest 1,382 infiltrators in one week",
@@ -519,13 +498,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665145/saudi-arabia/106-cover-up-cases-detected-during-1861-inspection-tours-in-september",
       "published_date": "2026-10-05T15:49:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moon to align directly over Holy Kaaba Monday morning",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665113/saudi-arabia/moon-to-align-directly-over-holy-kaaba-monday-morning",
-      "published_date": "2026-10-04T14:42:47+00:00",
       "category": "Local Events"
     }
   ]
