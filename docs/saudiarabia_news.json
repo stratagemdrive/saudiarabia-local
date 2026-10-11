@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-10T16:05:40.944123+00:00",
-  "story_count": 74,
+  "last_updated": "2026-10-11T01:35:40.453599+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi Railways adds overnight trains from Qassim to Riyadh via Majmaah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665292/saudi-arabia/saudi-railways-adds-two-overnight-trains-from-qassim-to-riyadh-on-october-11",
+      "published_date": "2026-10-10T22:44:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh airport suspends operations after new attack leaves several injured",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665287/saudi-arabia/riyadh-airport-suspends-operations-after-new-attack-leaves-several-injured",
+      "published_date": "2026-10-10T17:02:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Registration commences to regularize status of illegal Yemenis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665286/saudi-arabia/registration-commences-to-regularize-status-of-illegal-yemenis",
+      "published_date": "2026-10-10T16:06:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Riyadh airport urges passengers to confirm flight status before departure",
       "source": "Saudi Gazette",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Commerce ministry to gold traders: Verify buyer identity for transactions exceeding SR50,000",
+      "title": "Coalition vows firm response to Houthi war crime at Riyadh airport",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665175/saudi-arabia/commerce-ministry-to-gold-traders-verify-buyer-identity-for-transactions-exceeding-sr50000",
-      "published_date": "2026-10-06T14:57:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665293/saudi-arabia/coalition-vows-firm-response-to-houthi-attack-on-riyadh-airport-calls-it-war-crime",
+      "published_date": "2026-10-10T23:06:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "HR minister discusses with Turkish, Singapore counterparts enhancing cooperation in social development sector",
+      "title": "Projectile lands near King Fahd International Airport in Dammam, coalition says",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665174/saudi-arabia/hr-minister-discusses-with-turkish-singapore-counterparts-enhancing-cooperation-in-social-development-sector",
-      "published_date": "2026-10-06T14:32:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665291/saudi-arabia/projectile-lands-near-king-fahd-international-airport-in-dammam-coalition-confirms",
+      "published_date": "2026-10-10T22:40:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T14:30:48+00:00",
-      "category": "Diplomacy"
+      "title": "12 killed, 309 injured in attack on Riyadh airport, GACA confirms",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665290/saudi-arabia/12-killed-309-injured-in-riyadh-airport-attack-saudi-aviation-authority-confirms",
+      "published_date": "2026-10-10T22:37:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi capital airport hit again, sparking evacuations, reports say",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T20:27:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Maliki:  Missile launch platform used in Riyadh attack destroyed",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665203/saudi-arabia/al-maliki-missile-launch-platform-used-in-riyadh-attack-destroyed",
-      "published_date": "2026-10-07T20:19:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "3 killed, 36 injured in attacks on Riyadh and Abha airports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665202/saudi-arabia/3-killed-36-injured-in-attacks-on-riyadh-and-abha-airports",
-      "published_date": "2026-10-07T19:32:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/665103/saudi-arabia/opec-agree-to-keep-oil-output-level-unchanged-for-november",
       "published_date": "2026-10-04T13:01:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Customs at Saudi ports record 1,126 contraband seizures last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665289/saudi-arabia/customs-at-saudi-ports-record-1126-contraband-seizures-last-week",
+      "published_date": "2026-10-10T17:38:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "CMA chairman, PIF governor discuss strengthening cooperation",
@@ -380,6 +387,13 @@
       "url": "https://saudigazette.com.sa/article/665106/saudi-arabia/saudi-arabia-provides-more-than-sr224-million-in-new-budget-support-to-yemen",
       "published_date": "2026-10-04T13:23:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Security authorities arrest 1,382 infiltrators in one week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665288/saudi-arabia/security-authorities-arrest-1382-infiltrators-in-one-week",
+      "published_date": "2026-10-10T17:26:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense urges caution amid forecast of continued thunderstorms through Wednesday",
@@ -512,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665113/saudi-arabia/moon-to-align-directly-over-holy-kaaba-monday-morning",
       "published_date": "2026-10-04T14:42:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipalities Ministry updates regulations for ice cream shops",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665111/saudi-arabia/municipalities-ministry-updates-regulations-for-ice-cream-shops",
-      "published_date": "2026-10-04T14:11:18+00:00",
       "category": "Local Events"
     }
   ]
