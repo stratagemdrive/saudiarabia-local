@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-11T16:32:22.746188+00:00",
-  "story_count": 71,
+  "last_updated": "2026-10-12T02:08:03.457019+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi, Iranian foreign ministers discuss latest regional escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665324/saudi-arabia/saudi-fm-prince-faisal-bin-farhan-irans-araghchi-discuss-regional-escalation",
+      "published_date": "2026-10-11T21:13:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Syrian FMs discuss over phone joint efforts for regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665322/saudi-arabia/saudi-syrian-fms-discuss-over-phone-joint-efforts-for-regional-security",
+      "published_date": "2026-10-11T20:49:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "R4 Group States reaffirm full support to Saudi Arabia to repel Houthi attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665321/saudi-arabia/r4-group-states-reaffirm-full-support-to-saudi-arabia-to-repel-houthi-attacks",
+      "published_date": "2026-10-11T20:14:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King invites Oman&#039;s Sultan to attend GCC-EU Summit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665320/saudi-arabia/king-invites-omans-sultan-to-attend-gcc-eu-summit",
+      "published_date": "2026-10-11T20:10:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jordanian FM calls Saudi counterpart to condemn Houthi aggression",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665318/saudi-arabia/jordanian-fm-calls-saudi-counterpart-to-condemn-houthi-aggression",
+      "published_date": "2026-10-11T16:15:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU’s Kallas expresses solidarity with Saudi Arabia in call with Prince Faisal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665317/saudi-arabia/eus-kallas-expresses-solidarity-with-saudi-arabia-in-call-with-prince-faisal",
+      "published_date": "2026-10-11T16:05:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Embassy in UK urges citizens hit by flight disruptions to contact mission",
       "source": "Saudi Gazette",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi relief plane lands in Nepal to succor flood victims",
+      "title": "Pakistani resident killed, 11 injured in Sunday’s attack on Riyadh airport",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665228/saudi-arabia/saudi-relief-plane-lands-in-nepal-to-succor-flood-victims",
-      "published_date": "2026-10-08T14:27:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665327/saudi-arabia/pakistani-resident-killed-11-injured-in-riyadh-airport-attack",
+      "published_date": "2026-10-11T23:09:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman invites UAE president to attend 2nd GCC-EU Summit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665224/saudi-arabia/king-salman-invites-uae-president-to-attend-2nd-gcc-eu-summit",
-      "published_date": "2026-10-08T13:48:45+00:00",
-      "category": "Diplomacy"
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T22:45:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, UAE sign agreement on electricity interconnection and rail links",
+      "title": "From Makkah to Riyadh, Houthis turn their weapons on pilgrims",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665223/saudi-arabia/saudi-arabia-uae-sign-mou-on-electricity-interconnection-and-rail-connectivity",
-      "published_date": "2026-10-08T13:40:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665325/saudi-arabia/houthi-attack-on-riyadh-airport-threatens-umrah-pilgrims-recalls-attacks-on-makkah-and-madinah",
+      "published_date": "2026-10-11T21:19:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman and Crown Prince congratulate Justina Shiroka-Pula on taking oath as Kosovo&#039;s president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665222/saudi-arabia/king-salman-and-crown-prince-congratulate-justina-shiroka-pula-on-taking-oath-as-kosovos-president",
-      "published_date": "2026-10-08T13:35:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bahrain Crown Prince discusses prospects of cooperation with Saudi energy, commerce ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665220/saudi-arabia/bahrain-crown-prince-discusses-prospects-of-cooperation-with-saudi-energy-commerce-ministers",
-      "published_date": "2026-10-08T13:17:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Health minister takes part in national blood donation campaign",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665196/saudi-arabia/health-minister-takes-part-in-national-blood-donation-campaign",
-      "published_date": "2026-10-07T14:02:01+00:00",
-      "category": "Diplomacy"
+      "title": "Airport attacks another dangerous moment in already tense conflict",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T15:32:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Projectile hits Terminal 4 of Riyadh airport, causing fire",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudia names pilot killed in Riyadh airport attacks, confirms aircraft damage",
+      "title": "Saudi Arabia signs pacts for expanding energy cooperation with Kuwait, Qatar and Egypt",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665248/saudi-arabia/saudia-identifies-pilot-killed-in-riyadh-airport-attacks-confirms-aircraft-damage",
-      "published_date": "2026-10-09T10:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition destroys three Houthi missile launchers, vows firm response to attacks on civilians",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665247/saudi-arabia/coalition-destroys-three-houthi-missile-launchers-warns-of-firm-response-to-civilian-attacks",
-      "published_date": "2026-10-09T10:32:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Saudis killed, several injured in two attacks on Riyadh airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665245/saudi-arabia/three-saudis-killed-in-two-attacks-on-riyadh-airport-saudia-aircraft-targeted",
-      "published_date": "2026-10-09T10:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Impersonator poses as Okaz editor-in-chief to contact senior Yemeni officials",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665238/saudi-arabia/impersonator-poses-as-okaz-editor-in-chief-targets-senior-yemeni-officials",
-      "published_date": "2026-10-08T20:30:21+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665326/saudi-arabia/saudi-arabia-signs-pacts-for-expanding-energy-cooperation-with-kuwait-qatar-and-egypt",
+      "published_date": "2026-10-11T21:31:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi minister: Riyadh ‘capital of energy security’",
@@ -359,6 +366,20 @@
       "url": "https://saudigazette.com.sa/article/665139/saudi-arabia/saudi-arabias-non-oil-sector-records-strongest-growth-in-7-months",
       "published_date": "2026-10-05T14:23:40+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "HR Ministry enables illegal Yemenis to regularize status through Qiwa, Musaned platforms",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665323/saudi-arabia/hr-ministry-enables-illegal-yemenis-to-regularize-status-through-qiwa-musaned-platforms",
+      "published_date": "2026-10-11T20:54:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health minister visits Riyadh hospitals to reassure health of those injured in airport attack",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665319/saudi-arabia/health-minister-visits-riyadh-hospitals-to-reassure-health-of-those-injured-in-airport-attack",
+      "published_date": "2026-10-11T17:21:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "TGA impounds 3,449 vehicles, issues 11,107 warnings to violators in September",
@@ -484,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665147/saudi-arabia/public-security-directorate-launches-upgraded-kollona-amn-app",
       "published_date": "2026-10-05T16:41:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager shows BBC life inside Gaza displacement camp",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3x2w5dd21eyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T16:31:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "106 cover-up cases detected during 1,861 inspection tours in September",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665145/saudi-arabia/106-cover-up-cases-detected-during-1861-inspection-tours-in-september",
-      "published_date": "2026-10-05T15:49:06+00:00",
       "category": "Local Events"
     }
   ]
