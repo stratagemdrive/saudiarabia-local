@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-12T02:08:03.457019+00:00",
-  "story_count": 72,
+  "last_updated": "2026-10-12T20:06:04.165654+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "King Abdullah calls Crown Prince to reaffirm Jordan’s full support for Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665353/saudi-arabia/king-abdullah-calls-crown-prince-to-reaffirm-jordans-full-support-for-saudi-arabia",
+      "published_date": "2026-10-12T16:02:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Misk Global Forum 2026 canceled over organizational, logistical challenges",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665350/saudi-arabia/misk-global-forum-2026-canceled-over-organizational-and-logistical-challenges",
+      "published_date": "2026-10-12T14:29:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh emir visits civilians injured in Houthi attack on King Khalid International Airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665349/saudi-arabia/riyadh-emir-prince-faisal-bin-bandar-visits-victims-of-houthi-airport-attacks",
+      "published_date": "2026-10-12T14:12:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T14:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FMs of UK, Bahrain call Prince Faisal to reaffirm solidarity with Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665345/saudi-arabia/fms-of-uk-bahrain-call-prince-faisal-to-reaffirm-solidarity-with-saudi-arabia",
+      "published_date": "2026-10-12T13:15:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Iranian foreign ministers discuss latest regional escalation",
       "source": "Saudi Gazette",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Oman condemns attacks on Saudi airports, reaffirms solidarity with Kingdom",
+      "title": "Coalition detects drone, cruise missile threats targeting Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665282/saudi-arabia/oman-condemns-attacks-on-abha-riyadh-airports-in-call-with-saudi-foreign-minister",
-      "published_date": "2026-10-10T13:33:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665342/saudi-arabia/coalition-detects-drone-and-cruise-missile-threats-against-saudi-arabia",
+      "published_date": "2026-10-12T12:10:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egyptian FM, Arab League chief call Prince Faisal to condemn Houthi attacks",
+      "title": "Saudi Arabia extends suspension of operations at Riyadh airport following Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665239/saudi-arabia/egyptian-fm-arab-league-chief-call-prince-faisal-to-condemn-houthi-attacks",
-      "published_date": "2026-10-08T20:48:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665336/saudi-arabia/saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-following-houthi-attacks",
+      "published_date": "2026-10-12T10:08:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and several countries, organizations condemn Houthi attacks on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665235/saudi-arabia/france-and-several-countries-organizations-condemn-houthi-attacks-on-saudi-arabia",
-      "published_date": "2026-10-08T16:21:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T15:21:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Moroccan conjoined twins separated successfully",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665230/saudi-arabia/moroccan-conjoined-twins-separated-successfully",
-      "published_date": "2026-10-08T14:42:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T09:38:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistani resident killed, 11 injured in Sunday’s attack on Riyadh airport",
@@ -169,6 +190,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-11T15:32:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Children among 139 dead after Yemen-bound boat capsizes off Djibouti, UN says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T15:32:23+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "At UNSC, Saudi Arabia condemns Houthi attacks, affirms right to self-defense",
+      "title": "Aramco CEO warns global oil inventories could take two years to replenish",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665274/saudi-arabia/at-unsc-saudi-arabia-condemns-houthi-attacks-affirms-right-to-self-defense",
-      "published_date": "2026-10-10T13:07:20+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665348/saudi-arabia/aramco-chief-replenishing-oil-stocks-could-take-2-years-new-export-routes-in-focus",
+      "published_date": "2026-10-12T14:06:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T04:34:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition launches major offensive, destroys 136 Houthi military targets",
+      "title": "Saudi Arabia plans to raise East-West Pipeline capacity to 10 million barrels per day",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665264/saudi-arabia/coalition-launches-major-offensive-destroys-136-houthi-military-targets",
-      "published_date": "2026-10-10T02:32:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T13:50:25+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665347/saudi-arabia/saudi-arabia-plans-to-expand-east-west-pipeline-capacity-to-10-million-barrels-daily",
+      "published_date": "2026-10-12T13:57:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia signs pacts for expanding energy cooperation with Kuwait, Qatar and Egypt",
@@ -305,18 +319,32 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco chief sounds alarm as global oil stocks hit critical lows",
+      "title": "Al-Qasabi appoints 9 board members of Makkah Chamber of Commerce",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665142/saudi-arabia/aramco-chief-sounds-alarm-as-global-oil-stocks-hit-critical-lows",
-      "published_date": "2026-10-05T15:01:51+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665354/saudi-arabia/al-qasabi-appoints-9-board-members-of-makkah-chamber-of-commerce",
+      "published_date": "2026-10-12T16:35:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi solar park becomes breeding ground for threatened gazelles in global-first initiative",
+      "title": "Al-Khalaf: Non-oil activities account for 55% of Saudi GDP for first time",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665140/saudi-arabia/saudi-solar-park-becomes-breeding-ground-for-threatened-sand-gazelles",
-      "published_date": "2026-10-05T14:25:23+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665352/saudi-arabia/non-oil-activities-account-for-55-of-saudi-gdp-for-first-time",
+      "published_date": "2026-10-12T15:17:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister Al-Saif: FDI in emerging economic sectors soars 162%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665351/saudi-arabia/minister-al-saif-fdi-in-emerging-economic-sectors-soars-162",
+      "published_date": "2026-10-12T14:48:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia will overcome challenges, uphold global energy commitments, Prince Abdulaziz says",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665341/saudi-arabia/saudi-arabia-will-overcome-challenges-uphold-energy-commitments-prince-abdulaziz-says",
+      "published_date": "2026-10-12T11:47:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Customs at Saudi ports record 1,126 contraband seizures last week",
@@ -361,11 +389,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia’s non-oil sector records strongest growth in 7 months",
+      "title": "Madinah sets Oct. 18 deadline for Ramadan iftar meal applications",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665139/saudi-arabia/saudi-arabias-non-oil-sector-records-strongest-growth-in-7-months",
-      "published_date": "2026-10-05T14:23:40+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665346/saudi-arabia/madinah-sets-oct-18-deadline-for-ramadan-iftar-meal-applications",
+      "published_date": "2026-10-12T13:33:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM forecasts thunderstorms, flash floods across Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665334/saudi-arabia/ncm-issues-red-alerts-for-heavy-rain-flash-floods-as-thunderstorms-forecast-across-saudi-regions",
+      "published_date": "2026-10-12T09:16:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "HR Ministry enables illegal Yemenis to regularize status through Qiwa, Musaned platforms",
@@ -491,20 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665151/saudi-arabia/saudi-arabia-reaffirms-its-inherent-right-to-defend-its-territory-and-people-from-houthi-aggression",
       "published_date": "2026-10-05T20:58:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense warns of continuing thunderstorms across most Saudi regions through Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665148/saudi-arabia/civil-defense-warns-of-continuing-thunderstorms-across-most-saudi-regions-through-saturday",
-      "published_date": "2026-10-05T16:56:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public Security Directorate launches upgraded &#039;Kollona Amn&#039; App",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665147/saudi-arabia/public-security-directorate-launches-upgraded-kollona-amn-app",
-      "published_date": "2026-10-05T16:41:27+00:00",
       "category": "Local Events"
     }
   ]
