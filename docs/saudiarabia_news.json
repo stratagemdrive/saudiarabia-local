@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-12T20:06:04.165654+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-13T03:22:40.200355+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "UN Human Rights Chief condemns Houthi attacks on Saudi airports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665360/saudi-arabia/un-human-rights-chief-condemns-houthi-attacks-on-saudi-airports",
+      "published_date": "2026-10-12T21:16:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Abdullah calls Crown Prince to reaffirm Jordan’s full support for Saudi Arabia",
       "source": "Saudi Gazette",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tawakkalna App surpasses 30 billion operations, with over 36.7 million users",
+      "title": "Al-Dossary: Saudi Arabia is prepared to deal with any emergency situation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665283/saudi-arabia/tawakkalna-app-surpasses-30-billion-operations-with-over-367-million-users",
-      "published_date": "2026-10-10T13:56:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665361/saudi-arabia/al-dossary-saudi-arabia-is-prepared-to-deal-with-any-emergency-situation",
+      "published_date": "2026-10-12T22:21:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Grand Mufti: Houthi&#039;s targeting of worshipers heading to holy mosques is the gravest crime",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665359/saudi-arabia/grand-mufti-houthis-targeting-of-worshipers-heading-to-holy-mosques-is-the-gravest-crime",
+      "published_date": "2026-10-12T21:14:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition forces intercept ballistic missile fired by Houthis toward Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665355/saudi-arabia/coalition-forces-intercept-ballistic-missile-fired-by-houthis-toward-riyadh",
+      "published_date": "2026-10-12T19:55:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T16:28:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Coalition detects drone, cruise missile threats targeting Saudi Arabia",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Coalition vows firm response to Houthi war crime at Riyadh airport",
+      "title": "Ministry of Energy signs MoU with IEF; OSP inks deal with U.S. Foundation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665293/saudi-arabia/coalition-vows-firm-response-to-houthi-attack-on-riyadh-airport-calls-it-war-crime",
-      "published_date": "2026-10-10T23:06:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Projectile lands near King Fahd International Airport in Dammam, coalition says",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665291/saudi-arabia/projectile-lands-near-king-fahd-international-airport-in-dammam-coalition-confirms",
-      "published_date": "2026-10-10T22:40:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "12 killed, 309 injured in attack on Riyadh airport, GACA confirms",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665290/saudi-arabia/12-killed-309-injured-in-riyadh-airport-attack-saudi-aviation-authority-confirms",
-      "published_date": "2026-10-10T22:37:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T15:05:55+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665358/saudi-arabia/ministry-of-energy-signs-mou-with-ief-osp-inks-deal-with-us-foundation",
+      "published_date": "2026-10-12T21:09:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco CEO warns global oil inventories could take two years to replenish",
@@ -317,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
       "published_date": "2026-10-06T09:39:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan leads Saudi delegation to 2026 IMF-World Bank Annual Meetings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665357/saudi-arabia/al-jadaan-leads-saudi-delegation-to-2026-imf-world-bank-annual-meetings",
+      "published_date": "2026-10-12T21:03:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Qasabi appoints 9 board members of Makkah Chamber of Commerce",
@@ -387,6 +401,13 @@
       "url": "https://saudigazette.com.sa/article/665199/saudi-arabia/world-bank-forecast-saudi-economy-to-rebound-with-79-growth-in-2027",
       "published_date": "2026-10-07T15:10:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi court overturns decision to cut salary of visually impaired employee",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665356/saudi-arabia/saudi-court-overturns-decision-to-cut-salary-of-visually-impaired-employee",
+      "published_date": "2026-10-12T20:04:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Madinah sets Oct. 18 deadline for Ramadan iftar meal applications",
@@ -512,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665161/saudi-arabia/three-injured-in-attacks-on-jazan-najran-airports",
       "published_date": "2026-10-06T09:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T22:28:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia reaffirms its inherent right to defend its territory and people from Houthi aggression",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665151/saudi-arabia/saudi-arabia-reaffirms-its-inherent-right-to-defend-its-territory-and-people-from-houthi-aggression",
-      "published_date": "2026-10-05T20:58:44+00:00",
       "category": "Local Events"
     }
   ]
