@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-13T03:22:40.200355+00:00",
-  "story_count": 76,
+  "last_updated": "2026-10-13T17:55:27.901606+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "German Chancellor, Turkish and Lebanese presidents affirm full support to Saudi Arabia in calls with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665383/saudi-arabia/german-chancellor-turkish-and-lebanese-presidents-affirm-full-support-to-saudi-arabia-in-calls-with-crown-prince",
+      "published_date": "2026-10-13T14:35:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Malaysia, UAE condemn Houthi attacks on Saudi Arabia in calls with Prince Faisal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665371/saudi-arabia/malaysia-uae-condemn-houthi-attacks-on-saudi-arabia-in-calls-with-prince-faisal",
+      "published_date": "2026-10-13T10:56:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Human Rights Chief condemns Houthi attacks on Saudi airports",
       "source": "Saudi Gazette",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Registration commences to regularize status of illegal Yemenis",
+      "title": "Saudi Arabia warns Houthis: No impunity for heinous crimes and repeated attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665286/saudi-arabia/registration-commences-to-regularize-status-of-illegal-yemenis",
-      "published_date": "2026-10-10T16:06:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665388/saudi-arabia/saudi-arabia-warns-houthis-no-impunity-for-heinous-crimes-and-repeated-attacks",
+      "published_date": "2026-10-13T16:50:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Riyadh airport urges passengers to confirm flight status before departure",
+      "title": "Egypt ready to provide Saudi Arabia with military assistance, foreign minister says",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665284/saudi-arabia/riyadh-airport-urges-passengers-to-check-flight-status-before-heading-to-airport",
-      "published_date": "2026-10-10T14:27:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665381/saudi-arabia/egypt-pledges-full-support-for-saudi-arabia-considers-joining-makkah-defense-alliance",
+      "published_date": "2026-10-13T14:16:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition orders evacuation of Sanaa oil facility ahead of military operation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665376/saudi-arabia/coalition-orders-evacuation-of-sanaa-oil-facility-ahead-of-operation",
+      "published_date": "2026-10-13T12:50:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition Forces intercept 3 drones north of Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665375/saudi-arabia/coalition-forces-intercept-3-uavs-north-of-riyadh",
+      "published_date": "2026-10-13T12:28:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who are the Houthis and what do they want?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T06:38:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Al-Dossary: Saudi Arabia is prepared to deal with any emergency situation",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthi attack on Riyadh airport shows disregard for civilian lives, Yemen’s Al-Alimi says",
+      "title": "Aramco to launch up to seven gas facilities by 2027, targets 80% sales growth by 2030",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665303/saudi-arabia/yemens-al-alimi-says-saudi-security-is-tied-to-yemens",
-      "published_date": "2026-10-11T11:27:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN chief Guterres ‘deeply shocked’ by deadly Houthi attack on Riyadh airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665300/saudi-arabia/un-chief-guterres-deeply-shocked-by-deadly-houthi-attack-on-riyadh-airport",
-      "published_date": "2026-10-11T10:31:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM Shehbaz Sharif condemns deadly Houthi attack on Riyadh airport, reaffirms solidarity with Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665296/saudi-arabia/pakistan-pm-shehbaz-sharif-condemns-deadly-houthi-attack-on-riyadh-airport-reaffirms-solidarity-with-saudi-arabia",
-      "published_date": "2026-10-11T10:07:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canadian PM condemns Houthi attacks on Saudi Arabia as ‘abhorrent’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665295/saudi-arabia/canadian-pm-condemns-houthi-attacks-on-saudi-arabia-as-abhorrent",
-      "published_date": "2026-10-11T09:45:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio condemns deadly Houthi attack on Riyadh airport, says US stands with Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665294/saudi-arabia/rubio-condemns-houthi-attack-on-riyadh-airport-confirms-american-among-victims",
-      "published_date": "2026-10-11T02:27:42+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665379/saudi-arabia/aramco-plans-up-to-seven-gas-facilities-by-2027-targets-80-sales-growth",
+      "published_date": "2026-10-13T13:23:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ministry of Energy signs MoU with IEF; OSP inks deal with U.S. Foundation",
@@ -319,11 +326,25 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia restores East-West Pipeline capacity to 5.8 million bpd: Minister",
+      "title": "Saudi Arabia imposes anti-dumping duties on Chinese aluminum can lids",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665162/saudi-arabia/saudi-arabia-restores-east-west-pipeline-capacity-to-58-million-bpd",
-      "published_date": "2026-10-06T09:39:42+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665384/saudi-arabia/saudi-arabia-imposes-anti-dumping-duties-on-chinese-beverage-can-lids",
+      "published_date": "2026-10-13T15:05:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF raises Saudi Arabia&#039;s growth forecast to 7.9% in 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665380/saudi-arabia/imf-raises-saudi-arabias-growth-forecast-to-79-in-2027",
+      "published_date": "2026-10-13T13:54:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Business Center introduces online store verification service on Tawakkalna",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665378/saudi-arabia/saudi-business-center-introduces-online-store-verification-service-on-tawakkalna",
+      "published_date": "2026-10-13T13:18:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Jadaan leads Saudi delegation to 2026 IMF-World Bank Annual Meetings",
@@ -401,6 +422,34 @@
       "url": "https://saudigazette.com.sa/article/665199/saudi-arabia/world-bank-forecast-saudi-economy-to-rebound-with-79-growth-in-2027",
       "published_date": "2026-10-07T15:10:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Riyadh Metro to add 94 trains in SR5.5 billion expansion, boosting capacity by 60%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665382/saudi-arabia/riyadh-metro-orders-94-new-trains-for-sr55-billion-boosting-capacity-60",
+      "published_date": "2026-10-13T14:25:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi taekwondo star Sabah Asiri injured in Houthi attack on Riyadh airport vows comeback",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665377/saudi-arabia/saudi-taekwondo-star-sabah-asiri-injured-in-houthi-attack-on-riyadh-airport-vows-comeback",
+      "published_date": "2026-10-13T13:06:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Asir to Japan: ‘Heritage Bride’ brings generations of Saudi women’s stories to the world",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665373/saudi-arabia/from-asir-to-japan-heritage-bride-brings-generations-of-saudi-womens-stories-to-the-world",
+      "published_date": "2026-10-13T11:53:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia recalls 769 BAIC BJ40 vehicles over electrical fault, fire risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665372/saudi-arabia/saudi-arabia-recalls-769-baic-bj40-vehicles-over-electrical-fault-fire-risk",
+      "published_date": "2026-10-13T11:00:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi court overturns decision to cut salary of visually impaired employee",
@@ -512,27 +561,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665198/saudi-arabia/over-444000-saudi-students-register-for-national-gifted-olympiad",
       "published_date": "2026-10-07T14:47:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Ministry suspends 8 Umrah companies and foreign agents for accommodation violations",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665195/saudi-arabia/hajj-ministry-suspends-8-umrah-companies-and-foreign-agents-for-accommodation-violations",
-      "published_date": "2026-10-07T13:27:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Ministry urges vaccination amid rise in seasonal respiratory infections",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665173/saudi-arabia/health-ministry-urges-vaccination-amid-rise-in-seasonal-respiratory-infections",
-      "published_date": "2026-10-06T13:53:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three injured in attacks on Jazan, Najran airports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665161/saudi-arabia/three-injured-in-attacks-on-jazan-najran-airports",
-      "published_date": "2026-10-06T09:31:30+00:00",
       "category": "Local Events"
     }
   ]
