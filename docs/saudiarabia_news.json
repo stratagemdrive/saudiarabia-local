@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-14T01:39:23.517258+00:00",
-  "story_count": 82,
+  "last_updated": "2026-10-14T15:41:11.530055+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi Arabia condemns Colombia’s decision to open embassy in occupied Jerusalem",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665415/saudi-arabia/saudi-arabia-condemns-colombias-decision-to-open-embassy-in-occupied-jerusalem",
+      "published_date": "2026-10-14T13:11:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jordan FM calls Prince Faisal to express absolute solidarity with Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665414/saudi-arabia/jordan-fm-calls-prince-faisal-to-express-absolute-solidarity-with-saudi-arabia",
+      "published_date": "2026-10-14T12:45:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T06:11:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Riyadh Emir opens 12th Riyadh Economic Forum",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Embassy in UK urges citizens hit by flight disruptions to contact mission",
+      "title": "Arab resident injured as intercepted Houthi missile debris damages home, vehicle in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665311/saudi-arabia/saudi-embassy-in-uk-urges-citizens-hit-by-flight-disruptions-to-contact-mission",
-      "published_date": "2026-10-11T14:51:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Passports launch status rectification for 4 categories of Yemenis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665310/saudi-arabia/saudi-passports-launch-status-rectification-for-4-categories-of-yemenis",
-      "published_date": "2026-10-11T14:28:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Global condemnation mounts over deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665306/saudi-arabia/global-condemnation-mounts-over-deadly-houthi-attack-on-saudi-arabias-riyadh-airport",
-      "published_date": "2026-10-11T12:48:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665416/saudi-arabia/arab-resident-injured-by-intercepted-houthi-missile-debris-in-riyadh",
+      "published_date": "2026-10-14T13:25:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
@@ -221,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T04:27:22+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Al-Dossary: Saudi Arabia is prepared to deal with any emergency situation",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665361/saudi-arabia/al-dossary-saudi-arabia-is-prepared-to-deal-with-any-emergency-situation",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pakistani resident killed, 11 injured in Sunday’s attack on Riyadh airport",
+      "title": "NDF Chief: SR31.5 billion invested in green hydrogen project",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665327/saudi-arabia/pakistani-resident-killed-11-injured-in-riyadh-airport-attack",
-      "published_date": "2026-10-11T23:09:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T22:45:58+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665420/saudi-arabia/ndf-chief-sr315-billion-invested-in-green-hydrogen-project",
+      "published_date": "2026-10-14T14:20:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Al-Rumaih: Riyadh public transport nears 500 million users within 2 years",
@@ -331,6 +338,13 @@
       "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
       "published_date": "2026-10-11T15:28:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "IMF Chief:  Attacks on Saudi Arabia could have ‘negative spillover everywhere’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665417/saudi-arabia/imf-chief-attacks-on-saudi-arabia-could-have-negative-spillover-everywhere",
+      "published_date": "2026-10-14T13:31:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Jadaan&#039;s IMFC chairmanship extended for another year",
@@ -431,11 +445,25 @@
       "category": "Economy"
     },
     {
-      "title": "World Bank forecast Saudi economy to rebound with 7.9% growth in 2027",
+      "title": "Saudi AI technology registrations surge 31% to 24,693 in Q3 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665199/saudi-arabia/world-bank-forecast-saudi-economy-to-rebound-with-79-growth-in-2027",
-      "published_date": "2026-10-07T15:10:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665413/saudi-arabia/saudi-ai-technology-registrations-surge-31-to-24693-in-q3-2026",
+      "published_date": "2026-10-14T11:46:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi e-commerce registrations rise 25% to 52,259 in Q3 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665412/saudi-arabia/saudi-e-commerce-registrations-rise-25-to-52259-in-q3-2026",
+      "published_date": "2026-10-14T10:28:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red alerts issued as heavy thunderstorms, flash floods threaten several Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665411/saudi-arabia/red-alerts-issued-as-heavy-thunderstorms-flash-floods-threaten-several-saudi-regions",
+      "published_date": "2026-10-14T10:14:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ministry tightens barber shop rules; home services require special permit",
@@ -554,27 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665236/saudi-arabia/qiwa-shared-housing-mandatory-for-establishments-with-20-workers-in-527-professions",
       "published_date": "2026-10-08T16:47:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 expats arrested in Jeddah for trafficking 42 kg of methamphetamine",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665233/saudi-arabia/3-expats-arrested-in-jeddah-for-trafficking-42-kg-of-methamphetamine",
-      "published_date": "2026-10-08T15:49:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Commerce recalls 2,987 Grand Cherokee vehicles due to airbag defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665232/saudi-arabia/ministry-of-commerce-recalls-2987-grand-cherokee-vehicles-due-to-airbag-defect",
-      "published_date": "2026-10-08T15:38:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourism Ministry blocks seven online platforms for violating Tourism Law",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665204/saudi-arabia/tourism-ministry-blocks-seven-online-platforms-for-violating-tourism-law",
-      "published_date": "2026-10-07T21:08:07+00:00",
       "category": "Local Events"
     }
   ]
