@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-13T17:55:27.901606+00:00",
-  "story_count": 80,
+  "last_updated": "2026-10-14T01:39:23.517258+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Riyadh Emir opens 12th Riyadh Economic Forum",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665398/saudi-arabia/riyadh-emir-opens-12th-riyadh-economic-forum",
+      "published_date": "2026-10-13T21:24:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatari, Kuwaiti FMs condemn Houthi attacks in call with Prince Faisal",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665396/saudi-arabia/qatari-kuwaiti-fms-condemn-houthi-attacks-in-call-with-prince-faisal",
+      "published_date": "2026-10-13T21:17:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gulf Health Council warns youth: E-cigarettes are more dangerous than traditional ones",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665389/saudi-arabia/gulf-health-council-warns-youth-e-cigarettes-are-more-dangerous-than-traditional-ones",
+      "published_date": "2026-10-13T17:17:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "German Chancellor, Turkish and Lebanese presidents affirm full support to Saudi Arabia in calls with Crown Prince",
       "source": "Saudi Gazette",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU’s Kaja Kallas condemns Houthi attack on Riyadh airport as ‘appalling act of terror’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665302/saudi-arabia/eus-kaja-kallas-condemns-houthi-attack-on-riyadh-airport-as-appalling-act-of-terror",
-      "published_date": "2026-10-11T11:07:22+00:00",
-      "category": "Diplomacy"
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T22:29:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Railways adds overnight trains from Qassim to Riyadh via Majmaah",
+      "title": "Four injured as debris from intercepted Houthi missiles damages 15 homes in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665292/saudi-arabia/saudi-railways-adds-two-overnight-trains-from-qassim-to-riyadh-on-october-11",
-      "published_date": "2026-10-10T22:44:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665400/saudi-arabia/four-injured-15-homes-damaged-by-intercepted-houthi-missile-debris-in-riyadh",
+      "published_date": "2026-10-13T22:14:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Riyadh airport suspends operations after new attack leaves several injured",
+      "title": "Aramco building targeted in Dhahran, no casualties reported",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665287/saudi-arabia/riyadh-airport-suspends-operations-after-new-attack-leaves-several-injured",
-      "published_date": "2026-10-10T17:02:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665399/saudi-arabia/saudi-aramco-building-targeted-in-dhahran-limited-fire-reported",
+      "published_date": "2026-10-13T21:51:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defense Minister, Polish Deputy PM discuss military cooperation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665397/saudi-arabia/defense-minister-polish-deputy-pm-discuss-military-cooperation-in-phone-call",
+      "published_date": "2026-10-13T21:21:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi missile debris falls in Dhahran residential area after interception",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665392/saudi-arabia/houthi-missile-debris-falls-in-dhahran-residential-area-after-interception",
+      "published_date": "2026-10-13T19:24:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition targets Houthi fuel facilities used to support missile, drone attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665391/saudi-arabia/coalition-targets-houthi-fuel-facilities-supporting-missile-and-drone-attacks",
+      "published_date": "2026-10-13T18:09:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia warns Houthis: No impunity for heinous crimes and repeated attacks",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "From Makkah to Riyadh, Houthis turn their weapons on pilgrims",
+      "title": "Al-Rumaih: Riyadh public transport nears 500 million users within 2 years",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665325/saudi-arabia/houthi-attack-on-riyadh-airport-threatens-umrah-pilgrims-recalls-attacks-on-makkah-and-madinah",
-      "published_date": "2026-10-11T21:19:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airport attacks another dangerous moment in already tense conflict",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T15:32:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Children among 139 dead after Yemen-bound boat capsizes off Djibouti, UN says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T15:32:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Projectile hits Terminal 4 of Riyadh airport, causing fire",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665312/saudi-arabia/projectile-hits-terminal-4-of-riyadh-airport-causing-fire",
-      "published_date": "2026-10-11T15:24:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordanian father of two killed in Houthi attack on Riyadh airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665308/saudi-arabia/jordanian-father-of-two-killed-in-houthi-attack-on-riyadh-airport",
-      "published_date": "2026-10-11T13:41:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egyptian flight attendant killed in Riyadh airport attack days before her wedding",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665307/saudi-arabia/egyptian-flynas-flight-attendant-killed-in-riyadh-airport-attack-days-before-wedding",
-      "published_date": "2026-10-11T13:38:40+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665393/saudi-arabia/al-rumaih-riyadh-public-transport-nears-500-million-users-within-2-years",
+      "published_date": "2026-10-13T20:18:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco to launch up to seven gas facilities by 2027, targets 80% sales growth by 2030",
@@ -324,6 +331,13 @@
       "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
       "published_date": "2026-10-11T15:28:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan&#039;s IMFC chairmanship extended for another year",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665395/saudi-arabia/al-jadaans-imfc-chairmanship-extended-for-another-year",
+      "published_date": "2026-10-13T21:12:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia imposes anti-dumping duties on Chinese aluminum can lids",
@@ -422,6 +436,20 @@
       "url": "https://saudigazette.com.sa/article/665199/saudi-arabia/world-bank-forecast-saudi-economy-to-rebound-with-79-growth-in-2027",
       "published_date": "2026-10-07T15:10:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ministry tightens barber shop rules; home services require special permit",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665394/saudi-arabia/ministry-tightens-barber-shop-rules-home-services-require-special-permit",
+      "published_date": "2026-10-13T20:22:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passports Directorate designates 21 centers across Saudi Arabia to regularize status of undocumented Yemenis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665390/saudi-arabia/passports-directorate-designates-21-centers-across-saudi-arabia-to-regularize-status-of-undocumented-yemenis",
+      "published_date": "2026-10-13T17:21:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh Metro to add 94 trains in SR5.5 billion expansion, boosting capacity by 60%",
@@ -547,20 +575,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665204/saudi-arabia/tourism-ministry-blocks-seven-online-platforms-for-violating-tourism-law",
       "published_date": "2026-10-07T21:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private sector accounts for 95% of Saudi social insurance subscribers; Riyadh tops with 52%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665200/saudi-arabia/private-sector-accounts-for-95-of-saudi-social-insurance-subscribers-riyadh-tops-with-52",
-      "published_date": "2026-10-07T15:53:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 444,000 Saudi students register for National Gifted Olympiad",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665198/saudi-arabia/over-444000-saudi-students-register-for-national-gifted-olympiad",
-      "published_date": "2026-10-07T14:47:44+00:00",
       "category": "Local Events"
     }
   ]
