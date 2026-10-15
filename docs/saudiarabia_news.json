@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-15T01:15:39.164503+00:00",
-  "story_count": 84,
+  "last_updated": "2026-10-15T15:29:05.748476+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Saudi Arabia begins complex 15-hour surgery to separate Fijian conjoined twins",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665439/saudi-arabia/saudi-arabia-begins-complex-15-hour-surgery-to-separate-fijian-conjoined-twins",
+      "published_date": "2026-10-15T09:16:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Riyadh Season postpones &#039;Six Kings Slam&#039; tennis tournament to December 27–30",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FMs of UK, Bahrain call Prince Faisal to reaffirm solidarity with Saudi Arabia",
+      "title": "GCC-EU Summit in Riyadh postponed amid Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665345/saudi-arabia/fms-of-uk-bahrain-call-prince-faisal-to-reaffirm-solidarity-with-saudi-arabia",
-      "published_date": "2026-10-12T13:15:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665445/saudi-arabia/gcc-eu-summit-in-riyadh-postponed-over-houthi-attacks-and-airport-suspension",
+      "published_date": "2026-10-15T11:58:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition intercepts Houthi cruise missile over Madinah amid escalating attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665444/saudi-arabia/coalition-intercepts-houthi-cruise-missile-over-madinah-amid-wave-of-attacks",
+      "published_date": "2026-10-15T11:57:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-15T05:00:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Arab resident injured as intercepted Houthi missile debris damages home, vehicle in Riyadh",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Coalition detects drone, cruise missile threats targeting Saudi Arabia",
+      "title": "Saudi inflation remains stable at 1.9% in September despite global shipping risks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665342/saudi-arabia/coalition-detects-drone-and-cruise-missile-threats-against-saudi-arabia",
-      "published_date": "2026-10-12T12:10:38+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665451/saudi-arabia/saudi-inflation-remains-stable-at-19-in-september-despite-global-shipping-risks",
+      "published_date": "2026-10-15T13:23:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi Arabia extends suspension of operations at Riyadh airport following Houthi attacks",
+      "title": "Saudi Arabia to enhance energy cooperation with several countries",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665336/saudi-arabia/saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-following-houthi-attacks",
-      "published_date": "2026-10-12T10:08:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T09:38:03+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665449/saudi-arabia/saudi-arabia-to-enhance-energy-cooperation-with-several-countries",
+      "published_date": "2026-10-15T12:50:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "NDF Chief: SR31.5 billion invested in green hydrogen project",
@@ -338,6 +352,20 @@
       "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
       "published_date": "2026-10-11T15:28:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan: Saudi investments in alternative routes safeguard energy supplies and trade flows",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665452/saudi-arabia/al-jadaan-saudi-investments-in-alternative-routes-safeguard-energy-supplies-and-trade-flows",
+      "published_date": "2026-10-15T14:24:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi FDI inflows surge 33.5% to SR159.1 billion in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665438/saudi-arabia/saudi-fdi-inflows-surge-335-to-sr1591-billion-in-2025",
+      "published_date": "2026-10-15T08:11:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia launches first biological samples of their kind from Middle East to space",
@@ -445,11 +473,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi private sector growth accelerates despite regional tensions, economic council says",
+      "title": "Jazan’s Abu Arish records highest rainfall at 14.2 mm, NCM reports",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665221/saudi-arabia/saudi-private-sector-growth-accelerates-as-pmi-rises-to-538-in-august",
-      "published_date": "2026-10-08T13:22:58+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665442/saudi-arabia/jazans-abu-arish-records-highest-rainfall-at-142-mm-ncm-reports",
+      "published_date": "2026-10-15T10:10:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM issues red alert for heavy rain in Makkah as thunderstorms threaten several Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665437/saudi-arabia/ncm-issues-red-alert-for-heavy-rain-in-makkah-as-thunderstorms-threaten-several-saudi-regions",
+      "published_date": "2026-10-15T07:58:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi AI technology registrations surge 31% to 24,693 in Q3 2026",
@@ -575,20 +610,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665259/saudi-arabia/riyadh-opens-thumamah-road-bridge-after-six-months-of-construction",
       "published_date": "2026-10-09T18:05:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia forecasts above-average rainfall through November, temperatures up to 3°C higher",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665254/saudi-arabia/saudi-arabia-forecasts-above-average-rainfall-in-october-and-november",
-      "published_date": "2026-10-09T16:03:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qiwa: Shared housing mandatory for establishments with 20+ workers in 527 professions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665236/saudi-arabia/qiwa-shared-housing-mandatory-for-establishments-with-20-workers-in-527-professions",
-      "published_date": "2026-10-08T16:47:33+00:00",
       "category": "Local Events"
     }
   ]
