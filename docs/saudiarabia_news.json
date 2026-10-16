@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-16T01:01:13.749249+00:00",
+  "last_updated": "2026-10-16T15:10:36.381760+00:00",
   "story_count": 87,
   "stories": [
+    {
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T08:45:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fijian conjoined twins successfully separated after 12-hour surgery",
       "source": "Saudi Gazette",
@@ -123,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T04:30:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "UN Human Rights Chief condemns Houthi attacks on Saudi airports",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665360/saudi-arabia/un-human-rights-chief-condemns-houthi-attacks-on-saudi-airports",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Abdullah calls Crown Prince to reaffirm Jordan’s full support for Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665353/saudi-arabia/king-abdullah-calls-crown-prince-to-reaffirm-jordans-full-support-for-saudi-arabia",
-      "published_date": "2026-10-12T16:02:14+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T14:31:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Misk Global Forum 2026 canceled over organizational, logistical challenges",
+      "title": "Saudi Arabia welcomes UN Security Council condemnation of Houthi attacks, reaffirms right to self-defense",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665350/saudi-arabia/misk-global-forum-2026-canceled-over-organizational-and-logistical-challenges",
-      "published_date": "2026-10-12T14:29:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665474/saudi-arabia/saudi-arabia-welcomes-un-condemnation-of-deadly-houthi-airport-attacks-asserts-self-defense-right",
+      "published_date": "2026-10-16T13:05:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T05:00:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
@@ -260,27 +281,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665375/saudi-arabia/coalition-forces-intercept-3-uavs-north-of-riyadh",
       "published_date": "2026-10-13T12:28:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who are the Houthis and what do they want?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T06:38:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T04:27:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Dossary: Saudi Arabia is prepared to deal with any emergency situation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665361/saudi-arabia/al-dossary-saudi-arabia-is-prepared-to-deal-with-any-emergency-situation",
-      "published_date": "2026-10-12T22:21:31+00:00",
       "category": "Military"
     },
     {
