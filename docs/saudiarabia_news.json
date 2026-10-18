@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-17T14:02:57.199603+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-18T00:41:21.109133+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "13,822 violators of residency, labor and border security laws arrested in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665493/saudi-arabia/13822-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
+      "published_date": "2026-10-17T17:59:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistani PM Sharif receives new Saudi Ambassador",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665489/saudi-arabia/pakistani-pm-sharif-receives-new-saudi-ambassador",
+      "published_date": "2026-10-17T15:16:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi ambassador awarded with Senegal&#039;s highest national honor",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665487/saudi-arabia/saudi-ambassador-awarded-with-senegals-highest-national-honor",
+      "published_date": "2026-10-17T14:10:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria condemns Houthi attacks on Saudi Arabia, pledges solidarity during Riyadh talks",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gulf Health Council warns youth: E-cigarettes are more dangerous than traditional ones",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665389/saudi-arabia/gulf-health-council-warns-youth-e-cigarettes-are-more-dangerous-than-traditional-ones",
-      "published_date": "2026-10-13T17:17:17+00:00",
-      "category": "Diplomacy"
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T23:52:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "German Chancellor, Turkish and Lebanese presidents affirm full support to Saudi Arabia in calls with Crown Prince",
+      "title": "El-Sisi: Egypt ready to take all necessary measures to defend Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665383/saudi-arabia/german-chancellor-turkish-and-lebanese-presidents-affirm-full-support-to-saudi-arabia-in-calls-with-crown-prince",
-      "published_date": "2026-10-13T14:35:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Malaysia, UAE condemn Houthi attacks on Saudi Arabia in calls with Prince Faisal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665371/saudi-arabia/malaysia-uae-condemn-houthi-attacks-on-saudi-arabia-in-calls-with-prince-faisal",
-      "published_date": "2026-10-13T10:56:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665491/saudi-arabia/el-sisi-egypt-ready-to-take-all-necessary-measures-to-defend-saudi-arabia",
+      "published_date": "2026-10-17T16:47:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Coalition orders evacuation of Sanaa oil facility ahead of military operation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665376/saudi-arabia/coalition-orders-evacuation-of-sanaa-oil-facility-ahead-of-operation",
-      "published_date": "2026-10-13T12:50:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition Forces intercept 3 drones north of Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665375/saudi-arabia/coalition-forces-intercept-3-uavs-north-of-riyadh",
-      "published_date": "2026-10-13T12:28:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Producer prices jump 5.1% in August, led by manufacturing prices",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665454/saudi-arabia/producer-prices-jump-51-in-august-led-by-manufacturing-prices",
@@ -359,6 +359,20 @@
       "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
       "published_date": "2026-10-11T15:28:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Jadaan: Saudi investments mitigated impact of energy shock on global economy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665492/saudi-arabia/al-jadaan-saudi-investments-mitigated-impact-of-energy-shock-on-global-economy",
+      "published_date": "2026-10-17T17:50:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Tourism launches installment plans for financial penalties on tourism establishments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665488/saudi-arabia/ministry-of-tourism-launches-installment-plans-for-financial-penalties-on-tourism-establishments",
+      "published_date": "2026-10-17T14:18:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "At WHO RC73 session, Saudi Arabia showcases landmark transformation of its health sector",
@@ -466,11 +480,11 @@
       "category": "Economy"
     },
     {
-      "title": "Customs at Saudi ports record 1,126 contraband seizures last week",
+      "title": "Civil Defense urges caution as thunderstorms to continue across most Saudi regions through Wednesday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665289/saudi-arabia/customs-at-saudi-ports-record-1126-contraband-seizures-last-week",
-      "published_date": "2026-10-10T17:38:58+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665490/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-to-continue-across-most-saudi-regions-through-wednesday",
+      "published_date": "2026-10-17T15:22:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia offers condolences to Pakistan over school tragedy in Peshawar",
@@ -603,13 +617,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665309/saudi-arabia/tga-impounds-3449-vehicles-issues-11107-warnings-to-violators-in-september",
       "published_date": "2026-10-11T13:44:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security authorities arrest 1,382 infiltrators in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665288/saudi-arabia/security-authorities-arrest-1382-infiltrators-in-one-week",
-      "published_date": "2026-10-10T17:26:20+00:00",
       "category": "Local Events"
     }
   ]
