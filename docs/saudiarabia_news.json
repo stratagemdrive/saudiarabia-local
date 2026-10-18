@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-18T00:41:21.109133+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-18T14:17:03.177096+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Saudi, Jordanian foreign ministers discuss regional tensions, efforts to contain conflicts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665504/saudi-arabia/saudi-jordanian-foreign-ministers-discuss-regional-tensions-efforts-to-contain-conflicts",
+      "published_date": "2026-10-18T07:55:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "13,822 violators of residency, labor and border security laws arrested in a week",
       "source": "Saudi Gazette",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatari, Kuwaiti FMs condemn Houthi attacks in call with Prince Faisal",
+      "title": "Two Saudi National Guard officers die in helicopter crash in Najran",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665396/saudi-arabia/qatari-kuwaiti-fms-condemn-houthi-attacks-in-call-with-prince-faisal",
-      "published_date": "2026-10-13T21:17:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665507/saudi-arabia/two-saudi-national-guard-officers-die-in-helicopter-crash-in-najran",
+      "published_date": "2026-10-18T10:35:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia seizes 1.3 million noncompliant products, conducts over 144,000 inspections in Q3",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665506/saudi-arabia/saudi-arabia-seizes-13-million-noncompliant-products-conducts-over-144000-inspections-in-q3",
+      "published_date": "2026-10-18T10:20:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition intercepts two Houthi ballistic missiles, three drones",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665503/saudi-arabia/coalition-intercepts-two-houthi-ballistic-missiles-three-drones-over-kingdom",
+      "published_date": "2026-10-18T01:38:47+00:00",
+      "category": "Military"
     },
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Coalition targets Houthi fuel facilities used to support missile, drone attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665391/saudi-arabia/coalition-targets-houthi-fuel-facilities-supporting-missile-and-drone-attacks",
-      "published_date": "2026-10-13T18:09:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia warns Houthis: No impunity for heinous crimes and repeated attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665388/saudi-arabia/saudi-arabia-warns-houthis-no-impunity-for-heinous-crimes-and-repeated-attacks",
-      "published_date": "2026-10-13T16:50:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egypt ready to provide Saudi Arabia with military assistance, foreign minister says",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665381/saudi-arabia/egypt-pledges-full-support-for-saudi-arabia-considers-joining-makkah-defense-alliance",
-      "published_date": "2026-10-13T14:16:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Producer prices jump 5.1% in August, led by manufacturing prices",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665454/saudi-arabia/producer-prices-jump-51-in-august-led-by-manufacturing-prices",
@@ -359,6 +359,13 @@
       "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
       "published_date": "2026-10-11T15:28:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Industrial investments in GCC states reach $426 billion",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665519/saudi-arabia/industrial-investments-in-gcc-states-reach-426-billion",
+      "published_date": "2026-10-18T12:55:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Jadaan: Saudi investments mitigated impact of energy shock on global economy",
@@ -478,6 +485,13 @@
       "url": "https://saudigazette.com.sa/article/665341/saudi-arabia/saudi-arabia-will-overcome-challenges-uphold-energy-commitments-prince-abdulaziz-says",
       "published_date": "2026-10-12T11:47:50+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Red alerts issued for heavy rain, flash flood risk across four Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665505/saudi-arabia/red-alerts-issued-for-heavy-rain-flash-flood-risk-across-four-saudi-regions",
+      "published_date": "2026-10-18T08:48:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense urges caution as thunderstorms to continue across most Saudi regions through Wednesday",
@@ -610,13 +624,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665319/saudi-arabia/health-minister-visits-riyadh-hospitals-to-reassure-health-of-those-injured-in-airport-attack",
       "published_date": "2026-10-11T17:21:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TGA impounds 3,449 vehicles, issues 11,107 warnings to violators in September",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665309/saudi-arabia/tga-impounds-3449-vehicles-issues-11107-warnings-to-violators-in-september",
-      "published_date": "2026-10-11T13:44:36+00:00",
       "category": "Local Events"
     }
   ]
