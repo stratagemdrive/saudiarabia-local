@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-18T14:17:03.177096+00:00",
+  "last_updated": "2026-10-19T00:53:12.253860+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Saudi Arabia ranks first globally in activating &#039;RPKI Rov&#039; technology",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665538/saudi-arabia/saudi-arabia-ranks-first-globally-in-activating-rpki-rov-technology",
+      "published_date": "2026-10-18T21:00:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alswaha discusses technology partnerships with Bahraini, Kuwaiti, and Qatari counterparts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665537/saudi-arabia/alswaha-discusses-technology-partnerships-with-bahraini-kuwaiti-and-qatari-counterparts",
+      "published_date": "2026-10-18T20:56:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi defense minister meets UAE president to discuss strengthening partnership",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665529/saudi-arabia/saudi-defense-minister-meets-uae-president-to-discuss-strengthening-partnership",
+      "published_date": "2026-10-18T16:47:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Russian foreign ministers discuss Yemen escalation in Manama",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665527/saudi-arabia/saudi-russian-foreign-ministers-discuss-yemen-escalation-in-manama",
+      "published_date": "2026-10-18T15:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Samaani:  New rules will enhance institutional maturity and quality of judicial work",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665526/saudi-arabia/al-samaani-new-rules-will-enhance-institutional-maturity-and-quality-of-judicial-work",
+      "published_date": "2026-10-18T15:09:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gulf states call on Russia to urge Iran to comply with UN resolution on nuclear program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665521/saudi-arabia/gulf-states-call-on-russia-to-urge-iran-to-comply-with-un-resolution-on-nuclear-program",
+      "published_date": "2026-10-18T13:51:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Jordanian foreign ministers discuss regional tensions, efforts to contain conflicts",
       "source": "Saudi Gazette",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mandatory health insurance covers continued treatment at home",
+      "title": "Saudi defense minister meets with UAE vice president in Abu Dhabi",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665425/saudi-arabia/mandatory-health-insurance-covers-continued-treatment-at-home",
-      "published_date": "2026-10-14T15:46:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665536/saudi-arabia/saudi-defense-minister-meets-with-uae-vice-president-in-abu-dhabi",
+      "published_date": "2026-10-18T20:49:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraqi PM condemns Houthi attacks on Saudi Arabia during meeting with Crown Prince",
+      "title": "Saudi FM attends GCC Ministerial Council in Manama",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665423/saudi-arabia/iraqi-pm-condemns-attacks-on-saudi-arabia-in-meeting-with-crown-prince",
-      "published_date": "2026-10-14T14:55:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665531/saudi-arabia/saudi-fm-attends-gcc-ministerial-council-in-manama",
+      "published_date": "2026-10-18T18:03:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia condemns Colombia’s decision to open embassy in occupied Jerusalem",
+      "title": "GCC urges global designation of Houthis as terrorist group",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665415/saudi-arabia/saudi-arabia-condemns-colombias-decision-to-open-embassy-in-occupied-jerusalem",
-      "published_date": "2026-10-14T13:11:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665530/saudi-arabia/gcc-urges-global-designation-of-houthis-as-terrorist-group",
+      "published_date": "2026-10-18T17:50:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Jordan FM calls Prince Faisal to express absolute solidarity with Saudi Arabia",
+      "title": "Houthi projectile injures 6 Saudis; damages homes, vehicles in Najran",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665414/saudi-arabia/jordan-fm-calls-prince-faisal-to-express-absolute-solidarity-with-saudi-arabia",
-      "published_date": "2026-10-14T12:45:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T06:11:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh Emir opens 12th Riyadh Economic Forum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665398/saudi-arabia/riyadh-emir-opens-12th-riyadh-economic-forum",
-      "published_date": "2026-10-13T21:24:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665528/saudi-arabia/houthi-projectile-injures-6-saudis-damages-homes-vehicles-in-najran",
+      "published_date": "2026-10-18T16:02:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Two Saudi National Guard officers die in helicopter crash in Najran",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Four injured as debris from intercepted Houthi missiles damages 15 homes in Riyadh",
+      "title": "KAPSARC wins two Best Paper Awards at WPC Energy Congress in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665400/saudi-arabia/four-injured-15-homes-damaged-by-intercepted-houthi-missile-debris-in-riyadh",
-      "published_date": "2026-10-13T22:14:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aramco building targeted in Dhahran, no casualties reported",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665399/saudi-arabia/saudi-aramco-building-targeted-in-dhahran-limited-fire-reported",
-      "published_date": "2026-10-13T21:51:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense Minister, Polish Deputy PM discuss military cooperation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665397/saudi-arabia/defense-minister-polish-deputy-pm-discuss-military-cooperation-in-phone-call",
-      "published_date": "2026-10-13T21:21:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi missile debris falls in Dhahran residential area after interception",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665392/saudi-arabia/houthi-missile-debris-falls-in-dhahran-residential-area-after-interception",
-      "published_date": "2026-10-13T19:24:43+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
+      "published_date": "2026-10-18T14:25:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Producer prices jump 5.1% in August, led by manufacturing prices",
@@ -347,18 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia signs pacts for expanding energy cooperation with Kuwait, Qatar and Egypt",
+      "title": "Saudi economy remains resilient despite Middle East conflict, SAMA governor says",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665326/saudi-arabia/saudi-arabia-signs-pacts-for-expanding-energy-cooperation-with-kuwait-qatar-and-egypt",
-      "published_date": "2026-10-11T21:31:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi minister: Riyadh ‘capital of energy security’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665313/saudi-arabia/saudi-energy-minister-calls-riyadh-capital-of-energy-security-vows-reliable-global-supplies",
-      "published_date": "2026-10-11T15:28:49+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665524/saudi-arabia/saudi-economy-resilient-amid-middle-east-conflict-sama-governor-tells-imf",
+      "published_date": "2026-10-18T14:30:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Industrial investments in GCC states reach $426 billion",
@@ -487,6 +487,20 @@
       "category": "Economy"
     },
     {
+      "title": "Supreme Judicial Council adopts rules that utilize AI technologies",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665525/saudi-arabia/supreme-judicial-council-adopts-rules-that-utilize-ai-technologies",
+      "published_date": "2026-10-18T15:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First extra school holiday for students on Oct. 25",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665522/saudi-arabia/first-extra-school-holiday-for-students-on-oct-25",
+      "published_date": "2026-10-18T14:19:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Red alerts issued for heavy rain, flash flood risk across four Saudi regions",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665505/saudi-arabia/red-alerts-issued-for-heavy-rain-flash-flood-risk-across-four-saudi-regions",
@@ -610,20 +624,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665334/saudi-arabia/ncm-issues-red-alerts-for-heavy-rain-flash-floods-as-thunderstorms-forecast-across-saudi-regions",
       "published_date": "2026-10-12T09:16:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HR Ministry enables illegal Yemenis to regularize status through Qiwa, Musaned platforms",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665323/saudi-arabia/hr-ministry-enables-illegal-yemenis-to-regularize-status-through-qiwa-musaned-platforms",
-      "published_date": "2026-10-11T20:54:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health minister visits Riyadh hospitals to reassure health of those injured in airport attack",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665319/saudi-arabia/health-minister-visits-riyadh-hospitals-to-reassure-health-of-those-injured-in-airport-attack",
-      "published_date": "2026-10-11T17:21:01+00:00",
       "category": "Local Events"
     }
   ]
