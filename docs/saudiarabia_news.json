@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-19T00:53:12.253860+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-19T17:19:04.237855+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "King Salman receives message from Qatari Emir",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665565/saudi-arabia/king-salman-receives-message-from-qatari-emir",
+      "published_date": "2026-10-19T16:07:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HR Ministry boosts readiness of Saudi workers in private sector through ‘Skills Accelerator’",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665562/saudi-arabia/hr-ministry-boosts-readiness-of-saudi-workers-in-private-sector-through-skills-accelerator",
+      "published_date": "2026-10-19T14:16:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistani, Egyptian FMs condemn Houthi attacks on Saudi Arabia in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665559/saudi-arabia/pakistani-egyptian-fms-condemn-houthi-attacks-on-saudi-arabia-in-phone-call",
+      "published_date": "2026-10-19T13:13:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France condemns Houthi attacks on Saudi Arabia, reaffirms solidarity with Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665554/saudi-arabia/france-condemns-houthi-attacks-on-saudi-arabia-during-foreign-ministers-talks",
+      "published_date": "2026-10-19T11:32:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA debunks claims of approved camel urine-derived cancer treatment",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665553/saudi-arabia/sfda-debunks-claims-of-approved-camel-urine-derived-cancer-treatment",
+      "published_date": "2026-10-19T11:07:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia ranks first globally in activating &#039;RPKI Rov&#039; technology",
       "source": "Saudi Gazette",
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia begins complex 15-hour surgery to separate Fijian conjoined twins",
+      "title": "Over 21 million faithful visit Prophet’s Mosque in September",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665439/saudi-arabia/saudi-arabia-begins-complex-15-hour-surgery-to-separate-fijian-conjoined-twins",
-      "published_date": "2026-10-15T09:16:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665557/saudi-arabia/over-21-million-faithful-visit-prophets-mosque-in-september",
+      "published_date": "2026-10-19T12:48:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Riyadh Season postpones &#039;Six Kings Slam&#039; tennis tournament to December 27–30",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665430/saudi-arabia/riyadh-season-postpones-six-kings-slam-tennis-tournament-to-december-2730",
-      "published_date": "2026-10-14T21:07:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Italian FM expresses solidarity with Saudi Arabia in call with Prince Faisal",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665429/saudi-arabia/italian-fm-expresses-solidarity-with-saudi-arabia-in-call-with-prince-faisal",
-      "published_date": "2026-10-14T21:02:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At UN, Saudi Arabia vows support for UNHCR&#039;s efforts to protect refugees",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665428/saudi-arabia/at-un-saudi-arabia-vows-support-for-unhcrs-efforts-to-protect-refugees",
-      "published_date": "2026-10-14T20:54:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Ambassador Al-Baqami presents credentials to president of Pakistan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665427/saudi-arabia/saudi-ambassador-al-baqami-presents-credentials-to-president-of-pakistan",
-      "published_date": "2026-10-14T19:32:05+00:00",
-      "category": "Diplomacy"
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T06:29:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi defense minister meets with UAE vice president in Abu Dhabi",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Arab resident injured as intercepted Houthi missile debris damages home, vehicle in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665416/saudi-arabia/arab-resident-injured-by-intercepted-houthi-missile-debris-in-riyadh",
-      "published_date": "2026-10-14T13:25:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T22:29:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "KAPSARC wins two Best Paper Awards at WPC Energy Congress in Riyadh",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
@@ -340,18 +340,18 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco CEO warns global oil inventories could take two years to replenish",
+      "title": "Over 4,000 new jobs offered for Saudis across 20 health clusters",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665348/saudi-arabia/aramco-chief-replenishing-oil-stocks-could-take-2-years-new-export-routes-in-focus",
-      "published_date": "2026-10-12T14:06:44+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665561/saudi-arabia/over-4000-new-jobs-offered-for-saudis-across-20-health-clusters",
+      "published_date": "2026-10-19T13:46:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi Arabia plans to raise East-West Pipeline capacity to 10 million barrels per day",
+      "title": "Attorney General, commerce minister discuss combating commercial violations",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665347/saudi-arabia/saudi-arabia-plans-to-expand-east-west-pipeline-capacity-to-10-million-barrels-daily",
-      "published_date": "2026-10-12T13:57:08+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665555/saudi-arabia/attorney-general-commerce-minister-discuss-combating-commercial-violations",
+      "published_date": "2026-10-19T11:37:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi economy remains resilient despite Middle East conflict, SAMA governor says",
@@ -459,32 +459,53 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Qasabi appoints 9 board members of Makkah Chamber of Commerce",
+      "title": "Jeddah Mayoralty begins expansion of Prince Majid Road to ease traffic congestion",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665354/saudi-arabia/al-qasabi-appoints-9-board-members-of-makkah-chamber-of-commerce",
-      "published_date": "2026-10-12T16:35:27+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665564/saudi-arabia/jeddah-mayoralty-begins-expansion-of-prince-majid-road-to-ease-traffic-congestion",
+      "published_date": "2026-10-19T15:04:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Al-Khalaf: Non-oil activities account for 55% of Saudi GDP for first time",
+      "title": "NCM forecasts widespread rain, heavy thunderstorms across Saudi Arabia through October 28",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665352/saudi-arabia/non-oil-activities-account-for-55-of-saudi-gdp-for-first-time",
-      "published_date": "2026-10-12T15:17:58+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665558/saudi-arabia/ncm-forecasts-widespread-rain-heavy-thunderstorms-across-saudi-arabia-through-october-28",
+      "published_date": "2026-10-19T13:10:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Minister Al-Saif: FDI in emerging economic sectors soars 162%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665351/saudi-arabia/minister-al-saif-fdi-in-emerging-economic-sectors-soars-162",
-      "published_date": "2026-10-12T14:48:42+00:00",
-      "category": "Economy"
+      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T10:34:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia will overcome challenges, uphold global energy commitments, Prince Abdulaziz says",
+      "title": "RCU launches 2026–2027 archaeological season across AlUla and Khaybar",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665341/saudi-arabia/saudi-arabia-will-overcome-challenges-uphold-energy-commitments-prince-abdulaziz-says",
-      "published_date": "2026-10-12T11:47:50+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665552/saudi-arabia/rcu-launches-20262027-archaeology-season-in-alula-and-khaybar",
+      "published_date": "2026-10-19T10:30:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi tourist accommodation registrations rise 29% to 20,560 in Q3 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665548/saudi-arabia/saudi-tourist-accommodation-registrations-rise-29-to-20560-in-q3-2026",
+      "published_date": "2026-10-19T09:03:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T08:17:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi railway passenger numbers surge 266.5% to 156.4 million in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665545/saudi-arabia/saudi-railway-passenger-numbers-surge-2665-to-1564-million-in-2025",
+      "published_date": "2026-10-19T08:02:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Supreme Judicial Council adopts rules that utilize AI technologies",
@@ -575,55 +596,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665390/saudi-arabia/passports-directorate-designates-21-centers-across-saudi-arabia-to-regularize-status-of-undocumented-yemenis",
       "published_date": "2026-10-13T17:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh Metro to add 94 trains in SR5.5 billion expansion, boosting capacity by 60%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665382/saudi-arabia/riyadh-metro-orders-94-new-trains-for-sr55-billion-boosting-capacity-60",
-      "published_date": "2026-10-13T14:25:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi taekwondo star Sabah Asiri injured in Houthi attack on Riyadh airport vows comeback",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665377/saudi-arabia/saudi-taekwondo-star-sabah-asiri-injured-in-houthi-attack-on-riyadh-airport-vows-comeback",
-      "published_date": "2026-10-13T13:06:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Asir to Japan: ‘Heritage Bride’ brings generations of Saudi women’s stories to the world",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665373/saudi-arabia/from-asir-to-japan-heritage-bride-brings-generations-of-saudi-womens-stories-to-the-world",
-      "published_date": "2026-10-13T11:53:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia recalls 769 BAIC BJ40 vehicles over electrical fault, fire risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665372/saudi-arabia/saudi-arabia-recalls-769-baic-bj40-vehicles-over-electrical-fault-fire-risk",
-      "published_date": "2026-10-13T11:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi court overturns decision to cut salary of visually impaired employee",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665356/saudi-arabia/saudi-court-overturns-decision-to-cut-salary-of-visually-impaired-employee",
-      "published_date": "2026-10-12T20:04:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madinah sets Oct. 18 deadline for Ramadan iftar meal applications",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665346/saudi-arabia/madinah-sets-oct-18-deadline-for-ramadan-iftar-meal-applications",
-      "published_date": "2026-10-12T13:33:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts thunderstorms, flash floods across Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665334/saudi-arabia/ncm-issues-red-alerts-for-heavy-rain-flash-floods-as-thunderstorms-forecast-across-saudi-regions",
-      "published_date": "2026-10-12T09:16:12+00:00",
       "category": "Local Events"
     }
   ]
