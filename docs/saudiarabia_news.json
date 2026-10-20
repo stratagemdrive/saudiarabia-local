@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-19T17:19:04.237855+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-20T01:36:56.587283+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "King approves regulations governing judges&#039; professional affairs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665571/saudi-arabia/king-approves-regulations-governing-judges-professional-affairs",
+      "published_date": "2026-10-19T21:15:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE, Turkish foreign ministers call Saudi FM to discuss regional de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665567/saudi-arabia/uae-turkish-foreign-ministers-call-saudi-fm-to-discuss-regional-de-escalation",
+      "published_date": "2026-10-19T19:02:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman receives message from Qatari Emir",
       "source": "Saudi Gazette",
@@ -127,20 +141,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-16T08:45:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fijian conjoined twins successfully separated after 12-hour surgery",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665461/saudi-arabia/fijian-conjoined-twins-successfully-separated-after-12-hour-surgery",
-      "published_date": "2026-10-15T22:19:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan strongly condemns Houthi attacks on Saudi Arabia during call between foreign ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665453/saudi-arabia/japan-strongly-condemns-houthi-attacks-on-saudi-arabia-during-call-between-foreign-ministers",
-      "published_date": "2026-10-15T14:51:23+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Saudi oil exports to reach their second-highest level since outbreak of Iran-US war",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665570/saudi-arabia/saudi-oil-exports-to-reach-their-second-highest-level-since-outbreak-of-iran-us-war",
+      "published_date": "2026-10-19T21:09:38+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "KAPSARC wins two Best Paper Awards at WPC Energy Congress in Riyadh",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
@@ -333,11 +340,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ministry of Energy signs MoU with IEF; OSP inks deal with U.S. Foundation",
+      "title": "Tourism, investment ministries unveil first approved projects under Hospitality Investment Enablers Program",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665358/saudi-arabia/ministry-of-energy-signs-mou-with-ief-osp-inks-deal-with-us-foundation",
-      "published_date": "2026-10-12T21:09:00+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665568/saudi-arabia/tourism-investment-ministries-unveil-first-approved-projects-under-hospitality-investment-enablers-program",
+      "published_date": "2026-10-19T19:49:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Future Investment Initiative postpones 10th edition in Riyadh to 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665566/saudi-arabia/future-investment-initiative-postpones-fii10-conference-in-riyadh-to-2027",
+      "published_date": "2026-10-19T17:46:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Over 4,000 new jobs offered for Saudis across 20 health clusters",
@@ -452,11 +466,11 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan leads Saudi delegation to 2026 IMF-World Bank Annual Meetings",
+      "title": "Riyadh chosen to host OIC’s first Cybersecurity Ministerial Council",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665357/saudi-arabia/al-jadaan-leads-saudi-delegation-to-2026-imf-world-bank-annual-meetings",
-      "published_date": "2026-10-12T21:03:16+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665569/saudi-arabia/riyadh-chosen-to-host-oics-first-cybersecurity-ministerial-council",
+      "published_date": "2026-10-19T19:55:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jeddah Mayoralty begins expansion of Prince Majid Road to ease traffic congestion",
@@ -589,13 +603,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665394/saudi-arabia/ministry-tightens-barber-shop-rules-home-services-require-special-permit",
       "published_date": "2026-10-13T20:22:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passports Directorate designates 21 centers across Saudi Arabia to regularize status of undocumented Yemenis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665390/saudi-arabia/passports-directorate-designates-21-centers-across-saudi-arabia-to-regularize-status-of-undocumented-yemenis",
-      "published_date": "2026-10-13T17:21:28+00:00",
       "category": "Local Events"
     }
   ]
