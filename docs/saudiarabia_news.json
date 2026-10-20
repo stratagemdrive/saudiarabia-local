@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-20T01:36:56.587283+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-20T15:32:30.328872+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Islamic foreign ministers condemn Houthi aggression on Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665593/saudi-arabia/islamic-foreign-ministers-condemn-houthi-aggression-on-saudi-arabia",
+      "published_date": "2026-10-20T15:06:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King approves regulations governing judges&#039; professional affairs",
       "source": "Saudi Gazette",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T08:45:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-20T14:09:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-20T13:54:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition intercepts Houthi missile over Riyadh, warns against weapons smuggling by sea",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665584/saudi-arabia/coalition-intercepts-houthi-missile-over-riyadh-warns-against-weapons-smuggling-by-sea",
+      "published_date": "2026-10-20T12:27:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi real estate prices rise 1.2% annually in Q3 2026 despite quarterly decline",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665577/saudi-arabia/saudi-real-estate-prices-rise-12-annually-in-q3-2026-despite-quarterly-decline",
+      "published_date": "2026-10-20T08:14:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Over 21 million faithful visit Prophet’s Mosque in September",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Al-Maliki: Regional parties armed Houthis with advanced technologies",
+      "title": "NCM launches initiative to teach students about climate remotely",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665455/saudi-arabia/al-maliki-regional-parties-armed-houthis-with-advanced-technologies",
-      "published_date": "2026-10-15T16:39:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GCC-EU Summit in Riyadh postponed amid Houthi attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665445/saudi-arabia/gcc-eu-summit-in-riyadh-postponed-over-houthi-attacks-and-airport-suspension",
-      "published_date": "2026-10-15T11:58:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition intercepts Houthi cruise missile over Madinah amid escalating attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665444/saudi-arabia/coalition-intercepts-houthi-cruise-missile-over-madinah-amid-wave-of-attacks",
-      "published_date": "2026-10-15T11:57:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T05:00:23+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665592/saudi-arabia/ncm-launches-initiative-to-teach-students-about-climate-remotely",
+      "published_date": "2026-10-20T14:56:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi oil exports to reach their second-highest level since outbreak of Iran-US war",
@@ -333,11 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco to launch up to seven gas facilities by 2027, targets 80% sales growth by 2030",
+      "title": "Saudi Arabia hails UNSC call to block arms supplies to Houthis",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665379/saudi-arabia/aramco-plans-up-to-seven-gas-facilities-by-2027-targets-80-sales-growth",
-      "published_date": "2026-10-13T13:23:33+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665588/saudi-arabia/saudi-arabia-hails-unsc-call-to-block-arms-supplies-to-houthis",
+      "published_date": "2026-10-20T13:40:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tourism, investment ministries unveil first approved projects under Hospitality Investment Enablers Program",
@@ -445,25 +452,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia imposes anti-dumping duties on Chinese aluminum can lids",
+      "title": "Agriculture minister launches farmer training drive to improve agricultural practices",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665384/saudi-arabia/saudi-arabia-imposes-anti-dumping-duties-on-chinese-beverage-can-lids",
-      "published_date": "2026-10-13T15:05:14+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665590/saudi-arabia/agriculture-minister-launches-farmer-training-drive-to-improve-agricultural-practices",
+      "published_date": "2026-10-20T14:44:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF raises Saudi Arabia&#039;s growth forecast to 7.9% in 2027",
+      "title": "Saudi Railways carries 41 million passengers in Q3 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665380/saudi-arabia/imf-raises-saudi-arabias-growth-forecast-to-79-in-2027",
-      "published_date": "2026-10-13T13:54:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Business Center introduces online store verification service on Tawakkalna",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665378/saudi-arabia/saudi-business-center-introduces-online-store-verification-service-on-tawakkalna",
-      "published_date": "2026-10-13T13:18:13+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665589/saudi-arabia/saudi-railways-carry-41-million-passengers-in-q3-2026",
+      "published_date": "2026-10-20T14:30:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riyadh chosen to host OIC’s first Cybersecurity Ministerial Council",
@@ -589,20 +589,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665412/saudi-arabia/saudi-e-commerce-registrations-rise-25-to-52259-in-q3-2026",
       "published_date": "2026-10-14T10:28:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alerts issued as heavy thunderstorms, flash floods threaten several Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665411/saudi-arabia/red-alerts-issued-as-heavy-thunderstorms-flash-floods-threaten-several-saudi-regions",
-      "published_date": "2026-10-14T10:14:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry tightens barber shop rules; home services require special permit",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665394/saudi-arabia/ministry-tightens-barber-shop-rules-home-services-require-special-permit",
-      "published_date": "2026-10-13T20:22:48+00:00",
       "category": "Local Events"
     }
   ]
