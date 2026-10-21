@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-21T01:20:57.659636+00:00",
-  "story_count": 83,
+  "last_updated": "2026-10-21T15:48:53.978032+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Saudi Arabia, Lebanon discuss activating joint committee",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665621/saudi-arabia/saudi-arabia-lebanon-discuss-activating-joint-committee-strengthening-ties",
+      "published_date": "2026-10-21T14:38:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Jordan amend agreement establishing Supreme Coordination Council",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665619/saudi-arabia/saudi-arabia-jordan-sign-amended-protocol-for-supreme-coordination-council",
+      "published_date": "2026-10-21T14:03:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qiwa classifies establishments into 7 categories by workforce size",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665618/saudi-arabia/qiwa-classifies-establishments-into-7-categories-by-workforce-size",
+      "published_date": "2026-10-21T13:36:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron arrives in Riyadh, pledges French military support against Houthi attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665617/saudi-arabia/macron-arrives-in-riyadh-pledges-french-defense-support-against-houthis",
+      "published_date": "2026-10-21T13:29:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Kuwaiti FMs condemn continued Houthi attacks",
       "source": "Saudi Gazette",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "13,822 violators of residency, labor and border security laws arrested in a week",
+      "title": "Interior Minister inaugurates medical center, Military Medical Committee clinics in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665493/saudi-arabia/13822-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
-      "published_date": "2026-10-17T17:59:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665616/saudi-arabia/interior-minister-inaugurates-medical-center-military-medical-committee-clinics-in-riyadh",
+      "published_date": "2026-10-21T12:51:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistani PM Sharif receives new Saudi Ambassador",
+      "title": "Coalition intercepts 5 UAVs fired by Houthi militia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665489/saudi-arabia/pakistani-pm-sharif-receives-new-saudi-ambassador",
-      "published_date": "2026-10-17T15:16:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi ambassador awarded with Senegal&#039;s highest national honor",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665487/saudi-arabia/saudi-ambassador-awarded-with-senegals-highest-national-honor",
-      "published_date": "2026-10-17T14:10:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria condemns Houthi attacks on Saudi Arabia, pledges solidarity during Riyadh talks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665477/saudi-arabia/syria-condemns-houthi-attacks-on-saudi-arabia-during-foreign-ministers-meeting-in-riyadh",
-      "published_date": "2026-10-16T17:29:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665613/saudi-arabia/coalition-intercepts-5-uavs-fired-by-houthi-militia",
+      "published_date": "2026-10-21T12:17:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Interior minister inaugurates centers for command and UAV systems, cybersecurity",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T05:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T23:38:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi stocks plunge to lowest close since April 2021",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665594/saudi-arabia/saudi-stocks-plunge-to-lowest-close-since-april-2021",
@@ -333,11 +333,11 @@
       "category": "Energy"
     },
     {
-      "title": "NDF Chief: SR31.5 billion invested in green hydrogen project",
+      "title": "Number of hotels in Saudi Arabia soars 31.6% to 2,847 in 2025",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665420/saudi-arabia/ndf-chief-sr315-billion-invested-in-green-hydrogen-project",
-      "published_date": "2026-10-14T14:20:45+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665623/saudi-arabia/number-of-hotels-in-saudi-arabia-soars-316-to-2847-in-2025",
+      "published_date": "2026-10-21T15:06:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia hails UNSC call to block arms supplies to Houthis",
@@ -431,18 +431,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi cybersecurity market reaches SR16.3 billion in 2025",
+      "title": "Qassim police arrest expat for immoral acts at massage center",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665424/saudi-arabia/saudi-cybersecurity-market-reaches-sr163-billion-in-2025",
-      "published_date": "2026-10-14T15:02:08+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665620/saudi-arabia/qassim-police-arrest-expat-for-immoral-acts-at-massage-center",
+      "published_date": "2026-10-21T14:35:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF Chief:  Attacks on Saudi Arabia could have ‘negative spillover everywhere’",
+      "title": "Saudi Arabia’s November climate records reveal second-highest average monthly rainfall",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665417/saudi-arabia/imf-chief-attacks-on-saudi-arabia-could-have-negative-spillover-everywhere",
-      "published_date": "2026-10-14T13:31:03+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665605/saudi-arabia/saudi-arabias-november-climate-records-reveal-second-highest-average-monthly-rainfall",
+      "published_date": "2026-10-21T08:28:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia’s key service sectors expand in 2025 as number of hotels rises 31.6%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665604/saudi-arabia/saudi-arabias-key-service-sectors-expand-in-2025-as-number-of-hotels-rises-316",
+      "published_date": "2026-10-21T07:46:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Makkah, Madinah schools to adopt winter timings next week",
@@ -561,27 +568,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665460/saudi-arabia/saudi-arabia-offers-condolences-to-pakistan-over-school-tragedy-in-peshawar",
       "published_date": "2026-10-15T22:14:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commerce Ministry recalls 3,108 Ford, Lincoln vehicles over EGR valve defect",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665456/saudi-arabia/commerce-ministry-recalls-3108-ford-lincoln-vehicles-over-egr-valve-defect",
-      "published_date": "2026-10-15T18:56:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jazan’s Abu Arish records highest rainfall at 14.2 mm, NCM reports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665442/saudi-arabia/jazans-abu-arish-records-highest-rainfall-at-142-mm-ncm-reports",
-      "published_date": "2026-10-15T10:10:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM issues red alert for heavy rain in Makkah as thunderstorms threaten several Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665437/saudi-arabia/ncm-issues-red-alert-for-heavy-rain-in-makkah-as-thunderstorms-threaten-several-saudi-regions",
-      "published_date": "2026-10-15T07:58:53+00:00",
       "category": "Local Events"
     }
   ]
