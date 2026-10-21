@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-20T15:32:30.328872+00:00",
-  "story_count": 84,
+  "last_updated": "2026-10-21T01:20:57.659636+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Saudi, Kuwaiti FMs condemn continued Houthi attacks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665597/saudi-arabia/saudi-kuwaiti-fms-condemn-continued-houthi-attacks",
+      "published_date": "2026-10-20T20:17:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Islamic foreign ministers condemn Houthi aggression on Saudi Arabia",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, 18 nations condemn Colombia&#039;s embassy opening in Jerusalem",
+      "title": "Interior minister inaugurates centers for command and UAV systems, cybersecurity",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665476/saudi-arabia/saudi-arabia-18-countries-condemn-colombias-embassy-opening-in-jerusalem",
-      "published_date": "2026-10-16T14:55:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665598/saudi-arabia/interior-minister-inaugurates-centers-for-command-and-uav-systems-cybersecurity",
+      "published_date": "2026-10-20T20:26:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi, Greek defense ministers meet to discuss enhancing defense partnership",
+      "title": "Saudi stocks plunge to lowest close since April 2021",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665458/saudi-arabia/saudi-greek-defense-ministers-meet-to-discuss-enhancing-defense-partnership",
-      "published_date": "2026-10-15T20:00:12+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665594/saudi-arabia/saudi-stocks-plunge-to-lowest-close-since-april-2021",
+      "published_date": "2026-10-20T16:07:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "NCM launches initiative to teach students about climate remotely",
@@ -330,13 +337,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665420/saudi-arabia/ndf-chief-sr315-billion-invested-in-green-hydrogen-project",
       "published_date": "2026-10-14T14:20:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Al-Rumaih: Riyadh public transport nears 500 million users within 2 years",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665393/saudi-arabia/al-rumaih-riyadh-public-transport-nears-500-million-users-within-2-years",
-      "published_date": "2026-10-13T20:18:26+00:00",
       "category": "Energy"
     },
     {
@@ -445,11 +445,18 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan&#039;s IMFC chairmanship extended for another year",
+      "title": "Makkah, Madinah schools to adopt winter timings next week",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665395/saudi-arabia/al-jadaans-imfc-chairmanship-extended-for-another-year",
-      "published_date": "2026-10-13T21:12:16+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665596/saudi-arabia/makkah-madinah-schools-to-adopt-winter-timings-next-week",
+      "published_date": "2026-10-20T18:57:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One child dead, another missing after flash flood sweeps 3 children in Makkah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665595/saudi-arabia/one-child-dead-another-missing-after-flash-flood-sweeps-3-children-in-makkah",
+      "published_date": "2026-10-20T16:37:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Agriculture minister launches farmer training drive to improve agricultural practices",
@@ -575,20 +582,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665437/saudi-arabia/ncm-issues-red-alert-for-heavy-rain-in-makkah-as-thunderstorms-threaten-several-saudi-regions",
       "published_date": "2026-10-15T07:58:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi AI technology registrations surge 31% to 24,693 in Q3 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665413/saudi-arabia/saudi-ai-technology-registrations-surge-31-to-24693-in-q3-2026",
-      "published_date": "2026-10-14T11:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi e-commerce registrations rise 25% to 52,259 in Q3 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665412/saudi-arabia/saudi-e-commerce-registrations-rise-25-to-52259-in-q3-2026",
-      "published_date": "2026-10-14T10:28:12+00:00",
       "category": "Local Events"
     }
   ]
