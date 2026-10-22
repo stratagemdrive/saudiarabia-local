@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-22T01:18:09.461732+00:00",
-  "story_count": 81,
+  "last_updated": "2026-10-22T15:46:29.432643+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi construction costs rise 2.2% in September 2026, GASTAT reports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665637/saudi-arabia/saudi-construction-costs-rise-22-in-september-2026-gastat-reports",
+      "published_date": "2026-10-22T08:52:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Crown Prince receives message for King Salman from Egyptian president",
       "source": "Saudi Gazette",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Al-Samaani:  New rules will enhance institutional maturity and quality of judicial work",
+      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T13:46:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition intercepts 9 UAVs in Madinah, Riyadh, and Eastern Province",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665526/saudi-arabia/al-samaani-new-rules-will-enhance-institutional-maturity-and-quality-of-judicial-work",
-      "published_date": "2026-10-18T15:09:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665645/saudi-arabia/coalition-intercepts-9-uavs-in-madinah-riyadh-and-eastern-province",
+      "published_date": "2026-10-22T12:57:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll rises to two in attack on Dammam airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665643/saudi-arabia/dammam-airport-attack-death-toll-rises-to-two-eight-injured",
+      "published_date": "2026-10-22T12:12:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly 60% of Saudi adults meet weekly physical activity threshold, GASTAT reports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665636/saudi-arabia/nearly-60-of-saudi-adults-meet-weekly-physical-activity-threshold-gastat-reports",
+      "published_date": "2026-10-22T08:32:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One killed, eight injured in attack on Dammam airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665631/saudi-arabia/one-killed-eight-injured-in-dammam-airport-attack-as-coalition-intercepts-four-drones",
+      "published_date": "2026-10-22T02:40:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T01:07:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Council of Senior Scholars: Houthi Militia a terrorist group that violated sanctities",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Two Saudi National Guard officers die in helicopter crash in Najran",
+      "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665507/saudi-arabia/two-saudi-national-guard-officers-die-in-helicopter-crash-in-najran",
-      "published_date": "2026-10-18T10:35:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia seizes 1.3 million noncompliant products, conducts over 144,000 inspections in Q3",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665506/saudi-arabia/saudi-arabia-seizes-13-million-noncompliant-products-conducts-over-144000-inspections-in-q3",
-      "published_date": "2026-10-18T10:20:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition intercepts two Houthi ballistic missiles, three drones",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665503/saudi-arabia/coalition-intercepts-two-houthi-ballistic-missiles-three-drones-over-kingdom",
-      "published_date": "2026-10-18T01:38:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T23:52:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El-Sisi: Egypt ready to take all necessary measures to defend Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665491/saudi-arabia/el-sisi-egypt-ready-to-take-all-necessary-measures-to-defend-saudi-arabia",
-      "published_date": "2026-10-17T16:47:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T14:31:04+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
+      "published_date": "2026-10-22T14:12:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Two expatriates killed as Saudi air defenses intercept drone targeting Aramco’s Shaybah oil field",
@@ -316,27 +323,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
       "published_date": "2026-10-18T14:25:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Producer prices jump 5.1% in August, led by manufacturing prices",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665454/saudi-arabia/producer-prices-jump-51-in-august-led-by-manufacturing-prices",
-      "published_date": "2026-10-15T15:12:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi inflation remains stable at 1.9% in September despite global shipping risks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665451/saudi-arabia/saudi-inflation-remains-stable-at-19-in-september-despite-global-shipping-risks",
-      "published_date": "2026-10-15T13:23:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Arabia to enhance energy cooperation with several countries",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665449/saudi-arabia/saudi-arabia-to-enhance-energy-cooperation-with-several-countries",
-      "published_date": "2026-10-15T12:50:53+00:00",
       "category": "Energy"
     },
     {
@@ -417,18 +403,18 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan: Saudi investments in alternative routes safeguard energy supplies and trade flows",
+      "title": "Qiwa permits business ownership transfers without commercial registration under conditions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665452/saudi-arabia/al-jadaan-saudi-investments-in-alternative-routes-safeguard-energy-supplies-and-trade-flows",
-      "published_date": "2026-10-15T14:24:53+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665648/saudi-arabia/qiwa-allows-business-ownership-transfers-without-commercial-registration-under-certain-conditions",
+      "published_date": "2026-10-22T14:53:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi FDI inflows surge 33.5% to SR159.1 billion in 2025",
+      "title": "Jeddah Mayoralty shuts down illegal food facilities, destroys 2.5 tons of products",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665438/saudi-arabia/saudi-fdi-inflows-surge-335-to-sr1591-billion-in-2025",
-      "published_date": "2026-10-15T08:11:08+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665646/saudi-arabia/jeddah-mayoralty-shuts-down-illegal-food-facilities-destroys-25-tons-of-products",
+      "published_date": "2026-10-22T13:51:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Qassim police arrest expat for immoral acts at massage center",
@@ -554,20 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665505/saudi-arabia/red-alerts-issued-for-heavy-rain-flash-flood-risk-across-four-saudi-regions",
       "published_date": "2026-10-18T08:48:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense urges caution as thunderstorms to continue across most Saudi regions through Wednesday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665490/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-to-continue-across-most-saudi-regions-through-wednesday",
-      "published_date": "2026-10-17T15:22:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia offers condolences to Pakistan over school tragedy in Peshawar",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665460/saudi-arabia/saudi-arabia-offers-condolences-to-pakistan-over-school-tragedy-in-peshawar",
-      "published_date": "2026-10-15T22:14:30+00:00",
       "category": "Local Events"
     }
   ]
