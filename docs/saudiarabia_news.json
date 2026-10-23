@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-22T15:46:29.432643+00:00",
+  "last_updated": "2026-10-23T01:17:04.657040+00:00",
   "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi, German, Cypriot FMs discuss regional de-escalation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665654/saudi-arabia/saudi-german-cypriot-fms-discuss-regional-de-escalation-in-phone-call",
+      "published_date": "2026-10-22T20:45:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian vice president pledges support in call with Saudi FM",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665651/saudi-arabia/palestinian-vice-president-pledges-support-in-call-with-saudi-fm",
+      "published_date": "2026-10-22T16:36:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Health Ministry: Prescription reviews and medication safety are core pharmacist duties",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665650/saudi-arabia/health-ministry-prescription-reviews-and-medication-safety-are-core-pharmacist-duties",
+      "published_date": "2026-10-22T16:15:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq condemns Houthi aggression on Saudi Arabia during call between foreign ministers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665649/saudi-arabia/iraq-condemns-houthi-aggression-on-saudi-arabia-during-call-between-foreign-ministers",
+      "published_date": "2026-10-22T15:49:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi construction costs rise 2.2% in September 2026, GASTAT reports",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia ranks first globally in activating &#039;RPKI Rov&#039; technology",
+      "title": "European Parliament urges EU to designate Houthi militia a terrorist group",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665538/saudi-arabia/saudi-arabia-ranks-first-globally-in-activating-rpki-rov-technology",
-      "published_date": "2026-10-18T21:00:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665656/saudi-arabia/european-parliament-urges-eu-to-designate-houthi-militia-a-terrorist-group",
+      "published_date": "2026-10-22T20:59:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Alswaha discusses technology partnerships with Bahraini, Kuwaiti, and Qatari counterparts",
+      "title": "UN Chief voices concern over continued Houthi attacks on Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665537/saudi-arabia/alswaha-discusses-technology-partnerships-with-bahraini-kuwaiti-and-qatari-counterparts",
-      "published_date": "2026-10-18T20:56:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665655/saudi-arabia/un-chief-voices-concern-over-continued-houthi-attacks-on-saudi-arabia",
+      "published_date": "2026-10-22T20:53:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi defense minister meets UAE president to discuss strengthening partnership",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665529/saudi-arabia/saudi-defense-minister-meets-uae-president-to-discuss-strengthening-partnership",
-      "published_date": "2026-10-18T16:47:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Russian foreign ministers discuss Yemen escalation in Manama",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665527/saudi-arabia/saudi-russian-foreign-ministers-discuss-yemen-escalation-in-manama",
-      "published_date": "2026-10-18T15:43:49+00:00",
-      "category": "Diplomacy"
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T15:56:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi FM attends GCC Ministerial Council in Manama",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665531/saudi-arabia/saudi-fm-attends-gcc-ministerial-council-in-manama",
-      "published_date": "2026-10-18T18:03:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GCC urges global designation of Houthis as terrorist group",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665530/saudi-arabia/gcc-urges-global-designation-of-houthis-as-terrorist-group",
-      "published_date": "2026-10-18T17:50:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi projectile injures 6 Saudis; damages homes, vehicles in Najran",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665528/saudi-arabia/houthi-projectile-injures-6-saudis-damages-homes-vehicles-in-najran",
-      "published_date": "2026-10-18T16:02:18+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
@@ -324,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
       "published_date": "2026-10-18T14:25:47+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia ranks first among G20 countries in quality of auditing, accounting practices",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665653/saudi-arabia/saudi-arabia-ranks-first-among-g20-countries-in-quality-of-auditing-accounting-practices",
+      "published_date": "2026-10-22T19:06:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Number of hotels in Saudi Arabia soars 31.6% to 2,847 in 2025",
@@ -393,13 +400,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665488/saudi-arabia/ministry-of-tourism-launches-installment-plans-for-financial-penalties-on-tourism-establishments",
       "published_date": "2026-10-17T14:18:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "At WHO RC73 session, Saudi Arabia showcases landmark transformation of its health sector",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665457/saudi-arabia/at-who-rc73-session-saudi-arabia-showcases-landmark-transformation-of-its-health-sector",
-      "published_date": "2026-10-15T19:48:27+00:00",
       "category": "Economy"
     },
     {
