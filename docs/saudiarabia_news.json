@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-23T01:17:04.657040+00:00",
+  "last_updated": "2026-10-23T15:37:20.012995+00:00",
   "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi foreign minister arrives in Istanbul for talks on Yemen, Iran war and regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665667/saudi-arabia/saudi-foreign-minister-arrives-in-istanbul-for-talks-on-yemen-iran-war-and-maritime-security",
+      "published_date": "2026-10-23T12:49:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, German, Cypriot FMs discuss regional de-escalation in phone call",
       "source": "Saudi Gazette",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "SFDA debunks claims of approved camel urine-derived cancer treatment",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T14:45:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi air defenses intercept Houthi missiles targeting Riyadh, Khamis Mushait",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665553/saudi-arabia/sfda-debunks-claims-of-approved-camel-urine-derived-cancer-treatment",
-      "published_date": "2026-10-19T11:07:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665668/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-targeting-riyadh-khamis-mushait",
+      "published_date": "2026-10-23T13:13:50+00:00",
+      "category": "Military"
     },
     {
       "title": "European Parliament urges EU to designate Houthi militia a terrorist group",
@@ -267,20 +281,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665557/saudi-arabia/over-21-million-faithful-visit-prophets-mosque-in-september",
       "published_date": "2026-10-19T12:48:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T06:29:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi defense minister meets with UAE vice president in Abu Dhabi",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665536/saudi-arabia/saudi-defense-minister-meets-with-uae-vice-president-in-abu-dhabi",
-      "published_date": "2026-10-18T20:49:58+00:00",
       "category": "Military"
     },
     {
