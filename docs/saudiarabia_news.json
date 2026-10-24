@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-23T15:37:20.012995+00:00",
+  "last_updated": "2026-10-24T01:23:32.002798+00:00",
   "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi Arabia approves new Enforcement Law regulations effective October 29",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665673/saudi-arabia/saudi-arabia-approves-enforcement-law-regulations-effective-october-29-2026",
+      "published_date": "2026-10-23T16:39:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi foreign minister arrives in Istanbul for talks on Yemen, Iran war and regional security",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France condemns Houthi attacks on Saudi Arabia, reaffirms solidarity with Kingdom",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665554/saudi-arabia/france-condemns-houthi-attacks-on-saudi-arabia-during-foreign-ministers-talks",
-      "published_date": "2026-10-19T11:32:45+00:00",
-      "category": "Diplomacy"
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T19:46:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Over 21 million faithful visit Prophet’s Mosque in September",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665557/saudi-arabia/over-21-million-faithful-visit-prophets-mosque-in-september",
-      "published_date": "2026-10-19T12:48:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
@@ -401,6 +401,13 @@
       "url": "https://saudigazette.com.sa/article/665488/saudi-arabia/ministry-of-tourism-launches-installment-plans-for-financial-penalties-on-tourism-establishments",
       "published_date": "2026-10-17T14:18:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi Health Ministry clarifies death of Dammam airport attack victim",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665670/saudi-arabia/saudi-health-ministry-clarifies-death-of-dammam-airport-attack-victim",
+      "published_date": "2026-10-23T15:39:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Qiwa permits business ownership transfers without commercial registration under conditions",
@@ -533,13 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665522/saudi-arabia/first-extra-school-holiday-for-students-on-oct-25",
       "published_date": "2026-10-18T14:19:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alerts issued for heavy rain, flash flood risk across four Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665505/saudi-arabia/red-alerts-issued-for-heavy-rain-flash-flood-risk-across-four-saudi-regions",
-      "published_date": "2026-10-18T08:48:54+00:00",
       "category": "Local Events"
     }
   ]
