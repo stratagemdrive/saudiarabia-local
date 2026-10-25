@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-25T00:53:08.838515+00:00",
-  "story_count": 76,
+  "last_updated": "2026-10-25T14:46:57.307578+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "King Salman orders SR5,000 minimum wage under Nitaqat",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665712/saudi-arabia/king-salman-orders-sr5000-minimum-wage-under-nitaqat",
+      "published_date": "2026-10-25T13:27:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 94 Honda motorcycles over risk of losing control",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665699/saudi-arabia/saudi-arabia-recalls-94-honda-motorcycles-over-risk-of-losing-control",
+      "published_date": "2026-10-25T08:29:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman, Crown Prince condemn Jordan church attack, send condolences to King Abdullah II",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Kuwaiti FMs condemn continued Houthi attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665597/saudi-arabia/saudi-kuwaiti-fms-condemn-continued-houthi-attacks",
-      "published_date": "2026-10-20T20:17:16+00:00",
-      "category": "Diplomacy"
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T05:15:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Islamic foreign ministers condemn Houthi aggression on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665593/saudi-arabia/islamic-foreign-ministers-condemn-houthi-aggression-on-saudi-arabia",
-      "published_date": "2026-10-20T15:06:08+00:00",
-      "category": "Diplomacy"
+      "title": "The bitter row over military service that could shape Israel's future",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-24T23:03:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Riyadh airport to resume flights Sunday after Houthi attacks",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Interior Minister inaugurates medical center, Military Medical Committee clinics in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665616/saudi-arabia/interior-minister-inaugurates-medical-center-military-medical-committee-clinics-in-riyadh",
-      "published_date": "2026-10-21T12:51:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition intercepts 5 UAVs fired by Houthi militia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665613/saudi-arabia/coalition-intercepts-5-uavs-fired-by-houthi-militia",
-      "published_date": "2026-10-21T12:17:11+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
@@ -319,11 +319,11 @@
       "category": "Energy"
     },
     {
-      "title": "KAPSARC wins two Best Paper Awards at WPC Energy Congress in Riyadh",
+      "title": "Saudi military spending localization reaches 27.3% in 2025, exceeding annual target",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
-      "published_date": "2026-10-18T14:25:47+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665700/saudi-arabia/saudi-military-spending-localization-reaches-273-in-2025-exceeding-annual-target",
+      "published_date": "2026-10-25T11:02:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs authorities record 996 seizures of prohibited goods at border crossings",
@@ -382,18 +382,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi economy remains resilient despite Middle East conflict, SAMA governor says",
+      "title": "Red and orange alerts issued for heavy rain, thunderstorms across Saudi regions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665524/saudi-arabia/saudi-economy-resilient-amid-middle-east-conflict-sama-governor-tells-imf",
-      "published_date": "2026-10-18T14:30:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Industrial investments in GCC states reach $426 billion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665519/saudi-arabia/industrial-investments-in-gcc-states-reach-426-billion",
-      "published_date": "2026-10-18T12:55:29+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665698/saudi-arabia/red-and-orange-alerts-issued-for-heavy-rain-thunderstorms-across-saudi-regions",
+      "published_date": "2026-10-25T08:05:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia arrests 13,905 residency, labor and border violators in one week",
@@ -526,13 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665548/saudi-arabia/saudi-tourist-accommodation-registrations-rise-29-to-20560-in-q3-2026",
       "published_date": "2026-10-19T09:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T08:17:19+00:00",
       "category": "Local Events"
     }
   ]
