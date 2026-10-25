@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-24T14:14:04.751598+00:00",
-  "story_count": 77,
+  "last_updated": "2026-10-25T00:53:08.838515+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "King Salman, Crown Prince condemn Jordan church attack, send condolences to King Abdullah II",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665696/saudi-arabia/king-salman-crown-prince-condemn-jordan-church-attack-offer-condolences-to-king-abdullah-ii",
+      "published_date": "2026-10-24T19:18:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eastern Province emir visits survivor of Houthi attack on Dammam airport",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665695/saudi-arabia/eastern-province-emir-visits-survivor-of-attack-on-king-fahd-international-airport",
+      "published_date": "2026-10-24T19:13:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for fair representation in UN Security Council and restrictions on veto power",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665693/saudi-arabia/saudi-arabia-urges-un-security-council-reform-fair-representation-and-veto-restrictions",
+      "published_date": "2026-10-24T14:44:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia’s Saad Al-Otaibi elected Arab Parliament president unopposed",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665690/saudi-arabia/saudi-shoura-council-member-saad-al-otaibi-elected-arab-parliament-president",
+      "published_date": "2026-10-24T14:21:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
       "source": "BBC News",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King approves regulations governing judges&#039; professional affairs",
+      "title": "Riyadh airport to resume flights Sunday after Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665571/saudi-arabia/king-approves-regulations-governing-judges-professional-affairs",
-      "published_date": "2026-10-19T21:15:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665697/saudi-arabia/riyadh-airport-prepares-to-resume-flights-sunday-after-houthi-attacks",
+      "published_date": "2026-10-24T21:12:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "UAE, Turkish foreign ministers call Saudi FM to discuss regional de-escalation",
+      "title": "Saudi Civil Defense reports missile debris falling in Makkah, Jeddah, Taif and Rabigh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665567/saudi-arabia/uae-turkish-foreign-ministers-call-saudi-fm-to-discuss-regional-de-escalation",
-      "published_date": "2026-10-19T19:02:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman receives message from Qatari Emir",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665565/saudi-arabia/king-salman-receives-message-from-qatari-emir",
-      "published_date": "2026-10-19T16:07:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HR Ministry boosts readiness of Saudi workers in private sector through ‘Skills Accelerator’",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665562/saudi-arabia/hr-ministry-boosts-readiness-of-saudi-workers-in-private-sector-through-skills-accelerator",
-      "published_date": "2026-10-19T14:16:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665694/saudi-arabia/saudi-civil-defense-reports-houthi-missile-debris-in-makkah-jeddah-taif-and-rabigh",
+      "published_date": "2026-10-24T19:06:33+00:00",
+      "category": "Military"
     },
     {
       "title": "France warns of violence as Yellow Vests, students prepare for Paris protests",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Interior minister inaugurates centers for command and UAV systems, cybersecurity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665598/saudi-arabia/interior-minister-inaugurates-centers-for-command-and-uav-systems-cybersecurity",
-      "published_date": "2026-10-20T20:26:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-20T14:09:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
@@ -324,6 +324,13 @@
       "url": "https://saudigazette.com.sa/article/665523/saudi-arabia/kapsarc-wins-two-best-paper-awards-at-25th-wpc-energy-congress-in-riyadh",
       "published_date": "2026-10-18T14:25:47+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi customs authorities record 996 seizures of prohibited goods at border crossings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665692/saudi-arabia/saudi-customs-record-996-seizures-of-drugs-tobacco-and-prohibited-goods",
+      "published_date": "2026-10-24T14:40:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia ranks first among G20 countries in quality of auditing, accounting practices",
@@ -389,18 +396,11 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Jadaan: Saudi investments mitigated impact of energy shock on global economy",
+      "title": "Saudi Arabia arrests 13,905 residency, labor and border violators in one week",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665492/saudi-arabia/al-jadaan-saudi-investments-mitigated-impact-of-energy-shock-on-global-economy",
-      "published_date": "2026-10-17T17:50:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministry of Tourism launches installment plans for financial penalties on tourism establishments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665488/saudi-arabia/ministry-of-tourism-launches-installment-plans-for-financial-penalties-on-tourism-establishments",
-      "published_date": "2026-10-17T14:18:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665691/saudi-arabia/saudi-arabia-arrests-13905-residency-labor-and-border-violators-in-nationwide-crackdown",
+      "published_date": "2026-10-24T14:33:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Air defenses intercept Houthi ballistic missiles targeting Taif, Yanbu",
@@ -533,13 +533,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-19T08:17:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi railway passenger numbers surge 266.5% to 156.4 million in 2025",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665545/saudi-arabia/saudi-railway-passenger-numbers-surge-2665-to-1564-million-in-2025",
-      "published_date": "2026-10-19T08:02:52+00:00",
       "category": "Local Events"
     }
   ]
