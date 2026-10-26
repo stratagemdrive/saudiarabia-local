@@ -1,8 +1,50 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-26T01:00:50.708131+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-26T17:06:41.783551+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Riyadh Mayoralty authorizes body cameras for field inspections",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665750/saudi-arabia/riyadh-mayoralty-authorizes-body-cameras-for-field-inspections",
+      "published_date": "2026-10-26T14:12:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interior Ministry launches ‘Absher Travel for Visitors’ service at land border crossings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665749/saudi-arabia/interior-ministry-launches-absher-travel-for-visitors-service-at-land-border-crossings",
+      "published_date": "2026-10-26T13:57:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia strongly condemns Jordanian church attack during call between foreign ministers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665748/saudi-arabia/saudi-arabia-strongly-condemns-jordanian-church-attack-during-call-between-foreign-ministers",
+      "published_date": "2026-10-26T13:39:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia calls for negotiations to end regional crisis ahead of Tehran talks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665746/saudi-arabia/saudi-arabia-calls-for-negotiations-to-end-regional-crisis-ahead-of-tehran-meetings",
+      "published_date": "2026-10-26T13:21:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 1,355 Ford, Lincoln vehicles over windshield wiper defect",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665735/saudi-arabia/saudi-arabia-recalls-1355-ford-lincoln-vehicles-over-windshield-wiper-defect",
+      "published_date": "2026-10-26T10:31:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Khalid bin Salman leads Saudi delegation in Makkah Joint Defense Agreement talks with Iran",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665732/saudi-arabia/saudi-defense-minister-leads-saudi-pakistani-and-turkish-delegation-to-iran-for-de-escalation-talks",
+      "published_date": "2026-10-26T07:59:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia to raise minimum wage threshold to SR5,000 in April 2027, and SR6,000 in April, 2028",
       "source": "Saudi Gazette",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Palestinian vice president pledges support in call with Saudi FM",
+      "title": "Egypt&#039;s parliament approves military support for Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665651/saudi-arabia/palestinian-vice-president-pledges-support-in-call-with-saudi-fm",
-      "published_date": "2026-10-22T16:36:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665751/saudi-arabia/egypts-parliament-approves-military-assistance-to-saudi-arabia-possible-troop-deployment",
+      "published_date": "2026-10-26T14:31:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Health Ministry: Prescription reviews and medication safety are core pharmacist duties",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665650/saudi-arabia/health-ministry-prescription-reviews-and-medication-safety-are-core-pharmacist-duties",
-      "published_date": "2026-10-22T16:15:45+00:00",
-      "category": "Diplomacy"
+      "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T11:01:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraq condemns Houthi aggression on Saudi Arabia during call between foreign ministers",
+      "title": "Coalition destroys five Houthi missile tunnels, four launchers in Yemen operation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665649/saudi-arabia/iraq-condemns-houthi-aggression-on-saudi-arabia-during-call-between-foreign-ministers",
-      "published_date": "2026-10-22T15:49:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi construction costs rise 2.2% in September 2026, GASTAT reports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665637/saudi-arabia/saudi-construction-costs-rise-22-in-september-2026-gastat-reports",
-      "published_date": "2026-10-22T08:52:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince receives message for King Salman from Egyptian president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665625/saudi-arabia/saudi-crown-prince-receives-message-for-king-salman-from-egyptian-president",
-      "published_date": "2026-10-21T16:38:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi crown prince, French president discuss regional developments in Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665624/saudi-arabia/saudi-crown-prince-french-president-discuss-regional-developments-in-riyadh",
-      "published_date": "2026-10-21T16:04:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665731/saudi-arabia/coalition-destroys-five-houthi-missile-tunnels-four-launchers-in-yemen-operation",
+      "published_date": "2026-10-26T07:43:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Deeply divided Israel braces for pivotal election",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T15:56:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T13:46:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition intercepts 9 UAVs in Madinah, Riyadh, and Eastern Province",
+      "title": "Saudi Arabia announces revised electricity, water and wastewater tariffs effective January 1, 2027",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665645/saudi-arabia/coalition-intercepts-9-uavs-in-madinah-riyadh-and-eastern-province",
-      "published_date": "2026-10-22T12:57:12+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665754/saudi-arabia/saudi-arabia-announces-revised-electricity-water-and-wastewater-tariffs-effective-january-1-2027",
+      "published_date": "2026-10-26T16:31:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy minister: Resilient systems, sustained investments key to energy security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665752/saudi-arabia/energy-minister-resilient-systems-sustained-investments-key-to-energy-security",
+      "published_date": "2026-10-26T14:32:03+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia, Singapore announce plans for crude oil storage facility by 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665733/saudi-arabia/saudi-arabia-singapore-announce-plans-for-crude-oil-storage-facility-by-2027",
+      "published_date": "2026-10-26T08:25:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
@@ -317,6 +338,20 @@
       "url": "https://saudigazette.com.sa/article/665570/saudi-arabia/saudi-oil-exports-to-reach-their-second-highest-level-since-outbreak-of-iran-us-war",
       "published_date": "2026-10-19T21:09:38+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "HR Ministry: Five worker categories are covered by Nitaqat wage hike to SR6,000",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665753/saudi-arabia/hr-ministry-five-worker-categories-covered-by-nitaqat-wage-hike-to-sr6000",
+      "published_date": "2026-10-26T15:28:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi domestic non-oil exports rise 8.5% in August despite overall trade decline",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665738/saudi-arabia/saudi-domestic-non-oil-exports-rise-85-in-august-despite-overall-trade-decline",
+      "published_date": "2026-10-26T11:15:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia, Greece affirm commitment to complete submarine cable project on time",
@@ -375,18 +410,18 @@
       "category": "Economy"
     },
     {
-      "title": "Over 4,000 new jobs offered for Saudis across 20 health clusters",
+      "title": "Saudi Arabia recalls 2,888 Lucid Air vehicles over fire, accident risks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665561/saudi-arabia/over-4000-new-jobs-offered-for-saudis-across-20-health-clusters",
-      "published_date": "2026-10-19T13:46:04+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665745/saudi-arabia/saudi-arabia-recalls-2888-lucid-air-vehicles-over-fire-accident-risks",
+      "published_date": "2026-10-26T13:18:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Attorney General, commerce minister discuss combating commercial violations",
+      "title": "Saudi Arabia issues red and orange alerts as heavy thunderstorms threaten several regions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665555/saudi-arabia/attorney-general-commerce-minister-discuss-combating-commercial-violations",
-      "published_date": "2026-10-19T11:37:26+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665734/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-heavy-thunderstorms-threaten-several-regions",
+      "published_date": "2026-10-26T09:11:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense urges caution as thunderstorms continue across Saudi Arabia through Friday",
@@ -498,34 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665569/saudi-arabia/riyadh-chosen-to-host-oics-first-cybersecurity-ministerial-council",
       "published_date": "2026-10-19T19:55:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah Mayoralty begins expansion of Prince Majid Road to ease traffic congestion",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665564/saudi-arabia/jeddah-mayoralty-begins-expansion-of-prince-majid-road-to-ease-traffic-congestion",
-      "published_date": "2026-10-19T15:04:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM forecasts widespread rain, heavy thunderstorms across Saudi Arabia through October 28",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665558/saudi-arabia/ncm-forecasts-widespread-rain-heavy-thunderstorms-across-saudi-arabia-through-october-28",
-      "published_date": "2026-10-19T13:10:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T10:34:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCU launches 2026–2027 archaeological season across AlUla and Khaybar",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665552/saudi-arabia/rcu-launches-20262027-archaeology-season-in-alula-and-khaybar",
-      "published_date": "2026-10-19T10:30:49+00:00",
       "category": "Local Events"
     }
   ]
