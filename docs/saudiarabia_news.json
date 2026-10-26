@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-25T14:46:57.307578+00:00",
-  "story_count": 74,
+  "last_updated": "2026-10-26T01:00:50.708131+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi Arabia to raise minimum wage threshold to SR5,000 in April 2027, and SR6,000 in April, 2028",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665725/saudi-arabia/saudi-arabia-to-raise-minimum-wage-threshold-to-sr5000-on-april-2027-and-sr6000-on-april-2028",
+      "published_date": "2026-10-25T20:44:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Imam Abdulaziz Royal Reserve Authority records 19 wildlife births in Q3 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665722/saudi-arabia/imam-abdulaziz-royal-reserve-authority-records-19-wildlife-births-in-q3-2026",
+      "published_date": "2026-10-25T19:26:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Greek PM reaffirm strengthening regional security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665720/saudi-arabia/saudi-crown-prince-greek-pm-reaffirm-strengthening-regional-security",
+      "published_date": "2026-10-25T16:11:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Greek foreign ministers discuss over phone regional developments",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665718/saudi-arabia/saudi-greek-foreign-ministers-discuss-over-phone-regional-developments",
+      "published_date": "2026-10-25T14:21:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman orders SR5,000 minimum wage under Nitaqat",
       "source": "Saudi Gazette",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Lebanon discuss activating joint committee",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665621/saudi-arabia/saudi-arabia-lebanon-discuss-activating-joint-committee-strengthening-ties",
-      "published_date": "2026-10-21T14:38:31+00:00",
-      "category": "Diplomacy"
+      "title": "Deeply divided Israel braces for pivotal election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T22:11:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Jordan amend agreement establishing Supreme Coordination Council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665619/saudi-arabia/saudi-arabia-jordan-sign-amended-protocol-for-supreme-coordination-council",
-      "published_date": "2026-10-21T14:03:03+00:00",
-      "category": "Diplomacy"
+      "title": "Why Israel's election is one of the most important in its history",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T22:05:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qiwa classifies establishments into 7 categories by workforce size",
+      "title": "Lebanon voices solidarity with Saudi Arabia during call between interior ministers",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665618/saudi-arabia/qiwa-classifies-establishments-into-7-categories-by-workforce-size",
-      "published_date": "2026-10-21T13:36:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665721/saudi-arabia/lebanon-voices-solidarity-with-saudi-arabia-during-call-between-interior-ministers",
+      "published_date": "2026-10-25T16:55:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron arrives in Riyadh, pledges French military support against Houthi attacks",
+      "title": "Intercepted missile debris injures 2, damage buildings and vehicles in Asir region",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665617/saudi-arabia/macron-arrives-in-riyadh-pledges-french-defense-support-against-houthis",
-      "published_date": "2026-10-21T13:29:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665719/saudi-arabia/intercepted-missile-debris-injures-2-damage-buildings-and-vehicles-in-asir-region",
+      "published_date": "2026-10-25T14:52:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Maliki: A dozen Houthi missiles intercepted over southern region, Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665714/saudi-arabia/al-maliki-a-dozen-houthi-missiles-intercepted-over-southern-region-riyadh",
+      "published_date": "2026-10-25T14:10:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Death toll rises to two in attack on Dammam airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665643/saudi-arabia/dammam-airport-attack-death-toll-rises-to-two-eight-injured",
-      "published_date": "2026-10-22T12:12:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly 60% of Saudi adults meet weekly physical activity threshold, GASTAT reports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665636/saudi-arabia/nearly-60-of-saudi-adults-meet-weekly-physical-activity-threshold-gastat-reports",
-      "published_date": "2026-10-22T08:32:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, eight injured in attack on Dammam airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665631/saudi-arabia/one-killed-eight-injured-in-dammam-airport-attack-as-coalition-intercepts-four-drones",
-      "published_date": "2026-10-22T02:40:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T01:07:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Council of Senior Scholars: Houthi Militia a terrorist group that violated sanctities",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665628/saudi-arabia/council-of-senior-scholars-houthi-militia-a-terrorist-group-that-violated-sanctities",
-      "published_date": "2026-10-21T20:51:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
@@ -317,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/665570/saudi-arabia/saudi-oil-exports-to-reach-their-second-highest-level-since-outbreak-of-iran-us-war",
       "published_date": "2026-10-19T21:09:38+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia, Greece affirm commitment to complete submarine cable project on time",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665724/saudi-arabia/saudi-arabia-greece-affirm-commitment-to-complete-submarine-cable-project-on-time",
+      "published_date": "2026-10-25T20:32:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi military spending localization reaches 27.3% in 2025, exceeding annual target",
@@ -380,6 +387,13 @@
       "url": "https://saudigazette.com.sa/article/665555/saudi-arabia/attorney-general-commerce-minister-discuss-combating-commercial-violations",
       "published_date": "2026-10-19T11:37:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Civil Defense urges caution as thunderstorms continue across Saudi Arabia through Friday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665723/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-continue-across-saudi-arabia-through-friday",
+      "published_date": "2026-10-25T20:23:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Red and orange alerts issued for heavy rain, thunderstorms across Saudi regions",
@@ -512,13 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665552/saudi-arabia/rcu-launches-20262027-archaeology-season-in-alula-and-khaybar",
       "published_date": "2026-10-19T10:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi tourist accommodation registrations rise 29% to 20,560 in Q3 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665548/saudi-arabia/saudi-tourist-accommodation-registrations-rise-29-to-20560-in-q3-2026",
-      "published_date": "2026-10-19T09:03:50+00:00",
       "category": "Local Events"
     }
   ]
