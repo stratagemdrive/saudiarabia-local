@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-27T01:50:51.687579+00:00",
-  "story_count": 73,
+  "last_updated": "2026-10-27T16:10:46.127445+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T10:17:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sports Ministry issues regulations governing ticket sales for sports events",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia calls for fair representation in UN Security Council and restrictions on veto power",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665693/saudi-arabia/saudi-arabia-urges-un-security-council-reform-fair-representation-and-veto-restrictions",
-      "published_date": "2026-10-24T14:44:58+00:00",
-      "category": "Diplomacy"
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T02:40:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Egypt&#039;s parliament approves military support for Saudi Arabia",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "UN Chief voices concern over continued Houthi attacks on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665655/saudi-arabia/un-chief-voices-concern-over-continued-houthi-attacks-on-saudi-arabia",
-      "published_date": "2026-10-22T20:53:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia announces revised electricity, water and wastewater tariffs effective January 1, 2027",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665754/saudi-arabia/saudi-arabia-announces-revised-electricity-water-and-wastewater-tariffs-effective-january-1-2027",
@@ -316,20 +316,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665627/saudi-arabia/two-killed-two-injured-in-drone-attack-on-saudi-aramcos-shaybah-oil-field",
       "published_date": "2026-10-21T19:21:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi stocks plunge to lowest close since April 2021",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665594/saudi-arabia/saudi-stocks-plunge-to-lowest-close-since-april-2021",
-      "published_date": "2026-10-20T16:07:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "NCM launches initiative to teach students about climate remotely",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665592/saudi-arabia/ncm-launches-initiative-to-teach-students-about-climate-remotely",
-      "published_date": "2026-10-20T14:56:50+00:00",
       "category": "Energy"
     },
     {
@@ -386,13 +372,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665623/saudi-arabia/number-of-hotels-in-saudi-arabia-soars-316-to-2847-in-2025",
       "published_date": "2026-10-21T15:06:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia hails UNSC call to block arms supplies to Houthis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665588/saudi-arabia/saudi-arabia-hails-unsc-call-to-block-arms-supplies-to-houthis",
-      "published_date": "2026-10-20T13:40:11+00:00",
       "category": "Economy"
     },
     {
@@ -498,20 +477,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665595/saudi-arabia/one-child-dead-another-missing-after-flash-flood-sweeps-3-children-in-makkah",
       "published_date": "2026-10-20T16:37:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agriculture minister launches farmer training drive to improve agricultural practices",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665590/saudi-arabia/agriculture-minister-launches-farmer-training-drive-to-improve-agricultural-practices",
-      "published_date": "2026-10-20T14:44:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Railways carries 41 million passengers in Q3 2026",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665589/saudi-arabia/saudi-railways-carry-41-million-passengers-in-q3-2026",
-      "published_date": "2026-10-20T14:30:05+00:00",
       "category": "Local Events"
     }
   ]
