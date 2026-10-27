@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-26T17:06:41.783551+00:00",
-  "story_count": 76,
+  "last_updated": "2026-10-27T01:50:51.687579+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Sports Ministry issues regulations governing ticket sales for sports events",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665759/saudi-arabia/sports-ministry-issues-regulations-governing-ticket-sales-for-sports-events",
+      "published_date": "2026-10-26T21:11:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Makkah Alliance countries, Iran agree to pursue talks for regional de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665758/saudi-arabia/makkah-alliance-countries-iran-agree-to-pursue-talks-for-regional-de-escalation",
+      "published_date": "2026-10-26T20:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, South African FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665757/saudi-arabia/saudi-south-african-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-10-26T19:18:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives message from Kazakhstan president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665756/saudi-arabia/crown-prince-receives-message-from-kazakhstan-president",
+      "published_date": "2026-10-26T19:11:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince congratulate Brazilian President Lula on re-election",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665755/saudi-arabia/king-salman-and-crown-prince-congratulate-brazilian-president-lula-on-re-election",
+      "published_date": "2026-10-26T19:03:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Riyadh Mayoralty authorizes body cameras for field inspections",
       "source": "Saudi Gazette",
@@ -106,41 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665693/saudi-arabia/saudi-arabia-urges-un-security-council-reform-fair-representation-and-veto-restrictions",
       "published_date": "2026-10-24T14:44:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia’s Saad Al-Otaibi elected Arab Parliament president unopposed",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665690/saudi-arabia/saudi-shoura-council-member-saad-al-otaibi-elected-arab-parliament-president",
-      "published_date": "2026-10-24T14:21:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T07:36:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia approves new Enforcement Law regulations effective October 29",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665673/saudi-arabia/saudi-arabia-approves-enforcement-law-regulations-effective-october-29-2026",
-      "published_date": "2026-10-23T16:39:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister arrives in Istanbul for talks on Yemen, Iran war and regional security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665667/saudi-arabia/saudi-foreign-minister-arrives-in-istanbul-for-talks-on-yemen-iran-war-and-maritime-security",
-      "published_date": "2026-10-23T12:49:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, German, Cypriot FMs discuss regional de-escalation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665654/saudi-arabia/saudi-german-cypriot-fms-discuss-regional-de-escalation-in-phone-call",
-      "published_date": "2026-10-22T20:45:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -333,11 +333,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi oil exports to reach their second-highest level since outbreak of Iran-US war",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665570/saudi-arabia/saudi-oil-exports-to-reach-their-second-highest-level-since-outbreak-of-iran-us-war",
-      "published_date": "2026-10-19T21:09:38+00:00",
-      "category": "Energy"
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T16:30:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "HR Ministry: Five worker categories are covered by Nitaqat wage hike to SR6,000",
@@ -393,20 +393,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665588/saudi-arabia/saudi-arabia-hails-unsc-call-to-block-arms-supplies-to-houthis",
       "published_date": "2026-10-20T13:40:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tourism, investment ministries unveil first approved projects under Hospitality Investment Enablers Program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665568/saudi-arabia/tourism-investment-ministries-unveil-first-approved-projects-under-hospitality-investment-enablers-program",
-      "published_date": "2026-10-19T19:49:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Future Investment Initiative postpones 10th edition in Riyadh to 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665566/saudi-arabia/future-investment-initiative-postpones-fii10-conference-in-riyadh-to-2027",
-      "published_date": "2026-10-19T17:46:24+00:00",
       "category": "Economy"
     },
     {
@@ -526,13 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665589/saudi-arabia/saudi-railways-carry-41-million-passengers-in-q3-2026",
       "published_date": "2026-10-20T14:30:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh chosen to host OIC’s first Cybersecurity Ministerial Council",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665569/saudi-arabia/riyadh-chosen-to-host-oics-first-cybersecurity-ministerial-council",
-      "published_date": "2026-10-19T19:55:45+00:00",
       "category": "Local Events"
     }
   ]
