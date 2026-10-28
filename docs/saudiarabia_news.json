@@ -1,13 +1,69 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-28T02:02:27.793539+00:00",
-  "story_count": 67,
+  "last_updated": "2026-10-28T16:58:10.434034+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "GCC media ministers vow tougher media oversight, accountability for violations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665807/saudi-arabia/gcc-media-ministers-vow-tougher-media-oversight-accountability-for-violations",
+      "published_date": "2026-10-28T16:00:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti foreign ministers discuss efforts for regional de-escalation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665806/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-efforts-for-regional-de-escalation",
+      "published_date": "2026-10-28T15:04:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 6,388 Mercedes-Benz vehicles over brake failure risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665800/saudi-arabia/saudi-arabia-recalls-6388-mercedes-benz-vehicles-over-brake-failure-risk",
+      "published_date": "2026-10-28T13:03:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Urdu, Bengali, Indonesian among 7 languages added to GOSI website and app",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665799/saudi-arabia/urdu-bengali-indonesian-among-7-languages-added-to-gosi-website-and-app",
+      "published_date": "2026-10-28T12:49:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince receive messages from King of Malaysia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665782/saudi-arabia/king-salman-and-crown-prince-receive-messages-from-king-of-malaysia",
+      "published_date": "2026-10-27T16:23:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi citizens can now apply for US Global Entry fast-track travel program",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665776/saudi-arabia/saudi-citizens-eligible-for-us-global-entry-and-tsa-precheck-programs",
+      "published_date": "2026-10-27T13:31:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SFDA warns of possible glass fragments in Arla Protein Pudding products",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665771/saudi-arabia/sfda-warns-of-possible-glass-fragments-in-arla-protein-pudding-products",
+      "published_date": "2026-10-27T12:12:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-27T10:17:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce ministry recalls 163 BMW motorcycles over sudden engine shutdown risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665767/saudi-arabia/commerce-ministry-recalls-163-bmw-motorcycles-over-sudden-engine-shutdown-risk",
+      "published_date": "2026-10-27T08:44:29+00:00",
       "category": "Diplomacy"
     },
     {
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia to raise minimum wage threshold to SR5,000 in April 2027, and SR6,000 in April, 2028",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665725/saudi-arabia/saudi-arabia-to-raise-minimum-wage-threshold-to-sr5000-on-april-2027-and-sr6000-on-april-2028",
-      "published_date": "2026-10-25T20:44:43+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T02:09:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Imam Abdulaziz Royal Reserve Authority records 19 wildlife births in Q3 2026",
+      "title": "Missile debris damages building, vehicle in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665722/saudi-arabia/imam-abdulaziz-royal-reserve-authority-records-19-wildlife-births-in-q3-2026",
-      "published_date": "2026-10-25T19:26:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665781/saudi-arabia/missile-debris-damages-building-vehicle-in-riyadh",
+      "published_date": "2026-10-27T15:41:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Crown Prince, Greek PM reaffirm strengthening regional security",
+      "title": "Air Defenses intercept 2 ballistic missiles fired by Houthis toward Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665720/saudi-arabia/saudi-crown-prince-greek-pm-reaffirm-strengthening-regional-security",
-      "published_date": "2026-10-25T16:11:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665779/saudi-arabia/air-defenses-intercept-2-ballistic-missiles-fired-by-houthis-toward-riyadh",
+      "published_date": "2026-10-27T14:46:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Greek foreign ministers discuss over phone regional developments",
+      "title": "Saudi Arabia backs all efforts to defuse regional tensions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665718/saudi-arabia/saudi-greek-foreign-ministers-discuss-over-phone-regional-developments",
-      "published_date": "2026-10-25T14:21:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665775/saudi-arabia/saudi-arabia-backs-all-efforts-to-defuse-regional-tensions",
+      "published_date": "2026-10-27T13:15:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman orders SR5,000 minimum wage under Nitaqat",
+      "title": "Saudi Ambassador warns Houthis could become the next ISIS",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665712/saudi-arabia/king-salman-orders-sr5000-minimum-wage-under-nitaqat",
-      "published_date": "2026-10-25T13:27:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia recalls 94 Honda motorcycles over risk of losing control",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665699/saudi-arabia/saudi-arabia-recalls-94-honda-motorcycles-over-risk-of-losing-control",
-      "published_date": "2026-10-25T08:29:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman, Crown Prince condemn Jordan church attack, send condolences to King Abdullah II",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665696/saudi-arabia/king-salman-crown-prince-condemn-jordan-church-attack-offer-condolences-to-king-abdullah-ii",
-      "published_date": "2026-10-24T19:18:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eastern Province emir visits survivor of Houthi attack on Dammam airport",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665695/saudi-arabia/eastern-province-emir-visits-survivor-of-attack-on-king-fahd-international-airport",
-      "published_date": "2026-10-24T19:13:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665774/saudi-arabia/saudi-ambassador-princess-reema-calls-for-global-coalition-to-defeat-houthis",
+      "published_date": "2026-10-27T13:14:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Türkiye, Egypt and Pakistan condemn Houthi attacks at Istanbul meeting",
+      "title": "RGA: In-place recycling cuts project time by 40%, maintenance costs by 26%",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665674/saudi-arabia/saudi-arabia-turkiye-egypt-and-pakistan-condemn-houthi-attacks-at-istanbul-meeting",
-      "published_date": "2026-10-24T12:33:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T19:46:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T14:45:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi air defenses intercept Houthi missiles targeting Riyadh, Khamis Mushait",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665668/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-targeting-riyadh-khamis-mushait",
-      "published_date": "2026-10-23T13:13:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European Parliament urges EU to designate Houthi militia a terrorist group",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665656/saudi-arabia/european-parliament-urges-eu-to-designate-houthi-militia-a-terrorist-group",
-      "published_date": "2026-10-22T20:59:16+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665783/saudi-arabia/rga-in-place-recycling-cuts-project-time-by-40-maintenance-costs-by-26",
+      "published_date": "2026-10-27T16:34:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia announces revised electricity, water and wastewater tariffs effective January 1, 2027",
@@ -317,6 +324,27 @@
       "url": "https://saudigazette.com.sa/article/665627/saudi-arabia/two-killed-two-injured-in-drone-attack-on-saudi-aramcos-shaybah-oil-field",
       "published_date": "2026-10-21T19:21:20+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "FII PRIORITY Compass: Cost of living tops global concerns for 5th straight year as financial strains derail family aspirations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665805/saudi-arabia/fii-priority-compass-cost-of-living-tops-global-concerns-for-5th-straight-year-as-financial-strains-derail-family-aspirations",
+      "published_date": "2026-10-28T14:47:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi mining licenses rise to 2,925 as mineral discoveries reach 5,680 in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665791/saudi-arabia/saudi-mining-licenses-rise-to-2925-as-mineral-discoveries-reach-5680-in-2025",
+      "published_date": "2026-10-28T08:07:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Qasabi: Commercial Transactions Law allows those aged 15 to engage in trade",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665777/saudi-arabia/al-qasabi-commercial-transactions-law-allows-those-aged-15-to-engage-in-trade",
+      "published_date": "2026-10-27T14:01:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -368,17 +396,52 @@
       "category": "Economy"
     },
     {
-      "title": "Number of hotels in Saudi Arabia soars 31.6% to 2,847 in 2025",
+      "title": "Saudi Arabia records 66.8 mm of rainfall in Tabuk over 24 hours, NCM reports",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665623/saudi-arabia/number-of-hotels-in-saudi-arabia-soars-316-to-2847-in-2025",
-      "published_date": "2026-10-21T15:06:27+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665792/saudi-arabia/saudi-arabia-records-668-mm-of-rainfall-in-tabuk-over-24-hours-ncm-reports",
+      "published_date": "2026-10-28T08:18:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia issues red and orange alerts as heavy thunderstorms sweep across several regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665790/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-heavy-thunderstorms-sweep-across-several-regions",
+      "published_date": "2026-10-28T07:51:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-27T20:44:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi, Italian defense ministers discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665784/saudi-arabia/saudi-italian-defense-ministers-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-10-27T19:22:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parcel deliveries in Saudi Arabia surpass 54 million in Q3 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665780/saudi-arabia/parcel-deliveries-in-saudi-arabia-surpass-54-million-in-q3-2026",
+      "published_date": "2026-10-27T15:01:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makkah’s Third Ring Road opens, slashing travel times to Grand Mosque, Jamarat by 90%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665778/saudi-arabia/makkahs-third-ring-road-opens-slashing-travel-times-to-grand-mosque-jamarat-by-90",
+      "published_date": "2026-10-27T14:40:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "85.3% of young children in Saudi Arabia developmentally on track, GASTAT reports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665766/saudi-arabia/853-of-young-children-in-saudi-arabia-developmentally-on-track-gastat-reports",
+      "published_date": "2026-10-27T08:38:37+00:00",
       "category": "Local Events"
     },
     {
@@ -449,27 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665646/saudi-arabia/jeddah-mayoralty-shuts-down-illegal-food-facilities-destroys-25-tons-of-products",
       "published_date": "2026-10-22T13:51:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qassim police arrest expat for immoral acts at massage center",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665620/saudi-arabia/qassim-police-arrest-expat-for-immoral-acts-at-massage-center",
-      "published_date": "2026-10-21T14:35:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia’s November climate records reveal second-highest average monthly rainfall",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665605/saudi-arabia/saudi-arabias-november-climate-records-reveal-second-highest-average-monthly-rainfall",
-      "published_date": "2026-10-21T08:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia’s key service sectors expand in 2025 as number of hotels rises 31.6%",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665604/saudi-arabia/saudi-arabias-key-service-sectors-expand-in-2025-as-number-of-hotels-rises-316",
-      "published_date": "2026-10-21T07:46:44+00:00",
       "category": "Local Events"
     }
   ]
