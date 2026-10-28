@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-27T16:10:46.127445+00:00",
-  "story_count": 68,
+  "last_updated": "2026-10-28T02:02:27.793539+00:00",
+  "story_count": 67,
   "stories": [
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
@@ -375,6 +375,13 @@
       "category": "Economy"
     },
     {
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T20:44:40+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi Arabia recalls 2,888 Lucid Air vehicles over fire, accident risks",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665745/saudi-arabia/saudi-arabia-recalls-2888-lucid-air-vehicles-over-fire-accident-risks",
@@ -463,20 +470,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665604/saudi-arabia/saudi-arabias-key-service-sectors-expand-in-2025-as-number-of-hotels-rises-316",
       "published_date": "2026-10-21T07:46:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah, Madinah schools to adopt winter timings next week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665596/saudi-arabia/makkah-madinah-schools-to-adopt-winter-timings-next-week",
-      "published_date": "2026-10-20T18:57:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One child dead, another missing after flash flood sweeps 3 children in Makkah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665595/saudi-arabia/one-child-dead-another-missing-after-flash-flood-sweeps-3-children-in-makkah",
-      "published_date": "2026-10-20T16:37:41+00:00",
       "category": "Local Events"
     }
   ]
