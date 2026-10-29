@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-28T16:58:10.434034+00:00",
+  "last_updated": "2026-10-29T02:10:27.957047+00:00",
   "story_count": 73,
   "stories": [
+    {
+      "title": "King Salman and Crown Prince extend condolences to King of Spain over train tragedy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665812/saudi-arabia/king-salman-and-crown-prince-extend-condolences-to-king-of-spain-over-train-tragedy",
+      "published_date": "2026-10-28T21:53:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM calls Spanish counterpart to offer condolences over deadly train crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665809/saudi-arabia/saudi-fm-calls-spanish-counterpart-to-offer-condolences-over-deadly-train-crash",
+      "published_date": "2026-10-28T19:39:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "GCC media ministers vow tougher media oversight, accountability for violations",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia recalls 1,355 Ford, Lincoln vehicles over windshield wiper defect",
+      "title": "Saudi, Malaysian, Kuwaiti defense ministers discuss regional developments in phone call",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665735/saudi-arabia/saudi-arabia-recalls-1355-ford-lincoln-vehicles-over-windshield-wiper-defect",
-      "published_date": "2026-10-26T10:31:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665810/saudi-arabia/saudi-malaysian-defense-ministers-discuss-over-phone-regional-developments",
+      "published_date": "2026-10-28T20:05:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prince Khalid bin Salman leads Saudi delegation in Makkah Joint Defense Agreement talks with Iran",
+      "title": "Absher carries out 49 million transactions in September",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665732/saudi-arabia/saudi-defense-minister-leads-saudi-pakistani-and-turkish-delegation-to-iran-for-de-escalation-talks",
-      "published_date": "2026-10-26T07:59:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665808/saudi-arabia/absher-carries-out-49-million-transactions-in-september",
+      "published_date": "2026-10-28T16:34:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli exit polls suggest no clear winner in pivotal general election",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "France warns of violence as Yellow Vests, students prepare for Paris protests",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665686/saudi-arabia/france-warns-of-violence-ahead-of-yellow-vests-and-student-protests-in-paris",
-      "published_date": "2026-10-24T13:04:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia condemns Jordan church attack as 11 Arab nations express solidarity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665682/saudi-arabia/saudi-arabia-condemns-jordan-church-attack-as-11-arab-nations-express-solidarity",
-      "published_date": "2026-10-24T12:55:39+00:00",
-      "category": "Military"
-    },
-    {
       "title": "RGA: In-place recycling cuts project time by 40%, maintenance costs by 26%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665783/saudi-arabia/rga-in-place-recycling-cuts-project-time-by-40-maintenance-costs-by-26",
@@ -316,13 +316,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
       "published_date": "2026-10-22T14:12:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Two expatriates killed as Saudi air defenses intercept drone targeting Aramco’s Shaybah oil field",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665627/saudi-arabia/two-killed-two-injured-in-drone-attack-on-saudi-aramcos-shaybah-oil-field",
-      "published_date": "2026-10-21T19:21:20+00:00",
       "category": "Energy"
     },
     {
@@ -394,6 +387,13 @@
       "url": "https://saudigazette.com.sa/article/665653/saudi-arabia/saudi-arabia-ranks-first-among-g20-countries-in-quality-of-auditing-accounting-practices",
       "published_date": "2026-10-22T19:06:49+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Tourism minister launches &quot;Saudi Winter&quot; events calendar",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665811/saudi-arabia/tourism-minister-launches-saudi-winter-events-calendar",
+      "published_date": "2026-10-28T21:04:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia records 66.8 mm of rainfall in Tabuk over 24 hours, NCM reports",
