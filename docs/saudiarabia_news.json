@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-29T02:10:27.957047+00:00",
-  "story_count": 73,
+  "last_updated": "2026-10-29T17:17:33.941322+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "King Salman appoints Sheikh Al-Maiouf deputy head of Board of Grievances",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665837/saudi-arabia/king-salman-appoints-sheikh-al-maiouf-deputy-head-of-board-of-grievances",
+      "published_date": "2026-10-29T16:31:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia offers condolences to Spain over train crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665836/saudi-arabia/saudi-arabia-offers-condolences-to-spain-over-train-crash",
+      "published_date": "2026-10-29T15:54:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 104 Lexus vehicles over engine shutdown risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665828/saudi-arabia/saudi-arabia-recalls-104-lexus-vehicles-over-engine-shutdown-risk",
+      "published_date": "2026-10-29T12:30:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Kuwaiti energy ministers discuss deepening energy, industrial cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665827/saudi-arabia/saudi-kuwaiti-energy-ministers-discuss-deepening-energy-industrial-cooperation",
+      "published_date": "2026-10-29T12:29:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia begins 15-hour operation to separate Tanzanian conjoined twins",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665818/saudi-arabia/saudi-arabia-begins-15-hour-operation-to-separate-tanzanian-conjoined-twins",
+      "published_date": "2026-10-29T08:49:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman and Crown Prince extend condolences to King of Spain over train tragedy",
       "source": "Saudi Gazette",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Salman and Crown Prince congratulate Brazilian President Lula on re-election",
+      "title": "Houthi ballistic missile intercepted over Eastern Province",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665755/saudi-arabia/king-salman-and-crown-prince-congratulate-brazilian-president-lula-on-re-election",
-      "published_date": "2026-10-26T19:03:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riyadh Mayoralty authorizes body cameras for field inspections",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665750/saudi-arabia/riyadh-mayoralty-authorizes-body-cameras-for-field-inspections",
-      "published_date": "2026-10-26T14:12:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Interior Ministry launches ‘Absher Travel for Visitors’ service at land border crossings",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665749/saudi-arabia/interior-ministry-launches-absher-travel-for-visitors-service-at-land-border-crossings",
-      "published_date": "2026-10-26T13:57:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia strongly condemns Jordanian church attack during call between foreign ministers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665748/saudi-arabia/saudi-arabia-strongly-condemns-jordanian-church-attack-during-call-between-foreign-ministers",
-      "published_date": "2026-10-26T13:39:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia calls for negotiations to end regional crisis ahead of Tehran talks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665746/saudi-arabia/saudi-arabia-calls-for-negotiations-to-end-regional-crisis-ahead-of-tehran-meetings",
-      "published_date": "2026-10-26T13:21:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665829/saudi-arabia/houthi-ballistic-missile-intercepted-over-eastern-province",
+      "published_date": "2026-10-29T12:41:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Malaysian, Kuwaiti defense ministers discuss regional developments in phone call",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Civil Defense reports missile debris falling in Makkah, Jeddah, Taif and Rabigh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665694/saudi-arabia/saudi-civil-defense-reports-houthi-missile-debris-in-makkah-jeddah-taif-and-rabigh",
-      "published_date": "2026-10-24T19:06:33+00:00",
-      "category": "Military"
-    },
-    {
       "title": "RGA: In-place recycling cuts project time by 40%, maintenance costs by 26%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665783/saudi-arabia/rga-in-place-recycling-cuts-project-time-by-40-maintenance-costs-by-26",
@@ -312,11 +312,18 @@
       "category": "Energy"
     },
     {
-      "title": "Aramco Chief: Oil demand to surge by 3 million barrels per day as normalcy returns",
+      "title": "Saudi business sector revenues rise 2.3% to SR5.63 trillion in 2025",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665647/saudi-arabia/aramco-chief-oil-demand-to-surge-by-3-million-barrels-per-day-as-normalcy-returns",
-      "published_date": "2026-10-22T14:12:00+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665821/saudi-arabia/saudi-business-sector-revenues-rise-23-to-sr563-trillion-in-2025",
+      "published_date": "2026-10-29T09:28:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia’s services exports rise 6.9% to SR251.7 billion in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665819/saudi-arabia/saudi-arabias-services-exports-rise-69-to-sr2517-billion-in-2025",
+      "published_date": "2026-10-29T09:07:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "FII PRIORITY Compass: Cost of living tops global concerns for 5th straight year as financial strains derail family aspirations",
@@ -387,6 +394,27 @@
       "url": "https://saudigazette.com.sa/article/665653/saudi-arabia/saudi-arabia-ranks-first-among-g20-countries-in-quality-of-auditing-accounting-practices",
       "published_date": "2026-10-22T19:06:49+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Licensed worker housing mandatory for establishments with fewer than 250 employees from Feb. 1, 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665835/saudi-arabia/licensed-worker-housing-mandatory-for-establishments-with-fewer-than-250-targeted-employees-from-feb-1-2027",
+      "published_date": "2026-10-29T15:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi HR Ministry denies canceling domestic worker recruitment from Ethiopia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665832/saudi-arabia/saudi-hr-ministry-denies-canceling-domestic-worker-recruitment-from-ethiopia",
+      "published_date": "2026-10-29T14:09:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commercial Transactions Law unifies commercial regulations in a single document for first time",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665830/saudi-arabia/commercial-transactions-law-unifies-commercial-regulations-in-a-single-document-for-first-time",
+      "published_date": "2026-10-29T13:21:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tourism minister launches &quot;Saudi Winter&quot; events calendar",
@@ -498,20 +526,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-23T15:30:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qiwa permits business ownership transfers without commercial registration under conditions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665648/saudi-arabia/qiwa-allows-business-ownership-transfers-without-commercial-registration-under-certain-conditions",
-      "published_date": "2026-10-22T14:53:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah Mayoralty shuts down illegal food facilities, destroys 2.5 tons of products",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665646/saudi-arabia/jeddah-mayoralty-shuts-down-illegal-food-facilities-destroys-25-tons-of-products",
-      "published_date": "2026-10-22T13:51:29+00:00",
       "category": "Local Events"
     }
   ]
