@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-30T02:25:40.458754+00:00",
-  "story_count": 74,
+  "last_updated": "2026-10-30T16:55:52.241589+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "HRDF to raise minimum salary eligible for employment support to SR6,000 by 2028",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665863/saudi-arabia/saudi-arabia-raises-minimum-salary-for-employment-support-to-sr5000-in-2027-sr6000-in-2028",
+      "published_date": "2026-10-30T16:01:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia suspends travel to Kenya, bans arrivals over Ebola outbreak risks",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665862/saudi-arabia/saudi-arabia-suspends-travel-to-kenya-bans-arrivals-amid-ebola-outbreak-concerns",
+      "published_date": "2026-10-30T14:27:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Foreign Minister arrives in Atlanta for G20 talks on global security, economy",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665861/saudi-arabia/saudi-foreign-minister-arrives-in-atlanta-for-g20-foreign-ministers-meeting",
+      "published_date": "2026-10-30T14:18:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia successfully separates Tanzanian conjoined twins in 14.5-hour surgery",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665853/saudi-arabia/saudi-arabia-successfully-separates-tanzanian-conjoined-twins-in-145-hour-surgery",
+      "published_date": "2026-10-30T11:06:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince receives invitation from UAE PM to attend 2026 UN Water Conference",
       "source": "Saudi Gazette",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T10:17:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T15:17:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman and Crown Prince receive messages from King of Malaysia",
+      "title": "Saudi Defense Minister discusses regional security with NATO chief, European counterparts",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665782/saudi-arabia/king-salman-and-crown-prince-receive-messages-from-king-of-malaysia",
-      "published_date": "2026-10-27T16:23:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi citizens can now apply for US Global Entry fast-track travel program",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665776/saudi-arabia/saudi-citizens-eligible-for-us-global-entry-and-tsa-precheck-programs",
-      "published_date": "2026-10-27T13:31:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "SFDA warns of possible glass fragments in Arla Protein Pudding products",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665771/saudi-arabia/sfda-warns-of-possible-glass-fragments-in-arla-protein-pudding-products",
-      "published_date": "2026-10-27T12:12:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665846/saudi-arabia/saudi-defense-minister-discusses-regional-security-with-nato-chief-canadian-and-european-counterparts",
+      "published_date": "2026-10-30T03:47:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Debris from intercepted Houthi missile injures citizen, damages house and vehicle in Riyadh",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T05:15:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T23:03:21+00:00",
-      "category": "Military"
-    },
-    {
       "title": "RGA: In-place recycling cuts project time by 40%, maintenance costs by 26%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665783/saudi-arabia/rga-in-place-recycling-cuts-project-time-by-40-maintenance-costs-by-26",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/665733/saudi-arabia/saudi-arabia-singapore-announce-plans-for-crude-oil-storage-facility-by-2027",
       "published_date": "2026-10-26T08:25:29+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "ZATCA foil attempt to smuggle over 43,000 amphetamine pills through Al-Haditha border crossing",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665859/saudi-arabia/saudi-customs-seize-43371-amphetamine-pills-at-al-haditha-border-crossing",
+      "published_date": "2026-10-30T14:12:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi business sector revenues rise 2.3% to SR5.63 trillion in 2025",
@@ -505,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665677/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-targeting-taif-and-yanbu",
       "published_date": "2026-10-24T12:42:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Health Ministry clarifies death of Dammam airport attack victim",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665670/saudi-arabia/saudi-health-ministry-clarifies-death-of-dammam-airport-attack-victim",
-      "published_date": "2026-10-23T15:39:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T15:30:47+00:00",
       "category": "Local Events"
     }
   ]
