@@ -1,8 +1,43 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-29T17:17:33.941322+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-30T02:25:40.458754+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Crown Prince receives invitation from UAE PM to attend 2026 UN Water Conference",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665843/saudi-arabia/crown-prince-receives-invitation-from-uae-pm-to-attend-2026-un-water-conference",
+      "published_date": "2026-10-29T21:33:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish PM affirms full solidarity with Saudi Arabia during call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665841/saudi-arabia/spanish-pm-affirms-full-solidarity-with-saudi-arabia-during-call-with-crown-prince",
+      "published_date": "2026-10-29T20:27:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Korean President condemns Houthi attacks in call with Saudi Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665840/saudi-arabia/korean-president-condemns-houthi-attacks-in-call-with-saudi-crown-prince",
+      "published_date": "2026-10-29T17:40:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Yemeni FMs discuss continued Houthi attacks on civilians in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665839/saudi-arabia/saudi-yemeni-fms-discuss-continued-houthi-attacks-on-civilians-in-phone-call",
+      "published_date": "2026-10-29T17:21:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commercial Transactions Law strengthens contractual stability, safeguards commercial practices",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665838/saudi-arabia/commercial-transactions-law-strengthens-contractual-stability-safeguards-commercial-practices",
+      "published_date": "2026-10-29T17:05:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman appoints Sheikh Al-Maiouf deputy head of Board of Grievances",
       "source": "Saudi Gazette",
@@ -81,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T10:17:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "King Salman and Crown Prince receive messages from King of Malaysia",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665782/saudi-arabia/king-salman-and-crown-prince-receive-messages-from-king-of-malaysia",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T10:17:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce ministry recalls 163 BMW motorcycles over sudden engine shutdown risk",
+      "title": "Debris from intercepted Houthi missile injures citizen, damages house and vehicle in Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665767/saudi-arabia/commerce-ministry-recalls-163-bmw-motorcycles-over-sudden-engine-shutdown-risk",
-      "published_date": "2026-10-27T08:44:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sports Ministry issues regulations governing ticket sales for sports events",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665759/saudi-arabia/sports-ministry-issues-regulations-governing-ticket-sales-for-sports-events",
-      "published_date": "2026-10-26T21:11:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Makkah Alliance countries, Iran agree to pursue talks for regional de-escalation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665758/saudi-arabia/makkah-alliance-countries-iran-agree-to-pursue-talks-for-regional-de-escalation",
-      "published_date": "2026-10-26T20:42:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, South African FMs discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665757/saudi-arabia/saudi-south-african-fms-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-10-26T19:18:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from Kazakhstan president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665756/saudi-arabia/crown-prince-receives-message-from-kazakhstan-president",
-      "published_date": "2026-10-26T19:11:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665842/saudi-arabia/debris-from-intercepted-houthi-missile-injures-citizen-damages-house-and-vehicle-in-riyadh",
+      "published_date": "2026-10-29T21:28:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthi ballistic missile intercepted over Eastern Province",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Riyadh airport to resume flights Sunday after Houthi attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665697/saudi-arabia/riyadh-airport-prepares-to-resume-flights-sunday-after-houthi-attacks",
-      "published_date": "2026-10-24T21:12:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "RGA: In-place recycling cuts project time by 40%, maintenance costs by 26%",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665783/saudi-arabia/rga-in-place-recycling-cuts-project-time-by-40-maintenance-costs-by-26",
@@ -386,13 +386,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665692/saudi-arabia/saudi-customs-record-996-seizures-of-drugs-tobacco-and-prohibited-goods",
       "published_date": "2026-10-24T14:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia ranks first among G20 countries in quality of auditing, accounting practices",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665653/saudi-arabia/saudi-arabia-ranks-first-among-g20-countries-in-quality-of-auditing-accounting-practices",
-      "published_date": "2026-10-22T19:06:49+00:00",
       "category": "Economy"
     },
     {
