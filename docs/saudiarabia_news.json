@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-10-31T02:03:49.690300+00:00",
-  "story_count": 75,
+  "last_updated": "2026-10-31T15:56:29.378650+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi foreign minister discusses regional security with Russian, Canadian and EU officials",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665880/saudi-arabia/saudi-fm-discusses-houthi-attacks-regional-security-with-russia-canada-and-eu",
+      "published_date": "2026-10-31T03:06:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, US sign official participation agreement for Expo 2030 Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665868/saudi-arabia/saudi-arabia-us-sign-official-participation-agreement-for-expo-2030-riyadh",
+      "published_date": "2026-10-31T02:30:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia offers condolences to Italy over military helicopter crash in Bosnia and Herzegovina",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665867/saudi-arabia/saudi-arabia-extends-condolences-to-italy-over-military-helicopter-crash-in-bosnia",
+      "published_date": "2026-10-31T02:22:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, US foreign ministers discuss Iran, Sudan and Yemen on sidelines of G20 meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665866/saudi-arabia/saudi-us-foreign-ministers-discuss-iran-sudan-and-yemen-at-g20-meeting",
+      "published_date": "2026-10-31T02:20:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "HRDF to raise minimum salary eligible for employment support to SR6,000 by 2028",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "GCC media ministers vow tougher media oversight, accountability for violations",
+      "title": "Saudi Arabia calls for lasting regional peace at Manama Dialogue",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665807/saudi-arabia/gcc-media-ministers-vow-tougher-media-oversight-accountability-for-violations",
-      "published_date": "2026-10-28T16:00:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665885/saudi-arabia/saudi-arabia-condemns-houthi-escalation-urges-regional-stability-at-manama-dialogue",
+      "published_date": "2026-10-31T13:14:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Kuwaiti foreign ministers discuss efforts for regional de-escalation",
+      "title": "Air defenses intercept hostile drone in Riyadh region, no injuries reported",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665806/saudi-arabia/saudi-kuwaiti-foreign-ministers-discuss-efforts-for-regional-de-escalation",
-      "published_date": "2026-10-28T15:04:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665883/saudi-arabia/saudi-air-defenses-intercept-drone-over-riyadh-no-injuries-reported",
+      "published_date": "2026-10-31T11:47:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia recalls 6,388 Mercedes-Benz vehicles over brake failure risk",
+      "title": "Air defenses intercept Houthi missiles, drones targeting Makkah, Madinah and other regions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665800/saudi-arabia/saudi-arabia-recalls-6388-mercedes-benz-vehicles-over-brake-failure-risk",
-      "published_date": "2026-10-28T13:03:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Urdu, Bengali, Indonesian among 7 languages added to GOSI website and app",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665799/saudi-arabia/urdu-bengali-indonesian-among-7-languages-added-to-gosi-website-and-app",
-      "published_date": "2026-10-28T12:49:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665878/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-drones-targeting-five-regions",
+      "published_date": "2026-10-31T02:55:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Lebanon voices solidarity with Saudi Arabia during call between interior ministers",
+      "title": "Where was Saudi Arabia’s first wind turbine installed?",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665721/saudi-arabia/lebanon-voices-solidarity-with-saudi-arabia-during-call-between-interior-ministers",
-      "published_date": "2026-10-25T16:55:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Intercepted missile debris injures 2, damage buildings and vehicles in Asir region",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665719/saudi-arabia/intercepted-missile-debris-injures-2-damage-buildings-and-vehicles-in-asir-region",
-      "published_date": "2026-10-25T14:52:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Maliki: A dozen Houthi missiles intercepted over southern region, Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665714/saudi-arabia/al-maliki-a-dozen-houthi-missiles-intercepted-over-southern-region-riyadh",
-      "published_date": "2026-10-25T14:10:08+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
+      "published_date": "2026-10-31T07:26:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "RGA: In-place recycling cuts project time by 40%, maintenance costs by 26%",
@@ -310,6 +317,13 @@
       "url": "https://saudigazette.com.sa/article/665733/saudi-arabia/saudi-arabia-singapore-announce-plans-for-crude-oil-storage-facility-by-2027",
       "published_date": "2026-10-26T08:25:29+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi customs record 1,147 seizures of prohibited items at border crossings",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665893/saudi-arabia/saudi-customs-record-1147-seizures-of-prohibited-items",
+      "published_date": "2026-10-31T15:07:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "ZATCA foil attempt to smuggle over 43,000 amphetamine pills through Al-Haditha border crossing",
@@ -386,13 +400,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665700/saudi-arabia/saudi-military-spending-localization-reaches-273-in-2025-exceeding-annual-target",
       "published_date": "2026-10-25T11:02:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi customs authorities record 996 seizures of prohibited goods at border crossings",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665692/saudi-arabia/saudi-customs-record-996-seizures-of-drugs-tobacco-and-prohibited-goods",
-      "published_date": "2026-10-24T14:40:00+00:00",
       "category": "Economy"
     },
     {
@@ -512,20 +519,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665698/saudi-arabia/red-and-orange-alerts-issued-for-heavy-rain-thunderstorms-across-saudi-regions",
       "published_date": "2026-10-25T08:05:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia arrests 13,905 residency, labor and border violators in one week",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665691/saudi-arabia/saudi-arabia-arrests-13905-residency-labor-and-border-violators-in-nationwide-crackdown",
-      "published_date": "2026-10-24T14:33:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air defenses intercept Houthi ballistic missiles targeting Taif, Yanbu",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665677/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-targeting-taif-and-yanbu",
-      "published_date": "2026-10-24T12:42:32+00:00",
       "category": "Local Events"
     }
   ]
