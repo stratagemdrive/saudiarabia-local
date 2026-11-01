@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-01T01:55:37.221396+00:00",
-  "story_count": 74,
+  "last_updated": "2026-11-01T16:59:20.472857+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi FM meets French, German, Japanese, Brazilian counterparts in US",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665910/saudi-arabia/saudi-fm-meets-french-german-japanese-brazilian-counterparts-in-us",
+      "published_date": "2026-11-01T15:15:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prince Fahd bin Jalawi represents Saudi Crown Prince at Dakar 2026 Youth Olympics opening ceremony",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665896/saudi-arabia/prince-fahd-bin-jalawi-represents-saudi-crown-prince-at-dakar-2026-youth-olympics-opening-ceremony",
+      "published_date": "2026-11-01T04:23:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses maritime security with Brazil, France and Germany",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665895/saudi-arabia/saudi-foreign-minister-discusses-maritime-security-regional-tensions-with-brazil-france-and-germany",
+      "published_date": "2026-11-01T03:57:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman issues two royal orders promoting 172 Public Prosecution members",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665894/saudi-arabia/king-salman-issues-two-royal-orders-promoting-172-public-prosecution-members",
+      "published_date": "2026-11-01T03:40:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi foreign minister discusses regional security with Russian, Canadian and EU officials",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Kuwaiti energy ministers discuss deepening energy, industrial cooperation",
+      "title": "Coalition launches precision military strike targeting Houthi war resources in Yemen",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665827/saudi-arabia/saudi-kuwaiti-energy-ministers-discuss-deepening-energy-industrial-cooperation",
-      "published_date": "2026-10-29T12:29:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia begins 15-hour operation to separate Tanzanian conjoined twins",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665818/saudi-arabia/saudi-arabia-begins-15-hour-operation-to-separate-tanzanian-conjoined-twins",
-      "published_date": "2026-10-29T08:49:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman and Crown Prince extend condolences to King of Spain over train tragedy",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665812/saudi-arabia/king-salman-and-crown-prince-extend-condolences-to-king-of-spain-over-train-tragedy",
-      "published_date": "2026-10-28T21:53:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM calls Spanish counterpart to offer condolences over deadly train crash",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665809/saudi-arabia/saudi-fm-calls-spanish-counterpart-to-offer-condolences-over-deadly-train-crash",
-      "published_date": "2026-10-28T19:39:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665908/saudi-arabia/coalition-launches-precision-military-strike-targeting-houthi-war-resources-in-yemen",
+      "published_date": "2026-11-01T14:12:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia calls for lasting regional peace at Manama Dialogue",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why Israel's election is one of the most important in its history",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T22:05:30+00:00",
-      "category": "Military"
+      "title": "OPEC+ agree to keep oil output quota steady for December",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665909/saudi-arabia/opec-agree-to-keep-oil-output-quota-steady-for-december",
+      "published_date": "2026-11-01T14:42:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Where was Saudi Arabia’s first wind turbine installed?",
@@ -396,11 +403,25 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi military spending localization reaches 27.3% in 2025, exceeding annual target",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-01T16:25:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia’s first robot-assisted breast reconstruction surgery successful",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665700/saudi-arabia/saudi-military-spending-localization-reaches-273-in-2025-exceeding-annual-target",
-      "published_date": "2026-10-25T11:02:14+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665911/saudi-arabia/saudi-arabias-first-robot-assisted-breast-reconstruction-surgery-successful",
+      "published_date": "2026-11-01T15:59:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia issues red and orange alerts as thunderstorms, dense fog affect several regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665897/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-thunderstorms-dense-fog-affect-several-regions",
+      "published_date": "2026-11-01T04:47:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Boulevard World opens for Riyadh Season 2026 with global cultural experiences",
@@ -512,13 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665723/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-continue-across-saudi-arabia-through-friday",
       "published_date": "2026-10-25T20:23:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red and orange alerts issued for heavy rain, thunderstorms across Saudi regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665698/saudi-arabia/red-and-orange-alerts-issued-for-heavy-rain-thunderstorms-across-saudi-regions",
-      "published_date": "2026-10-25T08:05:45+00:00",
       "category": "Local Events"
     }
   ]
