@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-01T16:59:20.472857+00:00",
+  "last_updated": "2026-11-02T02:08:30.302743+00:00",
   "story_count": 76,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ballistic missile and UAV, fired by Houthi militia, intercepted over southern region",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665913/saudi-arabia/ballistic-missile-and-uav-fired-by-houthi-militia-intercepted-over-southern-region",
+      "published_date": "2026-11-01T18:53:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Coalition launches precision military strike targeting Houthi war resources in Yemen",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665908/saudi-arabia/coalition-launches-precision-military-strike-targeting-houthi-war-resources-in-yemen",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T22:11:13+00:00",
-      "category": "Military"
+      "title": "Saudi Arabia strongly condemns targeting of Qatar’s LNG carrier",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665912/saudi-arabia/saudi-arabia-strongly-condemns-targeting-of-qatars-lng-carrier",
+      "published_date": "2026-11-01T18:50:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "OPEC+ agree to keep oil output quota steady for December",
@@ -396,11 +403,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia, Greece affirm commitment to complete submarine cable project on time",
+      "title": "174 government employees arrested over corruption charges",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665724/saudi-arabia/saudi-arabia-greece-affirm-commitment-to-complete-submarine-cable-project-on-time",
-      "published_date": "2026-10-25T20:32:08+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665914/saudi-arabia/174-government-employees-arrested-over-corruption-charges",
+      "published_date": "2026-11-01T19:24:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -526,13 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665734/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-heavy-thunderstorms-threaten-several-regions",
       "published_date": "2026-10-26T09:11:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Defense urges caution as thunderstorms continue across Saudi Arabia through Friday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665723/saudi-arabia/civil-defense-urges-caution-as-thunderstorms-continue-across-saudi-arabia-through-friday",
-      "published_date": "2026-10-25T20:23:29+00:00",
       "category": "Local Events"
     }
   ]
