@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-02T02:08:30.302743+00:00",
-  "story_count": 76,
+  "last_updated": "2026-11-02T20:37:17.699206+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Saudi, Jordanian FMs discuss regional developments in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665935/saudi-arabia/saudi-jordanian-fms-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-11-02T14:14:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince sends message to Chinese president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665934/saudi-arabia/saudi-crown-prince-sends-message-to-chinese-president",
+      "published_date": "2026-11-02T14:05:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce Ministry warns businesses of license cancellation after 90 days",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665925/saudi-arabia/commerce-ministry-warns-businesses-of-license-cancellation-after-90-days",
+      "published_date": "2026-11-02T07:02:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Internet usage in Saudi Arabia reaches 99.6% in 2026, GASTAT reports",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665922/saudi-arabia/internet-usage-in-saudi-arabia-reaches-996-in-2026-gastat-reports",
+      "published_date": "2026-11-02T06:30:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi FM meets French, German, Japanese, Brazilian counterparts in US",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Commercial Transactions Law strengthens contractual stability, safeguards commercial practices",
+      "title": "Saudi, Korean defense ministers underscore efforts for regional peace in phone call",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665838/saudi-arabia/commercial-transactions-law-strengthens-contractual-stability-safeguards-commercial-practices",
-      "published_date": "2026-10-29T17:05:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665932/saudi-arabia/saudi-korean-defense-ministers-underscore-efforts-for-regional-peace-in-phone-call",
+      "published_date": "2026-11-02T12:36:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Salman appoints Sheikh Al-Maiouf deputy head of Board of Grievances",
+      "title": "Saudi Arabia issues multiple early warnings as air defenses intercept Houthi ballistic missile",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665837/saudi-arabia/king-salman-appoints-sheikh-al-maiouf-deputy-head-of-board-of-grievances",
-      "published_date": "2026-10-29T16:31:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665931/saudi-arabia/saudi-arabia-issues-multiple-early-warnings-as-air-defenses-intercept-houthi-ballistic-missile",
+      "published_date": "2026-11-02T12:33:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia offers condolences to Spain over train crash",
+      "title": "Australia, Japan condemn Houthi attacks on Saudi Arabia in defense talks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665836/saudi-arabia/saudi-arabia-offers-condolences-to-spain-over-train-crash",
-      "published_date": "2026-10-29T15:54:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia recalls 104 Lexus vehicles over engine shutdown risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665828/saudi-arabia/saudi-arabia-recalls-104-lexus-vehicles-over-engine-shutdown-risk",
-      "published_date": "2026-10-29T12:30:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665916/saudi-arabia/saudi-australian-defense-ministers-discuss-regional-security-condemn-houthi-attacks",
+      "published_date": "2026-11-02T05:05:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Ballistic missile and UAV, fired by Houthi militia, intercepted over southern region",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Egypt&#039;s parliament approves military support for Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665751/saudi-arabia/egypts-parliament-approves-military-assistance-to-saudi-arabia-possible-troop-deployment",
-      "published_date": "2026-10-26T14:31:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan arrests three men suspected of deadly church attack after shootout",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T11:01:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition destroys five Houthi missile tunnels, four launchers in Yemen operation",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665731/saudi-arabia/coalition-destroys-five-houthi-missile-tunnels-four-launchers-in-yemen-operation",
-      "published_date": "2026-10-26T07:43:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia strongly condemns targeting of Qatar’s LNG carrier",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665912/saudi-arabia/saudi-arabia-strongly-condemns-targeting-of-qatars-lng-carrier",
@@ -312,25 +312,39 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia announces revised electricity, water and wastewater tariffs effective January 1, 2027",
+      "title": "Economic Council reviews price stability amid intensifying global pressures",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665754/saudi-arabia/saudi-arabia-announces-revised-electricity-water-and-wastewater-tariffs-effective-january-1-2027",
-      "published_date": "2026-10-26T16:31:22+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665939/saudi-arabia/economic-council-reviews-price-stability-amid-intensifying-global-pressures",
+      "published_date": "2026-11-02T16:38:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy minister: Resilient systems, sustained investments key to energy security",
+      "title": "HR Ministry sets January 31 deadline for private firms for mandatory disclosure of training data",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665752/saudi-arabia/energy-minister-resilient-systems-sustained-investments-key-to-energy-security",
-      "published_date": "2026-10-26T14:32:03+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665938/saudi-arabia/hr-ministry-sets-january-31deadline-for-private-firms-for-mandatory-disclosure-of-training-data",
+      "published_date": "2026-11-02T16:03:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi Arabia, Singapore announce plans for crude oil storage facility by 2027",
+      "title": "Abdullah Kamel: Turning Islamic world’s economic potential into investments is the real challenge",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665733/saudi-arabia/saudi-arabia-singapore-announce-plans-for-crude-oil-storage-facility-by-2027",
-      "published_date": "2026-10-26T08:25:29+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/665933/saudi-arabia/abdullah-kamel-turning-islamic-worlds-economic-potential-into-investments-is-the-real-challenge",
+      "published_date": "2026-11-02T13:41:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi commercial franchise registrations surge 53% to 6,484 in Q3 2026",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665920/saudi-arabia/saudi-commercial-franchise-registrations-surge-53-to-6484-in-q3-2026",
+      "published_date": "2026-11-02T06:09:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi non-oil activities grow 1.9% in Q3 2026 despite overall GDP decline",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665919/saudi-arabia/saudi-non-oil-activities-grow-19-in-q3-2026-despite-overall-gdp-decline",
+      "published_date": "2026-11-02T06:01:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi customs record 1,147 seizures of prohibited items at border crossings",
@@ -382,25 +396,18 @@
       "category": "Economy"
     },
     {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T16:30:34+00:00",
-      "category": "Economy"
+      "title": "6-month jail, SR100,000 fine for assisting residency and labor law violators",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665936/saudi-arabia/6-month-jail-sr100000-fine-for-assisting-residency-and-labor-law-violators",
+      "published_date": "2026-11-02T14:33:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "HR Ministry: Five worker categories are covered by Nitaqat wage hike to SR6,000",
+      "title": "Saudi Arabia recalls 3,680 Ford Bronco vehicles over fire risk",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665753/saudi-arabia/hr-ministry-five-worker-categories-covered-by-nitaqat-wage-hike-to-sr6000",
-      "published_date": "2026-10-26T15:28:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi domestic non-oil exports rise 8.5% in August despite overall trade decline",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665738/saudi-arabia/saudi-domestic-non-oil-exports-rise-85-in-august-despite-overall-trade-decline",
-      "published_date": "2026-10-26T11:15:37+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665926/saudi-arabia/saudi-arabia-recalls-3680-ford-bronco-vehicles-over-fire-risk",
+      "published_date": "2026-11-02T07:08:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "174 government employees arrested over corruption charges",
@@ -519,20 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665766/saudi-arabia/853-of-young-children-in-saudi-arabia-developmentally-on-track-gastat-reports",
       "published_date": "2026-10-27T08:38:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia recalls 2,888 Lucid Air vehicles over fire, accident risks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665745/saudi-arabia/saudi-arabia-recalls-2888-lucid-air-vehicles-over-fire-accident-risks",
-      "published_date": "2026-10-26T13:18:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia issues red and orange alerts as heavy thunderstorms threaten several regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665734/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-heavy-thunderstorms-threaten-several-regions",
-      "published_date": "2026-10-26T09:11:16+00:00",
       "category": "Local Events"
     }
   ]
