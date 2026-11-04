@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-03T18:12:53.188606+00:00",
-  "story_count": 74,
+  "last_updated": "2026-11-04T02:56:02.992786+00:00",
+  "story_count": 73,
   "stories": [
+    {
+      "title": "Culture Minister meets Algerian president; visits Saudi pavilion at Algiers Book Fair",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665973/saudi-arabia/culture-minister-meets-algerian-president-visits-saudi-pavilion-at-algiers-book-fair",
+      "published_date": "2026-11-03T20:53:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia vows firm response to any threat to national security, public safety",
       "source": "Saudi Gazette",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "HRDF to raise minimum salary eligible for employment support to SR6,000 by 2028",
+      "title": "Saudi, Romanian defense ministers discuss over phone enhancing military cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665863/saudi-arabia/saudi-arabia-raises-minimum-salary-for-employment-support-to-sr5000-in-2027-sr6000-in-2028",
-      "published_date": "2026-10-30T16:01:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/665971/saudi-arabia/saudi-romanian-defense-ministers-discuss-over-phone-enhancing-military-cooperation",
+      "published_date": "2026-11-03T20:34:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says US 'won't be paying Israel' by end of year",
@@ -270,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T02:09:11+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Aramco’s adjusted net income rises 9% to SR117 billion in Q3 2026",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665952/saudi-arabia/saudi-aramcos-adjusted-net-income-rises-9-to-sr117-billion-in-q3-2026",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
       "published_date": "2026-10-31T07:26:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia’s FDI inflows surge 33.5% to SR159 billion in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665972/saudi-arabia/saudi-arabias-fdi-inflows-surge-335-to-sr159-billion-in-2025",
+      "published_date": "2026-11-03T20:43:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia posts SR84 billion budget deficit in 3Q 2026",
@@ -505,20 +512,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665790/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-heavy-thunderstorms-sweep-across-several-regions",
       "published_date": "2026-10-28T07:51:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T20:44:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi, Italian defense ministers discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665784/saudi-arabia/saudi-italian-defense-ministers-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-10-27T19:22:09+00:00",
       "category": "Local Events"
     }
   ]
