@@ -1,8 +1,57 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-04T02:56:02.992786+00:00",
-  "story_count": 73,
+  "last_updated": "2026-11-04T18:26:23.252134+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "Crown Prince receives Syrian President Al-Sharaa in Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665998/saudi-arabia/crown-prince-receives-syrian-president-al-sharaa-in-riyadh",
+      "published_date": "2026-11-04T16:25:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Samaani underscores Supreme Court’s pivotal role in safeguarding judicial consistency",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665997/saudi-arabia/al-samaani-underscores-supreme-courts-pivotal-role-in-safeguarding-judicial-consistency",
+      "published_date": "2026-11-04T15:43:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Several new Public Security services launched on Absher",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665996/saudi-arabia/several-new-public-security-services-launched-on-absher",
+      "published_date": "2026-11-04T14:57:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Commerce ministry warns businesses against misuse of establishment bank accounts",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665995/saudi-arabia/commerce-ministry-warns-businesses-against-misuse-of-establishment-bank-accounts",
+      "published_date": "2026-11-04T14:09:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Death toll from Houthi attack on Riyadh airport rises to 14 after Indian national dies",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665989/saudi-arabia/death-toll-from-houthi-attack-on-riyadh-airport-rises-to-14-after-indian-national-dies",
+      "published_date": "2026-11-04T10:47:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia recalls 4,565 Toyota Urban Cruiser vehicles over engine shutdown risk",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665986/saudi-arabia/saudi-arabia-recalls-4565-toyota-urban-cruiser-vehicles-over-engine-shutdown-risk",
+      "published_date": "2026-11-04T10:10:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi foreign minister discusses regional tensions, maritime security with Qatar, Egypt",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665982/saudi-arabia/saudi-foreign-minister-discusses-regional-tensions-maritime-security-with-qatar-egypt",
+      "published_date": "2026-11-04T07:11:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Culture Minister meets Algerian president; visits Saudi pavilion at Algiers Book Fair",
       "source": "Saudi Gazette",
@@ -95,53 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prince Fahd bin Jalawi represents Saudi Crown Prince at Dakar 2026 Youth Olympics opening ceremony",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665896/saudi-arabia/prince-fahd-bin-jalawi-represents-saudi-crown-prince-at-dakar-2026-youth-olympics-opening-ceremony",
-      "published_date": "2026-11-01T04:23:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses maritime security with Brazil, France and Germany",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665895/saudi-arabia/saudi-foreign-minister-discusses-maritime-security-regional-tensions-with-brazil-france-and-germany",
-      "published_date": "2026-11-01T03:57:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman issues two royal orders promoting 172 Public Prosecution members",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665894/saudi-arabia/king-salman-issues-two-royal-orders-promoting-172-public-prosecution-members",
-      "published_date": "2026-11-01T03:40:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister discusses regional security with Russian, Canadian and EU officials",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665880/saudi-arabia/saudi-fm-discusses-houthi-attacks-regional-security-with-russia-canada-and-eu",
-      "published_date": "2026-10-31T03:06:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, US sign official participation agreement for Expo 2030 Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665868/saudi-arabia/saudi-arabia-us-sign-official-participation-agreement-for-expo-2030-riyadh",
-      "published_date": "2026-10-31T02:30:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia offers condolences to Italy over military helicopter crash in Bosnia and Herzegovina",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665867/saudi-arabia/saudi-arabia-extends-condolences-to-italy-over-military-helicopter-crash-in-bosnia",
-      "published_date": "2026-10-31T02:22:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, US foreign ministers discuss Iran, Sudan and Yemen on sidelines of G20 meeting",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665866/saudi-arabia/saudi-us-foreign-ministers-discuss-iran-sudan-and-yemen-at-g20-meeting",
-      "published_date": "2026-10-31T02:20:33+00:00",
-      "category": "Diplomacy"
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T16:59:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi, Romanian defense ministers discuss over phone enhancing military cooperation",
@@ -270,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Absher carries out 49 million transactions in September",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665808/saudi-arabia/absher-carries-out-49-million-transactions-in-september",
-      "published_date": "2026-10-28T16:34:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Aramco’s adjusted net income rises 9% to SR117 billion in Q3 2026",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665952/saudi-arabia/saudi-aramcos-adjusted-net-income-rises-9-to-sr117-billion-in-q3-2026",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
       "published_date": "2026-10-31T07:26:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tourism minister inaugurates Saudi Land pavilion in London",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665991/saudi-arabia/tourism-minister-inaugurates-saudi-land-pavilion-in-london",
+      "published_date": "2026-11-04T12:45:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia’s FDI inflows surge 33.5% to SR159 billion in 2025",
@@ -382,18 +389,18 @@
       "category": "Economy"
     },
     {
-      "title": "FII PRIORITY Compass: Cost of living tops global concerns for 5th straight year as financial strains derail family aspirations",
+      "title": "Azerbaijan signs Participation Contract for Expo 2030 Riyadh",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665805/saudi-arabia/fii-priority-compass-cost-of-living-tops-global-concerns-for-5th-straight-year-as-financial-strains-derail-family-aspirations",
-      "published_date": "2026-10-28T14:47:26+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665994/saudi-arabia/azerbaijan-signs-participation-contract-for-expo-2030-riyadh",
+      "published_date": "2026-11-04T13:40:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi mining licenses rise to 2,925 as mineral discoveries reach 5,680 in 2025",
+      "title": "Moderate to Heavy rainfall to persist across parts of Saudi Arabia through Monday",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665791/saudi-arabia/saudi-mining-licenses-rise-to-2925-as-mineral-discoveries-reach-5680-in-2025",
-      "published_date": "2026-10-28T08:07:02+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/665980/saudi-arabia/moderate-to-heavy-ainfall-to-persist-across-parts-of-saudi-arabia-through-monday",
+      "published_date": "2026-11-04T06:15:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Border Guard rescues citizen after boat breaks down at sea",
@@ -498,20 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665811/saudi-arabia/tourism-minister-launches-saudi-winter-events-calendar",
       "published_date": "2026-10-28T21:04:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia records 66.8 mm of rainfall in Tabuk over 24 hours, NCM reports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665792/saudi-arabia/saudi-arabia-records-668-mm-of-rainfall-in-tabuk-over-24-hours-ncm-reports",
-      "published_date": "2026-10-28T08:18:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia issues red and orange alerts as heavy thunderstorms sweep across several regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665790/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-heavy-thunderstorms-sweep-across-several-regions",
-      "published_date": "2026-10-28T07:51:57+00:00",
       "category": "Local Events"
     }
   ]
