@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-04T18:26:23.252134+00:00",
+  "last_updated": "2026-11-05T03:15:29.864254+00:00",
   "story_count": 72,
   "stories": [
+    {
+      "title": "Saudi, Pakistani FMs discuss defusing regional tensions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666002/saudi-arabia/saudi-pakistani-fms-discuss-defusing-regional-tensions",
+      "published_date": "2026-11-04T21:31:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi interior minister meets Bulgaria’s president and PM in Sofia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666000/saudi-arabia/saudi-interior-minister-meets-bulgarias-president-and-pm-in-sofia",
+      "published_date": "2026-11-04T20:29:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives Bahraini National Security Advisor",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/665999/saudi-arabia/crown-prince-receives-bahraini-national-security-advisor",
+      "published_date": "2026-11-04T20:22:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince receives Syrian President Al-Sharaa in Riyadh",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665934/saudi-arabia/saudi-crown-prince-sends-message-to-chinese-president",
       "published_date": "2026-11-02T14:05:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce Ministry warns businesses of license cancellation after 90 days",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665925/saudi-arabia/commerce-ministry-warns-businesses-of-license-cancellation-after-90-days",
-      "published_date": "2026-11-02T07:02:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Internet usage in Saudi Arabia reaches 99.6% in 2026, GASTAT reports",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665922/saudi-arabia/internet-usage-in-saudi-arabia-reaches-996-in-2026-gastat-reports",
-      "published_date": "2026-11-02T06:30:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM meets French, German, Japanese, Brazilian counterparts in US",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665910/saudi-arabia/saudi-fm-meets-french-german-japanese-brazilian-counterparts-in-us",
-      "published_date": "2026-11-01T15:15:18+00:00",
       "category": "Diplomacy"
     },
     {
@@ -270,11 +270,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi, Malaysian, Kuwaiti defense ministers discuss regional developments in phone call",
+      "title": "Saudi Arabia signs $403 million development loan agreements to support Syria&#039;s reconstruction",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665810/saudi-arabia/saudi-malaysian-defense-ministers-discuss-over-phone-regional-developments",
-      "published_date": "2026-10-28T20:05:38+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/666003/saudi-arabia/saudi-arabia-signs-403-million-development-loan-agreements-with-syria",
+      "published_date": "2026-11-05T01:32:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Aramco’s adjusted net income rises 9% to SR117 billion in Q3 2026",
@@ -389,6 +389,13 @@
       "category": "Economy"
     },
     {
+      "title": "Hajj and Umrah Committee reviews early pilgrimage preparations",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666001/saudi-arabia/hajj-and-umrah-committee-reviews-early-pilgrimage-preparations",
+      "published_date": "2026-11-04T20:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Azerbaijan signs Participation Contract for Expo 2030 Riyadh",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665994/saudi-arabia/azerbaijan-signs-participation-contract-for-expo-2030-riyadh",
@@ -498,13 +505,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665830/saudi-arabia/commercial-transactions-law-unifies-commercial-regulations-in-a-single-document-for-first-time",
       "published_date": "2026-10-29T13:21:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourism minister launches &quot;Saudi Winter&quot; events calendar",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665811/saudi-arabia/tourism-minister-launches-saudi-winter-events-calendar",
-      "published_date": "2026-10-28T21:04:12+00:00",
       "category": "Local Events"
     }
   ]
