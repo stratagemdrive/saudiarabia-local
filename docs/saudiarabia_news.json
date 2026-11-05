@@ -1,8 +1,64 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-05T03:15:29.864254+00:00",
-  "story_count": 72,
+  "last_updated": "2026-11-05T18:29:56.928934+00:00",
+  "story_count": 70,
   "stories": [
+    {
+      "title": "Saudi Arabia, Greece sign cybersecurity cooperation memorandum",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666029/saudi-arabia/saudi-arabia-greece-sign-cybersecurity-cooperation-memorandum",
+      "published_date": "2026-11-05T16:29:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Brunei foreign ministers discuss over phone bilateral cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666028/saudi-arabia/saudi-brunei-foreign-ministers-discuss-over-phone-bilateral-cooperation",
+      "published_date": "2026-11-05T16:17:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crown Prince receives message from Sierra Leone’s president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666027/saudi-arabia/crown-prince-receives-message-from-sierra-leones-president",
+      "published_date": "2026-11-05T16:15:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Iranian FMs discuss efforts to strengthen regional security in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666026/saudi-arabia/saudi-iranian-fms-discuss-efforts-to-strengthen-regional-security-in-phone-call",
+      "published_date": "2026-11-05T15:42:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Passports Chief inspects Makkah status-correction center to oversee services for Yemenis",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666025/saudi-arabia/passports-chief-inspects-makkah-status-correction-center-to-oversee-services-for-yemenis",
+      "published_date": "2026-11-05T14:59:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia expands tourist visa eligibility to four new countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666018/saudi-arabia/saudi-arabia-expands-tourist-visa-eligibility-to-four-new-countries",
+      "published_date": "2026-11-05T11:46:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, South Korea discuss strengthening food safety and drug evaluation cooperation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666016/saudi-arabia/saudi-arabia-south-korea-discuss-strengthening-food-safety-and-drug-evaluation-cooperation",
+      "published_date": "2026-11-05T11:15:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Syria sign MoU to strengthen industrial cooperation and integration",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666012/saudi-arabia/saudi-arabia-syria-sign-mou-to-strengthen-industrial-cooperation-and-integration",
+      "published_date": "2026-11-05T09:14:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Pakistani FMs discuss defusing regional tensions",
       "source": "Saudi Gazette",
@@ -88,60 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Absher Travel for Visitors’ users can access services through 992",
+      "title": "Saudi air defenses intercept Houthi missile fired toward Madinah region",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665968/saudi-arabia/absher-travel-for-visitors-users-can-access-services-through-992",
-      "published_date": "2026-11-03T15:59:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia recalls 1,262 RAM vehicles over trailer brake failure risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665957/saudi-arabia/saudi-arabia-recalls-1262-ram-vehicles-over-trailer-brake-failure-risk",
-      "published_date": "2026-11-03T12:31:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "King Salman, Crown Prince congratulate Iotova on winning Bulgarian presidential election",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665943/saudi-arabia/king-salman-crown-prince-congratulate-iotova-on-winning-bulgarian-presidential-election",
-      "published_date": "2026-11-02T22:14:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC launches anti-dumping investigation into paper imports from India, China, and Thailand",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665942/saudi-arabia/gcc-launches-anti-dumping-investigation-into-paper-imports-from-india-china-and-thailand",
-      "published_date": "2026-11-02T22:08:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jordan Crown Prince condemns Houthi attacks during meeting with Saudi Crown Prince",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665941/saudi-arabia/jordan-crown-prince-condemns-houthi-attacks-during-meeting-with-saudi-crown-prince",
-      "published_date": "2026-11-02T22:03:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India reaffirms solidarity with Saudi Arabia, condemns Houthi attacks",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665940/saudi-arabia/india-reaffirms-solidarity-with-saudi-arabia-condemns-houthi-attacks",
-      "published_date": "2026-11-02T20:31:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Jordanian FMs discuss regional developments in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665935/saudi-arabia/saudi-jordanian-fms-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-11-02T14:14:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Crown Prince sends message to Chinese president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665934/saudi-arabia/saudi-crown-prince-sends-message-to-chinese-president",
-      "published_date": "2026-11-02T14:05:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666021/saudi-arabia/saudi-air-defenses-intercept-houthi-missile-fired-toward-madinah-region",
+      "published_date": "2026-11-05T12:25:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -263,13 +270,6 @@
       "category": "Military"
     },
     {
-      "title": "Houthi ballistic missile intercepted over Eastern Province",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665829/saudi-arabia/houthi-ballistic-missile-intercepted-over-eastern-province",
-      "published_date": "2026-10-29T12:41:52+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia signs $403 million development loan agreements to support Syria&#039;s reconstruction",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666003/saudi-arabia/saudi-arabia-signs-403-million-development-loan-agreements-with-syria",
@@ -303,6 +303,13 @@
       "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
       "published_date": "2026-10-31T07:26:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi land port passenger traffic surges 7.2% to over 70.7 million in 2025",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666011/saudi-arabia/saudi-land-port-passenger-traffic-surges-72-to-over-707-million-in-2025",
+      "published_date": "2026-11-05T08:10:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tourism minister inaugurates Saudi Land pavilion in London",
@@ -375,18 +382,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi business sector revenues rise 2.3% to SR5.63 trillion in 2025",
+      "title": "Saudi Arabia extends healthcare services to 97% of population centers",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665821/saudi-arabia/saudi-business-sector-revenues-rise-23-to-sr563-trillion-in-2025",
-      "published_date": "2026-10-29T09:28:09+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666024/saudi-arabia/saudi-arabia-extends-healthcare-services-to-97-of-population-centers",
+      "published_date": "2026-11-05T14:45:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia’s services exports rise 6.9% to SR251.7 billion in 2025",
+      "title": "National Center for Security Operations receives over 3 million calls in October",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665819/saudi-arabia/saudi-arabias-services-exports-rise-69-to-sr2517-billion-in-2025",
-      "published_date": "2026-10-29T09:07:16+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666022/saudi-arabia/national-center-for-security-operations-receives-over-3-million-calls-in-october",
+      "published_date": "2026-11-05T12:47:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hajj and Umrah Committee reviews early pilgrimage preparations",
@@ -484,27 +491,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665864/saudi-arabia/saudi-civil-defense-warns-of-thunderstorms-flash-floods-until-wednesday",
       "published_date": "2026-10-30T20:54:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Licensed worker housing mandatory for establishments with fewer than 250 employees from Feb. 1, 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665835/saudi-arabia/licensed-worker-housing-mandatory-for-establishments-with-fewer-than-250-targeted-employees-from-feb-1-2027",
-      "published_date": "2026-10-29T15:05:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi HR Ministry denies canceling domestic worker recruitment from Ethiopia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665832/saudi-arabia/saudi-hr-ministry-denies-canceling-domestic-worker-recruitment-from-ethiopia",
-      "published_date": "2026-10-29T14:09:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commercial Transactions Law unifies commercial regulations in a single document for first time",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665830/saudi-arabia/commercial-transactions-law-unifies-commercial-regulations-in-a-single-document-for-first-time",
-      "published_date": "2026-10-29T13:21:55+00:00",
       "category": "Local Events"
     }
   ]
