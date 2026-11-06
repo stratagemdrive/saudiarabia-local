@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-06T03:15:27.357214+00:00",
-  "story_count": 72,
+  "last_updated": "2026-11-06T17:47:55.205293+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Saudi, Turkish interior ministers discuss security cooperation in Ankara",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666050/saudi-arabia/saudi-and-turkish-interior-ministers-discuss-security-cooperation-in-ankara",
+      "published_date": "2026-11-06T13:54:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia urges gyms, sports centers to meet localization requirements by November 18",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666049/saudi-arabia/saudi-arabia-urges-gyms-sports-centers-to-meet-localization-requirements-by-november-18",
+      "published_date": "2026-11-06T13:42:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns armed attack in southern Egypt that killed two border guard officers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666041/saudi-arabia/saudi-arabia-condemns-armed-attack-in-southern-egypt-that-killed-two-border-guard-officers",
+      "published_date": "2026-11-06T07:56:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SASO expands proficiency testing accreditation to 65 programs covering 122 technical fields",
       "source": "Saudi Gazette",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Death toll from Houthi attack on Riyadh airport rises to 14 after Indian national dies",
+      "title": "Muslim World League condemns Houthi attempts to target Makkah, Madinah with missiles and drones",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665989/saudi-arabia/death-toll-from-houthi-attack-on-riyadh-airport-rises-to-14-after-indian-national-dies",
-      "published_date": "2026-11-04T10:47:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666053/saudi-arabia/muslim-world-league-condemns-houthi-attempts-to-target-makkah-madinah-with-missiles-and-drones",
+      "published_date": "2026-11-06T14:06:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia recalls 4,565 Toyota Urban Cruiser vehicles over engine shutdown risk",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665986/saudi-arabia/saudi-arabia-recalls-4565-toyota-urban-cruiser-vehicles-over-engine-shutdown-risk",
-      "published_date": "2026-11-04T10:10:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister discusses regional tensions, maritime security with Qatar, Egypt",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665982/saudi-arabia/saudi-foreign-minister-discusses-regional-tensions-maritime-security-with-qatar-egypt",
-      "published_date": "2026-11-04T07:11:03+00:00",
-      "category": "Diplomacy"
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-06T07:33:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi air defenses intercept Houthi missile fired toward Madinah region",
@@ -249,20 +263,6 @@
       "category": "Military"
     },
     {
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T15:17:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Defense Minister discusses regional security with NATO chief, European counterparts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665846/saudi-arabia/saudi-defense-minister-discusses-regional-security-with-nato-chief-canadian-and-european-counterparts",
-      "published_date": "2026-10-30T03:47:56+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia signs $403 million development loan agreements to support Syria&#039;s reconstruction",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666003/saudi-arabia/saudi-arabia-signs-403-million-development-loan-agreements-with-syria",
@@ -296,6 +296,13 @@
       "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
       "published_date": "2026-10-31T07:26:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi Arabia has provided over $145 billion in humanitarian aid to 175 countries",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666051/saudi-arabia/saudi-arabia-has-provided-over-145-billion-in-humanitarian-aid-to-175-countries",
+      "published_date": "2026-11-06T13:57:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan signs Participation Contract for Expo 2030 Riyadh",
@@ -375,11 +382,18 @@
       "category": "Economy"
     },
     {
-      "title": "ZATCA foil attempt to smuggle over 43,000 amphetamine pills through Al-Haditha border crossing",
+      "title": "Saudi Arabia extends operational lifespan of taxis, rental cars by up to six months",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665859/saudi-arabia/saudi-customs-seize-43371-amphetamine-pills-at-al-haditha-border-crossing",
-      "published_date": "2026-10-30T14:12:55+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666054/saudi-arabia/saudi-arabia-extends-operational-lifespan-of-taxis-rental-cars-by-up-to-six-months",
+      "published_date": "2026-11-06T14:15:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia braces for new wave of rain, with heavy showers forecast for Jeddah and Rabigh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666052/saudi-arabia/saudi-arabia-forecasts-heavy-rain-in-jeddah-and-rabigh-on-saturday",
+      "published_date": "2026-11-06T14:02:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Civil Defense urges caution amid forecast of thunderstorms across Saudi Arabia through Tuesday",
