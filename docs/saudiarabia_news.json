@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-07T02:33:46.140463+00:00",
-  "story_count": 72,
+  "last_updated": "2026-11-07T16:43:32.804020+00:00",
+  "story_count": 69,
   "stories": [
     {
       "title": "Saudi, Turkish interior ministers discuss security cooperation in Ankara",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Cruise missile and UAV, fired by Houthi militia, intercepted over Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666055/saudi-arabia/cruise-missile-and-uav-fired-by-houthi-militia-intercepted-over-riyadh",
+      "published_date": "2026-11-07T08:38:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Muslim World League condemns Houthi attempts to target Makkah, Madinah with missiles and drones",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666053/saudi-arabia/muslim-world-league-condemns-houthi-attempts-to-target-makkah-madinah-with-missiles-and-drones",
@@ -242,27 +249,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia calls for lasting regional peace at Manama Dialogue",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665885/saudi-arabia/saudi-arabia-condemns-houthi-escalation-urges-regional-stability-at-manama-dialogue",
-      "published_date": "2026-10-31T13:14:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air defenses intercept hostile drone in Riyadh region, no injuries reported",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665883/saudi-arabia/saudi-air-defenses-intercept-drone-over-riyadh-no-injuries-reported",
-      "published_date": "2026-10-31T11:47:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air defenses intercept Houthi missiles, drones targeting Makkah, Madinah and other regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665878/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-drones-targeting-five-regions",
-      "published_date": "2026-10-31T02:55:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Arabia signs $403 million development loan agreements to support Syria&#039;s reconstruction",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666003/saudi-arabia/saudi-arabia-signs-403-million-development-loan-agreements-with-syria",
@@ -288,13 +274,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665909/saudi-arabia/opec-agree-to-keep-oil-output-quota-steady-for-december",
       "published_date": "2026-11-01T14:42:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Where was Saudi Arabia’s first wind turbine installed?",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
-      "published_date": "2026-10-31T07:26:02+00:00",
       "category": "Energy"
     },
     {
@@ -375,11 +354,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi customs record 1,147 seizures of prohibited items at border crossings",
+      "title": "Rain sweeps across Jeddah and multiple regions of Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665893/saudi-arabia/saudi-customs-record-1147-seizures-of-prohibited-items",
-      "published_date": "2026-10-31T15:07:00+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666057/saudi-arabia/rain-sweeps-across-jeddah-and-multiple-regions-of-saudi-arabia",
+      "published_date": "2026-11-07T13:14:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia extends operational lifespan of taxis, rental cars by up to six months",
