@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-07T16:43:32.804020+00:00",
-  "story_count": 69,
+  "last_updated": "2026-11-08T02:05:19.274636+00:00",
+  "story_count": 72,
   "stories": [
+    {
+      "title": "GCC states to sign landmark railway agreement in Bahrain on Sunday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666073/saudi-arabia/gcc-countries-to-sign-railway-connectivity-agreement-in-bahrain-on-sunday",
+      "published_date": "2026-11-07T23:13:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia deports 9,589 illegal residents in a week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666071/saudi-arabia/saudi-arabia-deports-9589-illegal-residents-in-a-week",
+      "published_date": "2026-11-07T19:34:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Egyptian and Qatari foreign ministers discuss regional de-escalation in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666068/saudi-arabia/saudi-egyptian-and-qatari-foreign-ministers-discuss-regional-de-escalation-in-phone-call",
+      "published_date": "2026-11-07T17:15:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Turkish interior ministers discuss security cooperation in Ankara",
       "source": "Saudi Gazette",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Al-Samaani underscores Supreme Court’s pivotal role in safeguarding judicial consistency",
+      "title": "Syria says military cooperation with Saudi Arabia could evolve into mutual defense agreement",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665997/saudi-arabia/al-samaani-underscores-supreme-courts-pivotal-role-in-safeguarding-judicial-consistency",
-      "published_date": "2026-11-04T15:43:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Several new Public Security services launched on Absher",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665996/saudi-arabia/several-new-public-security-services-launched-on-absher",
-      "published_date": "2026-11-04T14:57:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commerce ministry warns businesses against misuse of establishment bank accounts",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665995/saudi-arabia/commerce-ministry-warns-businesses-against-misuse-of-establishment-bank-accounts",
-      "published_date": "2026-11-04T14:09:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666070/saudi-arabia/syria-says-saudi-military-cooperation-could-lead-to-mutual-defense-pact-or-makkah-alliance-membership",
+      "published_date": "2026-11-07T17:28:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Cruise missile and UAV, fired by Houthi militia, intercepted over Riyadh",
@@ -277,6 +284,13 @@
       "category": "Energy"
     },
     {
+      "title": "1,205 contraband seizures recorded at Saudi Customs ports last week",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666072/saudi-arabia/1205-contraband-seizures-recorded-at-saudi-customs-ports-last-week",
+      "published_date": "2026-11-07T19:39:45+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi Arabia has provided over $145 billion in humanitarian aid to 175 countries",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666051/saudi-arabia/saudi-arabia-has-provided-over-145-billion-in-humanitarian-aid-to-175-countries",
@@ -352,6 +366,13 @@
       "url": "https://saudigazette.com.sa/article/665919/saudi-arabia/saudi-non-oil-activities-grow-19-in-q3-2026-despite-overall-gdp-decline",
       "published_date": "2026-11-02T06:01:30+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Saudi citizen arrested for transporting 8 border security violators in Jazan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666069/saudi-arabia/saudi-citizen-arrested-for-transporting-8-border-security-violators-in-jazan",
+      "published_date": "2026-11-07T17:21:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rain sweeps across Jeddah and multiple regions of Saudi Arabia",
