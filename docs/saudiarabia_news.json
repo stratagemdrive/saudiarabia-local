@@ -1,8 +1,15 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-08T02:05:19.274636+00:00",
-  "story_count": 72,
+  "last_updated": "2026-11-08T16:54:33.718953+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Global Logistics Forum postpones second edition in Riyadh to November 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666081/saudi-arabia/global-logistics-forum-postpones-second-edition-in-riyadh-to-november-2027",
+      "published_date": "2026-11-08T09:23:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "GCC states to sign landmark railway agreement in Bahrain on Sunday",
       "source": "Saudi Gazette",
@@ -137,17 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crown Prince receives Syrian President Al-Sharaa in Riyadh",
+      "title": "Syria, Kuwait and Bahrain condemn Houthi missile and drone attacks on Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665998/saudi-arabia/crown-prince-receives-syrian-president-al-sharaa-in-riyadh",
-      "published_date": "2026-11-04T16:25:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666086/saudi-arabia/syria-kuwait-and-bahrain-condemn-houthi-missile-and-drone-attacks-on-saudi-arabia",
+      "published_date": "2026-11-08T14:35:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi air defenses intercept 3 ballistic missiles, 2 cruise missiles targeting Riyadh, other regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666074/saudi-arabia/saudi-air-defenses-intercept-3-ballistic-missiles-2-cruise-missiles-targeting-riyadh-other-regions",
+      "published_date": "2026-11-08T06:17:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-08T04:03:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria says military cooperation with Saudi Arabia could evolve into mutual defense agreement",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666070/saudi-arabia/syria-says-saudi-military-cooperation-could-lead-to-mutual-defense-pact-or-makkah-alliance-membership",
       "published_date": "2026-11-07T17:28:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T16:25:55+00:00",
       "category": "Military"
     },
     {
@@ -249,11 +277,11 @@
       "category": "Military"
     },
     {
-      "title": "Coalition launches precision military strike targeting Houthi war resources in Yemen",
+      "title": "Saudi Aramco facility targeted in attempted attack in Riyadh; no casualties reported",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665908/saudi-arabia/coalition-launches-precision-military-strike-targeting-houthi-war-resources-in-yemen",
-      "published_date": "2026-11-01T14:12:40+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/666080/saudi-arabia/saudi-aramco-facility-targeted-in-attempted-attack-in-riyadh-no-casualties-reported",
+      "published_date": "2026-11-08T09:03:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia signs $403 million development loan agreements to support Syria&#039;s reconstruction",
@@ -277,11 +305,11 @@
       "category": "Energy"
     },
     {
-      "title": "OPEC+ agree to keep oil output quota steady for December",
+      "title": "Residential mortgage financing for individuals in Saudi Arabia rises 8% to SR604 million in Q3 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665909/saudi-arabia/opec-agree-to-keep-oil-output-quota-steady-for-december",
-      "published_date": "2026-11-01T14:42:04+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/666084/saudi-arabia/residential-mortgage-financing-for-individuals-in-saudi-arabia-rises-8-to-sr604-million-in-q3-2026",
+      "published_date": "2026-11-08T13:35:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "1,205 contraband seizures recorded at Saudi Customs ports last week",
@@ -366,6 +394,20 @@
       "url": "https://saudigazette.com.sa/article/665919/saudi-arabia/saudi-non-oil-activities-grow-19-in-q3-2026-despite-overall-gdp-decline",
       "published_date": "2026-11-02T06:01:30+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "High tech services for pilgrims showcased as Hajj Conference and Exhibition kicks off in Jeddah",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666087/saudi-arabia/high-tech-services-for-pilgrims-showcased-as-hajj-conference-and-exhibition-kicks-off-in-jeddah",
+      "published_date": "2026-11-08T14:43:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudization rate raises to 35% for 94 technical engineering professions, effective May 9, 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666085/saudi-arabia/saudization-rate-raises-to-35-for-94-technical-engineering-professions-effective-may-9-2027",
+      "published_date": "2026-11-08T14:03:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi citizen arrested for transporting 8 border security violators in Jazan",
@@ -484,27 +526,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665914/saudi-arabia/174-government-employees-arrested-over-corruption-charges",
       "published_date": "2026-11-01T19:24:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-01T16:25:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia’s first robot-assisted breast reconstruction surgery successful",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665911/saudi-arabia/saudi-arabias-first-robot-assisted-breast-reconstruction-surgery-successful",
-      "published_date": "2026-11-01T15:59:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia issues red and orange alerts as thunderstorms, dense fog affect several regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665897/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-thunderstorms-dense-fog-affect-several-regions",
-      "published_date": "2026-11-01T04:47:04+00:00",
       "category": "Local Events"
     }
   ]
