@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-08T16:54:33.718953+00:00",
-  "story_count": 75,
+  "last_updated": "2026-11-09T02:25:17.160752+00:00",
+  "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi foreign minister arrives in Paris to attend G7 ministerial meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666093/saudi-arabia/saudi-foreign-minister-arrives-in-paris-to-attend-g7-ministerial-meeting",
+      "published_date": "2026-11-08T19:28:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Samaani: Courts of Appeal a vital safeguard for justice and judicial integrity",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666092/saudi-arabia/al-samaani-courts-of-appeal-a-vital-safeguard-for-justice-and-judicial-integrity",
+      "published_date": "2026-11-08T19:01:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia offers condolences to Egypt over fatal train collision",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666091/saudi-arabia/saudi-arabia-offers-condolences-to-egypt-over-fatal-train-collision",
+      "published_date": "2026-11-08T18:53:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC railway to begin full operations by December 2030 as member states sign landmark agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666090/saudi-arabia/gcc-railway-to-begin-full-operations-by-december-2030-as-project-reaches-5592-completion",
+      "published_date": "2026-11-08T17:06:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Global Logistics Forum postpones second edition in Riyadh to November 2027",
       "source": "Saudi Gazette",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Syria sign MoU to strengthen industrial cooperation and integration",
+      "title": "Coalition: Ballistic missile launchers destroyed in Saada and Sanaa",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666012/saudi-arabia/saudi-arabia-syria-sign-mou-to-strengthen-industrial-cooperation-and-integration",
-      "published_date": "2026-11-05T09:14:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Pakistani FMs discuss defusing regional tensions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666002/saudi-arabia/saudi-pakistani-fms-discuss-defusing-regional-tensions",
-      "published_date": "2026-11-04T21:31:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi interior minister meets Bulgaria’s president and PM in Sofia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666000/saudi-arabia/saudi-interior-minister-meets-bulgarias-president-and-pm-in-sofia",
-      "published_date": "2026-11-04T20:29:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives Bahraini National Security Advisor",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665999/saudi-arabia/crown-prince-receives-bahraini-national-security-advisor",
-      "published_date": "2026-11-04T20:22:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666094/saudi-arabia/coalition-ballistic-missile-launchers-destroyed-in-saada-and-sanaa",
+      "published_date": "2026-11-08T20:16:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria, Kuwait and Bahrain condemn Houthi missile and drone attacks on Saudi Arabia",
@@ -270,13 +277,6 @@
       "category": "Military"
     },
     {
-      "title": "Ballistic missile and UAV, fired by Houthi militia, intercepted over southern region",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665913/saudi-arabia/ballistic-missile-and-uav-fired-by-houthi-militia-intercepted-over-southern-region",
-      "published_date": "2026-11-01T18:53:49+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Saudi Aramco facility targeted in attempted attack in Riyadh; no casualties reported",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666080/saudi-arabia/saudi-aramco-facility-targeted-in-attempted-attack-in-riyadh-no-casualties-reported",
@@ -298,11 +298,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia strongly condemns targeting of Qatar’s LNG carrier",
+      "title": "US-Saudi Business Council charts new path to boost trade, investment and economic ties",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665912/saudi-arabia/saudi-arabia-strongly-condemns-targeting-of-qatars-lng-carrier",
-      "published_date": "2026-11-01T18:50:05+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/666096/saudi-arabia/us-saudi-business-council-charts-new-path-to-boost-trade-investment-and-economic-ties",
+      "published_date": "2026-11-08T21:12:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi students set record with over 37,000 research projects in National Gifted Olympiad",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666089/saudi-arabia/saudi-students-set-record-with-over-37000-research-projects-in-national-gifted-olympiad",
+      "published_date": "2026-11-08T16:24:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Residential mortgage financing for individuals in Saudi Arabia rises 8% to SR604 million in Q3 2026",
@@ -394,6 +401,20 @@
       "url": "https://saudigazette.com.sa/article/665919/saudi-arabia/saudi-non-oil-activities-grow-19-in-q3-2026-despite-overall-gdp-decline",
       "published_date": "2026-11-02T06:01:30+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Makkah Deputy Emir inaugurates Hajj Conference and Exhibition",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666097/saudi-arabia/makkah-deputy-emir-inaugurates-hajj-conference-and-exhibition",
+      "published_date": "2026-11-08T21:48:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCM: Al-Jumum records highest rainfall at 24.1 mm Saturday",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666095/saudi-arabia/ncm-al-jumum-records-highest-rainfall-at-241-mm-saturday",
+      "published_date": "2026-11-08T20:27:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "High tech services for pilgrims showcased as Hajj Conference and Exhibition kicks off in Jeddah",
@@ -519,13 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665926/saudi-arabia/saudi-arabia-recalls-3680-ford-bronco-vehicles-over-fire-risk",
       "published_date": "2026-11-02T07:08:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "174 government employees arrested over corruption charges",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665914/saudi-arabia/174-government-employees-arrested-over-corruption-charges",
-      "published_date": "2026-11-01T19:24:17+00:00",
       "category": "Local Events"
     }
   ]
