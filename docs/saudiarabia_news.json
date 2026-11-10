@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-10T04:30:04.737430+00:00",
-  "story_count": 74,
+  "last_updated": "2026-11-10T18:27:21.977558+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi, Ukrainian foreign ministers discuss joint efforts for achieving peace",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666153/saudi-arabia/saudi-ukrainian-foreign-ministers-discuss-joint-efforts-for-achieving-peace",
+      "published_date": "2026-11-10T15:46:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi-Qatari-E4 meeting discusses regional de-escalation in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666151/saudi-arabia/saudi-qatari-e4-meeting-discusses-regional-de-escalations-in-paris",
+      "published_date": "2026-11-10T14:42:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Crown Prince, Greek Prime Minister discuss strengthening bilateral ties in phone call",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666148/saudi-arabia/saudi-crown-prince-greek-prime-minister-discuss-strengthening-bilateral-ties-in-phone-call",
+      "published_date": "2026-11-10T13:51:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canadian PM Carney condemns Houthi attacks on Saudi Arabia during call with Crown Prince",
       "source": "Saudi Gazette",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia rejects Wall Street Journal report on Houthi demands as ‘pure fabrication’",
+      "title": "GCC defense ministers approve launch of Advanced Command for Unified Military Command in Kuwait",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666031/saudi-arabia/saudi-arabia-denies-wall-street-journal-claims-on-houthi-demands",
-      "published_date": "2026-11-05T19:39:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666149/saudi-arabia/gcc-defense-ministers-approve-launch-of-advanced-command-for-unified-military-command-in-kuwait",
+      "published_date": "2026-11-10T13:52:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Greece sign cybersecurity cooperation memorandum",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666029/saudi-arabia/saudi-arabia-greece-sign-cybersecurity-cooperation-memorandum",
-      "published_date": "2026-11-05T16:29:07+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T11:23:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Brunei foreign ministers discuss over phone bilateral cooperation",
+      "title": "Saudi Defense Minister leads GCC talks in Bahrain to strengthen Gulf defense cooperation",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666028/saudi-arabia/saudi-brunei-foreign-ministers-discuss-over-phone-bilateral-cooperation",
-      "published_date": "2026-11-05T16:17:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666144/saudi-arabia/saudi-defense-minister-leads-gcc-talks-in-bahrain-to-strengthen-gulf-defense-cooperation",
+      "published_date": "2026-11-10T10:30:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Defense Minister arrives in Bahrain to lead Kingdom’s delegation at 23rd GCC Joint Defense Council meeting",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666137/saudi-arabia/saudi-defense-minister-arrives-in-bahrain-to-lead-kingdoms-delegation-at-23rd-gcc-joint-defense-council-meeting",
+      "published_date": "2026-11-10T07:54:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air defenses intercept Houthi cruise and ballistic missiles targeting Riyadh",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666135/saudi-arabia/air-defenses-intercept-houthi-cruise-and-ballistic-missiles-targeting-riyadh",
+      "published_date": "2026-11-10T06:27:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Riyadh deputy emir inspects Saudi Aramco building damaged in Houthi attack",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666134/saudi-arabia/riyadh-deputy-emir-inspects-saudi-aramco-building-damaged-in-houthi-attack",
+      "published_date": "2026-11-10T06:21:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Haram authority opens prequalification for iftar meal supply tender for next Ramadan",
@@ -242,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T16:59:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Romanian defense ministers discuss over phone enhancing military cooperation",
+      "title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665971/saudi-arabia/saudi-romanian-defense-ministers-discuss-over-phone-enhancing-military-cooperation",
-      "published_date": "2026-11-03T20:34:54+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/666154/saudi-arabia/erdogan-meets-saudi-energy-minister-in-antalya",
+      "published_date": "2026-11-10T16:07:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump says US 'won't be paying Israel' by end of year",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T15:09:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi-fired UAV intercepted over Makkah region",
+      "title": "Saudi Energy revenue rises 11.5% to SR87.2 billion in first nine months of 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665959/saudi-arabia/houthi-fired-uav-intercepted-over-makkah-region",
-      "published_date": "2026-11-03T12:57:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, US defense ministers discuss Houthi attacks, regional de-escalation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665958/saudi-arabia/saudi-us-defense-ministers-discuss-houthi-attacks-regional-de-escalation-in-phone-call",
-      "published_date": "2026-11-03T12:39:20+00:00",
-      "category": "Military"
+      "url": "https://saudigazette.com.sa/article/666140/saudi-arabia/saudi-energy-revenue-rises-115-to-sr872-billion-in-first-nine-months-of-2026",
+      "published_date": "2026-11-10T09:35:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
@@ -298,11 +319,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Aramco’s adjusted net income rises 9% to SR117 billion in Q3 2026",
+      "title": "Saudi manufacturing registrations rise 18% to over 255,000 in Q3 2026",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665952/saudi-arabia/saudi-aramcos-adjusted-net-income-rises-9-to-sr117-billion-in-q3-2026",
-      "published_date": "2026-11-03T07:42:34+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/666139/saudi-arabia/saudi-manufacturing-registrations-rise-18-to-over-255000-in-q3-2026",
+      "published_date": "2026-11-10T08:39:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Container handling at Saudi ports rises 14% in October; Jeddah Islamic Port sets a record",
@@ -375,11 +396,18 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia posts SR84 billion budget deficit in 3Q 2026",
+      "title": "Municipalities ministry warns of SR5,000 fine for selling tobacco to under-18s",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665966/saudi-arabia/saudi-arabia-posts-sr84-billion-budget-deficit-in-3q-2026",
-      "published_date": "2026-11-03T14:29:07+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666147/saudi-arabia/municipalities-ministry-warns-of-sr5000-fine-for-selling-tobacco-to-under-18s",
+      "published_date": "2026-11-10T13:13:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Civil Defense issues red alerts across 7 regions as heavy rains sweep Kingdom",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666138/saudi-arabia/saudi-civil-defense-issues-red-alerts-across-7-regions-as-heavy-rains-sweep-kingdom",
+      "published_date": "2026-11-10T08:05:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Energy ministry: East-West Pipeline targeted in Madinah; operations remain unaffected",
@@ -505,20 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666034/saudi-arabia/civil-defense-urges-caution-amid-forecast-of-thunderstorms-across-saudi-arabia-through-tuesday",
       "published_date": "2026-11-05T20:44:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh Metro named among world&#039;s top four transport projects",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666033/saudi-arabia/riyadh-metro-named-among-worlds-top-four-transport-projects",
-      "published_date": "2026-11-05T20:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia extends healthcare services to 97% of population centers",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666024/saudi-arabia/saudi-arabia-extends-healthcare-services-to-97-of-population-centers",
-      "published_date": "2026-11-05T14:45:38+00:00",
       "category": "Local Events"
     }
   ]
