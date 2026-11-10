@@ -1,8 +1,29 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-09T21:16:41.597343+00:00",
-  "story_count": 75,
+  "last_updated": "2026-11-10T04:30:04.737430+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "title": "Canadian PM Carney condemns Houthi attacks on Saudi Arabia during call with Crown Prince",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666129/saudi-arabia/canadian-pm-carney-condemns-houthi-attacks-on-saudi-arabia-during-call-with-crown-prince",
+      "published_date": "2026-11-09T21:54:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM discusses regional situation with his British, French, German and Korean counterparts in Paris",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666128/saudi-arabia/saudi-fm-discusses-regional-situation-with-his-british-french-german-and-korean-counterparts-in-paris",
+      "published_date": "2026-11-09T21:28:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia joins G7 Paris talks on harnessing AI for global security",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666127/saudi-arabia/saudi-arabia-joins-g7-paris-talks-on-harnessing-ai-for-global-security",
+      "published_date": "2026-11-09T21:05:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi, Omani foreign ministers discuss regional situation in phone call",
       "source": "Saudi Gazette",
@@ -120,27 +141,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666028/saudi-arabia/saudi-brunei-foreign-ministers-discuss-over-phone-bilateral-cooperation",
       "published_date": "2026-11-05T16:17:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crown Prince receives message from Sierra Leone’s president",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666027/saudi-arabia/crown-prince-receives-message-from-sierra-leones-president",
-      "published_date": "2026-11-05T16:15:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Iranian FMs discuss efforts to strengthen regional security in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666026/saudi-arabia/saudi-iranian-fms-discuss-efforts-to-strengthen-regional-security-in-phone-call",
-      "published_date": "2026-11-05T15:42:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Passports Chief inspects Makkah status-correction center to oversee services for Yemenis",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666025/saudi-arabia/passports-chief-inspects-makkah-status-correction-center-to-oversee-services-for-yemenis",
-      "published_date": "2026-11-05T14:59:18+00:00",
       "category": "Diplomacy"
     },
     {
@@ -274,13 +274,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/665958/saudi-arabia/saudi-us-defense-ministers-discuss-houthi-attacks-regional-de-escalation-in-phone-call",
       "published_date": "2026-11-03T12:39:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, French and Greek defense ministers discuss defense cooperation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665944/saudi-arabia/saudi-french-and-greek-defense-ministers-discuss-defense-cooperation-in-phone-call",
-      "published_date": "2026-11-02T22:22:21+00:00",
       "category": "Military"
     },
     {
