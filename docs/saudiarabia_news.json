@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-11T18:21:06.434704+00:00",
+  "last_updated": "2026-11-12T03:38:46.081379+00:00",
   "story_count": 77,
   "stories": [
+    {
+      "title": "King Salman and Crown Prince offer condolences to Niger’s president on his father’s death",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666184/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-nigers-president-on-his-fathers-death",
+      "published_date": "2026-11-11T20:02:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman and Crown Prince congratulate Alliana on taking oath as Paraguay president",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666183/saudi-arabia/king-salman-and-crown-prince-congratulate-alliana-on-taking-oath-as-paraguay-president",
+      "published_date": "2026-11-11T19:58:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bahrain’s king reviews Gulf security cooperation with GCC interior ministers",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia offers condolences to Egypt over fatal train collision",
+      "title": "Saudi interior minister: Houthi militia’s terrorist acts undermine regional security",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666091/saudi-arabia/saudi-arabia-offers-condolences-to-egypt-over-fatal-train-collision",
-      "published_date": "2026-11-08T18:53:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC railway to begin full operations by December 2030 as member states sign landmark agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666090/saudi-arabia/gcc-railway-to-begin-full-operations-by-december-2030-as-project-reaches-5592-completion",
-      "published_date": "2026-11-08T17:06:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666185/saudi-arabia/saudi-interior-minister-houthi-militias-terrorist-acts-undermine-regional-security",
+      "published_date": "2026-11-11T20:58:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi air defenses intercept Houthi missile fired toward Madinah region",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666021/saudi-arabia/saudi-air-defenses-intercept-houthi-missile-fired-toward-madinah-region",
-      "published_date": "2026-11-05T12:25:10+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666154/saudi-arabia/erdogan-meets-saudi-energy-minister-in-antalya",
@@ -312,11 +312,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia signs $403 million development loan agreements to support Syria&#039;s reconstruction",
+      "title": "Saudi Arabia secures top global rankings in IMD’s 2026 AI Index",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666003/saudi-arabia/saudi-arabia-signs-403-million-development-loan-agreements-with-syria",
-      "published_date": "2026-11-05T01:32:46+00:00",
-      "category": "Energy"
+      "url": "https://saudigazette.com.sa/article/666187/saudi-arabia/saudi-arabia-secures-top-global-rankings-in-imds-2026-ai-index",
+      "published_date": "2026-11-11T21:13:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "Maximum 2-year-jail and SR8 million fine for Consumer Protection Law violations",
@@ -401,6 +401,13 @@
       "url": "https://saudigazette.com.sa/article/666011/saudi-arabia/saudi-land-port-passenger-traffic-surges-72-to-over-707-million-in-2025",
       "published_date": "2026-11-05T08:10:31+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Minister Al-Rabiah: Hajj Conference participation surges fivefold",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666186/saudi-arabia/minister-al-rabiah-hajj-conference-participation-surges-fivefold",
+      "published_date": "2026-11-11T21:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Makkah deputy emir reviews Hajj ministry’s efforts in serving pilgrims",
@@ -533,13 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666057/saudi-arabia/rain-sweeps-across-jeddah-and-multiple-regions-of-saudi-arabia",
       "published_date": "2026-11-07T13:14:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia extends operational lifespan of taxis, rental cars by up to six months",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666054/saudi-arabia/saudi-arabia-extends-operational-lifespan-of-taxis-rental-cars-by-up-to-six-months",
-      "published_date": "2026-11-06T14:15:10+00:00",
       "category": "Local Events"
     }
   ]
