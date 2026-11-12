@@ -1,8 +1,36 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-12T03:38:46.081379+00:00",
+  "last_updated": "2026-11-12T18:40:32.979856+00:00",
   "story_count": 77,
   "stories": [
+    {
+      "title": "Saudi Arabia, Kenya sign deal to regulate recruitment of domestic workers",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666211/saudi-arabia/saudi-arabia-kenya-sign-deal-to-regulate-recruitment-of-domestic-workers",
+      "published_date": "2026-11-12T16:13:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi schools to begin 10-day autumn holiday on Nov. 20",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666207/saudi-arabia/saudi-schools-to-begin-10-day-autumn-holiday-on-nov-20",
+      "published_date": "2026-11-12T14:41:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia postpones 10th Future Investment Initiative to October 2027",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666198/saudi-arabia/saudi-arabia-postpones-10th-future-investment-initiative-to-october-2027",
+      "published_date": "2026-11-12T11:49:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "160 contestants to join Saudi Qur’an and Sunnah competition in Mauritania",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666197/saudi-arabia/contestants-from-16-west-african-countries-to-compete-in-saudi-organized-quran-and-sunnah-competition",
+      "published_date": "2026-11-12T10:13:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Salman and Crown Prince offer condolences to Niger’s president on his father’s death",
       "source": "Saudi Gazette",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi, Omani foreign ministers discuss regional situation in phone call",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666125/saudi-arabia/saudi-omani-foreign-ministers-discuss-regional-situation-in-phone-call",
-      "published_date": "2026-11-09T17:24:38+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T16:54:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Etimad launches fine installment payment service for private and non-profit establishments",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666122/saudi-arabia/etimad-launches-fine-installment-service-for-private-and-non-profit-establishments",
-      "published_date": "2026-11-09T16:09:14+00:00",
-      "category": "Diplomacy"
+      "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T13:06:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi foreign minister arrives in Paris to attend G7 ministerial meeting",
+      "title": "Saudi air defenses intercept 9 missiles and drones as debris falls in Makkah Region",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666093/saudi-arabia/saudi-foreign-minister-arrives-in-paris-to-attend-g7-ministerial-meeting",
-      "published_date": "2026-11-08T19:28:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Samaani: Courts of Appeal a vital safeguard for justice and judicial integrity",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666092/saudi-arabia/al-samaani-courts-of-appeal-a-vital-safeguard-for-justice-and-judicial-integrity",
-      "published_date": "2026-11-08T19:01:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666194/saudi-arabia/saudi-air-defenses-intercept-9-missiles-and-drones-as-debris-falls-in-makkah-region",
+      "published_date": "2026-11-12T07:16:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi interior minister: Houthi militia’s terrorist acts undermine regional security",
@@ -155,6 +176,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-11T16:59:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T16:45:11+00:00",
       "category": "Military"
     },
     {
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-07T16:25:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cruise missile and UAV, fired by Houthi militia, intercepted over Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666055/saudi-arabia/cruise-missile-and-uav-fired-by-houthi-militia-intercepted-over-riyadh",
-      "published_date": "2026-11-07T08:38:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Muslim World League condemns Houthi attempts to target Makkah, Madinah with missiles and drones",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666053/saudi-arabia/muslim-world-league-condemns-houthi-attempts-to-target-makkah-madinah-with-missiles-and-drones",
-      "published_date": "2026-11-06T14:06:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T07:33:41+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666154/saudi-arabia/erdogan-meets-saudi-energy-minister-in-antalya",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/666080/saudi-arabia/saudi-aramco-facility-targeted-in-attempted-attack-in-riyadh-no-casualties-reported",
       "published_date": "2026-11-08T09:03:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Al-Saif: 780 global firms establish regional headquarters in Saudi Arabia as foreign investor licenses surge 110%",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666206/saudi-arabia/al-saif-780-global-firms-establish-regional-headquarters-in-saudi-arabia-as-foreign-investor-licenses-surge-110",
+      "published_date": "2026-11-12T14:13:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia secures top global rankings in IMD’s 2026 AI Index",
@@ -396,11 +403,39 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi land port passenger traffic surges 7.2% to over 70.7 million in 2025",
+      "title": "6 expat women arrested for prostitution in Eastern Province",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666011/saudi-arabia/saudi-land-port-passenger-traffic-surges-72-to-over-707-million-in-2025",
-      "published_date": "2026-11-05T08:10:31+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666208/saudi-arabia/6-expat-women-arrested-for-prostitution-in-eastern-province",
+      "published_date": "2026-11-12T15:38:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi citizen arrested for transporting 5 violators in Jazan",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666204/saudi-arabia/saudi-citizen-arrested-for-transporting-5-violators-in-jazan",
+      "published_date": "2026-11-12T13:20:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Conference draws over 200,000 visitors, seals 2,553 agreements",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666201/saudi-arabia/hajj-conference-draws-over-200000-visitors-seals-2553-agreements",
+      "published_date": "2026-11-12T13:02:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asir records highest rainfall at 48 mm as rain hits four Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666196/saudi-arabia/asir-records-highest-rainfall-at-48-mm-as-rain-hits-four-saudi-regions",
+      "published_date": "2026-11-12T07:29:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy thunderstorms, flash floods forecast across four Saudi regions",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666195/saudi-arabia/heavy-thunderstorms-flash-floods-forecast-across-four-saudi-regions",
+      "published_date": "2026-11-12T07:25:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Minister Al-Rabiah: Hajj Conference participation surges fivefold",
@@ -505,41 +540,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666095/saudi-arabia/ncm-al-jumum-records-highest-rainfall-at-241-mm-saturday",
       "published_date": "2026-11-08T20:27:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T19:58:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High tech services for pilgrims showcased as Hajj Conference and Exhibition kicks off in Jeddah",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666087/saudi-arabia/high-tech-services-for-pilgrims-showcased-as-hajj-conference-and-exhibition-kicks-off-in-jeddah",
-      "published_date": "2026-11-08T14:43:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudization rate raises to 35% for 94 technical engineering professions, effective May 9, 2027",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666085/saudi-arabia/saudization-rate-raises-to-35-for-94-technical-engineering-professions-effective-may-9-2027",
-      "published_date": "2026-11-08T14:03:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi citizen arrested for transporting 8 border security violators in Jazan",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666069/saudi-arabia/saudi-citizen-arrested-for-transporting-8-border-security-violators-in-jazan",
-      "published_date": "2026-11-07T17:21:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain sweeps across Jeddah and multiple regions of Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666057/saudi-arabia/rain-sweeps-across-jeddah-and-multiple-regions-of-saudi-arabia",
-      "published_date": "2026-11-07T13:14:45+00:00",
       "category": "Local Events"
     }
   ]
