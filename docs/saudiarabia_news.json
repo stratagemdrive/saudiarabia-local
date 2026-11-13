@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-13T03:11:58.396984+00:00",
-  "story_count": 77,
+  "last_updated": "2026-11-13T18:21:19.136762+00:00",
+  "story_count": 76,
   "stories": [
+    {
+      "title": "Saudi, Chinese officials discuss Houthi attacks, regional security and maritime navigation",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666224/saudi-arabia/saudi-chinese-officials-discuss-houthi-attacks-regional-security-and-maritime-navigation",
+      "published_date": "2026-11-13T05:55:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia extends condolences to Türkiye over deadly military helicopter crash",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666222/saudi-arabia/saudi-arabia-extends-condolences-to-turkiye-over-deadly-military-helicopter-crash",
+      "published_date": "2026-11-13T05:48:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Crown Prince congratulates Grenada prime minister on his re-election",
       "source": "Saudi Gazette",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Crown Prince, Greek Prime Minister discuss strengthening bilateral ties in phone call",
+      "title": "Arab Parliament welcomes UN resolution demanding immediate halt to Houthi attacks",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666148/saudi-arabia/saudi-crown-prince-greek-prime-minister-discuss-strengthening-bilateral-ties-in-phone-call",
-      "published_date": "2026-11-10T13:51:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666232/saudi-arabia/arab-parliament-welcomes-un-resolution-demanding-immediate-halt-to-houthi-attacks",
+      "published_date": "2026-11-13T18:01:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canadian PM Carney condemns Houthi attacks on Saudi Arabia during call with Crown Prince",
+      "title": "Jordan, Egypt, Kuwait, Bahrain and Arab League condemn Houthi attacks on Saudi Arabia",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666129/saudi-arabia/canadian-pm-carney-condemns-houthi-attacks-on-saudi-arabia-during-call-with-crown-prince",
-      "published_date": "2026-11-09T21:54:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666231/saudi-arabia/jordan-egypt-kuwait-bahrain-and-arab-league-condemn-houthi-attacks-on-saudi-arabia",
+      "published_date": "2026-11-13T13:56:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Coalition intercepts drones in Riyadh and eastern regions",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi air defenses intercept 3 ballistic missiles, 2 cruise missiles targeting Riyadh, other regions",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666074/saudi-arabia/saudi-air-defenses-intercept-3-ballistic-missiles-2-cruise-missiles-targeting-riyadh-other-regions",
-      "published_date": "2026-11-08T06:17:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T04:03:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666154/saudi-arabia/erdogan-meets-saudi-energy-minister-in-antalya",
@@ -396,11 +396,11 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia has provided over $145 billion in humanitarian aid to 175 countries",
+      "title": "Saudi Arabia expresses solidarity with UAE after Fujairah crash kills 14, injures 30",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666051/saudi-arabia/saudi-arabia-has-provided-over-145-billion-in-humanitarian-aid-to-175-countries",
-      "published_date": "2026-11-06T13:57:38+00:00",
-      "category": "Economy"
+      "url": "https://saudigazette.com.sa/article/666221/saudi-arabia/saudi-arabia-expresses-solidarity-with-uae-following-deadly-fujairah-port-incident",
+      "published_date": "2026-11-13T05:38:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "6 expat women arrested for prostitution in Eastern Province",
@@ -533,13 +533,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666097/saudi-arabia/makkah-deputy-emir-inaugurates-hajj-conference-and-exhibition",
       "published_date": "2026-11-08T21:48:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCM: Al-Jumum records highest rainfall at 24.1 mm Saturday",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666095/saudi-arabia/ncm-al-jumum-records-highest-rainfall-at-241-mm-saturday",
-      "published_date": "2026-11-08T20:27:25+00:00",
       "category": "Local Events"
     }
   ]
