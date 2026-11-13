@@ -1,8 +1,22 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-12T18:40:32.979856+00:00",
+  "last_updated": "2026-11-13T03:11:58.396984+00:00",
   "story_count": 77,
   "stories": [
+    {
+      "title": "Crown Prince congratulates Grenada prime minister on his re-election",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666214/saudi-arabia/crown-prince-congratulates-grenada-prime-minister-on-his-re-election",
+      "published_date": "2026-11-12T19:30:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Airbag defect hits 44,305 Hyundai Elantra vehicles; owners urged to get free repairs",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666213/saudi-arabia/airbag-defect-hits-44305-hyundai-elantra-vehicles-owners-urged-to-get-free-repairs",
+      "published_date": "2026-11-12T19:23:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia, Kenya sign deal to regulate recruitment of domestic workers",
       "source": "Saudi Gazette",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi FM discusses regional situation with his British, French, German and Korean counterparts in Paris",
+      "title": "Coalition intercepts drones in Riyadh and eastern regions",
       "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666128/saudi-arabia/saudi-fm-discusses-regional-situation-with-his-british-french-german-and-korean-counterparts-in-paris",
-      "published_date": "2026-11-09T21:28:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia joins G7 Paris talks on harnessing AI for global security",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666127/saudi-arabia/saudi-arabia-joins-g7-paris-talks-on-harnessing-ai-for-global-security",
-      "published_date": "2026-11-09T21:05:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://saudigazette.com.sa/article/666216/saudi-arabia/coalition-intercepts-drones-in-riyadh-and-eastern-regions",
+      "published_date": "2026-11-12T20:46:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria says military cooperation with Saudi Arabia could evolve into mutual defense agreement",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666070/saudi-arabia/syria-says-saudi-military-cooperation-could-lead-to-mutual-defense-pact-or-makkah-alliance-membership",
-      "published_date": "2026-11-07T17:28:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666154/saudi-arabia/erdogan-meets-saudi-energy-minister-in-antalya",
@@ -310,6 +310,13 @@
       "url": "https://saudigazette.com.sa/article/666080/saudi-arabia/saudi-aramco-facility-targeted-in-attempted-attack-in-riyadh-no-casualties-reported",
       "published_date": "2026-11-08T09:03:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi-US business ties gain momentum with landmark cooperation agreement",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666215/saudi-arabia/saudi-us-business-ties-gain-momentum-with-landmark-cooperation-agreement",
+      "published_date": "2026-11-12T20:25:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Al-Saif: 780 global firms establish regional headquarters in Saudi Arabia as foreign investor licenses surge 110%",
@@ -393,13 +400,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666051/saudi-arabia/saudi-arabia-has-provided-over-145-billion-in-humanitarian-aid-to-175-countries",
       "published_date": "2026-11-06T13:57:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pakistan signs Participation Contract for Expo 2030 Riyadh",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666030/saudi-arabia/pakistan-signs-participation-contract-for-expo-2030-riyadh",
-      "published_date": "2026-11-05T19:20:08+00:00",
       "category": "Economy"
     },
     {
