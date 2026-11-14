@@ -1,7 +1,7 @@
 {
   "country": "Saudi Arabia",
-  "last_updated": "2026-11-14T02:55:39.844100+00:00",
-  "story_count": 76,
+  "last_updated": "2026-11-14T16:50:22.807444+00:00",
+  "story_count": 78,
   "stories": [
     {
       "title": "Saudi, Chinese officials discuss Houthi attacks, regional security and maritime navigation",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Russian Grand Mufti condemns Houthi terrorist attacks on Saudi Arabia",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666239/saudi-arabia/russian-grand-mufti-condemns-houthi-terrorist-attacks-on-saudi-arabia",
+      "published_date": "2026-11-14T12:34:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Arab Parliament welcomes UN resolution demanding immediate halt to Houthi attacks",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666232/saudi-arabia/arab-parliament-welcomes-un-resolution-demanding-immediate-halt-to-houthi-attacks",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria, Kuwait and Bahrain condemn Houthi missile and drone attacks on Saudi Arabia",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666086/saudi-arabia/syria-kuwait-and-bahrain-condemn-houthi-missile-and-drone-attacks-on-saudi-arabia",
-      "published_date": "2026-11-08T14:35:01+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye",
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666154/saudi-arabia/erdogan-meets-saudi-energy-minister-in-antalya",
@@ -310,6 +310,20 @@
       "url": "https://saudigazette.com.sa/article/666080/saudi-arabia/saudi-aramco-facility-targeted-in-attempted-attack-in-riyadh-no-casualties-reported",
       "published_date": "2026-11-08T09:03:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Saudi, US housing ministers discuss cooperation in urban planning, property finance",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666238/saudi-arabia/saudi-us-housing-ministers-discuss-cooperation-in-urban-planning-property-finance",
+      "published_date": "2026-11-14T12:31:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ZATCA foils attempt to smuggle 413,450 amphetamine pills at Al-Haditha Port",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666234/saudi-arabia/zatca-foils-attempt-to-smuggle-413450-amphetamine-pills-at-al-haditha-port",
+      "published_date": "2026-11-14T08:01:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi-US business ties gain momentum with landmark cooperation agreement",
@@ -394,6 +408,20 @@
       "url": "https://saudigazette.com.sa/article/666072/saudi-arabia/1205-contraband-seizures-recorded-at-saudi-customs-ports-last-week",
       "published_date": "2026-11-07T19:39:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Arab, Islamic FMs slam Israeli strike on Gaza’s Nasser Medical Complex, demand unhindered aid delivery",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666240/saudi-arabia/arab-islamic-fms-slam-israeli-strike-on-gazas-nasser-medical-complex-demand-unhindered-aid-delivery",
+      "published_date": "2026-11-14T13:09:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Hajj and Umrah completes signing of agreements for 2027 Hajj season",
+      "source": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/666235/saudi-arabia/ministry-of-hajj-and-umrah-completes-signing-of-agreements-for-2027-hajj-season",
+      "published_date": "2026-11-14T08:06:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia expresses solidarity with UAE after Fujairah crash kills 14, injures 30",
@@ -519,20 +547,6 @@
       "source": "Saudi Gazette",
       "url": "https://saudigazette.com.sa/article/666109/saudi-arabia/saudi-arabia-secures-over-13-million-beds-for-hajj-licenses-all-pilgrim-accommodation-buildings",
       "published_date": "2026-11-09T10:22:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia achieves 93% Hajj pilgrim satisfaction rate",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666104/saudi-arabia/saudi-arabia-exceeds-90-umrah-pilgrim-satisfaction-target",
-      "published_date": "2026-11-09T08:57:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makkah Deputy Emir inaugurates Hajj Conference and Exhibition",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/666097/saudi-arabia/makkah-deputy-emir-inaugurates-hajj-conference-and-exhibition",
-      "published_date": "2026-11-08T21:48:59+00:00",
       "category": "Local Events"
     }
   ]
